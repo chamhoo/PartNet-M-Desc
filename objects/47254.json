@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular kitchen appliance with modern design.",
+    "part_description": "Includes a main door and a drawer, both with handles. The door is larger and positioned below the drawer. The handles are metallic and horizontally aligned.",
+    "internal_interaction_description": "The drawer slides in and out smoothly above the main compartment. The door swings open to reveal the interior space, which can be used for storage. Both parts are integrated into the frame, ensuring stability and ease of use.",
+    "external_interaction_description": "The appliance fits into standard kitchen cabinetry. Users can open the drawer and door to access contents. It interacts with surrounding kitchen elements like countertops and adjacent appliances, maintaining a cohesive kitchen layout."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular black rocker switch.",
+    "part_description": "Consists of a rectangular body and a curved rocker. The body is compact, with a slightly protruding switch at the front.",
+    "internal_interaction_description": "The rocker part pivots on an internal axis, allowing it to tilt back and forth. This movement connects or disconnects internal electrical contacts, enabling or disabling the flow of electricity through the switch.",
+    "external_interaction_description": "The switch is designed to be mounted on a panel, allowing users to control electrical circuits by pressing the rocker. It interacts with external electrical systems to turn devices on or off."
+}

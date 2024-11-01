@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical globe with a stand.",
+    "part_description": "The globe consists of a sphere, a semi-circular meridian, and a round base. The sphere is smooth and centrally positioned on the stand, which is circular and supports the globe's rotation.",
+    "internal_interaction_description": "The sphere is mounted on the meridian, allowing it to spin freely. The meridian is attached to the base, providing stability. This setup enables the globe to rotate around its axis, simulating the Earth's rotation.",
+    "external_interaction_description": "The globe can be manually rotated by a user to view different areas. It is often used for educational purposes, allowing users to explore geographical locations. The stable base ensures it remains upright on flat surfaces."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular USB drive, gray and teal, compact.",
+    "part_description": "Consists of a gray rectangular body and a smaller teal cap. The gray part is larger, forming the main body, while the teal part covers the USB connector at one end.",
+    "internal_interaction_description": "The teal cap securely fits over the USB connector, protecting it when not in use. The connector is integrated into the gray body, allowing for stable data transfer when plugged into a computer.",
+    "external_interaction_description": "The USB drive connects to computers or devices via the USB port, allowing data transfer and storage. The cap can be removed to expose the connector and reattached to protect it when not in use."
+}

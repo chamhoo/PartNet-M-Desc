@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular door with a simple design.",
+    "part_description": "Consists of a rectangular panel, frame, and knob. The panel is large and flat, set within a rectangular frame. The knob is small and round, positioned centrally on one side.",
+    "internal_interaction_description": "The door panel is attached to the frame via hinges, allowing it to pivot open or closed. The knob is connected to a latch mechanism, enabling the door to be secured when closed. The frame supports the door, maintaining its alignment and stability.",
+    "external_interaction_description": "The door interacts with people by providing access control to a room. It can be opened or closed by turning the knob and applying a push or pull force. It also acts as a barrier against noise, temperature changes, and unauthorized entry."
+}

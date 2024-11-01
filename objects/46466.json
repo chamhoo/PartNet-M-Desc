@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray drawer unit with handles.",
+    "part_description": "Four horizontal drawers with handles, stacked vertically in a rectangular frame.",
+    "internal_interaction_description": "Each drawer slides in and out of the main frame on tracks, allowing access to the storage space inside. The handles facilitate easy pulling and pushing of the drawers. The drawers are aligned to fit snugly within the frame, preventing them from falling out when opened.",
+    "external_interaction_description": "The drawer unit can store various items, interacting with users who open and close drawers to access contents. It can be placed against a wall or in corners, integrating into room furniture arrangements. The handles allow for manual operation by the user."
+}

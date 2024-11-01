@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and gold pen, cylindrical and sleek.",
+    "part_description": "Pen has a cap, barrel, clip, and nib section. Cap and barrel are cylindrical, clip is attached to the cap, nib is at the barrel's end.",
+    "internal_interaction_description": "The cap fits snugly over the nib section to prevent ink drying. The clip is affixed to the cap for secure attachment to surfaces. The nib connects to the ink reservoir, allowing ink flow when pressure is applied.",
+    "external_interaction_description": "The pen is held by hand, allowing for writing on paper. The clip attaches to pockets or notebooks for easy transport. The cap prevents ink from marking unintended surfaces when not in use."
+}

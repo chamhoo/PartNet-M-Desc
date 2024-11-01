@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic double oven, rectangular, silver and black.",
+    "part_description": "Two stacked compartments, each with a glass-front door. The top compartment is slightly smaller than the bottom. Both doors have horizontal handles and are positioned centrally on the front panel.",
+    "internal_interaction_description": "The two compartments operate independently, each with its own heating elements and controls. The doors open outward, allowing access to the interior racks. Heat distribution is managed within each compartment to ensure even cooking.",
+    "external_interaction_description": "The oven interacts with users through control panels, allowing temperature and time settings. It connects to a power source and may be installed within a kitchen cabinet. Users interact with the doors and handles to place or remove food."
+}

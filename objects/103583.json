@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver folding knife with smooth, curved design.",
+    "part_description": "The knife has a sharp blade and a textured handle. The blade is pointed and sleek, while the handle is curved and features several small screws for assembly. The blade folds into the handle.",
+    "internal_interaction_description": "The blade pivots around a central axis, allowing it to fold into the handle for safety and portability. The screws secure the blade and handle together, ensuring stability when the knife is in use. The handle provides grip and control, enhancing the user's ability to manipulate the blade.",
+    "external_interaction_description": "The knife can be used to cut or slice various materials, interacting with external objects through its sharp blade. It is typically used by holding the handle, allowing the user to apply force and precision. When not in use, the knife can be safely stored by folding the blade into the handle."
+}

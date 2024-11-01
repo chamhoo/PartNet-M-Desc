@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact white toilet with integrated sink.",
+    "part_description": "Includes a toilet bowl, seat, tank, and sink. The bowl is round, the seat is atop, the tank is behind, and the sink is above the tank.",
+    "internal_interaction_description": "Water flows from the sink to the tank and then to the bowl, enabling flushing. The sink and toilet share plumbing, optimizing space and water usage.",
+    "external_interaction_description": "Designed for use in small bathrooms, it allows users to wash hands after flushing. Connects to standard plumbing for water supply and drainage."
+}

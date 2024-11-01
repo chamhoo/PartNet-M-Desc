@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall rectangular gray cabinet with two doors.",
+    "part_description": "The cabinet has two vertically aligned doors, equal in size, covering the front. The top and sides are flat, forming a rectangular shape.",
+    "internal_interaction_description": "The two doors are hinged on opposite sides, allowing them to swing open. Inside, shelves may be present for storage, supported by internal brackets. The doors meet in the middle when closed, providing a seamless front appearance.",
+    "external_interaction_description": "The cabinet can be placed against a wall and used for storing items. The doors interact with users, opening outward for access. It may be part of a larger furniture set, coordinating with other pieces in style and color."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical object with a protruding handle.",
+    "part_description": "Consists of a main cylinder, a circular base, and a horizontal handle. The main cylinder is central, with the base attached to one end and the handle extending from the side.",
+    "internal_interaction_description": "The handle is connected perpendicularly to the main cylinder, likely allowing rotation or movement to control a function. The circular base provides support or attachment to another surface, stabilizing the main cylinder.",
+    "external_interaction_description": "This object can be mounted on a wall or surface via the base. The handle is designed for manual operation, allowing a user to turn or adjust it, possibly regulating flow or direction of a connected system."
+}

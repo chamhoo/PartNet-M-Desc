@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular keyboard with multicolored keys.",
+    "part_description": "Contains various colored keys arranged in rows, including black, red, blue, and yellow keys. Standard layout with function keys, alphanumeric keys, and a numeric keypad on the right.",
+    "internal_interaction_description": "The keys are arranged in a grid pattern, allowing for efficient typing. Each key is spring-loaded or uses a switch mechanism to register input when pressed, returning to its original position when released. Keys are designed to work in conjunction with electronic circuits beneath the surface.",
+    "external_interaction_description": "The keyboard connects to a computer or device, typically via USB or wireless connection, allowing users to input data. It interacts with software on the device to perform tasks such as typing, executing commands, and navigating interfaces."
+}

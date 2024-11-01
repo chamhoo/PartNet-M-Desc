@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black phone with buttons and screen.",
+    "part_description": "Has a large screen at the top, a keypad with multiple buttons below, and a navigation button in the center. The screen is rectangular, and the buttons are arranged in a grid.",
+    "internal_interaction_description": "The screen displays information and interfaces, while the keypad allows input. The navigation button facilitates movement through menus. Electrical connections inside allow interaction between the screen and keypad, enabling functionality like dialing and texting.",
+    "external_interaction_description": "The phone can be held and operated by hand, allowing users to make calls, send messages, and interact with applications. It connects to cellular networks for communication and may interact with chargers and other devices via ports."
+}

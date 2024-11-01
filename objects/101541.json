@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, dark green soap dispenser with white pump.",
+    "part_description": "Consists of a square base and a cylindrical white pump. The base is dark green and holds the liquid, while the pump is centered on top, used for dispensing.",
+    "internal_interaction_description": "The pump mechanism interacts with the liquid inside the base. When pressed, the pump creates suction that pulls the liquid up through a tube, dispensing it through the nozzle.",
+    "external_interaction_description": "The dispenser interacts with users by providing soap when the pump is pressed. It can be placed on bathroom or kitchen counters, interacting with the environment as a functional and aesthetic item."
+}

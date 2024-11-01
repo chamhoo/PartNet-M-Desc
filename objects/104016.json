@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular printer with paper tray and output slot.",
+    "part_description": "Includes a top paper input tray, front output slot, control button on top left, and rectangular body. The input tray holds sheets vertically, and the output slot is positioned below it.",
+    "internal_interaction_description": "The printer feeds paper from the top input tray through internal rollers to the output slot. The control button on the top left manages power and printing commands, interacting with internal circuits to initiate printing processes.",
+    "external_interaction_description": "Connects to computers or networks for receiving print commands. Users place paper in the input tray and collect printed documents from the output slot. Requires a power source and may connect via USB or wireless for data transfer."
+}

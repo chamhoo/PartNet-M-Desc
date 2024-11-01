@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige faucet with a curved spout and handle.",
+    "part_description": "Includes a curved spout, a rectangular base, and a side lever handle. The spout is cylindrical, the base is rectangular, and the handle is a small lever on the side.",
+    "internal_interaction_description": "The lever handle controls the flow of water through the spout. When the handle is moved, it adjusts an internal valve that regulates water pressure and temperature, directing water through the curved spout.",
+    "external_interaction_description": "The faucet is typically mounted on a sink or countertop. Users interact by moving the lever to control water flow and temperature. The spout directs water into a sink or basin for various tasks such as washing hands or dishes."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, modern cabinet with two sections.",
+    "part_description": "Contains a drawer and a cabinet door on the left, and two larger cabinet doors on the right. The drawer is positioned above the smaller cabinet door. Handles are present on the drawer and doors.",
+    "internal_interaction_description": "The drawer slides horizontally on tracks within the cabinet structure. The cabinet doors swing open on vertical hinges, allowing access to the interior storage space. The handles facilitate opening and closing of both the drawer and the doors.",
+    "external_interaction_description": "The cabinet can store various household items, providing organization and accessibility. It interacts with the surrounding space by fitting into kitchens or bathrooms. Users interact by pulling the handles to open the drawer and doors for storage access."
+}

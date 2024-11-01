@@ -1,0 +1,6 @@
+{
+    "base_description": "Square switch with black and blue colors.",
+    "part_description": "Features a square faceplate with numbers, a central black toggle, and a blue cylindrical back.",
+    "internal_interaction_description": "The toggle is centrally positioned on the faceplate, allowing it to pivot between two positions marked '0' and '1'. The blue cylindrical back houses the mechanical components that facilitate the toggling action, ensuring secure positioning and electrical connectivity.",
+    "external_interaction_description": "The switch interacts with external circuits or devices, controlling power flow. Users manually toggle the switch between '0' (off) and '1' (on) to activate or deactivate connected devices, making it a crucial component in electrical systems."
+}

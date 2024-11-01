@@ -1,0 +1,6 @@
+{
+    "base_description": "Purple wall-mounted soap dispenser, cylindrical shape.",
+    "part_description": "Includes a cylindrical body, pump mechanism, spout, and wall mount. The pump sits atop the body, the spout extends outward, and the square mount is at the back.",
+    "internal_interaction_description": "The pump mechanism interacts with the cylindrical body to dispense liquid. When pressed, the pump draws liquid from the body and pushes it through the spout. The spout directs the liquid outward efficiently.",
+    "external_interaction_description": "The dispenser mounts on a wall, allowing easy access. Users press the pump to dispense soap or lotion. It interacts with people by providing a hygienic solution for handwashing in bathrooms or kitchens."
+}

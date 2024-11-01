@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and gray rectangular toaster, compact size.",
+    "part_description": "Two slots on top, gray front panel, red body, black base. Slots are parallel, rectangular, and evenly spaced. The front panel features a handle-like indentation.",
+    "internal_interaction_description": "The toaster's slots contain heating elements that toast bread evenly. The handle on the front panel likely serves as a lever to lower and lift bread. The internal mechanism connects the lever to the heating timer, ensuring bread is toasted to the desired level before popping up.",
+    "external_interaction_description": "The toaster interacts with users by allowing bread insertion into the slots. Users adjust settings, likely on the unseen side, to control toasting levels. The toaster requires an electrical outlet for power. Once the toasting cycle completes, it automatically ejects the bread for easy retrieval."
+}

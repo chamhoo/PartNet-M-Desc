@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black remote with buttons and screen.",
+    "part_description": "Features 12 circular buttons, one red button, and a rectangular screen. Buttons are arranged in a grid below the screen.",
+    "internal_interaction_description": "Buttons interact with internal circuits to send signals. The red button may serve a special function, distinct from the other buttons. The screen displays feedback or information based on button presses.",
+    "external_interaction_description": "Used by people to control other devices remotely via infrared or radio signals. Requires line of sight or proximity to the device it controls. Typically held in hand, allowing easy access to buttons for operation."
+}

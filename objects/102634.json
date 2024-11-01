@@ -1,0 +1,6 @@
+{
+    "base_description": "White, compact toilet with a rectangular tank.",
+    "part_description": "Includes a round seat, cylindrical base, and rectangular tank. The tank is positioned above the seat, connected by a vertical pipe.",
+    "internal_interaction_description": "The water flows from the rectangular tank through the connecting pipe into the bowl. The tank stores water, releasing it when flushed to clean the bowl. The seat and lid are hinged for opening and closing.",
+    "external_interaction_description": "The toilet connects to plumbing for water supply and waste removal. It interacts with users who operate the flush mechanism to dispose of waste, requiring regular cleaning and maintenance."
+}

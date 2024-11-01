@@ -1,0 +1,6 @@
+{
+    "base_description": "Circular wall clock, black rim, colorful numbers.",
+    "part_description": "Clock face with black rim, colorful numbers 1-12, three black hands centered, evenly spaced around face.",
+    "internal_interaction_description": "The clock's hands rotate around the central axis, with the hour hand moving slowly, the minute hand faster, and the second hand the fastest. Each hand is mounted on the same pivot point, allowing them to move independently but in a synchronized manner to display time accurately.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, visible to people for time-telling. It requires a power source, usually a battery, to drive the internal mechanism. The colorful numbers enhance visibility, making it easy to read from a distance."
+}

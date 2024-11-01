@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical gray container with a flat lid.",
+    "part_description": "Consists of a cylindrical body and a circular, flat lid. The body is tall and uniform in shape, and the lid sits securely on top, matching the diameter of the container.",
+    "internal_interaction_description": "The lid fits snugly onto the top of the cylindrical body, creating a seal that can be twisted or lifted off. The uniform shape of the body allows for even distribution of contents inside, while the flat lid ensures stability when closed.",
+    "external_interaction_description": "The container can be easily lifted and moved by gripping the sides. It can hold various materials, such as powders or liquids, and is typically used in kitchens or storage areas. The flat top allows for stacking or placement of other objects on top."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Green, round teapot with a black handle.",
+    "part_description": "Includes a spout, handle, and lid; round body; spout protrudes from side, handle arches over top, lid sits centrally.",
+    "internal_interaction_description": "The handle is attached to the top, allowing easy lifting. The lid fits snugly on top, preventing spills. The spout is aligned with the body for efficient pouring. All parts are securely attached to maintain stability and functionality.",
+    "external_interaction_description": "The teapot is designed for pouring liquids. The handle allows safe handling, while the spout directs the flow of liquid. It interacts with external heat sources to heat contents and with cups or mugs when pouring."
+}

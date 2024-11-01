@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray device with screen and buttons.",
+    "part_description": "Features a large screen at the top, a keypad with 12 circular buttons below, two colored buttons on either side, and a slot on the right side.",
+    "internal_interaction_description": "The screen displays information controlled by the keypad inputs. The colored buttons likely serve as function keys, altering the device's operations. The slot might be for card insertion, interacting with internal mechanisms to read or process data.",
+    "external_interaction_description": "The device is operated by users pressing buttons and inserting cards into the slot. It likely connects with digital systems to process transactions or access information, requiring user interaction for functionality."
+}

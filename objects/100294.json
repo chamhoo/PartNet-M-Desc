@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, green lighter with a grey top.",
+    "part_description": "Consists of a green body, grey top, black ignition button, and metal wheel. The body is rectangular and elongated, with the top housing ignition components.",
+    "internal_interaction_description": "The metal wheel, when spun, creates a spark that ignites the gas released from the valve. The ignition button releases the gas, and the spark from the wheel ignites it, producing a flame at the top of the lighter.",
+    "external_interaction_description": "The lighter is used to produce a flame by pressing the ignition button while spinning the wheel. It interacts with external objects by providing a flame to light cigarettes, candles, or other flammable materials. Users must hold the lighter upright to ensure proper function."
+}

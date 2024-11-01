@@ -1,0 +1,6 @@
+{
+    "base_description": "White office chair with black armrests and base.",
+    "part_description": "Chair has a rounded backrest, cushioned seat, two curved armrests, and a five-star wheeled base.",
+    "internal_interaction_description": "The backrest connects to the seat, providing support. Armrests are attached to the sides of the seat, offering arm support. The seat is mounted on a central column, which connects to the wheeled base, allowing for stability and movement.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, enabling mobility. It supports a person sitting, providing comfort with its cushioned seat and backrest. The armrests offer additional support. The chair can be adjusted or moved easily due to its wheeled base."
+}

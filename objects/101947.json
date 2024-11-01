@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, silver stove with dual ovens.",
+    "part_description": "Includes two oven doors, six control knobs, and two stovetop grates positioned symmetrically on top.",
+    "internal_interaction_description": "The control knobs regulate the temperature for the stovetop and ovens. The stovetop grates support cookware, and the oven doors open to access the interior cooking space. Each part functions together to facilitate cooking and baking processes.",
+    "external_interaction_description": "The stove interacts with cookware placed on the grates, and users operate the knobs to control heat. It requires a connection to a gas or electric supply and may be integrated into kitchen cabinetry for stability and accessibility."
+}

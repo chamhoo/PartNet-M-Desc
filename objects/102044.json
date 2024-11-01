@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular silver stove with black burners.",
+    "part_description": "Features four black burners on top, a blue oven door, and control knobs above the door. The burners are arranged in a 2x2 grid.",
+    "internal_interaction_description": "The burners are connected to internal gas lines controlled by the knobs. The oven door opens to reveal a cooking chamber, which heats up using internal elements when activated.",
+    "external_interaction_description": "Used for cooking by placing pots on burners or baking in the oven. Requires connection to a gas source and interacts with users through knobs for temperature control."
+}

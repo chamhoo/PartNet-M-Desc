@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with a modern style.",
+    "part_description": "Includes a top drawer and a bottom cabinet door, each with handles; rectangular shape, vertically aligned.",
+    "internal_interaction_description": "The top drawer slides horizontally in and out, providing access to its contents. The bottom cabinet door swings open on hinges, revealing interior shelving for storage. The handles facilitate these movements, ensuring smooth operation.",
+    "external_interaction_description": "The cabinet is designed to store items, interacting with users through its handles for opening and closing. It can be placed against walls or in corners, fitting into various room layouts and providing storage solutions in kitchens, bathrooms, or offices."
+}

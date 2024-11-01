@@ -1,0 +1,6 @@
+{
+    "base_description": "Black ergonomic mouse with a yellow scroll wheel.",
+    "part_description": "Features two main buttons, a yellow scroll wheel in the center, and a contoured shape for grip.",
+    "internal_interaction_description": "The scroll wheel is positioned between the two main buttons, allowing for smooth scrolling. The buttons are hinged to provide a clicking mechanism when pressed, transmitting signals to the connected device.",
+    "external_interaction_description": "The mouse interacts with a computer via a wired or wireless connection, translating physical movements and clicks into cursor movements and commands on the screen, enhancing user interface navigation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Ceiling fan with six blades, black and beige.",
+    "part_description": "The fan has six evenly spaced blades, a central black motor housing, and three beige light fixtures below the motor.",
+    "internal_interaction_description": "The motor in the central housing rotates the six blades to circulate air. The light fixtures are mounted below the motor, providing illumination while the fan operates. The blades are attached to the motor housing, allowing them to spin in unison.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling and ventilation. It can be operated via a switch or remote control. The lights illuminate the surrounding area, interacting with the room's ambient lighting. It is typically mounted on the ceiling, interacting with the room's structure."
+}

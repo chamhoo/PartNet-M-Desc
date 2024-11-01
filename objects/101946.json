@@ -1,0 +1,6 @@
+{
+    "base_description": "Large silver oven with black top.",
+    "part_description": "Features a large front door, knobs on top, and a flat black surface. The door is centrally positioned, with knobs arranged in a row above it.",
+    "internal_interaction_description": "The knobs control the oven's internal heating elements, adjusting temperature and settings. The door opens to access the interior, where racks hold food items. The flat top may house additional heating elements or serve as a cooking surface.",
+    "external_interaction_description": "The oven interacts with users through its control knobs and door. It requires placement near a power source and ventilation. Users place cookware inside for baking or roasting, and may use the top surface for additional cooking tasks."
+}

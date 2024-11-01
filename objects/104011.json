@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular printer with control panel.",
+    "part_description": "Features include a top control panel with buttons, a display screen, a paper tray at the bottom, and a paper feeder at the back.",
+    "internal_interaction_description": "The control panel allows users to input commands, which are processed internally to manage printing tasks. The paper feeder takes paper from the rear, moving it through the internal rollers to the front tray where printed documents are output.",
+    "external_interaction_description": "The printer connects to computers or networks via cable or wireless, receiving print jobs. Users interact with the control panel for settings. It outputs printed documents to the front tray, which users can collect."
+}

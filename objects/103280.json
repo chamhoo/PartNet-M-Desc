@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular stapler with a sleek design.",
+    "part_description": "Consists of a top handle, metal plate, and base. The handle is rectangular, the metal plate is flat, and the base is slightly curved, all aligned linearly.",
+    "internal_interaction_description": "The top handle presses down to drive staples from the metal plate through paper. The base provides support, allowing the staple to bend and secure papers together.",
+    "external_interaction_description": "Used to fasten sheets of paper by pressing the handle, driving a staple through the sheets. Requires manual pressure and external staples for operation."
+}

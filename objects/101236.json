@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, red multi-tool with multiple attachments.",
+    "part_description": "Includes knife, corkscrew, scissors, file, and screwdriver. Tools fold into a red, rectangular handle. Each tool varies in shape and size, positioned to fold outwards from the handle's sides.",
+    "internal_interaction_description": "The tools are connected to a central pivot, allowing them to rotate outwards for use and fold back into the handle for storage. The pivot mechanism ensures that only one tool is extended at a time, maintaining compactness and preventing overlap.",
+    "external_interaction_description": "Designed for portability and convenience, the multi-tool interacts with various objects, such as cutting materials, opening bottles, or tightening screws. Its compact size makes it easy to carry in pockets or bags, enhancing its utility in diverse situations."
+}

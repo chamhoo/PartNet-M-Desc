@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular device, gray with orange buttons.",
+    "part_description": "Features a large screen, four orange buttons below it. The buttons are circular and arranged in a diamond shape, with a larger oval button beneath them.",
+    "internal_interaction_description": "The screen displays information, while the buttons allow user interaction. The top three buttons likely perform different functions, and the larger bottom button might confirm selections or serve as a main control.",
+    "external_interaction_description": "The device can be handheld, interacting with users through the screen and buttons. It likely connects to other devices or systems, possibly via wireless or wired connections, to control or display information."
+}

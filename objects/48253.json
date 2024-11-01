@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular chest with three drawers.",
+    "part_description": "Consists of three horizontal drawers stacked vertically, each with a curved handle. The drawers are equal in size and aligned symmetrically within a rectangular frame.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly within the frame, supported by internal tracks. The curved handles provide grip for easy opening and closing. The drawers are stacked without gaps, ensuring stability and alignment.",
+    "external_interaction_description": "The chest can be placed on the floor, against a wall, or in a closet. It interacts with users who open the drawers to store or retrieve items. The top surface can hold additional objects like lamps or decorations."
+}

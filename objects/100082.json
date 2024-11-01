@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and gray USB flash drive, rectangular shape.",
+    "part_description": "Consists of a red swivel cover and gray body with USB connector. The cover rotates around the body, and the USB connector is positioned at one end.",
+    "internal_interaction_description": "The red swivel cover rotates around the gray body, providing protection to the USB connector when closed. The cover is attached at one end, allowing it to pivot and expose the connector for use.",
+    "external_interaction_description": "Connects to computer USB ports for data transfer and storage. Users rotate the cover to access the connector, insert it into a port, and can store or retrieve files. Compatible with various devices supporting USB connectivity."
+}

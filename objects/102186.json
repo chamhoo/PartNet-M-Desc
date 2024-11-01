@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, dark blue bin with a white lid.",
+    "part_description": "Includes a rectangular body, a flat white lid, and a foot pedal at the base. The body is tall and upright, while the lid is positioned on top, covering the opening. The foot pedal is located at the bottom front.",
+    "internal_interaction_description": "The foot pedal mechanism connects internally to a hinge system that lifts the lid when pressed. This interaction allows for hands-free operation, ensuring the lid opens smoothly and closes securely when the pedal is released.",
+    "external_interaction_description": "The bin interacts with users by providing a receptacle for waste disposal. The foot pedal allows for hygienic, hands-free use. It can be placed in kitchens, bathrooms, or offices, interacting with the surrounding space by fitting neatly into corners or under counters."
+}

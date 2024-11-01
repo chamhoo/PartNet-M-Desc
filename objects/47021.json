@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with glass door.",
+    "part_description": "Features a glass door, solid top, and base. Includes a handle on the right side of the door. The cabinet is supported by four small legs at each corner.",
+    "internal_interaction_description": "The glass door is hinged to allow access to the interior. The handle facilitates opening and closing the door. Shelves inside may support various items, depending on configuration. The top and base provide structural stability and support the cabinet's frame.",
+    "external_interaction_description": "The cabinet interacts with its environment by storing items securely. It can be placed against a wall or in a corner to save space. The glass door allows visibility of the contents, making it suitable for display purposes. The handle enables easy access for users."
+}

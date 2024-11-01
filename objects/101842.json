@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue, rectangular 3D glasses with gray temples.",
+    "part_description": "Two blue rectangular lenses connected to gray temples, each lens is flat and positioned at the front. The temples are straight and extend backward from the lenses.",
+    "internal_interaction_description": "The lenses are securely attached to the temples, allowing them to pivot slightly for fitting. The design ensures stability and comfort, with the temples providing support by resting on the ears. The lenses remain fixed in position relative to each other, maintaining the intended visual alignment.",
+    "external_interaction_description": "These glasses are worn on the face, with the lenses positioned over the eyes to alter vision, typically for 3D viewing. The temples rest on the ears, and the nose bridge area supports the frame. They interact with external light to create a 3D effect when used with compatible media."
+}

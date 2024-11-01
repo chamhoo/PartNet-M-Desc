@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, red-handled scissors with silver blades.",
+    "part_description": "Two metal blades, sharp and silver, connected at a pivot. Red plastic handles with circular grips, each attached to a blade end.",
+    "internal_interaction_description": "The two blades are joined at a pivot point, allowing them to move in a scissor-like motion. When the handles are squeezed together, the blades close and intersect, enabling cutting. The pivot ensures the blades remain aligned for precise cutting.",
+    "external_interaction_description": "The scissors are held by inserting fingers into the handle grips, allowing manual operation. They interact with materials like paper, fabric, or string, cutting through them when the blades close. The ergonomic design provides comfort and control for the user during cutting tasks."
+}

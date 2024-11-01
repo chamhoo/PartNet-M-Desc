@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic, scissor-like tool with pointed ends.",
+    "part_description": "Two elongated, pointed arms connected by a circular hinge. Each arm is symmetrical, tapering to a point, with one end forming a loop for grip.",
+    "internal_interaction_description": "The two arms pivot around the circular hinge, allowing them to open and close. The pointed ends align precisely when closed, enabling a pinching action. The looped ends provide leverage for the user to exert force efficiently.",
+    "external_interaction_description": "Used to grip or hold small objects by pinching them between the pointed ends. Commonly interacts with items like food or delicate components, allowing precise manipulation. The user applies pressure on the looped ends to control the opening and closing action."
+}

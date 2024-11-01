@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with a single door.",
+    "part_description": "One main rectangular body, a front door with a vertical handle, and an open top. The door is centrally positioned on the front face.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to swing open and closed. The handle provides a grip for easy operation. The open top suggests potential modularity or the ability to stack or integrate with other units.",
+    "external_interaction_description": "The cabinet can be placed on the floor or integrated into a larger furniture system. It interacts with users through the door, which can be opened to store or retrieve items. The handle facilitates this interaction, ensuring accessibility."
+}

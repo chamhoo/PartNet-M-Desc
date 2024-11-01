@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular USB flash drive with blue lettering.",
+    "part_description": "Consists of a black rectangular body, a removable cap, and a USB connector. The body is elongated with blue 'MG' letters on top. The USB connector is positioned at one end, and the cap fits over it.",
+    "internal_interaction_description": "The USB connector is securely attached to the internal circuitry within the main body, allowing data transfer. The cap protects the connector when not in use, fitting snugly over it. The lettering is likely printed or embossed on the surface, providing identification or branding.",
+    "external_interaction_description": "The USB drive connects to computers or compatible devices via the USB port for data transfer and storage. The cap prevents dust and damage to the connector. Users handle the drive by its body for insertion and removal, while the compact design allows easy portability."
+}

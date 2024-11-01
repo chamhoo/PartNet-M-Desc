@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, blue teapot with white lid and spout.",
+    "part_description": "Includes a round body, one spout, and a lid. The body is blue, the lid and spout are white. The spout is attached to the side, and the lid sits on top.",
+    "internal_interaction_description": "The lid fits snugly on the top opening of the teapot, preventing liquid from spilling. The spout is positioned to allow easy pouring of contents from the main body. The smooth transition between the body and the spout ensures efficient flow of liquid.",
+    "external_interaction_description": "Used to hold and pour liquids like tea. The handle, if present, allows for easy gripping and pouring. The spout directs the flow of liquid into a cup or container. The lid can be removed to fill or clean the teapot."
+}

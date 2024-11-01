@@ -1,0 +1,6 @@
+{
+    "base_description": "Small gray box-shaped safe with open door.",
+    "part_description": "The safe has a rectangular body, a hinged front door, and a round handle. The door is positioned on the front and swings outward. The handle is centrally located on the door.",
+    "internal_interaction_description": "The door is connected to the main body via hinges, allowing it to swing open and closed. The handle on the door is used to operate the locking mechanism, securing the door to the safe's body when closed.",
+    "external_interaction_description": "The safe interacts with users who open and close the door using the handle. It is designed to store valuable items securely, preventing unauthorized access. Its weight and structure deter easy movement or theft."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white-framed window with four glass panes.",
+    "part_description": "The window has a white frame surrounding four rectangular glass panes, arranged in a 2x2 grid. The panes are equally sized and positioned centrally within the frame.",
+    "internal_interaction_description": "The four glass panes are securely held within the white frame, which provides structural support. The frame is divided into four sections by horizontal and vertical dividers, ensuring stability and allowing light to pass through each pane separately.",
+    "external_interaction_description": "The window allows light to enter a room while providing insulation. It can be opened or closed to regulate airflow and temperature. The frame may interact with walls for installation and can be cleaned or maintained from both sides by people."
+}

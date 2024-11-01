@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and white retractable pen, medium size.",
+    "part_description": "The pen has a red body, white clip, and tip. It includes a retractable mechanism with a button on top. The clip is attached to the side of the body.",
+    "internal_interaction_description": "The retractable mechanism involves a spring inside the pen, which allows the tip to extend or retract when the top button is pressed. The clip is fixed to the body, providing stability and ease of attachment to surfaces.",
+    "external_interaction_description": "The pen is used for writing on paper, held comfortably by hand. The clip allows it to attach to pockets or notebooks for easy access. Pressing the top button extends the tip for writing and retracts it for storage."
+}

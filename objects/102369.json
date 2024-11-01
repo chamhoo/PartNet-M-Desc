@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray metal bucket with a handle.",
+    "part_description": "The bucket has a cylindrical body and a metal handle attached at two opposite points near the rim.",
+    "internal_interaction_description": "The handle pivots at the attachment points, allowing it to move up and down. This movement facilitates carrying or pouring by providing leverage and balance.",
+    "external_interaction_description": "The bucket can hold liquids or solids, interacting with various substances by containing them. It can be carried by a person using the handle, and placed on different surfaces due to its flat base."
+}

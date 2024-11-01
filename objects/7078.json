@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, red clock with radiating metal rods.",
+    "part_description": "Central red disk with twelve silver rods extending outward, each tipped with a red sphere, evenly spaced around the disk.",
+    "internal_interaction_description": "The central disk serves as the clock's core, anchoring the twelve rods symmetrically. Each rod is attached at equal intervals around the disk, maintaining balance. The red spheres at the ends of the rods are positioned to mark the hours, creating a visual representation of a clock face.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, where it interacts with users by visually displaying the time. The red spheres and minimalist design draw attention, making it both a functional timepiece and a decorative element in a room. It requires a flat surface for proper placement."
+}

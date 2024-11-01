@@ -1,0 +1,6 @@
+{
+    "base_description": "White porcelain toilet with tank and bowl.",
+    "part_description": "Consists of a tank, bowl, and seat. The tank is rectangular and positioned above the bowl, which is oval-shaped. The seat is attached to the bowl's rim.",
+    "internal_interaction_description": "The tank stores water, which is released into the bowl when the flush lever is activated. The flow of water cleans the bowl and carries waste through the plumbing system. The seat provides a comfortable surface for users.",
+    "external_interaction_description": "The toilet connects to a water supply and sewage system. Users interact by lifting the seat and activating the flush. It requires regular cleaning and maintenance to function properly and ensure hygiene."
+}

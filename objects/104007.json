@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, white, multi-function printer with black accents.",
+    "part_description": "Includes paper tray, control panel, output tray, and paper feeder. Paper tray at top rear, control panel on front, output tray below control panel, feeder at the back.",
+    "internal_interaction_description": "The paper feeder pulls sheets from the tray, directing them through the printer where ink is applied. The control panel manages settings and operations, coordinating the print head and paper movement to ensure precise printing.",
+    "external_interaction_description": "Connects to computers via USB or wireless for printing. Receives print commands from devices, outputs printed documents. Users interact with control panel for settings, loading paper into the tray, and collecting printed pages from the output tray."
+}

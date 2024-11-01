@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray folding chair with a simple design.",
+    "part_description": "Includes a backrest, seat, and four legs. The backrest and seat are rectangular, while the legs form an X-shape when unfolded.",
+    "internal_interaction_description": "The seat is connected to the backrest and supported by the legs. The legs hinge at pivot points, allowing the chair to fold flat for storage and unfold for use.",
+    "external_interaction_description": "The chair provides seating support for individuals and can be easily moved or stored. It interacts with the ground for stability and can be placed alongside tables or other furniture."
+}

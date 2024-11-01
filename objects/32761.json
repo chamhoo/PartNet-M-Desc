@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular desk with black top and white sides.",
+    "part_description": "The desk has a flat rectangular top, four drawers on the right, and two supporting side panels. The drawers are vertically aligned and feature handles. The left side is open, providing legroom.",
+    "internal_interaction_description": "The desk's top is supported by two side panels and a drawer unit. The drawers slide in and out within the unit, held by internal tracks. The handles allow easy access to the drawers, which can be used for storage, maintaining the desk's stability.",
+    "external_interaction_description": "The desk serves as a workspace, interacting with a chair for seating. It can hold items like computers, books, or stationery on its surface. The drawers provide storage for organizing documents and supplies, enhancing efficiency in a home or office setting."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Sleek, modern laptop with black and silver design.",
+    "part_description": "Features a large screen, full-sized keyboard, trackpad, and various ports. The screen is rectangular and thin, while the keyboard has multiple keys arranged in rows. The trackpad is centrally located below the keyboard.",
+    "internal_interaction_description": "The screen hinges to the base, allowing it to open and close. Keys on the keyboard interact with internal circuits to input data. The trackpad senses finger movement for cursor control. Ports connect to internal hardware for data transfer and power.",
+    "external_interaction_description": "Connects to external devices via USB, HDMI, and other ports. Users interact through the keyboard and trackpad for input. The screen displays output visually. Can connect wirelessly to networks and other devices for data exchange."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with a sleek, rectangular design.",
+    "part_description": "Consists of a screen, keyboard, touchpad, and base. The screen is rectangular, hinged to the base. The keyboard has an array of keys, with a touchpad below it.",
+    "internal_interaction_description": "The screen and base are connected by hinges, allowing the screen to open and close. The keyboard inputs data to the computer, while the touchpad allows for cursor control. The internal components are housed within the base, enabling processing and storage functions.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input and the screen for output. It can connect to external devices via ports, such as USBs, and interact wirelessly through Wi-Fi and Bluetooth for internet access and peripheral connections."
+}

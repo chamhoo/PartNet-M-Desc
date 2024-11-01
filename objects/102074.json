@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, metallic pliers with red and yellow handles.",
+    "part_description": "Two metal jaws, a pivot point, and insulated handles. The jaws are sharp and silver, the pivot is central, and the handles are red and yellow, curved for grip.",
+    "internal_interaction_description": "The metal jaws open and close around the pivot point, allowing the pliers to grip or cut objects. The pivot ensures smooth movement, while the handles provide leverage and control, enabling precise pressure application on the jaws.",
+    "external_interaction_description": "The pliers interact with external objects by gripping, twisting, or cutting. Users hold the insulated handles for safety and comfort, applying force to manipulate wires or small components. The tool is essential for electrical work, providing both functionality and protection in various tasks."
+}

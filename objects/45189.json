@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with shelves and doors.",
+    "part_description": "Two main sections with shelves; upper and lower parts. Each section has two doors with vertical handles. Shelves are evenly spaced inside each section.",
+    "internal_interaction_description": "The shelves are securely fixed within each section, providing stable support for items. The doors are attached with hinges, allowing them to swing open and close smoothly. Handles are positioned vertically for easy grip and access to the interior shelves.",
+    "external_interaction_description": "The cabinet can be placed against a wall, providing storage for books, dishes, or other items. The doors open outward, requiring space in front for access. Users interact with the handles to open the doors, accessing the contents stored on the shelves."
+}

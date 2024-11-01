@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop with a black screen and keyboard.",
+    "part_description": "Consists of a rectangular screen, keyboard, and touchpad. The screen is thin and attached to the base. The keyboard has numerous keys, and the touchpad is centered below it.",
+    "internal_interaction_description": "The screen is connected to the base via hinges, allowing it to open and close. The keyboard and touchpad are integrated into the base, enabling input interaction. The internal circuitry connects these components for seamless functionality.",
+    "external_interaction_description": "The laptop interacts with users through the screen display and input devices, such as the keyboard and touchpad. It connects to external networks via Wi-Fi and can interface with other devices through USB ports for data transfer."
+}

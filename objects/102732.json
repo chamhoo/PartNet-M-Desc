@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown teapot with a round body and handle.",
+    "part_description": "Includes a round body, a short spout, a lid with a knob, and a long handle positioned horizontally.",
+    "internal_interaction_description": "The lid fits snugly on top of the teapot's round body, allowing for secure coverage. The spout is seamlessly integrated into the body, facilitating smooth pouring. The handle is attached opposite the spout, providing balance and ease of handling.",
+    "external_interaction_description": "The teapot is designed for pouring liquids, interacting with cups or mugs. It can be held by the handle, which provides leverage for pouring. The spout directs the liquid flow, while the lid helps retain heat and prevent spills when not in use."
+}

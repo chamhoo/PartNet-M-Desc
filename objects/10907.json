@@ -1,0 +1,6 @@
+{
+    "base_description": "Metal scissors with red handles, medium-sized.",
+    "part_description": "Two metal blades, sharp and pointed, intersect at a pivot. Red plastic handles are oval-shaped, attached to the blades' ends.",
+    "internal_interaction_description": "The blades pivot around a central point, allowing them to open and close. The handles facilitate this movement, enabling the blades to cut when the handles are squeezed together.",
+    "external_interaction_description": "Scissors are held by the handles, allowing a user to cut paper, fabric, or other materials. The sharp blades slice through materials with precision, depending on the applied force."
+}

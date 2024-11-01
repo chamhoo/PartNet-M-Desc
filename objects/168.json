@@ -1,0 +1,6 @@
+{
+    "base_description": "Purple faucet with curved spout and lever handle.",
+    "part_description": "Includes a curved spout, cylindrical base, and side lever handle. The spout is tall and arching, attached to a round base. The lever handle is positioned on the side of the base.",
+    "internal_interaction_description": "The lever handle controls the flow of water through the spout. When the handle is lifted or rotated, it adjusts the internal valve, allowing water to pass through the spout. The spout is designed to direct water efficiently into a sink below.",
+    "external_interaction_description": "The faucet interacts with external plumbing to deliver water. Users operate the lever handle to control water flow and temperature. It is typically mounted on a sink or countertop, providing a functional and aesthetic water delivery system in kitchens or bathrooms."
+}

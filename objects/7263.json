@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray microwave with digital controls.",
+    "part_description": "Includes a front door with a window, keypad, display, and top vents. The door is large, rectangular, and centrally located. The keypad is on the right side, below a small digital display. Vents are positioned along the top edge.",
+    "internal_interaction_description": "The microwave door opens to reveal an interior cavity for placing food. The keypad allows input for time and settings, which are shown on the digital display. The vents help dissipate heat generated during operation, ensuring the internal components function efficiently.",
+    "external_interaction_description": "The microwave interacts with users through the keypad for setting cooking times and modes. It requires electrical power to operate and is typically placed on a kitchen counter or mounted over a stove. Users can view food through the door window while cooking."
+}

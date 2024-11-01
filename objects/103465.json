@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular toaster with a sleek design.",
+    "part_description": "Two slots on top, lever on side, power cord attached.",
+    "internal_interaction_description": "The toaster's lever lowers bread into the slots, activating internal heating elements. The slots are designed to hold slices securely while heating. The internal thermostat regulates temperature, ensuring even toasting. Once the cycle completes, the lever releases, and the bread pops up.",
+    "external_interaction_description": "The toaster connects to an electrical outlet via its power cord. Users insert bread slices into the slots and adjust settings using the side lever. The toaster heats the bread, then automatically ejects it when done, ready for user retrieval."
+}

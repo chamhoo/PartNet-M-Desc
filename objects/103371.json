@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, gray pump bottle.",
+    "part_description": "Consists of a cylindrical body and a pump top. The body is tall and grey, while the pump is positioned centrally on top.",
+    "internal_interaction_description": "The pump mechanism is integrated into the top, allowing liquid inside the cylindrical body to be dispensed when pressed. The pump's tube extends into the bottle, facilitating the movement of liquid upward when activated.",
+    "external_interaction_description": "The bottle is operated by pressing the pump, dispensing contents like soap or lotion. It can be placed on flat surfaces and interacts with users' hands for dispensing. Suitable for use in bathrooms or kitchens."
+}

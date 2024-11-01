@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular plug with yellow prongs, red switch.",
+    "part_description": "Contains two yellow prongs at the top, a red switch at the bottom, all embedded in a black rectangular frame.",
+    "internal_interaction_description": "The yellow prongs are positioned at the top and are likely connected internally to the red switch at the bottom, allowing electrical flow control. The switch toggles the connection, enabling or disabling power transfer between the prongs and the connected device.",
+    "external_interaction_description": "The object connects to a power source via the yellow prongs and interacts with external devices through its electrical connection. The red switch allows users to manually control power flow, providing an on/off functionality for safety and convenience."
+}

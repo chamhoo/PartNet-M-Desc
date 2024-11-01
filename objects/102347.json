@@ -1,0 +1,6 @@
+{
+    "base_description": "White, wheeled lifting cart with a flat platform.",
+    "part_description": "Two large rear wheels, two small front wheels, a flat platform, and a vertical frame. The platform is supported by a scissor lift mechanism.",
+    "internal_interaction_description": "The scissor lift mechanism allows the platform to move vertically, supported by the vertical frame. The rear wheels provide stability, while the front wheels enable steering and maneuverability. The wheels and frame work together to maintain balance during operation.",
+    "external_interaction_description": "The cart interacts with external objects by lifting and transporting items on its platform. It can be pushed or pulled by a person, with the wheels allowing smooth movement across surfaces. The platform's adjustable height aids in loading and unloading tasks."
+}

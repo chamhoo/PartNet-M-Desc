@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, gray metal lighter.",
+    "part_description": "Consists of a hinged lid, metal casing, and ignition wheel. Lid covers the top, casing forms the body, and wheel is central.",
+    "internal_interaction_description": "The hinged lid opens to reveal the ignition wheel and wick. When the wheel is spun, it strikes a flint, creating a spark that ignites the wick. The lid can close to extinguish the flame, while the fuel reservoir supplies the wick.",
+    "external_interaction_description": "The lighter is held in hand and operated by thumb to spin the wheel. It interacts with flammable materials to produce a flame. The lid protects the ignition components and prevents accidental ignition when closed."
+}

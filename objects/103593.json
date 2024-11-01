@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular, folding electronic device.",
+    "part_description": "Consists of two rectangular panels connected by a hinge. Front panel has a screen, and a camera is positioned at the top. The back panel is plain.",
+    "internal_interaction_description": "The two panels are connected by a hinge allowing them to fold. The front panel contains a screen and camera, which interact electronically to display images and capture photos. The hinge allows the device to stand at various angles.",
+    "external_interaction_description": "The device interacts with users through the touch screen and camera. It can be folded for portability and used for communication, photography, or media consumption. It connects wirelessly to other devices and networks for data transfer and internet access."
+}

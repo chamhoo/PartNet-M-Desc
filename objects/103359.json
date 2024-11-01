@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white pump bottle.",
+    "part_description": "Contains a cylindrical body, a pump mechanism, and a spout. The body is tall and smooth, the pump sits on top, and the spout is angled for dispensing.",
+    "internal_interaction_description": "The pump mechanism, when pressed, creates suction that draws liquid from the bottle's interior through a tube, pushing it out through the spout. The spring inside the pump returns it to its original position after use.",
+    "external_interaction_description": "Designed for dispensing liquid soap or lotion when pressed by a hand. Can be refilled by unscrewing the pump. Compatible with various bathroom or kitchen settings, and interacts with human hands for operation."
+}

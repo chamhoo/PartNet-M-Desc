@@ -1,0 +1,6 @@
+{
+    "base_description": "White cylindrical faucet with a lever handle.",
+    "part_description": "Includes a cylindrical body, spout, and single lever. The body is vertical, the spout protrudes horizontally, and the lever is on top.",
+    "internal_interaction_description": "The lever controls the internal valve, regulating water flow through the spout. The cylindrical body houses the internal mechanisms, allowing water to pass when the lever is lifted.",
+    "external_interaction_description": "The faucet is installed on sinks, allowing users to control water flow and temperature. The lever is manually adjusted by the user, directing water through the spout into the sink basin."
+}

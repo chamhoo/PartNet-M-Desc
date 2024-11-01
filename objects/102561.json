@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray structure with rods and panels.",
+    "part_description": "Includes two vertical rods, two horizontal rods, rectangular panels, and a base. The rods are positioned at the corners, panels on the sides, and a flat base underneath.",
+    "internal_interaction_description": "The vertical rods connect to the horizontal rods, forming a frame. The panels are attached to the rods, providing structural support. The base connects to the bottom of the rods, stabilizing the entire structure.",
+    "external_interaction_description": "Designed to interact with other mechanical components or systems, possibly as a part of a larger assembly. It can be mounted or connected to additional structures or devices, allowing for integration into various mechanical or industrial applications."
+}

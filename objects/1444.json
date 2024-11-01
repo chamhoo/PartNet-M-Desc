@@ -1,0 +1,6 @@
+{
+    "base_description": "Wall-mounted, rectangular, black faucet with lever handle.",
+    "part_description": "Includes a rectangular base, cylindrical spout, and lever handle. The spout extends outward, while the handle is positioned to the side. All parts are black and geometrically simple.",
+    "internal_interaction_description": "The lever handle controls the flow of water through the spout. When the handle is moved, it adjusts the internal valve mechanism, allowing water to flow or stop. The cylindrical spout directs water outward from the wall-mounted base.",
+    "external_interaction_description": "The faucet is designed to be mounted on a wall above a sink. Users interact with the lever to control water flow and temperature. It requires plumbing connections for water supply and is typically used in bathrooms or kitchens."
+}

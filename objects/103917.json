@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black phone with blue accents.",
+    "part_description": "Includes a screen, keypad with multiple buttons, and branding at the top. The screen is centered, buttons are below, and branding is above the screen.",
+    "internal_interaction_description": "The keypad inputs commands to the phone's internal system, which processes and displays information on the screen. The branding is static and does not interact with other parts.",
+    "external_interaction_description": "The phone interacts with users through tactile input on the keypad and visual output on the screen. It connects to networks for communication and can interface with other devices wirelessly."
+}

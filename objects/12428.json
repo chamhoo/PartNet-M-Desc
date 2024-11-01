@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular oven with red control panel.",
+    "part_description": "Features a front door, control knobs, and interior rack. The door opens downward, with knobs above it and a rack inside.",
+    "internal_interaction_description": "The control knobs adjust temperature and settings, affecting the heating elements. The door seals the chamber when closed, maintaining internal temperature. The rack holds items for cooking, positioned centrally for even heat distribution.",
+    "external_interaction_description": "The oven interacts with users through the control knobs for setting adjustments. The door allows access to the interior for placing or removing food. It requires external power to operate and can be integrated into kitchen cabinetry."
+}

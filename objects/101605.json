@@ -1,0 +1,6 @@
+{
+    "base_description": "White cabinet with open door and shelves.",
+    "part_description": "Three shelves inside, each holding a stack of yellow objects. The cabinet is rectangular, with a hinged door on one side.",
+    "internal_interaction_description": "The shelves are evenly spaced inside the cabinet, supporting the yellow objects. The door swings open on hinges, allowing access to the shelves. Each shelf is sturdy enough to hold the weight of the objects, ensuring stability and organization within the cabinet.",
+    "external_interaction_description": "The cabinet can be accessed by opening the door, allowing a person to place or retrieve items from the shelves. It can be positioned against a wall or within a room setup, interacting with surrounding furniture by providing storage space and organization."
+}

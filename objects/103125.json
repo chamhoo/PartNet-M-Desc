@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, upright mixer with a large bowl.",
+    "part_description": "Includes a mixing head, bowl, and stand. The head is rounded and positioned above the bowl. The bowl is cylindrical and sits on a sturdy base.",
+    "internal_interaction_description": "The mixing head is connected to a motor, allowing it to rotate and mix contents within the bowl. The bowl is securely attached to the base, ensuring stability during operation.",
+    "external_interaction_description": "Used in kitchens for mixing ingredients, the mixer interacts with users who operate controls to adjust speed and mixing time. It can also be connected to power outlets for operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small gray rectangular safe with a door.",
+    "part_description": "The safe has a main body, a hinged door, a knob, and a cross-shaped handle. The door is centered on the front, with the knob and handle positioned on it.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to swing open and closed. The knob is likely connected to a locking mechanism that secures the door when turned. The cross-shaped handle provides a grip for opening the door.",
+    "external_interaction_description": "The safe interacts with users who operate the knob and handle to open or close it. It can be placed on a flat surface or secured to a wall or floor for stability and security, protecting its contents from unauthorized access."
+}

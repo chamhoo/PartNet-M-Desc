@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with four drawers.",
+    "part_description": "Four equally-sized drawers stacked vertically, each with a handle, in a rectangular frame.",
+    "internal_interaction_description": "The drawers slide in and out within the cabinet frame, guided by tracks. Each drawer has a handle for ease of pulling. The drawers are likely separated by internal dividers for organization, allowing for smooth operation without interference.",
+    "external_interaction_description": "The cabinet is designed to store items, interacting with users by providing organized storage space. It can be placed in various environments such as offices or homes, and interacts with the floor through its base for stability. Users access contents by pulling the drawers."
+}

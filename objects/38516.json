@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray building with windows and a door.",
+    "part_description": "Three rectangular windows at the top, a large rectangular door below, and a sloped roof. Windows are evenly spaced, and the door occupies most of the lower section.",
+    "internal_interaction_description": "The windows are aligned in a row at the top, providing symmetry and light entry. The large door below is centrally positioned, allowing access. The sloped roof covers the structure, potentially aiding in weather resistance.",
+    "external_interaction_description": "The object interacts with people by providing entry through the door. The windows allow light and visibility, while the roof offers protection from weather. Its size and shape suggest it is a small building or kiosk."
+}

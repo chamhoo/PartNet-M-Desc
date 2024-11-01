@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray desk lamp with adjustable arm.",
+    "part_description": "Includes a circular base, cylindrical stand, adjustable arm, and lamp head. The arm is connected to the base via a hinge, allowing movement.",
+    "internal_interaction_description": "The adjustable arm is connected to the cylindrical stand with a hinge, allowing the lamp head to pivot and rotate. The lamp head is designed to direct light downward, and the arm's flexibility supports various angles for optimal lighting.",
+    "external_interaction_description": "The lamp interacts with external elements by providing adjustable lighting for desks or tables. It requires an electrical outlet for power and can be positioned to illuminate specific areas, aiding tasks like reading or writing."
+}

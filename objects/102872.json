@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular switch with red toggle.",
+    "part_description": "The switch has a red toggle button, a black rectangular base, and white markings for on/off. The toggle is centrally positioned and slightly raised.",
+    "internal_interaction_description": "The toggle button pivots on a central axis within the black base. When pressed, it connects or disconnects internal electrical contacts, changing the circuit state. The markings guide the user in operating the switch correctly.",
+    "external_interaction_description": "The switch is designed to be mounted on a panel and interacts with electrical devices by opening or closing a circuit. Users manually toggle the switch to control power flow, indicated by the on/off markings."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white door with simple panel design.",
+    "part_description": "The door has two rectangular panels, a knob on the right side, and a frame. Panels are vertically aligned, with the knob positioned centrally on the right edge.",
+    "internal_interaction_description": "The door's panels are inset into the main structure, providing depth and design. The knob is attached to the right panel, facilitating opening and closing. The frame supports the door's structure, ensuring stability and alignment.",
+    "external_interaction_description": "The door interacts with external elements by swinging open or closed, controlled by the knob. It acts as a barrier or entry point in a wall, providing privacy and security while allowing passage when needed."
+}

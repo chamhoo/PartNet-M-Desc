@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver rectangular toaster with black accents.",
+    "part_description": "Two slots on top, a lever on the side, and a dial at the front. The slots are parallel, and the lever is positioned vertically beside them.",
+    "internal_interaction_description": "The lever, when pushed down, activates the heating elements inside the slots. The dial adjusts the timer, determining how long the elements heat the bread. Once the timer completes, the internal mechanism releases the lever, popping the toast up.",
+    "external_interaction_description": "The toaster is plugged into an electrical outlet, drawing power to heat the elements. Users insert bread slices into the slots and adjust settings with the lever and dial. Once the toast is ready, it pops up, ready for retrieval."
+}

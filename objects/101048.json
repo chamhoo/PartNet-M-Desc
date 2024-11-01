@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact white suitcase with a blue handle.",
+    "part_description": "The suitcase has a retractable blue handle on top, two wheels at the bottom, and a front panel. The handle is thin and rectangular. The suitcase is rectangular with rounded edges.",
+    "internal_interaction_description": "The retractable handle slides into the suitcase body, allowing for compact storage. The wheels are attached at the bottom corners, enabling smooth movement. The front panel may serve as a flap or pocket, providing additional storage or access to the interior.",
+    "external_interaction_description": "The suitcase can be easily pulled by a person using the retractable handle. The wheels facilitate movement on various surfaces. The front panel may interact with external items, allowing for quick access or storage of travel essentials. Its compact size makes it suitable for overhead compartments."
+}

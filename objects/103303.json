@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver handheld stapler, compact design.",
+    "part_description": "Consists of a top arm, base, and metal plate. The top arm is black, the base is silver, and the metal plate is positioned at the bottom. The top arm is slightly curved, and the base is flat and elongated.",
+    "internal_interaction_description": "The top arm is hinged to the base, allowing it to move up and down. The metal plate holds staples and aligns them for ejection when pressure is applied. The spring mechanism within the arm provides resistance and returns the arm to its resting position after use.",
+    "external_interaction_description": "The stapler is used by pressing the top arm down onto sheets of paper, fastening them together with a staple. It interacts with paper and staples, requiring manual input to operate. The base provides stability on flat surfaces, allowing for efficient stapling."
+}

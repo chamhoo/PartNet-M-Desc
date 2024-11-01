@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with multiple compartments.",
+    "part_description": "Contains four upper compartments, a large lower panel, and a flat top. The compartments are evenly spaced, and the lower panel covers the entire bottom section.",
+    "internal_interaction_description": "The upper compartments are designed to hold items separately, each with a distinct boundary. The large lower panel may serve as a door or cover, providing access to internal storage space, while the flat top can support additional items.",
+    "external_interaction_description": "The cabinet can be placed against a wall for stability. It interacts with users by providing storage space and organization for items. The flat top allows for display or temporary placement of objects, enhancing its utility in a room."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, black metal cabinet with shelves.",
+    "part_description": "The cabinet has a rectangular shape with a hinged door, three internal blue shelves, and a handle. The door is positioned on the front and opens outward.",
+    "internal_interaction_description": "The shelves are evenly spaced inside the cabinet, providing storage compartments. The door, attached by hinges, allows access to the shelves. The handle facilitates opening and closing the door securely.",
+    "external_interaction_description": "The cabinet interacts with users who can open the door using the handle to access stored items. It can be placed against a wall or in a corner for stability, and its lockable feature ensures security of contents."
+}

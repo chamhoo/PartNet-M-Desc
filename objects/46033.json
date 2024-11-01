@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with a glass door.",
+    "part_description": "Includes a glass door, two shelves, and a metal handle; shelves are evenly spaced inside the cabinet.",
+    "internal_interaction_description": "The glass door swings open on hinges, allowing access to the two internal shelves. The metal handle facilitates the opening and closing of the door, which secures the contents within. The shelves provide vertical storage space, supporting items placed inside the cabinet.",
+    "external_interaction_description": "The cabinet can be placed on flat surfaces, such as floors or countertops. It interacts with users who open the door via the handle to store or retrieve items. Its transparent door allows external viewing of the contents without opening."
+}

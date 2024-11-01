@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black remote with multiple buttons.",
+    "part_description": "Features numerous oval buttons arranged in rows, a small screen, and a battery compartment at the back.",
+    "internal_interaction_description": "Buttons are connected to an internal circuit board that sends signals when pressed. The battery compartment provides power, enabling the transmission of infrared signals through an emitter.",
+    "external_interaction_description": "Used to control electronic devices remotely, such as TVs or audio systems, by sending infrared signals when buttons are pressed."
+}

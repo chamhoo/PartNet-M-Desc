@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular trash bin with domed lid.",
+    "part_description": "The bin has a rectangular body and a domed lid. The body is tall and narrow, while the lid is slightly curved, covering the top completely.",
+    "internal_interaction_description": "The domed lid fits snugly on the rectangular body, allowing it to open and close smoothly. The lid's curvature ensures that it stays securely in place when closed, preventing any contents from spilling out.",
+    "external_interaction_description": "The trash bin interacts with users who open the lid to dispose of waste. It can be placed in various environments like kitchens or offices, where it collects trash until full and ready for emptying."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Green trapezoidal bin with a flat lid.",
+    "part_description": "The bin has a large trapezoidal body and a hinged flat lid on top. The body is wider at the top, tapering downwards.",
+    "internal_interaction_description": "The flat lid is connected to the top of the bin body with a hinge, allowing it to open and close smoothly. The lid fits snugly over the opening, preventing contents from spilling out.",
+    "external_interaction_description": "The bin is designed to hold waste, interacting with people who open the lid to deposit trash. Its stable base allows it to stand on various surfaces, while the lid keeps contents concealed and odors contained."
+}

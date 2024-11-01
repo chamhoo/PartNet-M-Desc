@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray wall clock with minimalist design.",
+    "part_description": "Features a circular clock face centered on a square base, with two simple hands indicating time. The clock face is metallic and minimalistic, lacking numbers or additional markings.",
+    "internal_interaction_description": "The clock hands rotate around a central pivot point on the clock face. The minute hand moves in a continuous, smooth motion, while the hour hand shifts incrementally, both driven by an internal mechanism hidden behind the clock face.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, providing a clear view of the time. It interacts with users who glance at it to check the time, and it requires occasional battery replacement to maintain functionality."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with a foldable front panel.",
+    "part_description": "Includes three upper compartments and a large fold-down panel below. The compartments are evenly spaced at the top, with the panel covering the lower section.",
+    "internal_interaction_description": "The three upper compartments are fixed and provide storage space. The fold-down panel is hinged at the bottom, allowing it to open outward, providing access to the interior storage area. The compartments and panel are integrated into the cabinet's frame, ensuring stability and functionality.",
+    "external_interaction_description": "The cabinet can be placed against a wall, with the fold-down panel allowing easy access to stored items. It interacts with users by providing storage and organization, and the panel can be opened or closed as needed. Its surface can also serve as a display area."
+}

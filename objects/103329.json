@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray sliding door, modern style.",
+    "part_description": "Consists of two rectangular panels, one overlaps the other. Each panel is smooth, with a metallic frame around the edges.",
+    "internal_interaction_description": "The two panels slide past each other on a track, allowing one panel to overlap the other. This mechanism enables the door to open and close smoothly by gliding along the track.",
+    "external_interaction_description": "The sliding door interacts with its surrounding frame for stability. It can be opened or closed by a person, providing access or privacy as needed in a building or room."
+}

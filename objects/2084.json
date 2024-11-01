@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular wall-mounted faucet with minimalist design.",
+    "part_description": "Consists of a long spout, two side knobs, and a rectangular base plate. The spout extends outward from the center, while the knobs are symmetrically placed on either side of the spout on the base plate.",
+    "internal_interaction_description": "The spout is centrally connected to the base plate, allowing water to flow through when the knobs are turned. The knobs control the water flow and temperature, each interacting with internal valves to adjust these settings.",
+    "external_interaction_description": "The faucet is mounted on a wall above a sink, interacting with plumbing to deliver water. Users interact by turning the knobs to control water flow and temperature. The design allows for easy cleaning and efficient water use."
+}

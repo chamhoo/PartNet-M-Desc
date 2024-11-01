@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver toggle switch with black and red labels.",
+    "part_description": "Consists of a silver lever, hex nut, and rectangular base. The base has red 'ON' and black 'OFF' labels, with the lever positioned centrally. The hex nut secures the lever to the base.",
+    "internal_interaction_description": "The silver lever pivots around a central axis within the base, allowing it to toggle between the 'ON' and 'OFF' positions. The hex nut ensures stability and alignment, preventing the lever from detaching from the base during operation.",
+    "external_interaction_description": "The toggle switch interacts with external circuits, controlling electrical flow when flipped. Users manually operate the lever to switch between 'ON' and 'OFF,' altering the connected device's operational state. The labels guide users in selecting the desired position."
+}

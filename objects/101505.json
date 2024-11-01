@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with a compact design.",
+    "part_description": "Contains four blades attached to a central hub, encased in a square frame with mounting holes at each corner.",
+    "internal_interaction_description": "The blades are connected to a central hub, which rotates to generate airflow. The frame supports the structure, ensuring stability and housing the motor that drives the rotation of the blades.",
+    "external_interaction_description": "The fan can be mounted onto various surfaces using the corner holes, allowing it to cool electronic components by directing airflow over them. It interfaces with power sources to operate, often using a plug or wires for electricity."
+}

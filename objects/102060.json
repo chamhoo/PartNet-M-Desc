@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular stainless steel gas cooktop with six burners.",
+    "part_description": "Six black burners arranged in two rows on a silver base. Each burner has a circular shape with a star-like grate on top. Six control knobs are positioned on the front panel, aligned with the burners.",
+    "internal_interaction_description": "Each burner is connected to a corresponding control knob, allowing for individual flame adjustment. The star-like grates provide stable support for cookware, distributing heat evenly across the bottom of pots and pans. Gas lines run internally to supply each burner with fuel, ensuring efficient operation.",
+    "external_interaction_description": "The cooktop interacts with cookware such as pots and pans placed on the burners. Users adjust the knobs to control the flame intensity for cooking. It requires an external gas supply connection and can be integrated into a kitchen countertop for seamless use."
+}

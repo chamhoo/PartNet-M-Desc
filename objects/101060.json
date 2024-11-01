@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, white, cart-like object with wheels.",
+    "part_description": "Two large circular wheels, a rectangular base, and two extended handles. The wheels are positioned on either side of the base, with handles at the front.",
+    "internal_interaction_description": "The wheels are attached to the sides of the base, allowing rotation. The handles are fixed to the base, providing leverage for movement. The structure is simple, with the base supporting the weight and the wheels enabling mobility.",
+    "external_interaction_description": "The cart can be pushed or pulled using the handles, interacting with surfaces through its wheels. It can transport small objects or be used in play. Its lightweight design allows easy maneuverability by a person."
+}

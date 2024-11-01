@@ -1,0 +1,6 @@
+{
+    "base_description": "Red double doors with rectangular windows.",
+    "part_description": "Two rectangular doors with vertical windows, handles, and hinges. Windows are centered in each door. Handles are located at mid-height on each door's outer edge.",
+    "internal_interaction_description": "The doors are hinged at the sides, allowing them to swing open and closed. The handles facilitate manual operation. The windows provide visibility through the doors, maintaining structural separation while allowing light passage.",
+    "external_interaction_description": "The doors interact with people by providing access control to a space. They can be pushed or pulled open. The windows allow visibility from both sides, and the handles are used for operation. The doors can be locked to restrict entry."
+}

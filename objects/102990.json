@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic stapler with blue accents.",
+    "part_description": "Consists of a base, handle, and staple compartment. The base is flat with a blue end, the handle is curved with a blue top, and the staple compartment is enclosed within.",
+    "internal_interaction_description": "The handle, when pressed, pushes a metal plate that drives a staple through paper. The staple compartment holds staples in place, feeding them one by one to the metal plate. A spring mechanism returns the handle to its original position after release.",
+    "external_interaction_description": "The stapler interacts with paper by binding sheets together using staples. It requires manual force to operate, with the user pressing the handle. The base provides stability on flat surfaces, allowing precise alignment of staples with paper edges."
+}

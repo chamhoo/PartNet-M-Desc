@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wheelbarrow, rectangular body, single wheel.",
+    "part_description": "Includes one large rectangular tray, two handles, one wheel at the front center, and two supporting legs at the back.",
+    "internal_interaction_description": "The tray is mounted on a frame that connects to the handles, allowing for easy lifting and maneuvering. The single wheel is centrally positioned beneath the tray, providing balance and support during movement. The supporting legs stabilize the wheelbarrow when stationary.",
+    "external_interaction_description": "The wheelbarrow is designed to transport materials, pushed by a person using the handles. The wheel aids in smooth rolling over various terrains, while the tray holds items securely. It interacts with surfaces by rolling on the wheel and resting on the legs when not in motion."
+}

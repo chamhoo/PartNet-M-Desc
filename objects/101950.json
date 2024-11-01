@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular USB drive, gray and black, compact.",
+    "part_description": "Features a rectangular body, black sliding cover, and USB connector. The body is mostly gray with a black section at one end. The USB connector is retractable and located at the opposite end of the black cover.",
+    "internal_interaction_description": "The black sliding cover moves along a track on the gray body, allowing the USB connector to extend or retract. The connector securely fits into the body when not in use, protected by the cover. The sliding mechanism ensures a smooth transition between open and closed states.",
+    "external_interaction_description": "Interacts with computers and other devices via the USB connector, allowing data transfer and storage. The compact design makes it easy to carry and plug into USB ports. The cover protects the connector from dust and damage when not in use, enhancing durability."
+}

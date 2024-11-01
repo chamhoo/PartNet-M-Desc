@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular box with a small handle.",
+    "part_description": "The box has a main rectangular body and a small handle on the front, centrally positioned. The body is uniform in shape and color, with slightly rounded edges.",
+    "internal_interaction_description": "The handle is attached to the front face of the box, allowing it to open or close. The box likely has a hinge mechanism at the back or inside edges to facilitate this movement, enabling access to its interior space.",
+    "external_interaction_description": "The box can be opened by pulling the handle, allowing storage or retrieval of items. It can be placed on flat surfaces and interacts with users through its handle for opening and closing."
+}

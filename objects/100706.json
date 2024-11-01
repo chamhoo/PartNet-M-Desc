@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, silver remote with various buttons.",
+    "part_description": "Features multiple rows of round buttons, two colored buttons on top, and a numeric keypad at the bottom.",
+    "internal_interaction_description": "The buttons are connected to internal circuits that send signals when pressed. The colored buttons likely serve distinct functions, like power or mode selection, interacting with specific circuitry to execute commands.",
+    "external_interaction_description": "Designed to interact with electronic devices like TVs or stereos, sending infrared signals to control functions such as power, volume, and channel selection when aimed at the device."
+}

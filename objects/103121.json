@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular microwave with digital controls.",
+    "part_description": "Features a door with a handle, control panel, and display. The handle is on the right, the control panel is above the door, and the display is centered.",
+    "internal_interaction_description": "The control panel sends signals to the microwave's internal components, managing power levels and timing. The door, when opened or closed, interacts with safety switches, ensuring operation only when securely shut.",
+    "external_interaction_description": "Interacts with users through the control panel for operation. The door opens outward to allow access to the internal cavity for placing food items. Connects to power supply via a cord, requiring a nearby electrical outlet."
+}

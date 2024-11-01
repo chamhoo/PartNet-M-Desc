@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, black coffee machine with buttons.",
+    "part_description": "Includes a drip tray, control panel with buttons, spout, and cup area, all arranged on the front. The drip tray is at the bottom, buttons on top, and spout centrally positioned.",
+    "internal_interaction_description": "The control panel buttons activate internal mechanisms to brew coffee. The spout dispenses coffee into a cup placed on the drip tray, which collects excess liquid. Internal components heat water and manage coffee grounds for brewing.",
+    "external_interaction_description": "Users interact by pressing buttons to select coffee options. A cup is placed under the spout to collect coffee. The machine can be connected to a power source and water supply, and interacts with coffee grounds or pods."
+}

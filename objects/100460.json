@@ -1,0 +1,6 @@
+{
+    "base_description": "White bucket with handle, cylindrical shape.",
+    "part_description": "Consists of a cylindrical body and a curved handle attached at two opposite points near the top. The body is wide at the top, narrowing slightly towards the base.",
+    "internal_interaction_description": "The handle is connected to the bucket's body at two pivot points, allowing it to move up and down for carrying or setting aside. The bucket's cylindrical shape allows for uniform distribution of contents, maintaining balance when carried.",
+    "external_interaction_description": "The bucket can be used to carry liquids or small objects, interacting with people by providing a convenient handle for transportation. It can be placed on flat surfaces due to its stable base, and it can be filled or emptied through the open top."
+}

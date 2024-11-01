@@ -1,0 +1,6 @@
+{
+    "base_description": "Red-handled scissors with silver blades.",
+    "part_description": "Two silver blades intersect at a pivot with two red handles. Each handle is oval-shaped, with one larger than the other, positioned opposite each other.",
+    "internal_interaction_description": "The blades intersect and pivot around a central point, allowing them to open and close. The handles are attached to the blades, providing leverage for cutting. When the handles are squeezed together, the blades come together to cut materials placed between them.",
+    "external_interaction_description": "The scissors interact with external objects by cutting materials such as paper, fabric, or string. A user holds the handles, applying pressure to close the blades. The sharp edges of the blades slice through materials, relying on manual force for operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, multi-tool knife with metallic finish.",
+    "part_description": "Includes a main blade, saw blade, and handle. The main blade is sharp and pointed, while the saw blade has serrated edges. Both blades fold into the handle for compact storage.",
+    "internal_interaction_description": "The blades pivot around a central hinge, allowing them to fold into the handle. The hinge mechanism ensures that only one blade can be extended at a time, providing stability and ease of use.",
+    "external_interaction_description": "Designed for portability and versatility, the knife can be used for cutting, sawing, and other tasks. It interacts with various materials like wood or rope and is operated manually by the user through the handle."
+}

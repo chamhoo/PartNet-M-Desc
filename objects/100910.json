@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, white, dual-panel light switch.",
+    "part_description": "Two rectangular panels side by side on a square base.",
+    "internal_interaction_description": "The two panels are hinged, allowing them to pivot independently. Each panel is connected to an internal switch mechanism that completes an electrical circuit when pressed, enabling or disabling power flow to a connected device.",
+    "external_interaction_description": "The switch is mounted on a wall and interacts with the electrical system of a building. Users press the panels to control lighting or other electrical devices, providing a simple interface for managing power usage in a room."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular USB flash drive with metal connector.",
+    "part_description": "Consists of a red plastic cover and a retractable metal connector. The cover is rectangular and encloses the connector, which is also rectangular and metallic, extending from one end.",
+    "internal_interaction_description": "The metal connector slides in and out of the red plastic cover, allowing protection when not in use. The sliding mechanism ensures the connector is securely housed within the cover when retracted, preventing damage.",
+    "external_interaction_description": "The USB flash drive connects to electronic devices via its metal connector, facilitating data transfer. It can be inserted into USB ports on computers, laptops, or other compatible devices, and is easily portable due to its compact size."
+}

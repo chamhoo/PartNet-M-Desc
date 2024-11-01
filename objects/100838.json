@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray suitcase with wheels and handle.",
+    "part_description": "Features four wheels at the base, a retractable handle on top, and a rectangular body. The wheels are small and positioned at each corner, while the handle is centered on the top edge.",
+    "internal_interaction_description": "The retractable handle slides in and out of the suitcase body, allowing for height adjustment. The wheels rotate independently, facilitating smooth movement in various directions. The suitcase body is hollow, designed to store items securely.",
+    "external_interaction_description": "The suitcase is pulled by the handle, allowing a person to transport belongings easily. The wheels enable smooth rolling on surfaces like airport floors. It fits into overhead compartments or car trunks, interacting with transportation settings efficiently."
+}

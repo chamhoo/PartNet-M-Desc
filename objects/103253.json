@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray window with three glass panels.",
+    "part_description": "Three rectangular glass panels arranged horizontally within a frame. The frame is gray, with two vertical dividers separating the panels into one large and two smaller sections.",
+    "internal_interaction_description": "The glass panels are securely held within the sturdy gray frame. The two vertical dividers provide structural support and separation between the panels, ensuring stability and proper alignment. The frame encompasses all panels, maintaining their position and allowing for potential sliding or opening mechanisms.",
+    "external_interaction_description": "The window allows light and air to pass through while providing a view outside. It can be opened or closed by people to regulate ventilation. The frame may be mounted into a wall or structure, interacting with surrounding architectural elements to enhance functionality and aesthetics."
+}

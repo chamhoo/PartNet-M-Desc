@@ -1,0 +1,6 @@
+{
+    "base_description": "Black keyboard and mouse set, rectangular and ergonomic.",
+    "part_description": "Keyboard with rectangular keys and numeric pad; ergonomic mouse with curved shape. Keyboard has a slim profile and is wired, while the mouse is wireless.",
+    "internal_interaction_description": "The keyboard's keys interact with the internal circuits to register keystrokes. The mouse's buttons and scroll wheel interact with internal sensors to detect movement and clicks. Both parts are designed to provide input to a computer system.",
+    "external_interaction_description": "The keyboard connects to a computer via a cable, allowing for data input. The wireless mouse interacts with a computer through a USB receiver, enabling cursor control. Both are used by people to perform tasks on a computer."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black cooling fan with blades and frame.",
+    "part_description": "Consists of a square frame, central hub, and multiple blades. Blades are evenly spaced and attached to the hub, positioned within the frame.",
+    "internal_interaction_description": "The blades are mounted on the central hub, which rotates to generate airflow. The frame holds the structure steady, ensuring the blades spin smoothly without obstruction.",
+    "external_interaction_description": "Designed to be mounted on electronic devices, facilitating heat dissipation by moving air across components. Can be connected to power sources for operation, often used in computers and appliances."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Curved, gray and white, modern computer mouse.",
+    "part_description": "Features two main buttons, a scroll wheel, and a sleek, curved body. The buttons are positioned on top, with the scroll wheel centered between them. The body is smooth and ergonomically designed for comfortable hand placement.",
+    "internal_interaction_description": "The main buttons are connected to internal switches that register clicks when pressed. The scroll wheel rotates within its housing, enabling vertical navigation. These components work together to provide precise cursor control and input functionality, enhancing user interaction with computer interfaces.",
+    "external_interaction_description": "The mouse connects wirelessly or via USB to a computer, allowing users to control the cursor on the screen. It interacts with various surfaces for tracking movement. The ergonomic design fits comfortably in the user's hand, reducing strain during extended use, and enhances productivity in digital tasks."
+}

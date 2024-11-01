@@ -1,0 +1,6 @@
+{
+    "base_description": "Square blue fan with a handle and knob.",
+    "part_description": "Includes a blue square frame, white grid cover, white fan blades, a top handle, and a control knob. The grid is front-mounted, blades centrally positioned, handle on top, and knob beside the handle.",
+    "internal_interaction_description": "The fan blades rotate within the frame when powered, drawing air through the grid cover. The control knob adjusts the speed of the blade rotation. The handle is fixed and does not affect the fan's operation, providing a means to carry or position the fan.",
+    "external_interaction_description": "The fan circulates air in its environment when activated, cooling the surrounding area. It can be placed on various surfaces or carried using the handle. The knob allows users to control the airflow intensity, enhancing comfort in different settings."
+}

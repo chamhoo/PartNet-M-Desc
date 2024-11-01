@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, oval-shaped wireless computer mouse.",
+    "part_description": "Contains two buttons on top, a scroll wheel between, with a smooth, curved surface. Compact size fits comfortably in hand.",
+    "internal_interaction_description": "The buttons and scroll wheel are mechanically connected to internal switches. Pressing a button activates a switch, sending a signal to the computer. The scroll wheel rotates, engaging a sensor to scroll on the screen.",
+    "external_interaction_description": "Interacts wirelessly with a computer via a USB receiver or Bluetooth. Users move the mouse to control cursor position on the screen, clicking buttons to select or execute commands, and scrolling for navigation."
+}

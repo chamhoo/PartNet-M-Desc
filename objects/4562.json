@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular monitor with a sturdy base.",
+    "part_description": "The monitor has a rectangular screen, a thin bezel, a flat back, and a wide, curved base. The screen is positioned vertically on the base, which supports it from below.",
+    "internal_interaction_description": "The screen is attached to a bezel that frames it, providing structural integrity and housing for internal components. The base connects to the back of the monitor, allowing it to stand upright and maintain balance.",
+    "external_interaction_description": "The monitor interfaces with computers via cables, displaying visual output. It can be placed on desks, adjusted for viewing angles, and interacted with through connected devices like keyboards and mice. It requires a power source to function."
+}

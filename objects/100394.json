@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray remote control with black buttons.",
+    "part_description": "Features multiple black buttons arranged in rows on a rectangular gray body. Blue buttons are positioned at the top. The buttons vary in size and shape, with some rectangular and others circular.",
+    "internal_interaction_description": "The buttons interact with the internal circuit board to send signals when pressed. Each button corresponds to a specific function, activating different electronic components within the remote to transmit infrared signals.",
+    "external_interaction_description": "The remote interacts with electronic devices like TVs or audio systems by sending infrared signals when buttons are pressed. It requires a line of sight to the device's sensor and is typically operated by hand, responding to user inputs to control the device."
+}

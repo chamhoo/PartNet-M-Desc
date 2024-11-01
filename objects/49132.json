@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray refrigerator with two doors.",
+    "part_description": "Two vertically aligned doors, each with a handle on the right side, occupying the front of the rectangular body.",
+    "internal_interaction_description": "The two doors open to separate compartments, each providing access to different storage areas within the refrigerator. The handles facilitate the opening and closing of the doors, ensuring secure sealing to maintain internal temperature.",
+    "external_interaction_description": "The refrigerator interacts with users through the doors, allowing access to stored items. It connects to a power source to maintain cooling. Its surface may hold magnets or notes, and it fits into kitchen spaces alongside other appliances."
+}

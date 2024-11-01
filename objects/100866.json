@@ -1,0 +1,6 @@
+{
+    "base_description": "Square gray plate with protruding cylinder.",
+    "part_description": "One flat square plate with rounded edges, gray color; one centered cylindrical protrusion, light gray, extending outward.",
+    "internal_interaction_description": "The cylindrical protrusion is centrally attached to the square plate, providing a stable connection. The cylinder's base is flush with the plate's surface, ensuring it is securely affixed and maintains its position during any external interactions.",
+    "external_interaction_description": "The object can be mounted or attached to surfaces, serving as a handle or knob. It interacts with human hands for gripping or turning, and may connect with other mechanical parts in devices or furniture."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a single door.",
+    "part_description": "The cabinet has one main door with a handle located centrally. It is tall and rectangular, with smooth surfaces and a flat top. The handle is positioned vertically on the front.",
+    "internal_interaction_description": "The door is attached to the main body via hinges, allowing it to swing open and closed. The handle facilitates grip for opening the door. Inside, there may be shelves or compartments, though they are not visible from the outside.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, interacting with the surrounding space by providing storage. The door can be opened by pulling the handle, allowing access to contents. It serves as a functional piece of furniture in various settings."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with two doors.",
+    "part_description": "Two vertical doors with handles, rectangular shape, positioned at the front; rectangular top surface, flat and horizontal.",
+    "internal_interaction_description": "The two doors are hinged on the sides, allowing them to swing open and close. The handles are centrally positioned on each door for easy access. The top surface is flat, providing structural support and a potential storage area.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a countertop. It interacts with users through the doors, which can be opened to access contents inside. The top surface can be used for placing objects or as a workspace."
+}

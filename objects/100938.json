@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, single-wheel wooden cart with handles.",
+    "part_description": "Includes a large wheel, two handles, and a rectangular box. The wheel is centrally positioned, handles extend from the back, and the box is mounted on top.",
+    "internal_interaction_description": "The wheel supports the cart's weight and enables movement. The handles are connected to the frame, allowing for control and maneuverability. The box is securely attached to the frame, providing space for carrying items.",
+    "external_interaction_description": "The cart interacts with the ground via the wheel, allowing it to be pushed or pulled by a person. The handles facilitate human interaction, providing leverage and control during transport. The box can hold various items, making it useful for carrying goods."
+}

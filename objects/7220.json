@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, rectangular oven with three compartments.",
+    "part_description": "Three rectangular doors stacked vertically; each door has a handle and a dark glass window in the center.",
+    "internal_interaction_description": "Each door opens to reveal a separate compartment, allowing for simultaneous cooking or baking in different sections. The handles provide easy access, and the glass windows enable monitoring of the cooking process without opening the doors.",
+    "external_interaction_description": "The oven interacts with users through its doors and handles, facilitating the insertion and removal of food items. It requires an external power source for operation and can be installed in kitchens, interacting with surrounding cabinetry and appliances."
+}

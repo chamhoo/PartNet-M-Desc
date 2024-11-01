@@ -1,0 +1,6 @@
+{
+    "base_description": "Dark sliding door with metal handles.",
+    "part_description": "Two metal handles centered on a dark rectangular panel, flanked by horizontal metal rails at the top and bottom.",
+    "internal_interaction_description": "The metal handles are symmetrically attached to the central panel, allowing for manual sliding along the horizontal rails. The rails provide a guided path for smooth movement of the panel within the frame.",
+    "external_interaction_description": "The door interacts with surrounding walls or partitions, providing access or division between spaces. Users can slide the door open or closed using the handles, integrating into architectural or interior design elements."
+}

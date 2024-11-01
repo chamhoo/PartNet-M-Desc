@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, white and black printer.",
+    "part_description": "Contains a paper tray, control panel, and vented top. The paper tray is at the bottom front, the control panel is on the top right, and the vented section is on the top surface.",
+    "internal_interaction_description": "The paper tray feeds sheets into the printer mechanism, where ink is applied by the internal print head. The control panel allows users to operate the printer, changing settings or initiating tasks. The vented top ensures proper cooling during operation.",
+    "external_interaction_description": "Interacts with computers or devices via wired or wireless connections to receive print jobs. Users interact with the control panel to manage printing tasks. The paper tray interacts with external paper supplies, requiring manual loading by users."
+}

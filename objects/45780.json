@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with two doors.",
+    "part_description": "The cabinet has two rectangular doors, each with a handle, symmetrically positioned on the front. The top is flat and open, suitable for a countertop.",
+    "internal_interaction_description": "The two doors swing open on hinges, providing access to the interior storage space. The handles facilitate easy opening and closing. The cabinet's internal space is likely divided by shelves for organized storage.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a countertop in a kitchen or bathroom. It interacts with users by providing storage space and supporting items placed on top. Doors allow for access to stored items."
+}

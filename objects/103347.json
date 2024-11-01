@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray mobile phone with keypad.",
+    "part_description": "Features a screen, numeric keypad, and navigation button. Screen is at the top, keypad below, navigation button centered above the keypad.",
+    "internal_interaction_description": "The screen displays information controlled by the keypad. The numeric keys allow input, while the central navigation button facilitates menu navigation and selection. Internal circuits connect all components, enabling communication between the screen, keypad, and internal processor.",
+    "external_interaction_description": "Used for communication, the phone interacts with cellular networks to send and receive calls and messages. Users interact via the keypad and screen. The phone can connect to other devices through Bluetooth or wired connections for data transfer."
+}

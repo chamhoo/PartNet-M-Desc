@@ -1,0 +1,6 @@
+{
+    "base_description": "Black microwave with digital display and open door.",
+    "part_description": "Features a door with glass, digital keypad, display, interior cavity, and rotating glass plate. The door is on the front, the keypad and display on the right, and the plate inside.",
+    "internal_interaction_description": "The microwave's rotating glass plate ensures even heating by spinning the item inside. The digital keypad allows user input, which is displayed on the screen. The door's glass enables viewing without opening, and it seals the cavity to contain microwaves.",
+    "external_interaction_description": "Used by placing food or drink inside, closing the door, and setting the time with the keypad. It interacts with electricity to function, and the display shows the remaining time. The user can observe through the glass door."
+}

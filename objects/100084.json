@@ -1,0 +1,6 @@
+{
+    "base_description": "Small red wheelbarrow with orange handles.",
+    "part_description": "Includes a red tray, two orange handles, and one black wheel. The tray is positioned at the front, handles extend backward, and the wheel is centrally located beneath the tray.",
+    "internal_interaction_description": "The red tray is mounted on the frame, supported by the single black wheel at the front. The orange handles are attached to the sides of the tray, providing leverage and control. The wheel allows movement and supports the tray's weight.",
+    "external_interaction_description": "The wheelbarrow can be pushed or pulled by a person using the handles. It is designed to carry various materials like soil or tools, facilitating transport over short distances. The wheel enables smooth movement on different terrains."
+}

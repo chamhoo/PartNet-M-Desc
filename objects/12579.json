@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular box with a smooth surface.",
+    "part_description": "Consists of a main body and a handle on one side. The handle is horizontal, positioned near the top of the front face.",
+    "internal_interaction_description": "The handle is securely attached to the front face of the box, allowing it to be opened or closed. The main body is a hollow structure providing storage space inside.",
+    "external_interaction_description": "The box can be placed on flat surfaces and interacted with by pulling the handle to access its contents. It can store items and be moved easily due to its compact size."
+}

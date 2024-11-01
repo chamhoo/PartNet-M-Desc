@@ -1,0 +1,6 @@
+{
+    "base_description": "Square gray switch with a yellow border.",
+    "part_description": "Consists of a square base and a central button. The base is larger, gray, and flat, while the button is smaller, protruding, and bordered in yellow.",
+    "internal_interaction_description": "The central button is designed to move inward when pressed, activating the switch mechanism within the base. The yellow border provides a visual cue for the button's boundaries. The button is securely attached to the base, allowing for smooth operation without detachment.",
+    "external_interaction_description": "The switch interacts with users through pressing, allowing them to control electrical circuits. It is typically mounted on walls, enabling easy access. The design ensures visibility and ease of use, contributing to efficient operation in residential or commercial settings."
+}

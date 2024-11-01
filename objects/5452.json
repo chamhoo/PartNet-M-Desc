@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige, boxy computer monitor with black screen.",
+    "part_description": "Consists of a rectangular screen, beige casing, and base. The screen is centrally positioned, surrounded by a thick beige border. The base is flat and supports the monitor.",
+    "internal_interaction_description": "The screen is embedded within the casing, allowing it to display images while being protected. The base connects to the casing, providing stability and support for the entire structure, ensuring the monitor remains upright.",
+    "external_interaction_description": "The monitor connects to a computer via cables for data input, displaying visual output. It interacts with users by showing text and images, allowing for visual communication. It requires a power source to function and may have additional ports for peripherals."
+}

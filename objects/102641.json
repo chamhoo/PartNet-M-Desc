@@ -1,0 +1,6 @@
+{
+    "base_description": "White porcelain toilet with a modern design.",
+    "part_description": "Consists of a tank, bowl, seat, and lid; arranged vertically. The tank is rectangular, the bowl is oval, and the seat fits the bowl's shape.",
+    "internal_interaction_description": "The tank holds water, which is released into the bowl when flushed. The seat and lid can be lifted or lowered on hinges attached to the bowl. Water flows from the tank through a valve into the bowl, creating a siphoning action for waste removal.",
+    "external_interaction_description": "Interacts with plumbing for water supply and waste disposal. Users lift the lid and seat to access the bowl. The flush handle or button on the tank allows users to initiate flushing, which requires a connection to a water line and drainage system."
+}

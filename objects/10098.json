@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and white laptop with a sleek design.",
+    "part_description": "Consists of a screen, keyboard, trackpad, and ports. The screen is rectangular and attached to the base, which houses the keyboard and trackpad. Ports are located on the sides.",
+    "internal_interaction_description": "The screen is connected to the base via hinges, allowing it to open and close. The keyboard and trackpad are integrated into the base, enabling input. Internal wiring connects these components to the motherboard for processing and display functions.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and trackpad for input and the screen for output. It can connect to external devices via ports, such as USBs, and wirelessly through Wi-Fi and Bluetooth. The lid can be closed for portability."
+}

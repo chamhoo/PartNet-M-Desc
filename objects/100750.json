@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue globe with gray stand and axis.",
+    "part_description": "The globe has a spherical shape with a gray semi-circular axis and a hexagonal base. The axis is attached at two points on the globe's surface, holding it in place.",
+    "internal_interaction_description": "The globe rotates around the axis, which is fixed to the base. The axis allows the globe to spin smoothly, simulating Earth's rotation. The base provides stability, ensuring the globe remains upright and secure.",
+    "external_interaction_description": "The globe can be manually rotated to view different parts of the map. It serves educational purposes, helping users understand geography. The stable base allows it to be placed on desks or shelves for easy access and display."
+}

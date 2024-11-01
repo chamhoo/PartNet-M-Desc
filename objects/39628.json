@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern chair with curved legs and wheels.",
+    "part_description": "The chair has a backrest, seat, and four curved legs with wheels. The backrest is rectangular, and the seat is square. The legs are slightly bent and positioned at each corner, ending with small wheels.",
+    "internal_interaction_description": "The backrest is connected to the seat, providing support. The legs are attached to the seat's underside, ensuring stability. Wheels at the bottom of each leg allow movement and are designed to support weight distribution evenly across the chair.",
+    "external_interaction_description": "The chair interacts with users by providing seating support, allowing for movement due to its wheels. It can be used on various floor surfaces, and its modern design makes it suitable for office and home environments. The wheels facilitate easy repositioning and enhance user convenience."
+}

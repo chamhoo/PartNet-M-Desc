@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue office chair with black armrests and wheels.",
+    "part_description": "Chair has a blue backrest and seat, two black armrests, a white base with five legs, and black wheels at the bottom of each leg.",
+    "internal_interaction_description": "The backrest and seat are connected to the central support, providing stability. Armrests are attached to the sides of the seat, offering support. The base connects to the central support, distributing weight evenly across the five legs. Wheels at the bottom allow for smooth movement.",
+    "external_interaction_description": "The chair is designed for use at desks, allowing users to sit comfortably while working. Its wheels enable easy movement on flat surfaces, enhancing mobility. The armrests offer additional support for the user's arms, reducing fatigue during prolonged use."
+}

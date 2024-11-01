@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular brown door with white frame.",
+    "part_description": "Consists of a rectangular brown door, white frame, and handle. The door is positioned vertically within the frame, with the handle on the right side.",
+    "internal_interaction_description": "The brown door is attached to the white frame with hinges, allowing it to swing open or closed. The handle is positioned on the right side of the door, facilitating manual operation. The frame provides structural support and alignment for the door's movement.",
+    "external_interaction_description": "The door interacts with external elements by opening or closing to allow or restrict passage. It can be operated by people using the handle. The frame is fixed to a wall or doorway, providing stability and boundary definition between spaces."
+}

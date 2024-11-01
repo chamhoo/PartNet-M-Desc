@@ -1,0 +1,6 @@
+{
+    "base_description": "Black ergonomic office chair with wheels.",
+    "part_description": "The chair has a cushioned seat, high backrest, two armrests, a swivel base, and five wheels. The seat and backrest are upholstered, and the armrests are positioned on either side.",
+    "internal_interaction_description": "The seat is connected to the backrest, providing support and comfort. The armrests are attached to the sides of the seat. The swivel base allows 360-degree rotation, and the wheels enable movement across surfaces. The height can be adjusted via a lever mechanism beneath the seat.",
+    "external_interaction_description": "The chair interacts with the user by providing seating support and comfort. Its wheels allow it to move easily on floors, and the swivel feature enables the user to turn without moving the base. It can be adjusted to fit various desk heights for ergonomic use."
+}

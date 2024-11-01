@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with doors.",
+    "part_description": "Two vertical doors on top, one horizontal drawer below. Doors and drawer have handles for access. Cabinet is tall and rectangular.",
+    "internal_interaction_description": "The vertical doors open outward to reveal storage space inside the cabinet. The horizontal drawer slides out to provide additional storage. The handles facilitate opening and closing of the doors and drawer, ensuring smooth functionality and access to stored items.",
+    "external_interaction_description": "The cabinet interacts with the environment by providing storage space for various items. It can be placed against a wall in homes or offices. Users interact with it by opening the doors and drawer to store or retrieve items, utilizing the handles for easy operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White cardboard box with open flaps.",
+    "part_description": "Box has four flaps, two large, two small, with printed text and arrow. Flaps are rectangular, positioned on top, varying in size.",
+    "internal_interaction_description": "The flaps interact by folding over each other to close the box. The larger flaps overlap the smaller ones, providing a secure closure when folded. The printed text and arrow on the flaps guide proper orientation.",
+    "external_interaction_description": "The box interacts with external elements by serving as a container for items. It provides protection and organization, and the printed arrow and text guide handling. The box can be stacked or transported, interacting with other boxes and surfaces."
+}

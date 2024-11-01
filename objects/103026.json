@@ -1,0 +1,6 @@
+{
+    "base_description": "Pink wired computer mouse, small and ergonomic.",
+    "part_description": "Contains two main buttons, a scroll wheel, and a cable. Buttons are on top, wheel is centered, cable extends from the front.",
+    "internal_interaction_description": "The buttons and scroll wheel interact with internal switches to send signals through the cable. Pressing a button or scrolling the wheel activates specific switches, which translate physical actions into digital signals for the computer.",
+    "external_interaction_description": "The mouse connects to a computer via the cable, allowing users to navigate and interact with on-screen elements. It requires a flat surface for optimal movement and is typically operated by hand, translating physical motions into cursor movements on the display."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray camera with a black lens.",
+    "part_description": "Includes a black circular lens on top left, concentric circles on front, rectangular body.",
+    "internal_interaction_description": "The lens is positioned on the top left of the camera body, allowing light to enter and focus on the internal sensor. Concentric circles on the front may indicate a decorative element or a focus ring, enhancing the camera's functionality or design.",
+    "external_interaction_description": "The camera interacts with users through its lens, capturing images when held and operated by a person. It can be connected to other devices for image transfer, and the design allows it to be portable, fitting into bags or pockets."
+}

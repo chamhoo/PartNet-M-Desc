@@ -1,0 +1,6 @@
+{
+    "base_description": "White, round electric rice cooker with a lid.",
+    "part_description": "Includes a removable lid with a handle, main body with control panel, and side handles. Circular shape, medium size.",
+    "internal_interaction_description": "The lid fits securely on the main body, creating a sealed environment for cooking. The control panel regulates temperature and cooking time. Side handles are attached for easy lifting.",
+    "external_interaction_description": "The rice cooker connects to a power source for operation. It is used by placing rice and water inside, then activating the control panel. The cooker maintains heat and pressure, ensuring even cooking. It's portable and can be placed on kitchen countertops."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray cooling fan with blades.",
+    "part_description": "Features a square frame with multiple angled blades inside. The blades are evenly spaced and attached to a central hub. The frame has four corner mounting holes.",
+    "internal_interaction_description": "The blades rotate around the central hub when powered, creating airflow. The even spacing of the blades ensures balanced rotation, while the frame supports and stabilizes the entire structure, allowing efficient air movement through the fan.",
+    "external_interaction_description": "The fan can be mounted inside electronic devices or machines to provide cooling by circulating air. It interacts with the surrounding environment by reducing heat buildup, which can enhance the performance and longevity of electronic components."
+}

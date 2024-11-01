@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray dishwasher with a metallic finish.",
+    "part_description": "Features a front door with handle, control panel on top, and a flat top surface. The door is centered, and the control panel is horizontally aligned above it.",
+    "internal_interaction_description": "The control panel sends commands to the internal mechanisms, which operate the washing cycles. The door seals tightly to prevent water leakage, and the handle allows for easy opening and closing.",
+    "external_interaction_description": "The dishwasher connects to water and power supplies. Users interact with the control panel to select settings and open the door to load or unload dishes."
+}

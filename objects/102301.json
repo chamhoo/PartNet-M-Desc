@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cubic safe with a circular dial.",
+    "part_description": "Includes a handle on the left, a circular combination dial in the center, and four small feet at the base.",
+    "internal_interaction_description": "The handle is connected to a locking mechanism that interacts with the combination dial. Turning the dial aligns internal gears, allowing the handle to unlock the safe when the correct combination is entered.",
+    "external_interaction_description": "The safe can be placed on a flat surface, and the handle is used by people to open it. The combination dial requires manual input to unlock, providing security for contents inside."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical pump bottle with a nozzle.",
+    "part_description": "Consists of a cylindrical body, a round pump head, and a nozzle. The pump head is positioned on top of the body, with the nozzle extending outward.",
+    "internal_interaction_description": "The pump head is pressed to create pressure inside the bottle, which forces the liquid through the internal tube and out of the nozzle. The nozzle directs the flow of the liquid upon release.",
+    "external_interaction_description": "The bottle is operated by pressing the pump head, allowing liquid to be dispensed onto hands or other surfaces. It can be refilled by unscrewing the pump head. The object is often placed on countertops for easy access."
+}

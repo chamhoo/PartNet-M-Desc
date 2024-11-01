@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow utility knife with retractable blade.",
+    "part_description": "Includes a yellow plastic handle, a retractable silver blade, and a black slider. The blade is positioned at one end, with the slider on top for adjustment.",
+    "internal_interaction_description": "The slider moves along a track on the handle, allowing the blade to extend or retract. The blade is held in place by the slider's mechanism, ensuring it stays secure during use and adjustment.",
+    "external_interaction_description": "Used by hand to cut materials like paper or cardboard. The blade extends to the required length for cutting and retracts for safety when not in use. The handle provides grip and control during operation."
+}

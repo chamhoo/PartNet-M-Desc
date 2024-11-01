@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, white, rectangular cabinet with a minimal design.",
+    "part_description": "The cabinet has a door, three shelves, and a handle. The door covers the front, the shelves are evenly spaced inside, and the handle is on the side.",
+    "internal_interaction_description": "The shelves are fixed within the cabinet, providing stable storage. The door swings open on hinges, allowing access to the shelves. The handle facilitates the opening and closing of the door.",
+    "external_interaction_description": "The cabinet can be placed against a wall, used to store items like books or clothes. Its handle allows easy access, and its flat top can hold small objects. It interacts with users through its door and handle for accessing contents."
+}

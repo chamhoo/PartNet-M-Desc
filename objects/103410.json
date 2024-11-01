@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, gray pump bottle.",
+    "part_description": "Includes a cylindrical body, a pump mechanism on top, and a label on the side. The pump is centered on the top, and the label is rectangular, positioned vertically.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, allowing liquid to be drawn up and dispensed when the pump is pressed. The pump's spring mechanism resets it after each use, readying it for the next dispensing action.",
+    "external_interaction_description": "The pump bottle is typically used by pressing the top, which dispenses liquid onto a hand or surface. It interacts with external objects like hands or sponges, providing controlled amounts of liquid for cleaning or moisturizing purposes."
+}

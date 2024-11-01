@@ -1,0 +1,6 @@
+{
+    "base_description": "Black laptop with orange accents, open position.",
+    "part_description": "Contains a screen, keyboard, trackpad, and base. The screen is rectangular and attached to the base. The keyboard is full-sized with orange accents, located on the base. The trackpad is centered below the keyboard.",
+    "internal_interaction_description": "The keyboard inputs data to the laptop's system when keys are pressed. The trackpad detects touch gestures for cursor movement. The screen displays visual output from the computer's processing unit. Hinges connect the screen and base, allowing the screen to open and close.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and trackpad for input and the screen for output. It can connect to external devices like USB drives and headphones via ports. It also connects to networks wirelessly for internet access, allowing interaction with online resources."
+}

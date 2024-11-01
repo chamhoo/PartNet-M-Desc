@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white light switch with toggle.",
+    "part_description": "Consists of a flat rectangular plate and a central toggle switch. The plate is smooth and the toggle is vertically aligned in the center.",
+    "internal_interaction_description": "The toggle switch moves up and down within the plate's slot, allowing electrical connections to be made or broken. The internal mechanism includes a pivot and spring that facilitate the toggle's movement and maintain its position once set.",
+    "external_interaction_description": "The light switch is mounted on a wall, allowing users to control lighting. When the toggle is flipped, it completes or interrupts the electrical circuit, turning lights on or off. It interfaces with the electrical wiring system of a building."
+}

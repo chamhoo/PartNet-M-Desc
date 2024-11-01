@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a handle.",
+    "part_description": "Single door with a handle, rectangular shape, tall and narrow, positioned vertically. Smooth surfaces with no visible compartments or shelves on the exterior.",
+    "internal_interaction_description": "The cabinet door pivots on hinges attached to the side, allowing it to open and close. The handle facilitates the opening by providing a grip. Inside, shelves or compartments may be present, although not visible externally, providing storage space.",
+    "external_interaction_description": "The cabinet interacts with users who open the door via the handle to access stored items. It can be placed against a wall or within a room, serving as storage for various objects. Its height and narrow width make it suitable for compact spaces."
+}

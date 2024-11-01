@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver toaster with four slots.",
+    "part_description": "Four slots on top, two levers at front, crumb tray at bottom, vented sides.",
+    "internal_interaction_description": "The levers lower bread into the slots, activating internal heating elements. The slots are aligned with these elements to ensure even toasting. The crumb tray collects debris falling from the slots, preventing build-up inside the toaster.",
+    "external_interaction_description": "The toaster is placed on a kitchen counter and plugged into an electrical outlet. Users insert bread into the slots and push down the levers to start toasting. Once done, the levers pop up, and the bread is ejected for easy removal."
+}

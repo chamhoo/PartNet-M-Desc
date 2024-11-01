@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with blue water inside.",
+    "part_description": "Comprises a bowl, seat, lid, tank, and flush button. The bowl is round and contains blue water. The seat and lid are positioned on top of the bowl. The tank is rectangular, located behind the bowl, with a flush button on top.",
+    "internal_interaction_description": "The flush button on the tank, when pressed, releases water from the tank into the bowl, allowing for waste removal. The seat and lid can be lifted or lowered, providing access to the bowl. The water in the bowl is contained and cycled through the plumbing system during flushing.",
+    "external_interaction_description": "The toilet interacts with users who sit on the seat and operate the flush button. It connects to the plumbing system for water supply and waste removal. Cleaning agents may be used on its surfaces for sanitation. The lid can be closed to prevent odors from escaping into the room."
+}

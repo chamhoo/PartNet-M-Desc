@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, cylindrical pen with a red cap.",
+    "part_description": "Consists of a black cylindrical body with a red cap on top and a pointed tip at the bottom.",
+    "internal_interaction_description": "The cap fits snugly over the top of the pen, preventing ink from drying out. The ink reservoir inside the cylindrical body feeds ink to the tip for writing.",
+    "external_interaction_description": "The pen is held by a person for writing or drawing. It interacts with paper or other surfaces to leave a mark, with the cap removed during use and replaced afterward."
+}

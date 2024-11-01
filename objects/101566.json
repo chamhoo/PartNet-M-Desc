@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical silver spray can with blue nozzle.",
+    "part_description": "Features a cylindrical body, a domed top with a blue nozzle. The body is silver, and the nozzle is positioned centrally on top.",
+    "internal_interaction_description": "The nozzle, when pressed, releases the pressurized contents stored inside the can. The internal valve system controls the flow of the contents, ensuring a consistent spray pattern. The pressure inside the can propels the liquid through the nozzle.",
+    "external_interaction_description": "The spray can is used by pressing the nozzle, which releases the contents onto a surface. It interacts with external elements by covering surfaces with paint or other substances, depending on its contents. Users must handle it carefully to avoid accidental discharge."
+}

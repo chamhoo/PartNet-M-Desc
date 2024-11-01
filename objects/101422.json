@@ -1,0 +1,6 @@
+{
+    "base_description": "Small black fan with green blades.",
+    "part_description": "Five green blades enclosed in a black wire cage, mounted on a black stand.",
+    "internal_interaction_description": "The blades rotate around a central axis, driven by an internal motor. The wire cage ensures safety by preventing contact with the spinning blades. The stand provides stability and allows for tilting and directional adjustment.",
+    "external_interaction_description": "The fan circulates air when plugged into a power source, cooling the surrounding area. It can be placed on flat surfaces like desks or tables. Users can adjust the fan's direction and angle to target airflow as needed."
+}

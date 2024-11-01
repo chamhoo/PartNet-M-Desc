@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular blue bed with a gray headboard.",
+    "part_description": "The bed has a blue mattress, rectangular in shape, with a gray headboard attached at one end. The mattress is flat and covers most of the bed frame.",
+    "internal_interaction_description": "The blue mattress rests on the bed frame, providing a flat surface for sleeping. The gray headboard is securely attached to one end of the frame, serving as a support for pillows or sitting up in bed.",
+    "external_interaction_description": "The bed is designed for sleeping or resting, interacting with bedding items like sheets, pillows, and blankets. It supports the weight of a person lying down and can be placed in a bedroom, interacting with surrounding furniture like nightstands or dressers."
+}

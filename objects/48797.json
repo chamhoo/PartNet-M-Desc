@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white storage cabinet.",
+    "part_description": "Three doors vertically aligned, each covering a compartment. Handles on the left side of each door.",
+    "internal_interaction_description": "Each door opens to reveal a separate compartment, allowing for organized storage. The compartments are stacked vertically, with each door operating independently for access to individual sections.",
+    "external_interaction_description": "The cabinet can be placed against a wall, providing storage space in a room. Users can open doors to store or retrieve items, utilizing the handles for easy access."
+}

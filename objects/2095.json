@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, spherical object with protruding parts.",
+    "part_description": "Includes a central sphere, vertical fin, and side propeller-like extensions.",
+    "internal_interaction_description": "The central sphere acts as the core, supporting a vertical fin on top, which is likely for stability or direction. The side propeller-like extensions are evenly spaced around the sphere, possibly for balance or movement functionality.",
+    "external_interaction_description": "The object might interact with air or water, using the fin for steering and the propeller-like parts for propulsion. It could be handled by people or integrated into larger structures for mechanical purposes."
+}

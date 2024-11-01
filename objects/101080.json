@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact red multi-tool with a silver blade.",
+    "part_description": "Includes a red handle, silver blade, and additional tools. The handle is rectangular with rounded edges, housing multiple foldable tools. The blade is extended, positioned at one end.",
+    "internal_interaction_description": "The blade and other tools are housed within the handle, each pivoting around a central axis. When not in use, tools fold neatly into the handle, secured by internal springs. The blade's pivot allows it to lock into place when extended, ensuring stability during use.",
+    "external_interaction_description": "Designed for portability, the multi-tool interacts with various objects for cutting, opening, or repairing tasks. Users grip the handle to deploy tools, which engage with materials like wood, metal, or rope, depending on the tool selected. Its compact size allows easy carrying in pockets or bags."
+}

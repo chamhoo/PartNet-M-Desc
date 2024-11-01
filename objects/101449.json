@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with five blades.",
+    "part_description": "The fan has five equally spaced blades attached to a central hub. The hub connects to a motor housing and a downrod for ceiling attachment. Each blade is elongated and slightly curved.",
+    "internal_interaction_description": "The motor within the housing rotates the central hub, causing the attached blades to spin. This rotation is facilitated by the secure attachment of the blades to the hub, ensuring synchronized movement. The downrod stabilizes the fan, maintaining balance and reducing wobble during operation.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling effects when turned on. It can be controlled via a wall switch or remote, allowing users to adjust speed and direction. The fan's presence requires adequate ceiling space and clearance from other objects for safe operation."
+}

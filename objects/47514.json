@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with a front door.",
+    "part_description": "One rectangular door on the front, a handle on the right side, and flat top and sides. The door is hinged on the left.",
+    "internal_interaction_description": "The door is attached to the cabinet by hinges on the left side, allowing it to swing open and closed. The handle on the right side facilitates pulling the door open. The interior space is enclosed by the door when shut.",
+    "external_interaction_description": "The cabinet can store items inside, accessed by opening the door. It can be placed on a flat surface or mounted, interacting with surrounding furniture and spaces. Users interact by opening or closing the door to access stored items."
+}

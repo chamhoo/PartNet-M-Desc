@@ -1,0 +1,6 @@
+{
+    "base_description": "Small black rectangular electronic component with pins.",
+    "part_description": "Consists of a black rectangular body with three metallic pins protruding from the bottom and a small protrusion on top.",
+    "internal_interaction_description": "The pins are internally connected to the component's circuitry, allowing for electrical flow. The top protrusion may serve as a switch or indicator, interacting with the internal mechanism to control or signal the component's function.",
+    "external_interaction_description": "The component interfaces with circuit boards via the pins, allowing electrical connections. The top protrusion may be manipulated by external devices or users to change operational states, affecting the circuit's behavior or signaling status changes."
+}

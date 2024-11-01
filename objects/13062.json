@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray computer keyboard with standard layout.",
+    "part_description": "Contains multiple rows of keys, including alphanumeric, function, and numeric keypad. Keys are rectangular and evenly spaced. Positioned on a slightly curved base.",
+    "internal_interaction_description": "Keys are arranged in a grid pattern, each key depresses independently, allowing for individual input. The numeric keypad is separate from the main alphanumeric section, facilitating efficient data entry. Function keys are aligned at the top for quick access.",
+    "external_interaction_description": "Connects to a computer via USB or wireless connection, allowing user input through key presses. Interacts with users by providing tactile feedback and enabling data entry, gaming, or command execution in software applications."
+}

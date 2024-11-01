@@ -1,0 +1,6 @@
+{
+    "base_description": "A small blue globe with a yellow stand.",
+    "part_description": "The globe consists of a spherical blue map with white continents, mounted on a yellow base. The base is hexagonal and supports a yellow semi-circular arm that holds the globe.",
+    "internal_interaction_description": "The globe is attached to the yellow arm, allowing it to spin freely around its axis. The arm is connected to the hexagonal base, providing stability and support. The globe's rotation enables viewing different parts of the map.",
+    "external_interaction_description": "The globe can be manually rotated by a person to view different regions. It serves as an educational tool, often used in classrooms or offices, to illustrate geographical locations and concepts. Its compact size allows easy placement on desks or shelves."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red pen with a green cap and clip.",
+    "part_description": "The pen has a red cylindrical body, a green cap with a blue top, and a silver clip attached to the side. The tip is pointed for writing.",
+    "internal_interaction_description": "The blue top of the cap is likely a mechanism to retract or extend the pen's writing tip. The cap fits snugly over the pen's body, securing the ink cartridge inside. The clip is attached to the cap, providing a pivot point for fastening the pen to surfaces.",
+    "external_interaction_description": "This pen interacts with paper to write or draw, using the ink from its cartridge. The clip allows it to attach to pockets or notebooks for easy carrying. The cap protects the ink from drying out and prevents accidental marks when not in use."
+}

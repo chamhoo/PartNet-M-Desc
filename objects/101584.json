@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray metal safe.",
+    "part_description": "Features a hinged door, circular combination dial, handle, and locking bolts. Door occupies front face, dial and handle centered, bolts on edges.",
+    "internal_interaction_description": "The combination dial interacts with internal locking mechanisms, aligning tumblers to release the bolts. The handle, when turned, engages or disengages the bolts, allowing the door to open or lock securely. Bolts slide horizontally into the safe's frame, securing the door tightly when locked.",
+    "external_interaction_description": "The safe interacts with users through the combination dial and handle, requiring specific input to open. It provides secure storage against unauthorized access. The safe is typically placed on a floor or mounted for stability, interacting with its environment to prevent easy removal or tampering."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue and black pliers with a cutting edge.",
+    "part_description": "Two handles, metal jaws, and a pivot point; handles are black and blue, jaws are silver, and arranged in a scissor-like shape.",
+    "internal_interaction_description": "The handles are connected at a pivot point, allowing them to move in a scissor-like motion. When the handles are squeezed together, the metal jaws close, enabling the cutting or gripping of objects between them.",
+    "external_interaction_description": "The pliers are used to grip, twist, or cut wires and other materials. The user applies force to the handles, which translates to the jaws for manipulating objects. Commonly used in electrical work, crafting, or general repairs."
+}

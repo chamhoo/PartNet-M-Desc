@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray computer fan with blades.",
+    "part_description": "Consists of a square frame and multiple curved blades. The frame is thin, and the blades are centrally mounted, evenly spaced within the frame.",
+    "internal_interaction_description": "The blades are attached to a central hub, allowing them to rotate within the frame. This rotation is facilitated by a motor, which is typically located behind the hub. The frame provides stability and structure, ensuring the blades maintain their position and alignment while spinning.",
+    "external_interaction_description": "When powered, the fan blades rotate, moving air through the frame. This airflow can cool electronic components or circulate air within a space. The fan is typically mounted onto a surface, such as a computer case, using screws or clips that align with the holes in the frame corners."
+}

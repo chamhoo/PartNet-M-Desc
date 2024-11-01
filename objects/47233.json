@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray chest with three drawers.",
+    "part_description": "Three equally sized drawers stacked vertically, each with a handle. The structure is rectangular and upright, with a smooth surface.",
+    "internal_interaction_description": "The drawers slide in and out of the main frame on tracks, allowing for smooth opening and closing. Each drawer is supported by its own set of tracks, ensuring stability and ease of movement.",
+    "external_interaction_description": "The chest is designed to store items, accessible by pulling the handles to open the drawers. It can be placed against a wall or in a corner, providing storage in bedrooms or offices."
+}

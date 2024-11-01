@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, gray retractable utility knife with black accents.",
+    "part_description": "Features a long, narrow body, retractable blade, and black slider. The blade is housed in a grooved channel, and the slider is positioned on top for blade control.",
+    "internal_interaction_description": "The slider moves along the grooved channel, allowing the blade to extend or retract. The internal mechanism locks the blade in place when extended, ensuring stability during use. The blade is replaceable, fitting securely within the housing to prevent accidental removal.",
+    "external_interaction_description": "The knife is designed to cut various materials like paper and cardboard. It requires manual operation, with the user sliding the top mechanism to adjust the blade length. The handle provides grip, allowing precise control during cutting tasks."
+}

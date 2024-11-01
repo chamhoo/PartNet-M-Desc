@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, metal pliers with curved handles.",
+    "part_description": "Two curved handles, jointed with a pivot, and flat jaws. The jaws are positioned at the opposite end of the handles and have a gripping surface.",
+    "internal_interaction_description": "The two handles are connected by a pivot, allowing them to move together. When the handles are squeezed, the jaws close, enabling them to grip or cut objects placed between them. The pivot ensures smooth movement and alignment of the jaws.",
+    "external_interaction_description": "The pliers interact with various objects by gripping, twisting, or cutting them. They are typically used by hand, requiring manual force to operate. They can handle wires, small components, or other materials needing precision manipulation."
+}

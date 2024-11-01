@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black dual power outlet.",
+    "part_description": "Two sockets and three switches, evenly arranged on face.",
+    "internal_interaction_description": "Switches control power flow to respective sockets, allowing independent operation. Each socket can be activated or deactivated by its corresponding switch, providing flexibility in usage.",
+    "external_interaction_description": "Connects to electrical devices via plugs, supplying power. Users interact by plugging in devices and toggling switches to control power supply, facilitating energy management and device operation."
+}

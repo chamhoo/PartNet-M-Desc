@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, black espresso machine with retro design.",
+    "part_description": "Features include a circular dial, multiple buttons, a steam wand, and a drip tray. The dial is centered, buttons are symmetrically arranged, and the steam wand is on the side.",
+    "internal_interaction_description": "The dial controls the brewing process, while buttons adjust settings. The steam wand froths milk, and the drip tray collects excess liquid. Internal components heat water and pump it through coffee grounds, coordinating to produce espresso.",
+    "external_interaction_description": "Users interact by pressing buttons and turning the dial to brew coffee. The steam wand is used for frothing milk. The machine requires a power source and interacts with coffee grounds and water to produce espresso."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular gray and black printer.",
+    "part_description": "Features a wide, rectangular body with a dark top, two side panels, and a front output tray. Control panel on the right side.",
+    "internal_interaction_description": "The printer's internal components include rollers and print heads that work together to feed paper and apply ink. The control panel allows users to manage print settings, while the paper tray holds sheets ready for printing. Ink cartridges interact with the print head to deliver precise ink application.",
+    "external_interaction_description": "Connects to computers via USB or network for printing tasks. Users interact through the control panel or software. It outputs printed documents onto the tray, requiring periodic paper and ink replenishment. Suitable for large format printing in offices or print shops."
+}

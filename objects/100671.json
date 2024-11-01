@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular wooden box with open lid.",
+    "part_description": "The box has four vertical side panels, a base, and a hinged lid. The panels are rectangular, and the lid is positioned on top, slightly open.",
+    "internal_interaction_description": "The hinged lid connects to the top of the box, allowing it to open and close. The side panels are joined at the corners, forming a sturdy structure. The base supports the entire box, ensuring stability.",
+    "external_interaction_description": "The box can be used for storage, interacting with various objects placed inside. The lid allows access, enabling people to place or retrieve items. Its wooden construction may interact with the environment, such as humidity affecting the wood."
+}

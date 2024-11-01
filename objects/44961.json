@@ -1,0 +1,6 @@
+{
+    "base_description": "Red office chair with wheels and armrests.",
+    "part_description": "Chair has a red seat, backrest, two armrests, a central support, and five wheels. The backrest and seat are rectangular, armrests are horizontal, and wheels are at the base.",
+    "internal_interaction_description": "The seat and backrest are connected, providing support for sitting. Armrests are attached to the sides, offering arm support. The central support connects the seat to the base, which has five legs with wheels allowing movement.",
+    "external_interaction_description": "The chair can be moved easily on smooth surfaces due to its wheels. It provides seating support for a person, allowing for comfortable sitting. The armrests offer additional support, making it suitable for use at desks or tables."
+}

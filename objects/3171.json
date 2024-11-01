@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown office chair with wheels and adjustable height.",
+    "part_description": "The chair has a cushioned seat and backrest, five-wheel base, and a height-adjustable mechanism located beneath the seat.",
+    "internal_interaction_description": "The seat is connected to the backrest, providing support. The height adjustment mechanism links the seat to the base, allowing for vertical movement. The five-wheel base provides stability and mobility, allowing the chair to swivel and move smoothly across surfaces.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, allowing for movement. It supports a person sitting, offering comfort with its cushioning and back support. The height adjustment enables customization to fit various desk heights and user preferences."
+}

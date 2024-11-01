@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, silver, modern kitchen appliance.",
+    "part_description": "Comprises three sections: a top control panel, a middle microwave, and a bottom oven. Each section is rectangular and stacked vertically.",
+    "internal_interaction_description": "The top control panel manages the settings for both the microwave and oven, allowing users to adjust temperatures, cooking times, and modes. The microwave and oven share electrical connections for power but operate independently, ensuring efficient cooking processes.",
+    "external_interaction_description": "Users interact with the appliance via the control panel, selecting settings for cooking or baking. The appliance is typically installed in kitchens, interacting with power outlets and fitting into cabinetry. It interfaces with cookware and food items placed inside for heating or baking."
+}

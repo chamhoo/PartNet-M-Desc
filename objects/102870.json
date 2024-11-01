@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact camera with a large black lens.",
+    "part_description": "Camera body is rectangular, silver; lens is cylindrical, black, attached in front. Control buttons on top, viewfinder at the back.",
+    "internal_interaction_description": "The lens attaches to the camera body, allowing light to enter through the lens and reach the sensor inside. Control buttons adjust settings, influencing how the lens and sensor capture images. The viewfinder aligns with the sensor for accurate framing.",
+    "external_interaction_description": "The camera captures images of external scenes or subjects. It can be mounted on a tripod for stability, and the lens can be adjusted manually or automatically to focus on objects. Users interact with buttons to change settings like aperture, shutter speed, and ISO."
+}

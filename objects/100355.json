@@ -1,0 +1,6 @@
+{
+    "base_description": "Green cylindrical lighter with gray top.",
+    "part_description": "Contains a green body, gray top, metal nozzle, red button, and ignition wheel. The gray top houses the nozzle, button, and wheel.",
+    "internal_interaction_description": "The red button releases gas when pressed, while the ignition wheel, when rotated, creates a spark at the nozzle. The interaction between the gas and spark produces a flame at the top of the lighter.",
+    "external_interaction_description": "The lighter is held and operated by a person, typically using the thumb to press the button and flick the wheel, producing a flame for lighting cigarettes, candles, or other items."
+}

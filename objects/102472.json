@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, compact, blue camera with silver lens.",
+    "part_description": "Features a large circular silver lens, small buttons, and a rectangular body. The lens is centrally positioned on the front, with buttons on top and back.",
+    "internal_interaction_description": "The camera's lens system retracts and extends for focusing, with internal mechanisms adjusting the aperture and shutter. Buttons on the body control power, zoom, and settings, interacting with an internal circuit board to capture and store images.",
+    "external_interaction_description": "The camera interacts with users through buttons for operation, and connects to external devices via USB for data transfer. It requires handling for aiming and capturing photos, and may be mounted on tripods using a bottom screw mount."
+}

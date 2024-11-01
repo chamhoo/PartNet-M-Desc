@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, rectangular washing machine with a circular door.",
+    "part_description": "Features a circular glass door, control panel, and display screen on the front. Rectangular shape with smooth sides and a flat top.",
+    "internal_interaction_description": "The control panel interacts with the internal drum to select wash cycles. The drum rotates to clean clothes, and the door seals tightly to prevent water leakage. The display screen shows cycle status and time remaining.",
+    "external_interaction_description": "Interacts with users through the control panel for operation. Connects to water supply and drainage systems. The door allows loading and unloading of laundry. The machine must be plugged into an electrical outlet to function."
+}

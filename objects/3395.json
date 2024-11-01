@@ -1,0 +1,6 @@
+{
+    "base_description": "Purple, trapezoidal monitor with a black screen.",
+    "part_description": "Features a black rectangular screen, three circular black buttons below the screen, and a purple trapezoidal frame.",
+    "internal_interaction_description": "The black screen is centrally positioned within the purple frame, providing the main display area. Below the screen, the three black buttons are aligned horizontally, likely functioning as control inputs for the screen settings or power.",
+    "external_interaction_description": "The monitor can connect to external devices for display purposes, interacting with users via the buttons for control. It may be placed on a desk or mounted, allowing for viewing and interaction in various environments."
+}

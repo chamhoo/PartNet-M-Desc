@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic scissors with plastic handles, medium-sized.",
+    "part_description": "Two metal blades intersect at a pivot, forming sharp edges. Two oval-shaped plastic handles attached to blades, positioned opposite each other.",
+    "internal_interaction_description": "The two blades pivot around a central point, allowing them to open and close. This movement enables the blades to come together, creating a cutting action. The handles provide leverage and control, ensuring precision during use.",
+    "external_interaction_description": "Scissors interact with materials like paper, fabric, or hair by cutting through them when the handles are squeezed together. Users hold the handles, applying force to manipulate the blades, allowing for detailed and precise cutting tasks."
+}

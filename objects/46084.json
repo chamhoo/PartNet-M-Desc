@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray kitchen cabinet with drawers and doors.",
+    "part_description": "Two drawers on top, two doors below, silver handles. Drawers are rectangular, positioned horizontally. Doors are larger, vertically aligned, beneath drawers.",
+    "internal_interaction_description": "The drawers slide in and out horizontally, supported by internal tracks. The doors swing open on hinges, allowing access to the interior storage space. Handles are attached to facilitate opening and closing of both drawers and doors.",
+    "external_interaction_description": "The cabinet can be used in kitchens or bathrooms, providing storage for utensils, dishes, or toiletries. Users interact by pulling handles to open drawers and doors. It can be placed against a wall or under a countertop for stability and ease of access."
+}

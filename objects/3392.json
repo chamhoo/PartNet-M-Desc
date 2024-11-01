@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black monitor with a silver frame.",
+    "part_description": "The monitor consists of a large rectangular screen, a thin silver frame, and a sturdy black stand. The frame encloses the screen and connects to the stand at the bottom center.",
+    "internal_interaction_description": "The screen is securely attached to the frame, which provides structural support. The frame connects to the stand, allowing the monitor to remain upright and stable. The base of the stand disperses weight evenly, ensuring balance.",
+    "external_interaction_description": "The monitor connects to external devices via ports, displaying visual output. It interacts with users through visual display and buttons for adjustments. The stand's base provides stability on flat surfaces, allowing placement on desks or tables."
+}

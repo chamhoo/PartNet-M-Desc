@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular cabinet with a single door.",
+    "part_description": "One main body, one hinged door with a handle, and an internal shelf. Door is attached to the front, handle is centered, shelf divides interior space.",
+    "internal_interaction_description": "The door is attached to the cabinet with hinges, allowing it to swing open and closed. The handle provides a grip for opening. The internal shelf is fixed, dividing the space into two compartments for storage.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner. The door opens outward, requiring clear space in front. It interacts with users who open the door to access stored items, and it may hold objects like books or kitchenware."
+}

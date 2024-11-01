@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige rectangular trash bin with a foot pedal.",
+    "part_description": "The bin includes a rectangular body, a hinged lid, and a foot pedal at the bottom. The lid is slightly domed and fits snugly on top. The pedal is centered at the base, allowing hands-free operation.",
+    "internal_interaction_description": "The foot pedal connects to a mechanism that lifts the lid when pressed. This allows the user to open the bin without using their hands, maintaining hygiene. The lid's hinge ensures smooth and stable opening and closing, preventing it from slamming shut.",
+    "external_interaction_description": "The bin interacts with users by providing a receptacle for waste. The foot pedal facilitates hands-free operation, making it convenient and sanitary. It can be placed in kitchens, bathrooms, or offices, interacting with its environment by containing waste and maintaining cleanliness."
+}

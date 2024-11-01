@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver, pointed scissors with loop handles.",
+    "part_description": "Two sharp blades, two loop handles, pivot point. Blades are pointed and aligned; handles are oval-shaped and connected by a screw.",
+    "internal_interaction_description": "The two blades pivot around a central screw, allowing them to open and close smoothly. The loop handles provide leverage, enabling the user to apply pressure to the blades for cutting. The alignment of the blades ensures precise cutting action.",
+    "external_interaction_description": "The scissors are typically used by a person to cut small objects or materials like thread, paper, or fabric. The user holds the handles, inserting fingers into the loops, and applies pressure to close the blades around the material to be cut."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray, dual-panel wall switch.",
+    "part_description": "Two rectangular panels centered on a square base, slightly raised.",
+    "internal_interaction_description": "The two panels are likely connected to an internal mechanism that allows each to pivot or depress independently, enabling electrical circuit completion or interruption when pressed.",
+    "external_interaction_description": "The switch interacts with external electrical systems, allowing users to control power to devices or lighting by pressing the panels."
+}

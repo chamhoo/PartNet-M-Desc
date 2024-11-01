@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray door with minimalist design.",
+    "part_description": "Consists of a main rectangular panel, a handle, and a frame. The handle is positioned on the right side of the panel. The frame encloses the panel, matching its color and style.",
+    "internal_interaction_description": "The door panel is hinged to the frame, allowing it to pivot open or closed. The handle is attached to the panel, enabling manual operation. The frame supports the door, maintaining its position and alignment.",
+    "external_interaction_description": "The door serves as a barrier, opening to allow passage or closing to restrict access. It interacts with surrounding walls or structures, fitting within a designated doorway. The handle facilitates human interaction for opening and closing."
+}

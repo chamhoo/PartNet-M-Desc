@@ -1,0 +1,6 @@
+{
+    "base_description": "Red desk lamp with a conical shade.",
+    "part_description": "Includes a conical shade, straight arm, and round base. The shade is positioned at the top, the arm is vertical, and the base is circular and flat.",
+    "internal_interaction_description": "The conical shade is attached to the top of the vertical arm, directing light downward. The arm connects firmly to the round base, providing stability. The base houses the switch for controlling the lamp, ensuring easy access.",
+    "external_interaction_description": "The lamp illuminates nearby surfaces when switched on, useful for tasks or ambiance. It can be placed on desks or tables, providing directed light. Users interact with the switch to turn it on or off, adjusting light as needed for various activities."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver rectangular kitchen oven.",
+    "part_description": "Contains a front door, control panel, and cooktop. The door is large and central, with a transparent window. The control panel is above the door, featuring knobs and buttons. The cooktop is flat and silver, positioned on top.",
+    "internal_interaction_description": "The control panel allows users to set cooking modes and temperatures, which are then executed within the oven chamber. The door seals the chamber to maintain heat. The cooktop provides a surface for additional cooking, with heat controlled via the panel.",
+    "external_interaction_description": "The oven interacts with users through the control panel, enabling cooking settings. It requires an electrical connection to function. Users place food inside the chamber for baking or roasting. The cooktop can be used for stovetop cooking, interacting with pots and pans."
+}

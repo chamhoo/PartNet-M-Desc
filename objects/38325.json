@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown office chair with black armrests and wheels.",
+    "part_description": "The chair has a brown seat and backrest, two black armrests, a circular footrest, and a five-star base with wheels.",
+    "internal_interaction_description": "The seat and backrest are connected, providing ergonomic support. Armrests are attached to the seat for arm support. The circular footrest is fixed to the base, offering foot support. The five-star base ensures stability and mobility with wheels allowing for easy movement.",
+    "external_interaction_description": "The chair interacts with users by providing seating support. Its wheels allow for smooth movement across floors, while the footrest offers additional comfort. The chair's height and armrests can be adjusted to suit user preferences, enhancing ergonomic support during prolonged use."
+}

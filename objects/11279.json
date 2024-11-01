@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular cabinet with wheels and handles.",
+    "part_description": "Includes two horizontal handles, a flat top surface, and four wheels at the base for mobility.",
+    "internal_interaction_description": "Handles are aligned horizontally on the front, allowing access to internal storage compartments. The wheels are attached to the base, enabling smooth movement and stability when pushed or pulled.",
+    "external_interaction_description": "Designed to store and organize items, it can be moved easily across surfaces due to its wheels. The handles provide grip for opening and closing, facilitating user interaction for accessing stored contents."
+}

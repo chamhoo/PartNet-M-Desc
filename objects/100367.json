@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular wall-mounted light switch panel.",
+    "part_description": "Two rectangular buttons on a flat rectangular panel.",
+    "internal_interaction_description": "The buttons are hinged, allowing them to be pressed inward. Each button is connected to an internal mechanism that completes or breaks an electrical circuit when pressed, controlling the flow of electricity to attached fixtures.",
+    "external_interaction_description": "The switch interacts with human users who press the buttons to turn lights or devices on and off. It is mounted on a wall, requiring external wiring to connect it to the electrical system."
+}

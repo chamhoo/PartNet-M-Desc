@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical turquoise spray can with gray nozzle.",
+    "part_description": "Includes a turquoise cylindrical body and a gray nozzle on top. The body is smooth and vertically oriented, while the nozzle is small, centered, and slightly elevated.",
+    "internal_interaction_description": "The nozzle is designed to depress, releasing the contents stored under pressure within the can. It is connected to an internal tube that extends to the bottom of the can, allowing for efficient dispensing of the contents when the nozzle is pressed.",
+    "external_interaction_description": "The spray can is operated by pressing the nozzle, which releases the contents as a fine mist or spray. It can be used to apply paint, deodorant, or other substances onto surfaces or into the air, interacting with external objects or environments depending on its contents."
+}

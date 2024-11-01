@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white table with drawers and shelves.",
+    "part_description": "The table has four legs, a flat top, two drawers with handles, and a lower shelf. The legs are positioned at each corner, supporting the top. The drawers are side by side under the tabletop.",
+    "internal_interaction_description": "The tabletop is supported by the four legs, providing stability. The drawers slide in and out, utilizing internal runners. The lower shelf is fixed between the legs, offering additional storage space.",
+    "external_interaction_description": "The table can be used to hold items on its surface, and the drawers provide storage for smaller objects. It can be placed in various settings like offices or homes, interacting with chairs or other furniture."
+}

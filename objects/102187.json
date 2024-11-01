@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, grey, rectangular trash bin with red trim.",
+    "part_description": "The bin has a main rectangular body, a curved top, a red trim with an opening at the top front, and a small black handle on the side.",
+    "internal_interaction_description": "The main body of the bin contains a hollow space for waste collection. The red trim at the top serves as an entry point for trash. The handle on the side allows for door opening, facilitating waste removal and internal cleaning.",
+    "external_interaction_description": "The bin interacts with people who deposit trash through the top opening. It is designed for outdoor or public space use, where it can be accessed easily. The handle allows maintenance personnel to open the bin for waste removal and cleaning."
+}

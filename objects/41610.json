@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with wheels and adjustable height.",
+    "part_description": "The chair has a cushioned seat and backrest, supported by a central column. Five wheels are attached to a star-shaped base for mobility. The seat and backrest are rectangular and padded.",
+    "internal_interaction_description": "The seat and backrest are connected to the central column, allowing for adjustable height and tilt. The star-shaped base ensures stability, distributing weight evenly across the five wheels, facilitating smooth movement and rotation.",
+    "external_interaction_description": "The chair interacts with the floor via its wheels, allowing it to move easily. It is designed for a person to sit comfortably, providing support and mobility in an office environment. The adjustable features enable customization for ergonomic use."
+}

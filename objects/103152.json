@@ -1,0 +1,6 @@
+{
+    "base_description": "Black tower with three blue fans.",
+    "part_description": "Three circular blue fans vertically aligned in a black tower.",
+    "internal_interaction_description": "The fans are stacked vertically, each housed within the black tower. They likely share a central power source, enabling them to operate simultaneously or independently. The fans are evenly spaced, ensuring optimal airflow within the tower structure.",
+    "external_interaction_description": "The object is designed to circulate air, interacting with its environment by moving air efficiently. It can be placed in various settings, such as homes or offices, to provide cooling. Users can adjust settings to control fan speed and airflow direction."
+}

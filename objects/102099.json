@@ -1,0 +1,6 @@
+{
+    "base_description": "Square blue fan with a central hub.",
+    "part_description": "The fan has four blades attached to a central hub, surrounded by a square frame with four mounting holes at each corner.",
+    "internal_interaction_description": "The fan blades are evenly spaced around the central hub, rotating around it to generate airflow. The blades are attached to the hub and spin together, creating a consistent flow of air when powered. The frame holds the structure together and provides mounting points.",
+    "external_interaction_description": "The fan is designed to be mounted onto a surface or within a device, using the four corner holes. It interacts with external power sources to operate, and its airflow can cool electronic components or ventilate spaces, affecting the temperature and air circulation in its environment."
+}

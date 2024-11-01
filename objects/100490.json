@@ -1,0 +1,6 @@
+{
+    "base_description": "White wheelbarrow with a single wheel and handles.",
+    "part_description": "One large rectangular tray, two handles, one wheel, and two legs. The tray is positioned at the top, with handles extending from the rear. The wheel is centered at the front, and legs support the rear.",
+    "internal_interaction_description": "The tray holds materials, supported by the wheel and legs. Handles provide leverage for lifting and maneuvering. The wheel facilitates movement, while the legs stabilize the wheelbarrow when stationary. The parts work together to transport and balance loads efficiently.",
+    "external_interaction_description": "The wheelbarrow interacts with users who push or pull it to transport materials. It moves over various terrains, with the wheel rolling on surfaces. Users load and unload items into the tray, using handles for direction and control, enhancing efficiency in transporting goods."
+}

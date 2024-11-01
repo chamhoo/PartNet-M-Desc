@@ -1,0 +1,6 @@
+{
+    "base_description": "White folding chair with a simple design.",
+    "part_description": "Consists of a seat, backrest, two front legs, two rear legs, and support bars. The seat is flat and rectangular, the backrest is horizontal with slats, and the legs are straight and connected by crossbars.",
+    "internal_interaction_description": "The seat is hinged to the back legs, allowing it to fold upward. The backrest is attached to the rear legs, providing support. Crossbars connect the legs, adding stability. When unfolded, the legs lock into position, ensuring the chair remains stable for sitting.",
+    "external_interaction_description": "The chair is designed to interact with the ground for stability and can be used by a person for seating. It can be easily folded and stored, making it convenient for transport or space-saving storage. The chair supports weight and provides a comfortable seating option for various activities."
+}

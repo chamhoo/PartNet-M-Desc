@@ -1,0 +1,6 @@
+{
+    "base_description": "Square gray fan with circular blades.",
+    "part_description": "Consists of a square frame, circular blades, and parallel slats. The blades are centrally positioned, and slats are evenly spaced horizontally within the frame.",
+    "internal_interaction_description": "The circular blades rotate within the square frame, driven by a central motor. The parallel slats direct airflow, allowing efficient movement of air through the fan. The blades are securely attached to the central hub, ensuring stability during operation.",
+    "external_interaction_description": "The fan is designed to move air efficiently in a room. It can be mounted on walls or placed in windows to enhance ventilation. It interacts with the surrounding environment by circulating air, potentially cooling the space and improving air quality."
+}

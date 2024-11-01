@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical gray dispenser with a spout.",
+    "part_description": "Cylindrical body with a top-mounted spout, lid, and side handle. The spout is slightly curved, the lid is circular, and the handle is round and flat, attached to the side.",
+    "internal_interaction_description": "The lid covers the top opening, securing contents inside. The spout is connected to an internal mechanism that allows liquid to be dispensed when pressure is applied. The handle provides support for holding or mounting.",
+    "external_interaction_description": "The dispenser interacts with users by allowing liquid to be dispensed through the spout when pressed. It can be placed on a flat surface or mounted using the side handle. Ideal for dispensing soaps or lotions in kitchens or bathrooms."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular black and silver coffee machine.",
+    "part_description": "Includes a top compartment, front dial, and side handle. The top is rectangular, with a circular dial on the front and a handle on the side. The base is silver, and the top is black.",
+    "internal_interaction_description": "The top compartment likely houses the water reservoir and coffee grounds holder. The front dial may control brewing settings, interacting with internal mechanisms to adjust water flow and temperature. The handle is attached to a removable carafe, facilitating easy pouring and serving.",
+    "external_interaction_description": "The machine interacts with external elements by brewing coffee when water and grounds are added. Users adjust settings via the front dial and pour coffee using the carafe handle. It requires a power source for operation and is typically placed on a kitchen countertop."
+}

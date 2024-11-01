@@ -1,0 +1,6 @@
+{
+    "base_description": "Stainless steel double oven, rectangular and modern.",
+    "part_description": "Consists of two main compartments, each with a door. The doors have large glass windows and handles. Control panel located above the top compartment.",
+    "internal_interaction_description": "The two oven compartments function independently, allowing simultaneous cooking at different temperatures. The glass windows enable monitoring of cooking without opening the doors, maintaining heat efficiency.",
+    "external_interaction_description": "The oven interacts with users through a control panel for setting temperatures and timers. It requires an electrical connection for operation and can be installed in a kitchen cabinet for integrated use."
+}

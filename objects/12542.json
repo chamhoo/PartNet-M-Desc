@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, silver dishwasher with a sleek design.",
+    "part_description": "Front panel, control buttons on top, internal racks, and door handle. The control panel is horizontal, located at the top edge. The interior includes multiple racks for dish placement.",
+    "internal_interaction_description": "The control panel activates washing cycles, adjusting settings for temperature and duration. The door opens downward, allowing access to internal racks. Water sprays from jets, cleaning dishes on the racks. Racks can be adjusted for different dish sizes.",
+    "external_interaction_description": "The dishwasher connects to water and power supplies. Users load dishes, select settings on the control panel, and close the door to start cycles. It drains water into plumbing systems, and the exterior design complements modern kitchen aesthetics."
+}

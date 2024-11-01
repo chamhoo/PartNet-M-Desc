@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver and black microwave oven.",
+    "part_description": "Features a front door with glass panel, handle, and control panel on the right side. Compact, rectangular shape with a flat top and sides.",
+    "internal_interaction_description": "The door hinges allow it to open and close, sealing the interior for cooking. The control panel adjusts settings like time and power. The glass panel allows visibility inside. The handle provides an easy grip for opening.",
+    "external_interaction_description": "Used to heat food by placing items inside and setting time/power via the control panel. Requires an electrical outlet for power. The door opens to insert or remove food items, interacting with users through the handle and controls."
+}

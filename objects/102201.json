@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, black bin with a blue lid.",
+    "part_description": "The bin has a rectangular body, two wheels at the back, and a hinged blue lid on top.",
+    "internal_interaction_description": "The lid is attached to the top of the bin, allowing it to open and close for access. The wheels are fixed at the lower back, enabling mobility when tilted backward.",
+    "external_interaction_description": "The bin is designed for waste collection, interacting with people who deposit trash inside. It can be moved easily by tilting and rolling it on its wheels, often used outdoors for garbage disposal."
+}

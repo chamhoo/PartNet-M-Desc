@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black cellphone with buttons and screen.",
+    "part_description": "Includes a large screen, multiple buttons arranged in rows, and a central navigation button. The screen is positioned at the top with buttons below.",
+    "internal_interaction_description": "The screen interfaces with the buttons for input commands, with the central navigation button allowing for directional control. The buttons are likely connected to internal circuits that communicate with the phone's software to execute functions.",
+    "external_interaction_description": "Interacts with users through tactile button presses and visual feedback on the screen. Connects to external networks for communication and can interface with other devices via wireless connections."
+}

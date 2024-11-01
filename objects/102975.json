@@ -1,0 +1,6 @@
+{
+    "base_description": "Black stylus pen, cylindrical and sleek.",
+    "part_description": "The pen has a cylindrical body, a pointed tip for writing, and a small button near the top. The tip is conical, and the button is slightly raised.",
+    "internal_interaction_description": "The button on the pen may activate internal electronics, allowing for different functions when pressed. The tip interacts with the internal sensors to register pressure and tilt, enabling precise input.",
+    "external_interaction_description": "The stylus interacts with touchscreen devices, allowing users to draw or write directly on the screen. It responds to pressure and angle, providing a natural writing experience. The pen can also be used to navigate interfaces or select items on the display."
+}

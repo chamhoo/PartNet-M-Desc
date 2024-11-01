@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, gray and white dispenser.",
+    "part_description": "Consists of a cylindrical body, pump head, and nozzle. The body is tall and white with a gray base. The pump head is gray, round, and sits atop the cylinder with a protruding nozzle.",
+    "internal_interaction_description": "The pump head connects to an internal tube, which extends into the body. Pressing the pump head compresses a spring mechanism, drawing liquid up through the tube and out of the nozzle. The cylindrical body holds the liquid, ensuring a steady supply to the pump.",
+    "external_interaction_description": "The dispenser is operated by pressing the pump head, allowing liquid to be dispensed onto hands or surfaces. It is typically placed on countertops or sinks, interacting with users who require soap or lotion. The stable base ensures it remains upright during use."
+}

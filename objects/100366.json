@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white light switch with two buttons.",
+    "part_description": "Two square buttons arranged vertically on a rectangular plate; top button has a green indicator.",
+    "internal_interaction_description": "The top button, with a green indicator, likely controls a specific function, while the bottom button may serve a different or secondary purpose. Pressing each button activates an internal mechanism that completes an electrical circuit, allowing for the control of connected devices or systems.",
+    "external_interaction_description": "The light switch interacts with external electrical systems to control lighting or other devices. Users can press the buttons to turn connected devices on or off. The green indicator provides visual feedback, signaling the status or mode of the controlled system."
+}

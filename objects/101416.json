@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, black computer mouse with a cord.",
+    "part_description": "The mouse has a black body, gray top surface, orange scroll wheel, and a long gray cord extending from the front.",
+    "internal_interaction_description": "The orange scroll wheel rotates within the gray top surface, allowing internal sensors to detect movement. The body houses electronic components that translate physical movements into digital signals sent through the cord.",
+    "external_interaction_description": "The mouse connects to a computer via the cord, allowing users to control the cursor on the screen. It interacts with a user's hand, providing input through clicks and scrolls to execute commands or navigate software."
+}

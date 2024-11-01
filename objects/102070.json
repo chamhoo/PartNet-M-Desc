@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue square fan with a central circular hub.",
+    "part_description": "Contains a square frame, central hub, and multiple blades. The frame is square, surrounding the circular hub. Several blades radiate from the hub, evenly spaced and extending to the frame.",
+    "internal_interaction_description": "The blades are attached to the central hub, allowing them to rotate around the hub's axis. This rotation occurs within the square frame, which provides structural support. The even spacing of the blades ensures balanced movement and efficient air circulation within the confines of the frame.",
+    "external_interaction_description": "When powered, the fan circulates air by drawing it in and pushing it out through the blades. It can be mounted or placed in various locations to cool or ventilate spaces, interacting with the surrounding air and environment to alter airflow and temperature conditions."
+}

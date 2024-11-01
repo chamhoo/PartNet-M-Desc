@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white fan with colorful blades.",
+    "part_description": "Three circular fans with red, yellow, and green blades, vertically aligned within a tall, white rectangular frame, mounted on a round base.",
+    "internal_interaction_description": "Each fan blade set rotates within its circular housing, driven by individual motors. The vertical alignment allows for sequential airflow, with each fan contributing to overall ventilation. The colors may indicate different speed settings or functions, enhancing user interaction and control.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling and ventilation. It can be positioned on a flat surface, and the colorful blades may serve as a visual indicator for operational status. Users can adjust settings based on blade color or speed preferences."
+}

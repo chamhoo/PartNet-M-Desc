@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with blue drawers.",
+    "part_description": "Two large blue drawers, horizontally aligned, occupy the front. The cabinet is rectangular and gray, with a smooth surface and defined edges.",
+    "internal_interaction_description": "The two drawers slide in and out of the cabinet, supported by internal tracks. These tracks ensure smooth movement and stability, allowing the drawers to hold items securely without tipping. The drawers are separated by a central divider, maintaining their individual compartments.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a surface, interacting with surrounding furniture. The drawers allow for storage of items, accessible to users through the front. It can support objects on top, serving as a display or additional storage surface."
+}

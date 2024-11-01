@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with rectangular screen and keyboard.",
+    "part_description": "Includes a screen, keyboard, trackpad, and base. Screen is upright, rectangular. Keyboard is flat, with multiple keys arranged in rows. Trackpad is below keyboard, rectangular. Base supports all components.",
+    "internal_interaction_description": "The screen is hinged to the base, allowing it to open and close. The keyboard is integrated into the base, providing input to the system. The trackpad allows cursor control and is positioned for easy access. All parts are connected internally to enable seamless operation.",
+    "external_interaction_description": "Interacts with users through keyboard and trackpad for input. The screen displays visual output. Can connect to external devices via ports. Portable, allowing use in various environments. Requires power source for operation, typically through a charger or battery."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White cabinet with blue panels and brown trim.",
+    "part_description": "Includes one drawer at the top, a blue panel door below, and a flat top surface. The drawer has a brown trim and the cabinet is rectangular.",
+    "internal_interaction_description": "The drawer slides in and out of the top compartment, allowing access to stored items. The door opens outward, revealing internal storage space. The flat top can hold small items or decorations.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner. People can use the drawer for storage of small items and the door to access larger storage inside. The top surface can support lightweight objects."
+}

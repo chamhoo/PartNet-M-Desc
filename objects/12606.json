@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black dishwasher with a silver handle.",
+    "part_description": "Features a large front door with a silver handle, rectangular shape, and a black body. The door covers the entire front and opens downwards.",
+    "internal_interaction_description": "The door hinges allow it to open downward, providing access to internal racks. The handle facilitates easy opening and closing. The interior likely contains racks and compartments for organizing dishes, which interact with the door's opening mechanism.",
+    "external_interaction_description": "The dishwasher interacts with external water and power supplies to function. Users open the door via the handle to load and unload dishes. It is typically installed under a countertop, aligning with kitchen cabinetry."
+}

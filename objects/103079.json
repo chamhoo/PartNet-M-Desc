@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, cylindrical, black coffee maker with modern design.",
+    "part_description": "Includes a water reservoir, coffee pod holder, spout, and drip tray. The parts are arranged vertically with the reservoir at the back, pod holder at top, spout in the middle, and drip tray at the bottom.",
+    "internal_interaction_description": "Water from the reservoir flows into the coffee pod holder upon activation. Heated water passes through the coffee pod, extracting flavor, and flows out through the spout into a cup placed on the drip tray. The drip tray collects any excess liquid.",
+    "external_interaction_description": "The coffee maker interacts with external elements by allowing users to insert coffee pods into the holder and place a cup on the tray. It requires an electrical outlet for power. Users can adjust settings for different coffee strengths, and the machine dispenses coffee directly into the cup."
+}

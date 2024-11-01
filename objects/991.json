@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, silver faucet with curved spout.",
+    "part_description": "Includes a cylindrical base, a curved spout extending outward, and a small lever on top. The spout is positioned to direct water downward. The lever is placed centrally on top of the cylinder.",
+    "internal_interaction_description": "The lever controls the flow of water through an internal valve system. When lifted or rotated, it adjusts the water pressure and temperature. The water travels through the cylindrical body and exits through the curved spout, which is designed to direct the flow efficiently.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop, where it interacts with plumbing to deliver water. Users interact with the lever to control water flow and temperature. The spout directs water into a basin for washing or filling containers."
+}

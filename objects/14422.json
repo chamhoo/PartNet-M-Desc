@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern desk lamp with adjustable arm, gray color.",
+    "part_description": "Lamp has a conical shade, adjustable arm, and round base. The arm consists of two segments connected by a joint. The base is sturdy and circular, supporting the structure.",
+    "internal_interaction_description": "The adjustable arm segments are connected by a joint, allowing for flexible positioning of the lamp shade. The joint mechanism facilitates rotation and angling, enabling the user to direct light precisely. The shade is fixed to the end of the arm, ensuring stability when adjusted.",
+    "external_interaction_description": "The lamp interacts with external elements by providing focused illumination on surfaces like desks or tables. It can be adjusted to varying heights and angles to suit the user's needs, making it suitable for tasks such as reading or working. It requires a power source for operation."
+}

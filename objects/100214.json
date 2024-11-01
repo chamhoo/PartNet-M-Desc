@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular box with a hinged lid.",
+    "part_description": "Includes a main box, hinged lid, and two green latches. The lid is attached to the box's top edge, and the latches are positioned on the front corners.",
+    "internal_interaction_description": "The hinged lid allows for opening and closing, providing access to the box's interior. The green latches secure the lid when closed, ensuring the contents remain inside. The lid's grid pattern may offer structural support.",
+    "external_interaction_description": "The box can be used for storage, with the lid protecting contents from dust and external elements. The green latches provide a locking mechanism, preventing accidental opening during transport or handling."
+}

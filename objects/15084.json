@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern black desk lamp, sleek and minimal design.",
+    "part_description": "Includes a cylindrical head, adjustable arm, and circular base. The arm is connected to the base and head, allowing movement.",
+    "internal_interaction_description": "The adjustable arm connects the cylindrical head and circular base, allowing the lamp head to pivot and rotate for directing light. The joints facilitate smooth movement while maintaining stability, ensuring the lamp head stays in position once adjusted.",
+    "external_interaction_description": "The lamp interacts with its environment by illuminating areas on a desk or table. It can be manually adjusted by a user to focus light on specific tasks, enhancing visibility and reducing eye strain. Its compact design allows easy placement in various settings."
+}

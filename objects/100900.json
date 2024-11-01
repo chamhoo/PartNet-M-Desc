@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white dual electrical socket panel.",
+    "part_description": "Two plug sockets with three rectangular holes each, two switches above sockets, and two mounting holes on sides.",
+    "internal_interaction_description": "The switches control the electrical flow to each socket, allowing power to be turned on or off. The sockets are designed to accommodate standard three-pin plugs, ensuring secure electrical connection. The mounting holes facilitate attachment to a wall or surface, maintaining stability and alignment.",
+    "external_interaction_description": "The socket panel is mounted on a wall, interacting with electrical wiring to provide power. Users plug devices into the sockets for electricity. The switches allow users to control power flow, ensuring safety and convenience. The design fits standard plug sizes, ensuring compatibility with various devices."
+}

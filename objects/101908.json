@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, silver kitchen range with multiple burners.",
+    "part_description": "Contains six gas burners, one induction plate, two ovens below, and a sink on the right. Burners and induction plate on top, ovens below front panel. Sink positioned at the right end.",
+    "internal_interaction_description": "The gas burners and induction plate are arranged on the top surface, allowing simultaneous cooking. The ovens below provide baking and roasting capabilities. The sink on the right is integrated for washing and rinsing, complementing the cooking functions. Control knobs on the front panel manage heat and oven settings.",
+    "external_interaction_description": "The kitchen range interacts with cookware placed on burners and induction plate for cooking. It requires a gas supply for burners and electricity for the induction plate and ovens. The sink connects to plumbing for water supply and drainage. Users interact via control knobs for operation."
+}

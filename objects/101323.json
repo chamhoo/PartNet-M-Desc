@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with tank and bowl.",
+    "part_description": "Consists of a tank, bowl, seat, and lid. The tank is rectangular and positioned at the back. The bowl is oval-shaped, connected to the tank. The seat and lid are attached on top of the bowl.",
+    "internal_interaction_description": "The tank holds water and connects to the bowl via a flush mechanism. When the flush lever is activated, water flows from the tank into the bowl, clearing its contents. The seat and lid can be lifted or lowered, allowing access to the bowl for use or cleaning.",
+    "external_interaction_description": "The toilet interacts with plumbing systems to receive water and dispose of waste. It requires human interaction for flushing and cleaning. The seat and lid can be adjusted by users for comfort and hygiene. It is typically placed in bathrooms for personal sanitation."
+}

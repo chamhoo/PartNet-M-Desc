@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with six blades.",
+    "part_description": "The fan has six evenly spaced flat blades, each attached to a central motor hub. The motor housing is cylindrical and positioned centrally, with a mounting rod extending upward to the ceiling attachment.",
+    "internal_interaction_description": "The motor within the central hub rotates, causing the attached blades to spin uniformly. This rotation is facilitated by the secure attachment of each blade to the hub, ensuring balanced movement and consistent airflow generation.",
+    "external_interaction_description": "When powered, the fan circulates air within a room, providing cooling and ventilation. It can be operated via a wall switch or remote control, and its speed and direction may be adjusted to suit user preferences."
+}

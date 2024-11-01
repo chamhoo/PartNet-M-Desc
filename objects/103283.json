@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver stapler, rectangular and compact.",
+    "part_description": "Consists of a black base, silver top arm, and stapling mechanism. The base is rectangular, supporting the hinged arm which is metallic and narrow. A small metal plate is positioned at the front for staple ejection.",
+    "internal_interaction_description": "The top arm hinges at the back, allowing it to be lifted for staple loading. When pressed down, it forces a staple through paper and into the metal plate, which bends the staple ends inward, securing the paper. The mechanism aligns and advances staples automatically.",
+    "external_interaction_description": "The stapler interacts with paper by binding sheets together when pressed. It requires manual pressure to operate, typically applied by a person's hand. It rests on flat surfaces and is portable, designed for use in offices or homes for document organization."
+}

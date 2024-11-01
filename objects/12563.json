@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray dishwasher with black front panel.",
+    "part_description": "Features a front door with handle and control knob, rectangular shape, positioned on the upper front. The body is cuboid with a gray top and sides, and a black front panel.",
+    "internal_interaction_description": "The front door opens downward, allowing access to the interior racks. The control knob is used to select different washing cycles, which are managed internally by the dishwasher's electronic system. The handle facilitates the opening and closing of the door.",
+    "external_interaction_description": "The dishwasher connects to a water supply and drain system. Users interact with the control knob to select cycles and the handle to open the door. It is typically installed under a kitchen counter, interacting with surrounding cabinetry and appliances."
+}

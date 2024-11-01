@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray door with minimalist design.",
+    "part_description": "The door has a flat, rectangular panel with a small, round knob on one side. It features a subtle, horizontal groove near the top and a vertical edge on one side for hinges.",
+    "internal_interaction_description": "The door's panel and knob are fixed together, allowing the knob to be turned to operate the latch mechanism. The hinges are attached along the vertical edge, enabling the door to swing open or closed smoothly, pivoting on the hinge axis.",
+    "external_interaction_description": "The door interacts with its frame, fitting snugly within it to open and close spaces. It can be pushed or pulled by people using the knob, and it acts as a barrier or entryway between different areas, providing privacy and controlling access."
+}

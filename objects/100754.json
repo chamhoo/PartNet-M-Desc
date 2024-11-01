@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, monochrome globe on a stand.",
+    "part_description": "Consists of a spherical globe, two support arms, and a circular base. The globe is centrally mounted on the stand with arms connecting it to the base.",
+    "internal_interaction_description": "The globe is held in place by two support arms, allowing it to rotate on its axis. The arms are fixed to the base, providing stability and enabling the globe to spin smoothly.",
+    "external_interaction_description": "The globe can be manually rotated by a user to view different areas. It is designed for educational purposes, allowing interaction through touch and visual exploration of geographical details."
+}

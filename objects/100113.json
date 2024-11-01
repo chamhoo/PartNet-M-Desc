@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white USB flash drive with cap.",
+    "part_description": "Comprises a rectangular body, USB connector, and removable cap. The connector is located at one end, and the cap covers it when not in use.",
+    "internal_interaction_description": "The USB connector retracts or extends from the main body, protected by the removable cap. The cap fits snugly over the connector, ensuring it stays clean and undamaged. The internal memory is housed within the main body, interfacing with devices through the connector.",
+    "external_interaction_description": "Connects to computers or compatible devices via the USB port for data transfer. The cap protects the connector from dust and damage. Easily portable, it can be attached to keychains or carried in pockets, making it convenient for data storage and transfer on the go."
+}

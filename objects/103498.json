@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black toaster with two slots.",
+    "part_description": "Two slots on top, lever on side, four small legs underneath.",
+    "internal_interaction_description": "The lever lowers bread into the slots, engaging internal heating elements. These elements surround the bread, toasting it evenly. A timer mechanism controls toasting duration, automatically releasing the lever to pop up the bread when done.",
+    "external_interaction_description": "The toaster interacts with bread slices, inserting them into slots. A person operates the lever to start toasting. The toaster must be plugged into an electrical outlet to function, and it heats up externally while in use."
+}

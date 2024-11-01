@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized black-handled scissors with metal blades.",
+    "part_description": "Two metal blades, sharp and pointed, joined by a pivot. Black plastic handles, oval-shaped, positioned at opposite ends of the blades.",
+    "internal_interaction_description": "The two blades are connected at a central pivot, allowing them to move in a scissor-like motion. When the handles are squeezed together, the blades close and cut through materials. The handles provide leverage, enhancing cutting efficiency.",
+    "external_interaction_description": "The scissors interact with external materials by cutting through paper, fabric, or other thin materials when manually operated. The handles fit comfortably in a user's hand, providing control and precision during cutting tasks."
+}

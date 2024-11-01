@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, white fan with three red blades.",
+    "part_description": "Three red, circular blades arranged vertically in a white frame, each evenly spaced. The frame is rectangular and mounted on a round base.",
+    "internal_interaction_description": "Each red blade rotates within its circular housing, driven by an internal motor. The vertical arrangement allows simultaneous operation of all three blades, enhancing airflow through synchronized rotation.",
+    "external_interaction_description": "The fan circulates air in its vicinity, providing cooling to nearby people or objects. Its stable base ensures it remains upright during operation, and its design allows it to be placed on flat surfaces in various environments."
+}

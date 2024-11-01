@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black table with metal frame and wheels.",
+    "part_description": "Includes a flat rectangular tabletop, four metal legs, and four wheels. The tabletop is supported by the legs at each corner, with wheels attached to the bottom of each leg.",
+    "internal_interaction_description": "The tabletop is supported by the metal legs, providing stability. The wheels at the base of each leg allow for mobility, enabling the table to be easily moved. The metal frame ensures structural integrity, connecting all parts securely.",
+    "external_interaction_description": "The table can be used in various settings, such as offices or homes, to hold items like books or electronics. Its wheels facilitate easy repositioning, allowing it to adapt to different spatial needs or configurations."
+}

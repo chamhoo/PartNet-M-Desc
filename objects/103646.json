@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical gray trash can with pedal.",
+    "part_description": "Includes a cylindrical body, flat lid, and foot pedal. The lid is on top, and the pedal is at the base front.",
+    "internal_interaction_description": "Pressing the foot pedal causes a mechanism to lift the lid, allowing access to the interior. The lid is connected to the pedal by a lever system inside the can.",
+    "external_interaction_description": "The trash can interacts with users by opening the lid when the pedal is pressed, allowing waste disposal. It remains stationary due to its cylindrical shape and weight distribution."
+}

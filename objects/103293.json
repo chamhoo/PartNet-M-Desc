@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular stapler with a sleek design.",
+    "part_description": "Consists of a top arm, base, metal plate, and spring-loaded mechanism; rectangular shape, compact size, top arm and base aligned horizontally.",
+    "internal_interaction_description": "The top arm is connected to the base by a hinge, allowing it to move up and down. The spring-loaded mechanism inside the arm pushes staples down when pressed. The metal plate on the base bends staples to secure papers. The parts work together to staple papers efficiently.",
+    "external_interaction_description": "The stapler is used by pressing its top arm onto a stack of papers, driving a staple through them. It interacts with staples, loading them into the chamber. The stapler is commonly used in offices or schools, interacting with paper to bind documents together securely."
+}

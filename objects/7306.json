@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver oven with a blue door.",
+    "part_description": "Features a control panel, door with handle, and interior space. The control panel is at the top, the door is front-facing with a transparent blue section, and the handle is horizontal.",
+    "internal_interaction_description": "The control panel allows setting the temperature and time, which regulates the heating elements inside. The door opens downwards, providing access to the interior where food can be placed on racks. The heating elements evenly distribute heat within the enclosed space.",
+    "external_interaction_description": "Users interact with the control panel to set cooking parameters. The door handle is used to open and close the oven, allowing placement and removal of food. The oven can be installed in kitchen cabinetry, interacting with surrounding kitchen elements like countertops and other appliances."
+}

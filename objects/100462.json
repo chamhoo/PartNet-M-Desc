@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cylindrical plastic bucket with handle.",
+    "part_description": "Bucket has a cylindrical body, a round open top, and a curved handle attached on opposite sides.",
+    "internal_interaction_description": "The handle pivots at two attachment points, allowing it to swing freely for carrying or resting against the bucket's side. The cylindrical body holds contents securely, with the open top facilitating easy filling and pouring.",
+    "external_interaction_description": "The bucket can be carried by its handle, filled with liquids or solids, and used for tasks like cleaning or transporting materials. Its shape allows it to be stacked or stored with other buckets when not in use."
+}

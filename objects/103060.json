@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, gray and black, conical kitchen appliance.",
+    "part_description": "Consists of a conical top, cylindrical middle, and rounded base. The top is a funnel-like shape, the middle has two cylinders, and the base is oval, all vertically aligned.",
+    "internal_interaction_description": "The conical top likely serves as a hopper, directing contents into the cylindrical middle sections. These sections may contain mechanisms for processing or grinding, with the base serving as support and possibly housing additional components for stability.",
+    "external_interaction_description": "Designed to interact with food items, possibly for grinding or processing. Users can add ingredients through the top, with the processed output collected at the base, suitable for kitchen countertops or similar surfaces."
+}

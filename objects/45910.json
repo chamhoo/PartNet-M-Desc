@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with sliding doors.",
+    "part_description": "Two sliding doors, one handle, rectangular shape, medium size, positioned at the front.",
+    "internal_interaction_description": "The sliding doors move horizontally along tracks, allowing access to the cabinet's interior. One door overlaps the other, enabling one side to open at a time. The handle facilitates the sliding motion, providing a smooth operation for accessing stored items.",
+    "external_interaction_description": "The cabinet can be mounted on a wall or placed on a surface. It interacts with users who slide the doors to access contents. The exterior design allows it to blend with modern decor, and its size accommodates various storage needs in homes or offices."
+}

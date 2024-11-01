@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular blue window with four panels.",
+    "part_description": "Four blue rectangular panels arranged horizontally in a silver frame, each panel of equal size and shape, with a gap on the right side.",
+    "internal_interaction_description": "The four panels are fitted within a single silver frame, separated by vertical dividers. Each panel is fixed, maintaining equal spacing and alignment within the frame, providing structural integrity and uniform appearance.",
+    "external_interaction_description": "The window can be installed in a wall to allow light and visibility while providing a barrier. It can interact with various external elements like light, weather conditions, and can be opened or closed by people for ventilation."
+}

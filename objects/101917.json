@@ -1,0 +1,6 @@
+{
+    "base_description": "Large white stove with black burners.",
+    "part_description": "Six black burners on top, five control knobs in front, large oven door with handle below.",
+    "internal_interaction_description": "The control knobs regulate the flow of gas to the burners, allowing for adjustable heat levels. The oven door opens to reveal an interior where heat circulates for cooking or baking. Burners are arranged in two rows of three, providing multiple cooking zones.",
+    "external_interaction_description": "The stove interacts with external cookware placed on burners for heating. Users adjust knobs to control temperature. The oven is used for baking or roasting, requiring external pans or dishes. Proper ventilation is necessary to ensure safe operation and prevent overheating."
+}

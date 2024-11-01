@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver scissors with sharp blades and ergonomic handles.",
+    "part_description": "Two metal blades, sharp and pointed, joined at a pivot. Handles are oval-shaped and opposite the blades, designed for fingers.",
+    "internal_interaction_description": "The two blades are connected at a pivot point, allowing them to move in a scissor-like motion. When the handles are squeezed together, the blades close, cutting through material placed between them. The pivot ensures smooth, aligned movement.",
+    "external_interaction_description": "Scissors are used by people to cut various materials like paper, fabric, or hair. They require manual operation, with fingers inserted into the handles to apply pressure, enabling precise cutting through the closing action of the blades."
+}

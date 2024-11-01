@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular electronic safe with keypad.",
+    "part_description": "Contains a keypad with numerical buttons, a handle, and a door. The keypad is centrally positioned on the front, with the handle to the left. The door is the front face of the box.",
+    "internal_interaction_description": "The keypad controls the locking mechanism. When the correct code is entered, it triggers the internal lock to release, allowing the handle to turn and the door to open. The locking mechanism is integrated within the door's structure.",
+    "external_interaction_description": "The safe interacts with users through the keypad, requiring a code for access. It can be placed in various locations, providing secure storage for valuables. The handle allows manual operation, while the sturdy structure resists external tampering."
+}

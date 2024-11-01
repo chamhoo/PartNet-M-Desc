@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, curved faucet with dual handles.",
+    "part_description": "Two cylindrical handles on either side of a curved spout, mounted on a rectangular base.",
+    "internal_interaction_description": "The handles control water flow through the spout. Turning a handle adjusts the water temperature and pressure, directing it through internal channels to the spout.",
+    "external_interaction_description": "The faucet connects to plumbing for water supply. Users rotate handles to release water, directing it into sinks or basins for washing or cleaning tasks."
+}

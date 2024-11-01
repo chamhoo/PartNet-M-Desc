@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray metal faucet with a cross handle.",
+    "part_description": "Contains a cylindrical spout, cross-shaped handle, hexagonal nut, and threaded base. The handle is positioned atop the nut, which connects to the spout, ending in a threaded base for attachment.",
+    "internal_interaction_description": "The cross-shaped handle rotates to control the flow of water through the spout. The handle is connected to a valve inside the hexagonal nut, which opens or closes the water passage. The threaded base ensures a secure connection to pipes, preventing leaks.",
+    "external_interaction_description": "The faucet is attached to a water supply, allowing users to control water flow by turning the handle. It connects to external plumbing via the threaded base, ensuring a secure fit. The faucet can be used in various settings like kitchens, bathrooms, or gardens."
+}

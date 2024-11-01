@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with a single door.",
+    "part_description": "The cabinet has one rectangular door, a flat top, and a hollow interior. The door is front-facing and attached with hinges on the right side.",
+    "internal_interaction_description": "The door is connected to the main body via hinges, allowing it to swing open and closed. The hollow interior provides space for storage, with potential for shelves or compartments inside.",
+    "external_interaction_description": "The cabinet can be placed on the floor or mounted, interacting with surrounding furniture. The door allows access to stored items, and the exterior can be used for aesthetic or functional purposes, like holding decorations."
+}

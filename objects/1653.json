@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver faucet with curved spout and dual handles.",
+    "part_description": "The faucet has a curved spout, two handles, and a central body. The spout arches over the central body, while the handles are symmetrically placed on either side.",
+    "internal_interaction_description": "The handles control the flow of water through the faucet. Turning the handles adjusts the internal valves, which regulate the water pressure and temperature, allowing water to flow through the spout when opened.",
+    "external_interaction_description": "The faucet is mounted on a sink or wall, interacting with plumbing to deliver water. Users turn the handles to control water flow for washing or filling containers, making it essential for daily tasks in kitchens and bathrooms."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver, pointed scissors with ergonomic handles.",
+    "part_description": "Two sharp, pointed blades joined by a pivot; two looped handles, one for each blade, positioned opposite the blades.",
+    "internal_interaction_description": "The blades pivot around a central point, enabling them to open and close. This movement allows the sharp edges to slide past each other, creating a cutting action. The handles provide leverage to facilitate this motion, ensuring precise control over the blades' interaction.",
+    "external_interaction_description": "The scissors interact with materials like paper, fabric, or hair by cutting through them when pressure is applied via the handles. They require human operation, with fingers inserted into the handles to manipulate the blades. Proper alignment with the material ensures clean, efficient cuts."
+}

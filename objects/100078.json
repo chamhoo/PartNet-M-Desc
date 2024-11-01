@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular USB drive with black and silver design.",
+    "part_description": "Consists of a rectangular USB connector, a black plastic body, and a rotating silver metal cover. The USB connector is at one end, while the cover rotates around a central pivot to protect the connector.",
+    "internal_interaction_description": "The USB connector is securely attached to the black plastic body, providing stability. The metal cover rotates around a pivot, allowing it to swing 360 degrees. This rotation enables the cover to either protect the USB connector or expose it for use, depending on its position.",
+    "external_interaction_description": "The USB drive connects to computers or other devices via the USB port, facilitating data transfer. The metal cover protects the connector when not in use, preventing damage. The compact design allows for easy portability, fitting into pockets or bags without hassle."
+}

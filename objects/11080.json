@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, blue-handled scissors with metal blades.",
+    "part_description": "Two metal blades, sharp and pointed, intersect at a pivot. Blue plastic handles are oval-shaped and positioned opposite the blades.",
+    "internal_interaction_description": "The two blades intersect and pivot around a central screw, allowing them to open and close in a scissor motion. The handles provide leverage, enabling the user to apply force to the blades, which shear against each other to cut materials.",
+    "external_interaction_description": "The scissors are designed to be held by a person, with fingers placed through the handles. They interact with various materials, such as paper or fabric, cutting them when the blades are closed together by the user's hand pressure."
+}

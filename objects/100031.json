@@ -1,0 +1,6 @@
+{
+    "base_description": "White round teapot with a lid and handle.",
+    "part_description": "It has a round body, a curved spout on the side, a lid on top, and a handle opposite the spout. The body is spherical, and the lid is circular with a knob.",
+    "internal_interaction_description": "The lid fits snugly on the top opening of the teapot, preventing liquid from spilling. The handle allows for easy gripping and pouring. The spout is designed to direct the flow of liquid smoothly when tilted.",
+    "external_interaction_description": "The teapot is used to pour hot beverages, typically interacting with cups or mugs. It is lifted by the handle and tilted to pour liquid through the spout. The lid can be removed for filling with liquid or cleaning."
+}

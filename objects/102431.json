@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black and blue camera with flash.",
+    "part_description": "Features lens, flash, shutter button, and power switch. Lens is central, flash and button on top, switch on front.",
+    "internal_interaction_description": "The lens captures images, while the shutter button activates the capture mechanism. The flash provides additional light, synchronized with the shutter. The power switch controls the camera's operational state, enabling or disabling functionality.",
+    "external_interaction_description": "The camera is handheld, used by pressing the shutter button to take photos. It interacts with subjects by capturing their images, and the flash illuminates scenes in low light. Users can toggle the power switch to turn the camera on or off."
+}

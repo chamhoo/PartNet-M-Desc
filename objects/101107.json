@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, green multi-tool with a silver blade.",
+    "part_description": "Includes a green handle and a single silver blade. The handle is rectangular with rounded edges, and the blade is foldable, positioned at one end.",
+    "internal_interaction_description": "The blade folds into the handle, secured by a pivot mechanism. The handle provides storage and protection for the blade when not in use, allowing it to be safely carried and easily accessed.",
+    "external_interaction_description": "Used for cutting tasks, the tool interacts with materials by extending the blade. It can be held in hand comfortably, making it portable for outdoor activities or everyday use, interacting with various objects or surfaces as needed."
+}

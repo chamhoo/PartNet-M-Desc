@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office printer with a black base.",
+    "part_description": "Includes a control panel, two paper trays labeled A and B, an output tray, and a black drawer at the bottom.",
+    "internal_interaction_description": "The control panel manages printer functions, directing paper from trays A and B through the internal printing mechanism. Printed paper exits through the output tray. The internal components work together to process print commands and handle paper movement efficiently.",
+    "external_interaction_description": "Connects to computers or networks for receiving print jobs. Users interact via the control panel for direct operations. Paper and toner need regular replenishment. The printer outputs printed documents to the external tray for user retrieval."
+}

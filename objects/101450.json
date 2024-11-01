@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square fan with multiple blades.",
+    "part_description": "The fan has a square frame and contains seven blades arranged in a circular pattern. Each blade is triangular, evenly spaced, and fixed to a central hub.",
+    "internal_interaction_description": "The blades are attached to a central hub, allowing them to rotate within the square frame. This rotation is facilitated by a motor, which is typically located behind the hub. The frame supports the structure, ensuring stability and directing airflow.",
+    "external_interaction_description": "The fan interacts with its environment by moving air when powered, providing cooling or ventilation. It can be mounted on walls or placed on surfaces, often used in homes or offices to improve air circulation and comfort for people nearby."
+}

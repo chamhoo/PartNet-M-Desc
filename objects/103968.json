@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical globe with yellow stand.",
+    "part_description": "The globe consists of a white spherical body, a yellow semi-circular meridian, and a circular yellow base. The meridian holds the globe at the poles, allowing rotation.",
+    "internal_interaction_description": "The globe rotates around its axis held by the yellow meridian. The meridian is fixed to the yellow base, providing stability and allowing the sphere to spin freely. This setup mimics Earth's rotation, facilitating educational demonstrations.",
+    "external_interaction_description": "The globe interacts with users who can spin it to view different regions. It serves educational purposes, helping users visualize geography. It can be placed on desks or shelves, interacting with surrounding decor and other educational tools."
+}

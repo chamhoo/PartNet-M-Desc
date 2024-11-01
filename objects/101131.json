@@ -1,0 +1,6 @@
+{
+    "base_description": "Small black rectangular remote control with buttons.",
+    "part_description": "The remote has six buttons arranged in two columns. Each button is circular, evenly spaced, and labeled with letters and numbers. The outer casing is smooth and slightly curved.",
+    "internal_interaction_description": "The buttons are mechanical and, when pressed, send signals to an internal circuit board. This board processes inputs based on the button pressed, triggering specific electronic commands. The casing protects these components, ensuring durability and functionality.",
+    "external_interaction_description": "The remote interacts with compatible devices via infrared or radio signals, allowing users to control functions like shutter release or settings adjustment. It requires a line of sight for infrared communication, while radio signals can penetrate obstacles, offering more flexibility in use."
+}

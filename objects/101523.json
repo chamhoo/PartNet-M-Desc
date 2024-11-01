@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray cooling fan with circular blades.",
+    "part_description": "Contains a circular fan blade assembly within a square frame, supported by four struts. The frame has four corner holes for mounting.",
+    "internal_interaction_description": "The fan blades are centrally mounted and rotate within the square frame. The struts stabilize the blades, ensuring smooth rotation. The frame's holes allow secure attachment to other surfaces, maintaining alignment and minimizing vibration during operation.",
+    "external_interaction_description": "Designed to be mounted in electronic devices, it facilitates airflow to cool internal components. The fan draws in air from one side and expels it on the other, enhancing thermal management. It's often used in computers, power supplies, and other electronics requiring ventilation."
+}

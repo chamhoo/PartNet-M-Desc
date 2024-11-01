@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, octagonal pump bottle with a spout.",
+    "part_description": "Consists of a cylindrical body with an octagonal top, featuring a pump mechanism and spout. The pump is centrally positioned on the top surface.",
+    "internal_interaction_description": "The pump mechanism interacts with the liquid inside the bottle, drawing it up through the internal tube when pressed. The spout directs the liquid outwards efficiently.",
+    "external_interaction_description": "The pump bottle is designed for manual operation, requiring a downward press to dispense liquid. It can be placed on flat surfaces and is commonly used for dispensing soap or lotion."
+}

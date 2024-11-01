@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern white kitchen faucet with a sleek design.",
+    "part_description": "Consists of a cylindrical base, curved spout, and single lever. The spout extends horizontally, while the lever is positioned vertically on top of the base.",
+    "internal_interaction_description": "The lever controls water flow and temperature by adjusting the internal valve. When lifted, the lever opens the valve, allowing water to flow through the spout. Turning the lever left or right adjusts the water temperature by mixing hot and cold water within the internal mechanism.",
+    "external_interaction_description": "The faucet is installed on a sink, allowing users to direct water flow for washing or filling containers. The lever is manually operated to control water pressure and temperature, interacting with plumbing systems to deliver water efficiently."
+}

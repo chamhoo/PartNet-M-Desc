@@ -1,0 +1,6 @@
+{
+    "base_description": "Small wooden cart with two wheels and slatted sides.",
+    "part_description": "The cart has two large circular wheels on either side, a flat rectangular base, and slatted wooden sides arranged vertically. The front includes a handle for pulling.",
+    "internal_interaction_description": "The wheels are attached to the sides of the rectangular base, allowing the cart to roll. The slatted sides are fixed vertically along the base edges, providing structure and containment for items placed within the cart. The handle is connected to the front for maneuverability.",
+    "external_interaction_description": "The cart can be pulled by a person using the handle, allowing it to transport goods. It interacts with the ground through its wheels, facilitating movement over various surfaces. The slatted sides help secure and contain items during transit."
+}

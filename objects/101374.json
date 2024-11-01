@@ -1,0 +1,6 @@
+{
+    "base_description": "White, three-blade ceiling fan, modern style.",
+    "part_description": "Three elongated blades symmetrically arranged around a central motor hub, connected to a downrod and ceiling mount.",
+    "internal_interaction_description": "The motor hub rotates the three blades, generating airflow. The blades are evenly spaced for balanced rotation, reducing wobble and noise. The downrod connects the motor hub to the ceiling mount, ensuring stability and proper alignment.",
+    "external_interaction_description": "The ceiling fan circulates air to cool a room, interacting with ambient air temperature. It can be controlled by a wall switch or remote, allowing users to adjust speed and direction for comfort. The fan's design minimizes energy consumption while enhancing room aesthetics."
+}

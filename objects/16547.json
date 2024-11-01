@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, modern gray desk lamp with adjustable arm.",
+    "part_description": "Consists of a cylindrical light head, slender adjustable arm, and flat base. The light head is positioned horizontally, attached to the arm at one end. The arm connects to the base vertically, allowing movement.",
+    "internal_interaction_description": "The cylindrical light head pivots on the adjustable arm, allowing directional lighting. The arm's joint at the base enables tilting and height adjustment, providing flexibility in positioning the light head for optimal illumination.",
+    "external_interaction_description": "Designed for desk placement, the lamp provides focused lighting for reading or work. It requires an electrical power source and can interact with various desk objects by illuminating them, enhancing visibility and reducing eye strain."
+}

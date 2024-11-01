@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue and white rectangular 3D glasses.",
+    "part_description": "Two blue rectangular lenses attached to white arms. The lenses are positioned parallel to each other at the front, while the arms extend backward symmetrically from the lenses.",
+    "internal_interaction_description": "The lenses are fixed at the front, providing a flat viewing surface. The arms are hinged at the lenses' edges, allowing them to fold inward for compact storage. The design ensures stability when worn, with the arms supporting the lenses' position.",
+    "external_interaction_description": "When worn, the glasses sit on the user's nose bridge, with the arms resting over the ears for support. They are designed to enhance 3D viewing experiences by filtering light to create depth perception, interacting with 3D content displayed on screens."
+}

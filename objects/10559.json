@@ -1,0 +1,6 @@
+{
+    "base_description": "Small yellow-handled scissors with metal blades.",
+    "part_description": "Two metal blades, sharp and pointed, intersect at a pivot. Yellow plastic handles are looped, ergonomic, and attached to each blade end.",
+    "internal_interaction_description": "The two blades pivot around a central point, allowing them to open and close. The handles provide leverage, enabling the user to apply force to the blades. The sharp edges of the blades meet precisely to cut through materials efficiently.",
+    "external_interaction_description": "The scissors interact with materials like paper, fabric, or string, cutting them when force is applied via the handles. They are operated by hand, requiring manual pressure to close the blades. The ergonomic design ensures comfort during extended use."
+}

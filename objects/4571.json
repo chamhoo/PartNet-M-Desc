@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, flat, gray and black monitor.",
+    "part_description": "The monitor consists of a large rectangular screen and a smaller rectangular base. The screen is flat and gray, bordered by a thin black frame. The base is dark gray and rectangular, positioned centrally beneath the screen.",
+    "internal_interaction_description": "The screen is supported by the base, which provides stability and maintains the screen's upright position. The frame around the screen helps protect the edges and holds the screen securely. The base and screen are aligned to ensure balance and optimal viewing angle.",
+    "external_interaction_description": "The monitor can be connected to external devices like computers or gaming consoles via ports typically located at the back. It interacts with users by displaying visual content. Users can adjust its position slightly for better viewing angles, and it may emit light and sound during operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, silver pen with black clip, modern design.",
+    "part_description": "Contains a cylindrical body, a pointed tip, a retractable button at the top, and a black clip on the side.",
+    "internal_interaction_description": "The retractable button at the top, when pressed, extends or retracts the pen tip through an internal spring mechanism. The clip is attached to the body, providing a secure hold on pockets or papers.",
+    "external_interaction_description": "The pen interacts with paper by transferring ink through the tip when pressure is applied. The clip allows attachment to clothing or notebooks, making it easily portable. The retractable mechanism prevents ink stains when not in use."
+}

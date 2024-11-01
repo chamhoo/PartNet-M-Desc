@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical globe with a stand.",
+    "part_description": "The globe consists of a spherical part mounted on a cylindrical stand. The sphere is smooth and uniform in size, while the stand is circular and supports the globe from the bottom.",
+    "internal_interaction_description": "The spherical globe rotates around an axis which is held in place by the stand. The axis allows for smooth rotation, enabling different parts of the globe to be viewed without moving the entire structure.",
+    "external_interaction_description": "The globe is typically used for educational purposes, allowing individuals to view and learn about geographical locations. It can be spun to access different areas, and the stand provides stability on flat surfaces, making it easy to place on desks or tables."
+}

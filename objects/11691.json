@@ -1,0 +1,6 @@
+{
+    "base_description": "Black laptop with a sleek, modern design.",
+    "part_description": "Consists of a screen, keyboard, touchpad, and ports. The screen is rectangular and attached to the base. The keyboard has a QWERTY layout with a touchpad below it. Ports are located on the sides.",
+    "internal_interaction_description": "The screen hinges to the base, allowing it to open and close. The keyboard inputs data to the internal processor, while the touchpad controls the cursor. Ports connect external devices to the internal hardware for data transfer and power supply.",
+    "external_interaction_description": "Interacts with users through the keyboard and touchpad for input. Connects to external devices via USB ports for data transfer. The screen displays visual output for user interaction. Can connect to power sources for charging and external monitors for extended display."
+}

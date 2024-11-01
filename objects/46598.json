@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with modern style.",
+    "part_description": "Three main sections: top small door, middle large door, bottom small door. Vertical alignment, rectangular shape. Handles on each door, centrally positioned.",
+    "internal_interaction_description": "The cabinet's sections are stacked vertically, each with its own door, allowing independent access. The doors swing open on hinges, providing entry to the internal storage space. Handles facilitate easy opening and closing, ensuring functional separation of compartments.",
+    "external_interaction_description": "The cabinet interacts with its environment by providing storage space for various items. It can be placed against a wall in a room, allowing users to organize and access stored items easily. The doors open outward, requiring surrounding space for full functionality."
+}

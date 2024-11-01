@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, orange, rectangular utility knife with blade.",
+    "part_description": "Includes a metal blade, plastic handle, and adjustment knob. Blade is triangular, positioned at the front. Handle is elongated, orange, with a black logo. Knob is cylindrical, located near the blade.",
+    "internal_interaction_description": "The blade is secured within the plastic handle, allowing for safe use. The adjustment knob tightens or loosens to adjust the blade's position, ensuring stability during cutting tasks. The handle provides grip and control, facilitating precise movements of the blade.",
+    "external_interaction_description": "The utility knife interacts with materials like paper, cardboard, or plastic, cutting through them with precision. Users grip the handle, applying pressure and guiding the blade along the desired cutting path. It requires careful handling to prevent accidents and ensure effective operation."
+}

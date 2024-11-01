@@ -1,0 +1,6 @@
+{
+    "base_description": "Multi-tool with black handle, silver blades.",
+    "part_description": "Features three silver blades of varying sizes, attached to a black rectangular handle with white dots and one yellow dot.",
+    "internal_interaction_description": "The blades pivot around a central axis within the handle, allowing each to fold in and out independently. The handle provides a secure grip and houses the blades when not in use, ensuring safety and compact storage.",
+    "external_interaction_description": "Designed for versatile use, the multi-tool can interact with various materials, such as cutting, slicing, or opening objects. Its compact form makes it portable, suitable for carrying in a pocket or bag, and convenient for outdoor or everyday tasks."
+}

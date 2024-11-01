@@ -1,0 +1,6 @@
+{
+    "base_description": "Round gray clock with orange markers.",
+    "part_description": "Circular face with four orange dots and lines as hour markers, two silver hands for hours and minutes, centrally positioned.",
+    "internal_interaction_description": "The clock hands rotate around the central axis, with the longer minute hand moving faster than the shorter hour hand. The orange markers indicate the hours, helping align the hands with the time. The hands and markers are fixed on the clock face, maintaining their positions relative to each other.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, providing time information to viewers. It interacts with external light, reflecting off its metallic hands and markers, enhancing visibility. The clock relies on an internal mechanism, likely powered by a battery, to maintain accurate timekeeping."
+}

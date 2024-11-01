@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white cabinet with handles.",
+    "part_description": "Includes one drawer and one door, both with handles. The drawer is positioned at the top, while the door is below. The cabinet is rectangular and stands vertically.",
+    "internal_interaction_description": "The drawer slides in and out horizontally within the top section of the cabinet. The door swings open vertically, allowing access to the lower storage area. Both components are attached to the main frame with hinges and tracks, enabling smooth operation.",
+    "external_interaction_description": "The cabinet can be placed in kitchens or bathrooms, providing storage for utensils or toiletries. It interacts with users through handles for opening and closing. Its flat top can support small items or appliances, integrating with surrounding furniture for functional use."
+}

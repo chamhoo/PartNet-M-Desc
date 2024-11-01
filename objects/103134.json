@@ -1,0 +1,6 @@
+{
+    "base_description": "White blender with a yellow lid on a base.",
+    "part_description": "Includes a cylindrical container with a handle, a flat lid, and a rectangular base with buttons and ports. The container is positioned vertically on the base.",
+    "internal_interaction_description": "The container holds ingredients and is secured by a lid to prevent spillage. The handle provides grip for pouring. The base houses the motor and control buttons, which adjust the blending speed and power. The container connects to the base for power transmission.",
+    "external_interaction_description": "The blender interacts with external elements by processing ingredients into smoothies or purees. Users operate it via control buttons on the base, and it requires a power source connection. Ingredients are loaded into the container, and the final product is poured out using the handle."
+}

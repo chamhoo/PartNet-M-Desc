@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver ceiling fan with four blades.",
+    "part_description": "The fan has four evenly spaced, elongated silver blades attached to a central circular hub. The hub is connected to a short vertical rod for ceiling mounting.",
+    "internal_interaction_description": "The four blades are securely attached to the central hub, which rotates around the vertical rod. This rotation is powered by an internal motor, ensuring even distribution of air across the blades. The design allows for smooth and efficient airflow within the unit.",
+    "external_interaction_description": "The fan interacts with its environment by circulating air when powered on. It cools the surrounding area by creating a breeze, affecting temperature and air quality. It is typically controlled by a wall switch or remote, allowing users to adjust speed and direction."
+}

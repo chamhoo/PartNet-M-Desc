@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black toaster with metallic accents.",
+    "part_description": "Includes two slots, a lever, and four control buttons. Slots are on top; lever and buttons are on the side.",
+    "internal_interaction_description": "The lever lowers bread into the slots, activating the heating elements. The control buttons adjust settings like browning level. When the cycle completes, the internal mechanism lifts the bread back up.",
+    "external_interaction_description": "The toaster requires a power source and is used to toast bread. Users interact by inserting bread, adjusting settings, and pressing the lever. It fits on kitchen countertops, interacting with other kitchen appliances."
+}

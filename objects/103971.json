@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe with golden stand, spherical shape.",
+    "part_description": "The globe consists of a spherical white ball and a golden stand. The stand includes a circular base and a semi-circular arm holding the globe. The globe is centrally positioned on the stand.",
+    "internal_interaction_description": "The spherical globe is mounted on the semi-circular arm of the stand, allowing it to rotate smoothly. The arm is affixed to the circular base, providing stability. The rotation mechanism is facilitated by the precise fitting of the globe within the arm's curvature.",
+    "external_interaction_description": "The globe can be manually rotated by a person to view different parts of its surface. It serves as a decorative or educational tool, interacting with its environment by being placed on a desk or shelf, and can be used to demonstrate geographical concepts."
+}

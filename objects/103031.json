@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, white, industrial mixer with a round bowl.",
+    "part_description": "Includes a large bowl, mixing arm, and a hinged lid. The bowl is positioned at the base, with the mixing arm above it. The lid is attached to the top, able to cover the bowl.",
+    "internal_interaction_description": "The mixing arm rotates within the bowl, thoroughly combining ingredients. The hinged lid can be opened or closed to add ingredients or prevent spills. The bowl remains stationary as the arm moves, ensuring even mixing.",
+    "external_interaction_description": "The mixer is used by operators to blend ingredients efficiently. It requires electrical power to function and is typically placed on a stable surface. Users interact with controls to adjust speed and mixing duration."
+}

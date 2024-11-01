@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, gray desk fan with metal frame.",
+    "part_description": "Four gray blades housed in a circular metal cage, supported by a rectangular metal stand. Central black hub connects blades. Cage is open with wire grid structure.",
+    "internal_interaction_description": "The blades are connected to a central hub, which rotates to generate airflow. The metal cage surrounds the blades, ensuring safety and directing airflow. The stand supports the entire structure, maintaining stability during operation. The open wire grid allows air to pass freely while protecting the blades from external contact.",
+    "external_interaction_description": "The fan circulates air when placed on a flat surface, cooling the surrounding area. It requires a power source for operation. It interacts with users by providing adjustable airflow, contributing to temperature regulation in small spaces. The design allows for easy repositioning and cleaning."
+}

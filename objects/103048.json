@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and gray blender, cylindrical and compact.",
+    "part_description": "Includes a tall, gray blending jar with a black lid, a red base with a black circular control button, and a black handle on the jar's side.",
+    "internal_interaction_description": "The blending jar fits securely onto the base, allowing the motor to engage the blades inside the jar. The lid seals the top to prevent spillage during operation. The handle provides a grip for easy pouring and handling.",
+    "external_interaction_description": "The blender is operated by pressing the control button, interacting with users to blend ingredients. It requires a power source to function and can be placed on a kitchen counter. Users can remove the jar for cleaning and pouring."
+}

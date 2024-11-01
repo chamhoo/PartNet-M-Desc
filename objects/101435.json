@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, circular, silver desk fan with blades.",
+    "part_description": "Includes three blades, a circular protective grille, a base, and a motor housing. The blades are positioned centrally, enclosed by the grille. The base is round and supports the motor housing at the back.",
+    "internal_interaction_description": "The motor inside the housing rotates the central shaft, causing the three blades to spin. The circular grille protects the blades while allowing air to pass through. The base stabilizes the fan and houses the power controls.",
+    "external_interaction_description": "The fan circulates air to cool nearby areas. It requires connection to a power source and can be placed on flat surfaces. Users can adjust its position for optimal airflow direction. It interacts with surrounding air, enhancing ventilation in enclosed spaces."
+}

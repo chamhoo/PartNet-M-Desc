@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized, rectangular stapler with black and gray colors.",
+    "part_description": "Includes a top cover, base, metal plate, and spring-loaded mechanism. The top is rectangular and brown, while the base is black and elongated. The metal plate is flat and positioned under the top cover.",
+    "internal_interaction_description": "The top cover is connected to the base through a hinge, allowing it to open and close. Inside, a spring-loaded mechanism holds staples and pushes them through the metal plate when the top is pressed down, securing papers together.",
+    "external_interaction_description": "The stapler interacts with paper by binding sheets together when pressed. Users apply downward force to the top cover, activating the internal mechanism. It can be placed on desks or held in hand, requiring minimal effort to operate."
+}

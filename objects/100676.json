@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown cardboard box, medium-sized, open top.",
+    "part_description": "Four flaps on top, rectangular shape, taped seam vertically along one side.",
+    "internal_interaction_description": "The flaps are hinged at the top edges, allowing them to open and close. The taped seam holds the box's sides together, maintaining its structure. The flaps can interlock when closed to secure the contents inside.",
+    "external_interaction_description": "The box can be used for storing and transporting items. It interacts with external elements by being opened or closed by a person. It can be stacked with other boxes and may be sealed with additional tape for secure transport."
+}

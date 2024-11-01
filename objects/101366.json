@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, slender, silver pole with three-legged base.",
+    "part_description": "The object consists of a long vertical pole and three horizontal legs at the base. The pole is cylindrical, and the legs are evenly spaced, extending outward for stability.",
+    "internal_interaction_description": "The vertical pole is anchored by the three legs at its base, providing stability and balance. The legs are symmetrically arranged around the base, ensuring the pole remains upright. The connection between the pole and legs is fixed, allowing no movement between parts.",
+    "external_interaction_description": "The object can be placed on flat surfaces, interacting with the ground to remain upright. It may support lightweight items or serve as a stand. Interaction with people involves positioning or moving the object to desired locations."
+}

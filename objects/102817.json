@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular wall switch with two toggles.",
+    "part_description": "Consists of a rectangular plate with two toggle switches centered horizontally, spaced evenly apart.",
+    "internal_interaction_description": "The two toggle switches are mounted onto the rectangular plate, allowing them to pivot up and down. They are connected internally to mechanisms that control electrical circuits, enabling or disabling power flow when toggled.",
+    "external_interaction_description": "The switch is mounted on a wall, allowing users to control electrical devices by flipping the toggles. It interfaces with the building's electrical system to manage lighting or power outlets, providing a manual interface for power control."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical, gray trash can with vertical slats.",
+    "part_description": "Includes a round lid, central container, and outer slat structure. The slats are evenly spaced, surrounding the container, with a gap for access. The lid is flat and circular, fitting on top of the container.",
+    "internal_interaction_description": "The central container holds waste, supported by the surrounding slats which provide structural integrity and aesthetic design. The lid fits securely on top, ensuring contents are contained while allowing easy access for disposal through the slat gap.",
+    "external_interaction_description": "Designed for public spaces, the trash can interacts with users by providing a receptacle for waste disposal. Its structure allows for easy cleaning and maintenance, while the slats offer ventilation and visibility, deterring misuse and ensuring easy access for waste collection."
+}

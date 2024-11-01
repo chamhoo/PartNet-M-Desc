@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular brown wooden desk with simple design.",
+    "part_description": "The desk has a flat rectangular top, two side panels, and a central panel with a drawer and a cabinet door. The panels are vertical, supporting the top.",
+    "internal_interaction_description": "The top is supported by the side and central panels, providing stability. The drawer is positioned above the cabinet door, sliding horizontally for access, while the door swings open vertically.",
+    "external_interaction_description": "The desk provides a flat surface for placing items like computers or books. The drawer and cabinet offer storage, interacting with users through pulling and opening actions. It can be positioned in various room settings for work or study."
+}

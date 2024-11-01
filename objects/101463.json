@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray plastic spray bottle with trigger nozzle.",
+    "part_description": "Includes a cylindrical bottle, a trigger mechanism, and a spray nozzle. The bottle is round and wide at the base, tapering slightly toward the top. The trigger is attached to the neck, with the nozzle positioned at the front.",
+    "internal_interaction_description": "The trigger mechanism, when squeezed, activates a pump inside the bottle. This pump draws liquid up through a tube and forces it out through the nozzle as a spray. The nozzle may have adjustable settings to control spray patterns.",
+    "external_interaction_description": "The spray bottle is handheld and used to disperse liquids onto surfaces or into the air. It can be used for cleaning, gardening, or applying products. Users interact with the trigger to control the spray, and the bottle can be refilled as needed."
+}

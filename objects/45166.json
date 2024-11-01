@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray drawer with a handle.",
+    "part_description": "One main body, one handle on the front, rectangular shape, medium size, horizontal orientation.",
+    "internal_interaction_description": "The handle is attached to the front panel, allowing the drawer to open and close smoothly. The main body encloses a storage space, with the front panel acting as a door that pivots on hinges or slides within a track.",
+    "external_interaction_description": "The drawer interacts with external elements by providing storage space. It can be pulled open by grasping the handle, allowing access to its contents. It fits within a larger furniture piece, such as a cabinet or desk, integrating into a room's storage system."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with a blue screen.",
+    "part_description": "Includes a rectangular screen, keyboard with many keys, and a touchpad. The screen is positioned above the keyboard, which is centrally located on the base.",
+    "internal_interaction_description": "The screen displays visual output, while the keyboard and touchpad provide input functions. The keyboard is used for typing, and the touchpad allows for cursor movement. The screen and input devices are connected internally to the laptop's processing unit.",
+    "external_interaction_description": "Interacts with users through the screen for display and keyboard for input. Can connect to external devices like a mouse or printer via ports. Users can open and close the laptop for portability and convenience."
+}

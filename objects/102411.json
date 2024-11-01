@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black digital camera with lens.",
+    "part_description": "Features a rectangular body, protruding cylindrical lens, screen, and buttons. Lens is centered on the front, with a screen on the back. Buttons are arranged on the top and back.",
+    "internal_interaction_description": "The lens assembly retracts into the body when powered off and extends when powered on. Buttons interface with internal electronics to control functions like zoom, focus, and capture. The screen displays the captured image and camera settings.",
+    "external_interaction_description": "Interacts with users through buttons for capturing images. Connects to other devices via USB or wireless for data transfer. Can be mounted on tripods for stability. It captures light through the lens to create digital images."
+}

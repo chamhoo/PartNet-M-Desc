@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray blender with a transparent jug and buttons.",
+    "part_description": "Includes a transparent jug with a lid, handle, base with four buttons, and a red switch. The jug is cylindrical and positioned atop the rectangular base.",
+    "internal_interaction_description": "The jug sits securely on the base, allowing contents to be blended when the motor activates. The lid ensures contents don't spill, while the handle provides grip. Buttons control speed and function, interacting with the motor inside the base.",
+    "external_interaction_description": "The blender interacts with users through its buttons for operation. It processes ingredients placed inside, transforming them into blended mixtures. The handle allows easy pouring, and the base remains stable on surfaces during use."
+}

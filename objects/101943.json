@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver stove with multiple burners.",
+    "part_description": "Six burners on top, control knobs in front, oven below, and a back panel.",
+    "internal_interaction_description": "The control knobs adjust the flame intensity of each burner, allowing for precise cooking. Burners are arranged in two rows for balanced heat distribution. The oven door opens downward, providing access to the interior for baking or roasting. The back panel supports stability and may house additional controls.",
+    "external_interaction_description": "The stove connects to a gas line or electricity for power. Users interact with the knobs to control heat levels for cooking. Pots and pans are placed on burners for heating. The oven can accommodate baking trays or dishes, interacting with external cooking utensils and ingredients."
+}

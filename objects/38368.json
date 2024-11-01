@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and white office chair with wheels.",
+    "part_description": "Consists of a cushioned seat and backrest, adjustable height cylinder, foot ring, and five-wheel base.",
+    "internal_interaction_description": "The seat and backrest are connected to an adjustable cylinder, allowing height modification. The foot ring is attached to the cylinder, providing foot support. The five-wheel base ensures stability and mobility, enabling the chair to swivel and roll easily.",
+    "external_interaction_description": "The chair interacts with users by providing adjustable seating comfort, supporting various postures. It rolls on floors with its wheels, making it easy to move around workspaces. The foot ring offers additional support for users, especially when seated for extended periods."
+}

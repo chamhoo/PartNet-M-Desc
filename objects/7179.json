@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver double oven, rectangular and modern.",
+    "part_description": "Two main oven compartments, vertically stacked, with glass doors and handles. Control panel on top section, rectangular shape with a sleek design.",
+    "internal_interaction_description": "The upper and lower compartments operate independently, each with separate heating elements and controls. The glass doors allow visibility and retain heat, while handles provide access. The control panel adjusts temperature and settings for each compartment.",
+    "external_interaction_description": "The oven interacts with users through the control panel for setting temperatures and timers. It requires external power supply and fits within standard kitchen cabinetry. The glass doors allow users to view cooking progress without opening, maintaining internal temperature."
+}

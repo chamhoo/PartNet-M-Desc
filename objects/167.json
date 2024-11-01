@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, curved kitchen faucet with dual handles.",
+    "part_description": "Includes a curved spout, two cross handles, and a base. The spout is arch-shaped, positioned centrally, with handles on either side for hot and cold water control.",
+    "internal_interaction_description": "The handles control valves that regulate water flow through the spout. Turning the handles adjusts the mix of hot and cold water, flowing through internal channels to the spout.",
+    "external_interaction_description": "The faucet connects to plumbing for water supply. Users turn handles to dispense water into sinks for washing or filling containers. The spout's height allows clearance for larger items."
+}

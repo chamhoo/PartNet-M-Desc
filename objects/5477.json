@@ -1,0 +1,6 @@
+{
+    "base_description": "Flat-screen monitor, rectangular, black with gray stand.",
+    "part_description": "Screen, bezel, and stand; screen is large and rectangular, bezel is thin, stand is circular and gray, positioned centrally underneath.",
+    "internal_interaction_description": "The screen is encased within the bezel, which provides structural support. The stand connects to the bezel's lower section, holding the monitor upright. Internal wiring links the screen to input ports and power supply, facilitating image display and functional operations.",
+    "external_interaction_description": "The monitor connects to external devices like computers via HDMI or VGA cables for display output. It can be adjusted or tilted manually on its stand for optimal viewing. The screen interacts with users by displaying visual content, while buttons on the bezel allow for settings adjustments."
+}

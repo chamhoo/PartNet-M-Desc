@@ -1,0 +1,6 @@
+{
+    "base_description": "Square beige trash bin with brown lid.",
+    "part_description": "Comprises a rectangular beige body, a flat brown lid, and a semicircular brown foot pedal at the base.",
+    "internal_interaction_description": "The foot pedal connects to a mechanism that lifts the lid when pressed. The lid is hinged to the top of the bin, allowing it to open and close smoothly. The body of the bin is hollow, designed to hold trash bags securely inside.",
+    "external_interaction_description": "The bin interacts with users by allowing waste disposal through the lid, which lifts when the foot pedal is pressed. It can be placed in kitchens or bathrooms for convenient waste management. The lid helps contain odors and keep trash out of sight."
+}

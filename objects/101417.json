@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue spray bottle with a white nozzle.",
+    "part_description": "Consists of a bulbous blue base and a white spray nozzle. The nozzle is positioned at the top, featuring a trigger mechanism for dispensing liquid.",
+    "internal_interaction_description": "The trigger mechanism on the white nozzle interacts with an internal pump system that draws liquid from the blue base. When the trigger is pulled, the pump creates pressure, forcing the liquid through a small tube and out of the nozzle as a spray.",
+    "external_interaction_description": "The spray bottle is handheld and interacts with users who pull the trigger to dispense liquid. It is used to apply cleaning solutions or water onto surfaces, plants, or other objects. The nozzle can often be adjusted to change the spray pattern."
+}

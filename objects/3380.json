@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, slender red bottle with a narrow neck.",
+    "part_description": "The bottle has a cylindrical body, a narrow neck, and a flat base. The neck is shorter than the body, and the top is sealed with a cap.",
+    "internal_interaction_description": "The narrow neck connects to the cylindrical body, allowing for liquid containment and controlled pouring. The cap seals the top, maintaining the contents' freshness and preventing spillage.",
+    "external_interaction_description": "The bottle can be held by the neck or body, poured into glasses, and stored upright. It interacts with corkscrews or bottle openers for opening, and can be placed in coolers or on tables for serving."
+}

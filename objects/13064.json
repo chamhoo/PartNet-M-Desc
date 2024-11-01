@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black keyboard with gray frame.",
+    "part_description": "Contains alphanumeric keys, function keys, and a numeric keypad arranged in rows. The keys are black, while the frame is gray. The numeric keypad is positioned on the right.",
+    "internal_interaction_description": "The keys are mounted on a circuit board that registers keystrokes when pressed. Each key is spring-loaded, allowing for tactile feedback. The layout is designed for efficient typing, with specific sections for alphanumeric input, function commands, and numeric calculations.",
+    "external_interaction_description": "The keyboard connects to a computer via a cable or wireless signal, allowing users to input data and commands. It is typically placed on a desk or flat surface for ergonomic typing. The keyboard interacts with a user's hands and fingers, translating physical keystrokes into digital input."
+}

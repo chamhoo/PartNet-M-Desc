@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop with a black screen, open position.",
+    "part_description": "The laptop has a screen, keyboard, and touchpad. The screen is rectangular, thin, and positioned vertically. The keyboard is flat, located below the screen, and spans the width of the base. The touchpad is centered below the keyboard.",
+    "internal_interaction_description": "The screen and keyboard are connected by a hinge, allowing the screen to open and close. The keyboard and touchpad are integrated into the base, enabling input through key presses and touch gestures. The hinge provides stability and flexibility, supporting various viewing angles.",
+    "external_interaction_description": "The laptop interfaces with users through the screen for display and the keyboard and touchpad for input. It can connect to external devices via ports for data transfer, charging, or peripheral connections. The screen displays visual content, while the keyboard and touchpad facilitate user interaction."
+}

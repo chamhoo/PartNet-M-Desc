@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black monitor with a sturdy base.",
+    "part_description": "The monitor has a flat rectangular screen, a thick frame, and a wide, curved base. The screen is centrally positioned, with a frame surrounding it, and the base supports the monitor from below.",
+    "internal_interaction_description": "The screen is attached to the frame, which provides structural support. The frame connects to the base, allowing the monitor to stand upright. Internal components, such as circuits and wiring, are housed within the frame, facilitating display functions.",
+    "external_interaction_description": "The monitor interfaces with external devices via ports, allowing for input from computers or media players. It is designed to display visual content for users and can be adjusted or moved by a person for optimal viewing."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular toolbox with open lid and drawer.",
+    "part_description": "Includes a lid, multiple horizontal drawers, and side handles. The lid is on top, drawers are stacked below, and handles are on the sides. The main body is rectangular and red, with gray accents on the drawers.",
+    "internal_interaction_description": "The lid opens upwards to provide access to the top compartment. Drawers slide horizontally in and out, allowing access to stored items. The handles are fixed on the sides, providing grip for carrying. Each part is functionally integrated to store and organize tools efficiently.",
+    "external_interaction_description": "The toolbox interacts with users by providing organized storage for tools, facilitating easy transport with side handles. It can be placed on workbenches or floors and used in garages, workshops, or construction sites, interacting with various environments and aiding in tool management."
+}

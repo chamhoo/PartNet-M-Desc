@@ -1,0 +1,6 @@
+{
+    "base_description": "Transparent cube with a small grid panel.",
+    "part_description": "Cube with a grid panel on one side and a handle.",
+    "internal_interaction_description": "The grid panel is centrally placed on one face of the cube, possibly allowing for ventilation or visibility. The handle is positioned on the same side, suggesting a door mechanism for opening or access.",
+    "external_interaction_description": "The object can be placed on flat surfaces, interacting with external elements through its transparent sides and grid panel, allowing visibility or airflow. The handle facilitates interaction by enabling the opening of the cube, possibly for storage or containment purposes."
+}

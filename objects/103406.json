@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall cylindrical bottle with a pump, gray color.",
+    "part_description": "Includes a cylindrical body, a circular pump top, and a dispensing nozzle. The pump is centrally positioned on top, with the nozzle extending outward.",
+    "internal_interaction_description": "The pump mechanism is connected to an internal tube that reaches the bottom of the bottle, allowing liquid to be drawn up and dispensed when the pump is pressed. The nozzle directs the liquid outward efficiently.",
+    "external_interaction_description": "The bottle is designed for easy handling and can be used to dispense liquid soap or lotion. The pump requires manual pressure to operate, making it user-friendly for dispensing controlled amounts."
+}

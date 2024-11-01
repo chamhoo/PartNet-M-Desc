@@ -1,0 +1,6 @@
+{
+    "base_description": "Black keyboard with ergonomic wrist rest.",
+    "part_description": "Consists of multiple keys arranged in rows, rectangular shape, includes a wide wrist rest at the bottom, and a slightly inclined surface.",
+    "internal_interaction_description": "Keys are mechanically connected to the keyboard's internal circuitry, allowing for input when pressed. The wrist rest is fixed to the base, providing support and stability during use.",
+    "external_interaction_description": "Interacts with users through key presses, translating into digital input for computers. The wrist rest offers ergonomic support, reducing strain during prolonged use. Connects to devices via wired or wireless means, facilitating communication between the keyboard and the computer system."
+}

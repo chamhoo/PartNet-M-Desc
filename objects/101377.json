@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical trash can with a lid.",
+    "part_description": "Consists of a cylindrical body, a circular lid on top, and a foot pedal at the base. The lid fits snugly atop the body, and the pedal protrudes slightly from the bottom front.",
+    "internal_interaction_description": "The lid connects to the body and is operated by the foot pedal. Pressing the pedal lifts the lid via a simple lever mechanism, allowing access to the interior. The lid closes automatically when the pedal is released, ensuring containment of contents.",
+    "external_interaction_description": "Designed for use in kitchens or offices, it interacts with users who press the pedal to open the lid and dispose of waste. The can remains stationary on the floor, and its lid prevents odors from escaping, providing a clean environment."
+}

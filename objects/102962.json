@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and black pen with silver accents.",
+    "part_description": "The pen has a red barrel, black grip, silver clip, and top button. A spiral silver decoration wraps near the top.",
+    "internal_interaction_description": "The top button, when pressed, extends or retracts the pen tip through a mechanism inside. The spiral decoration is fixed, providing a grip for the clip, which is attached to the pen's side.",
+    "external_interaction_description": "The pen is used for writing on paper, with the clip allowing attachment to pockets or notebooks. The grip provides comfort during use, and the button facilitates easy retraction of the pen tip."
+}

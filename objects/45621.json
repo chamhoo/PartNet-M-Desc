@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet, medium size, gray, modern style.",
+    "part_description": "Consists of two main sections: a vertical shelf on the left and a large sliding door on the right with handles.",
+    "internal_interaction_description": "The sliding door moves horizontally along a track to reveal or conceal the internal storage space. The vertical shelf is fixed and provides additional storage, dividing the cabinet into two functional areas.",
+    "external_interaction_description": "The cabinet can be mounted on a wall and interacts with users by providing storage space. The sliding door allows easy access to contents, and the handles facilitate smooth opening and closing."
+}

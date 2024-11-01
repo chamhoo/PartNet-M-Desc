@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray container with an open lid.",
+    "part_description": "The object has a rectangular base and a hinged lid. The lid is positioned at the top, slightly larger than the base, and opens upwards. The container is tall and narrow, with smooth surfaces.",
+    "internal_interaction_description": "The lid is connected to the main body via a hinge, allowing it to pivot open and closed. The lid fits snugly over the top, providing a seal when closed. The interior is hollow, designed to store items securely.",
+    "external_interaction_description": "The container interacts with external objects by holding or storing them inside. It can be opened by people to access its contents. The lid provides protection from external elements when closed, keeping the contents safe."
+}

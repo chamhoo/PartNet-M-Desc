@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray bottle with a red cap, cylindrical shape.",
+    "part_description": "The bottle has a cylindrical body with a narrow neck and a red cap on top. The body is gray, and the cap is circular, fitting snugly on the neck.",
+    "internal_interaction_description": "The red cap screws onto the narrow neck of the bottle, creating a seal that prevents contents from spilling. The neck's design ensures the cap fits securely, maintaining the bottle's airtightness. The cylindrical shape allows for even distribution of internal pressure.",
+    "external_interaction_description": "The bottle is designed to be held easily by hand, with a non-slip surface. The red cap can be twisted open or closed by a user, allowing access to the contents. It can sit stably on flat surfaces due to its flat base."
+}

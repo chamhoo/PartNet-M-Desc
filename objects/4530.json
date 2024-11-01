@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray and black electronic device.",
+    "part_description": "Screen centered, black frame, gray body, vents on sides.",
+    "internal_interaction_description": "The screen is embedded within the black frame, allowing visual output. The vents on the sides facilitate airflow, preventing overheating. The gray body houses internal components, supporting the screen and frame structurally.",
+    "external_interaction_description": "The device interacts with users through its touchscreen interface, allowing input and navigation. It can be mounted on walls or stands, integrating into various environments. Connectivity ports may allow interaction with other devices such as computers or networks."
+}

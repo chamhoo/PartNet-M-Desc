@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray box with blue front panel.",
+    "part_description": "Features a large blue front panel, gray frame, and small knob. The panel is centered, with a rectangular shape, and the knob is located at the bottom right corner.",
+    "internal_interaction_description": "The blue front panel is securely enclosed within the gray frame, providing structural stability. The knob on the frame may connect to an internal mechanism, enabling interaction with the panel for opening or adjusting purposes. The arrangement ensures a cohesive design and functional integrity.",
+    "external_interaction_description": "This object can be mounted on a wall or placed on a surface, interacting with its environment as a potential cabinet or display case. The front panel may open to store or display items, while the knob allows user interaction for access or adjustments."
+}

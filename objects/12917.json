@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and gray computer keyboard.",
+    "part_description": "Includes keys arranged in rows, a numeric keypad, and function keys, all positioned on a rectangular base.",
+    "internal_interaction_description": "The keys are mechanically connected to switches beneath them, which activate circuits when pressed. The layout allows for efficient typing and input, with keys positioned for ergonomic access, including a separate section for navigation and numeric entry.",
+    "external_interaction_description": "Interacts with computers via a cable or wireless connection, allowing users to input text and commands. It is typically placed on a desk and used with other devices like a mouse and monitor, responding to user input through key presses."
+}

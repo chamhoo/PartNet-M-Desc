@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black door with silver handle.",
+    "part_description": "The door has a rectangular shape with a vertical silver handle on one side and a narrow vertical window near the handle.",
+    "internal_interaction_description": "The handle is attached to the door, allowing for easy opening and closing. The window is embedded within the door, providing visibility through the center while maintaining structural integrity.",
+    "external_interaction_description": "The door interacts with hinges on one side, allowing it to swing open and closed. It can be used by people to enter or exit a space, providing access control and privacy."
+}

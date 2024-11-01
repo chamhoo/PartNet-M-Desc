@@ -1,0 +1,6 @@
+{
+    "base_description": "Black remote control with colored buttons.",
+    "part_description": "Numerous buttons arranged in rows, including colored ones. Central circular button with surrounding controls. Rectangular shape, buttons cover front surface.",
+    "internal_interaction_description": "Buttons interact with internal circuitry to send signals. Pressing a button completes a circuit, triggering specific commands. Central circular button likely interacts with directional controls for navigation. Colored buttons may correspond to specific functions or shortcuts.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or audio systems. Sends infrared or radio signals to control functions such as power, volume, and channel. Requires line of sight for infrared operation. Handheld, designed for easy use by people."
+}

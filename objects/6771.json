@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical bottle with red and green colors.",
+    "part_description": "Consists of a cylindrical body, a narrow neck, and a cap. The body is red with a green band in the middle. The neck is gray, and the cap is green.",
+    "internal_interaction_description": "The bottle's body provides the main storage space, while the neck connects the body to the cap. The cap fits snugly on the neck, sealing the contents inside. The green band is decorative and does not affect the structure.",
+    "external_interaction_description": "The bottle can be held and opened by people, with the cap being removed to access the contents. It can be placed upright on surfaces and is designed to contain liquids, interacting with other objects like glasses or containers."
+}

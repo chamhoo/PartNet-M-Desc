@@ -1,0 +1,6 @@
+{
+    "base_description": "White three-panel glass door with grid design.",
+    "part_description": "Three rectangular glass panels with white frames. Each panel has a grid of smaller glass squares. The central panel is a door, flanked by two fixed panels on either side.",
+    "internal_interaction_description": "The central panel functions as a door, likely hinged to open and close, allowing access through the structure. The side panels remain stationary, providing structural support and aesthetic balance. The grid design divides the glass into smaller sections, enhancing stability and appearance.",
+    "external_interaction_description": "The door interacts with external elements by allowing passage of people and light. It can be opened or closed to regulate airflow and access. The glass panels provide visibility and natural light while serving as a barrier against weather elements."
+}

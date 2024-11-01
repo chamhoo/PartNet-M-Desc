@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic stove with rectangular shape and gray color.",
+    "part_description": "Includes a flat top with a burner, control knobs, two side handles, and a cabinet with doors below. The burner is centered, knobs are aligned below the top, and doors are on the front.",
+    "internal_interaction_description": "The burner on the top connects to the control knobs, allowing for heat regulation. The cabinet doors open to reveal storage space, likely for cooking utensils or supplies. The side handles provide grip for moving the stove.",
+    "external_interaction_description": "The stove is designed for cooking, interacting with pots and pans on the burner. Users operate the control knobs to adjust heat levels. The cabinet stores cooking items, and the handles help in relocating the stove as needed."
+}

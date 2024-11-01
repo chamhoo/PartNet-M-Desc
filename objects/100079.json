@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular eraser with a white sleeve.",
+    "part_description": "The eraser has two main parts: a red rectangular body and a white protective sleeve. The red body is solid and elongated, while the sleeve is translucent and fits over one end.",
+    "internal_interaction_description": "The white sleeve slides over the red eraser body, providing protection and structural support. It prevents the eraser from wearing down unevenly and allows for controlled usage by exposing only the necessary amount of the eraser.",
+    "external_interaction_description": "The eraser interacts with paper by removing pencil marks through friction. The sleeve allows for easy handling and prevents eraser residue from spreading. Users can adjust the sleeve to expose more or less of the eraser as needed for precision."
+}

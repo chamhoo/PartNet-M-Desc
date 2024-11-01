@@ -1,0 +1,6 @@
+{
+    "base_description": "Round pizza with toppings in a box.",
+    "part_description": "Pizza with eight slices, pepperoni, and cheese, in a square cardboard box with an open lid.",
+    "internal_interaction_description": "The pizza slices are arranged in a circular pattern, each topped with evenly spaced pepperoni and melted cheese. The crust forms the outer edge, holding the toppings in place. The box supports the pizza, preventing movement.",
+    "external_interaction_description": "The pizza box can be carried by hand, protecting the pizza inside. When opened, it allows access to the pizza for serving. The box insulates the pizza, maintaining warmth, and can be stacked with other boxes for transport."
+}

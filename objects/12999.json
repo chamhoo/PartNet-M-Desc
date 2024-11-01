@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, white wired keyboard.",
+    "part_description": "Consists of multiple keys arranged in rows, a numeric keypad on the right, and a connecting wire at the top center.",
+    "internal_interaction_description": "Keys are spring-loaded and arranged for efficient typing. The numeric keypad allows for quick numerical input. The wire connects internally to circuitry that transmits keystrokes to a connected device.",
+    "external_interaction_description": "Connects to a computer via the wire, allowing user input through keystrokes. Used for typing, data entry, and executing commands. Compatible with various operating systems and typically placed on a flat surface for ergonomic use."
+}

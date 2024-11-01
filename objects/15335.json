@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern black desk lamp with adjustable arm.",
+    "part_description": "Includes a circular base, two adjustable arms, and a rectangular lampshade. The arms are connected by joints, allowing movement. The base is compact and sturdy.",
+    "internal_interaction_description": "The two arms are connected by rotating joints, enabling the lampshade to be positioned at various angles. The base provides stability, while the arms allow for height and angle adjustments. The lampshade is fixed to the end of the second arm, directing light downward.",
+    "external_interaction_description": "The lamp can be placed on a desk or table, providing focused lighting for tasks like reading or writing. Users can adjust the arm's angles for optimal illumination. The lamp requires an electrical outlet for power, interacting with the environment by illuminating specific areas."
+}

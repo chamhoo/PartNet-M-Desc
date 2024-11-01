@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray plastic bottle with blue cap, rectangular shape.",
+    "part_description": "The bottle has a rectangular body with rounded edges, a narrow neck, and a blue cylindrical cap. The body features horizontal ridges for grip.",
+    "internal_interaction_description": "The cap screws onto the neck of the bottle, creating a seal to prevent liquid from leaking. The ridges on the bottle's body provide structural integrity and improve grip, ensuring the bottle is easy to hold and pour from.",
+    "external_interaction_description": "The bottle is designed for holding and dispensing liquids, interacting with users by providing a secure grip and easy opening and closing mechanism. It can be placed on flat surfaces without rolling due to its rectangular shape."
+}

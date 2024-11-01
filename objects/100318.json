@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic lighter, rectangular, silver, compact design.",
+    "part_description": "Includes a hinged lid, rectangular body, and ignition wheel. The lid is positioned on top, the wheel is at the top front, and the body is the main structure.",
+    "internal_interaction_description": "The hinged lid opens to reveal the ignition wheel and wick. The wheel, when spun, strikes a flint to produce a spark. This ignites the wick, allowing the lighter to produce a flame. The lid protects the internal components when closed.",
+    "external_interaction_description": "Designed to be held in the hand, the lighter is used to produce a flame for lighting cigarettes or other items. It interacts with the user through manual operation of the lid and ignition wheel, and with external objects by providing a controlled flame."
+}

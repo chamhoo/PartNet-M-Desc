@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver rectangular toaster with four slots.",
+    "part_description": "Four slots on top, two levers on the front, six buttons arranged vertically beside each lever, and a black base.",
+    "internal_interaction_description": "The levers control the internal heating elements, allowing bread to be lowered into the slots. The buttons likely adjust settings such as toasting time or browning level, interacting with the internal electronics to modify the toasting process.",
+    "external_interaction_description": "The toaster interacts with bread slices, heating them to the desired level. Users operate the levers and buttons to control toasting settings. It requires an electrical outlet for power and sits on a flat surface during use."
+}

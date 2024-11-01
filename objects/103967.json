@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical object with a flat base.",
+    "part_description": "Consists of a round, smooth sphere atop a flat circular base.",
+    "internal_interaction_description": "The sphere seamlessly connects to the base, with no visible joints, creating a stable structure. The smooth surface of the sphere allows for even distribution of weight onto the base, ensuring balance and stability.",
+    "external_interaction_description": "The object can be placed on flat surfaces, serving as a decorative piece or functional component. Its smooth surface may interact with light, creating reflections. It may also be handled by people, requiring minimal effort due to its simple shape."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window with gray and blue panels.",
+    "part_description": "Two rectangular panels; one dark gray, one blue. Panels are side by side, framed in a light gray border. Each panel is of equal size and shape, positioned vertically.",
+    "internal_interaction_description": "The two panels are mounted on a track within the frame, allowing them to slide horizontally past each other. This mechanism enables one panel to overlap the other, facilitating opening and closing. The frame provides structural support, ensuring stability and smooth operation of the sliding function.",
+    "external_interaction_description": "The window can be opened by sliding the panels to allow air and light to pass through. It serves as a barrier against external elements when closed, providing insulation and security. Interaction with people involves manual operation to adjust the opening, enhancing ventilation and visibility."
+}

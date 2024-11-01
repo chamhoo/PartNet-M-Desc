@@ -1,0 +1,6 @@
+{
+    "base_description": "Square gray light switch cover, simple design.",
+    "part_description": "Consists of a square plate with a central toggle switch and two screw holes above and below the switch for mounting.",
+    "internal_interaction_description": "The central toggle switch is mounted on the plate, allowing it to pivot up and down within the cover's frame. The screw holes are positioned to secure the plate to the wall, stabilizing the switch mechanism.",
+    "external_interaction_description": "Designed to be mounted on a wall, the switch cover protects the internal wiring and switch mechanism while allowing user interaction with the toggle to control electrical circuits."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray dimmer switch with a circular knob.",
+    "part_description": "Consists of a square plate and a central circular knob. Two screws are positioned symmetrically on either side of the knob.",
+    "internal_interaction_description": "The circular knob is attached to an internal mechanism that adjusts electrical resistance. Turning the knob changes the resistance, altering the brightness of connected lights. The screws secure the plate to a surface, maintaining stability and ensuring proper alignment of internal components.",
+    "external_interaction_description": "The dimmer switch is mounted on a wall and interacts with a lighting circuit. Users rotate the knob to adjust light intensity. It requires a compatible light fixture and electrical system to function effectively, providing variable lighting control in a room."
+}

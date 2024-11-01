@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black coffee machine with modern design.",
+    "part_description": "Features include a drip tray, spout, control knob, and buttons. The drip tray is at the bottom, the spout is centered above it, the control knob is on the left side, and buttons are on the front panel.",
+    "internal_interaction_description": "The control knob and buttons manage the machine's operations, directing water flow through the internal tubing to the spout. The drip tray collects excess liquid, ensuring a clean dispensing area. Internal heating components warm the water, which is then pushed through coffee grounds for brewing.",
+    "external_interaction_description": "The machine interacts with users through the control panel, allowing for selection of brewing options. It requires external water input and coffee grounds. Users place a cup on the drip tray to collect brewed coffee. The machine's sleek design complements modern kitchen aesthetics."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Green rectangular wheeled trash bin.",
+    "part_description": "The bin has a rectangular body, a flat lid on top, and two small wheels at the bottom rear corners.",
+    "internal_interaction_description": "The lid is hinged at the back, allowing it to open upwards for waste disposal. The wheels are attached to the rear bottom, enabling easy movement when tilted.",
+    "external_interaction_description": "The bin is designed for outdoor waste collection, interacting with users who deposit trash and sanitation workers who empty it. Its wheels facilitate movement across surfaces, and the lid prevents odors and pests."
+}

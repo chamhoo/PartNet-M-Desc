@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray switch with orange accents.",
+    "part_description": "Includes a gray rectangular body, a protruding black lever, and orange side elements. The lever is centered on the front, with orange parts aligned vertically on the side.",
+    "internal_interaction_description": "The black lever can pivot within the gray body, allowing for switching action. The orange side elements may serve as stabilizers or connectors, ensuring the lever's secure movement and alignment within the housing.",
+    "external_interaction_description": "The switch can be toggled by a user's hand to control electrical circuits. It may be mounted on a panel or wall, interacting with other electrical components to manage power flow."
+}

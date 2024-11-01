@@ -1,0 +1,6 @@
+{
+    "base_description": "White and black stand mixer with a bowl.",
+    "part_description": "Includes a large black mixing bowl, white motor housing, vertical stand, and mixing attachment. The bowl is positioned on the base, with the stand extending upward and the mixer attachment hanging over the bowl.",
+    "internal_interaction_description": "The mixing attachment rotates within the bowl, driven by the motor housed in the upper section of the stand. The bowl remains stationary on the base, while the attachment's movement facilitates the mixing process. The design ensures efficient blending of ingredients within the bowl.",
+    "external_interaction_description": "The mixer is operated by a user who can adjust settings on the motor housing. It requires a power source to function. Ingredients are added to the bowl by the user, who can also remove the bowl and attachment for cleaning or ingredient transfer."
+}

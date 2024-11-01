@@ -1,0 +1,6 @@
+{
+    "base_description": "Dark wooden square table with a drawer.",
+    "part_description": "Consists of a tabletop, one drawer, a shelf, and four legs. The tabletop is square, the drawer is centered below the tabletop, the shelf is below the drawer, and the four legs are at each corner.",
+    "internal_interaction_description": "The tabletop is supported by the four legs. The drawer slides in and out beneath the tabletop, providing storage space. The shelf below the drawer is fixed between the legs, offering additional storage or display area. The legs provide stability and support to the entire structure.",
+    "external_interaction_description": "The table serves as a surface for placing items like lamps, books, or decorations. The drawer offers storage for smaller items, while the shelf can hold magazines or other objects. It is designed to complement living room or bedroom furniture, interacting with surrounding decor and providing functional utility."
+}

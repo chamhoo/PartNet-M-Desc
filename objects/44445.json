@@ -1,0 +1,6 @@
+{
+    "base_description": "White office chair with armrests and wheels.",
+    "part_description": "The chair has a seat, backrest, two armrests, and a five-wheel base. The seat and backrest are rectangular, the armrests are parallel, and the base is star-shaped.",
+    "internal_interaction_description": "The seat is connected to the backrest at a right angle. The armrests are attached to the sides of the seat. The base connects to the seat through a central support, allowing rotation and movement via the wheels.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, enabling mobility. It provides seating support for a person, with armrests offering additional comfort. The chair's height may be adjustable, allowing customization for different users."
+}

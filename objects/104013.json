@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray printer with a flatbed scanner.",
+    "part_description": "Features a top lid, flatbed scanner, control panel, paper tray, and output slot. The lid covers the scanner, the control panel is on the top left, and the paper tray is at the front bottom.",
+    "internal_interaction_description": "The scanner lid opens to allow documents to be placed on the flatbed. The control panel operates scanning and printing functions. Paper feeds from the tray through internal rollers to print, and exits through the output slot.",
+    "external_interaction_description": "Connects to computers or devices via USB or wireless for printing and scanning. Users interact with the control panel to initiate tasks, place documents on the scanner, and load paper into the tray. Outputs printed documents through the front slot."
+}

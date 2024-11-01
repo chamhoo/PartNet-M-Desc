@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with blue and gray panes.",
+    "part_description": "Two glass panes, one blue and one gray, in a white rectangular frame. The blue pane is positioned above the gray pane.",
+    "internal_interaction_description": "The window consists of two panes held within a single frame. The frame supports and separates the panes, allowing them to be fixed in place. The upper blue pane and lower gray pane are adjacent, providing a dual-pane structure for insulation and light control.",
+    "external_interaction_description": "The window can be installed in a wall, allowing light to enter a room while providing a view outside. It can be opened or closed to regulate airflow and temperature. The different colors of the panes may affect the light quality entering the space."
+}

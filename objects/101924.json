@@ -1,0 +1,6 @@
+{
+    "base_description": "White stove with two burners and two ovens.",
+    "part_description": "Two black burners on top, two blue oven doors below, control knobs above the ovens, and a raised back panel.",
+    "internal_interaction_description": "The burners connect to the stove's fuel source, allowing heat control via knobs. The oven doors open to access the interior, where heat is evenly distributed for cooking. The back panel may house additional controls or vents, aiding in heat regulation and safety.",
+    "external_interaction_description": "The stove interacts with cookware placed on burners and within ovens for cooking. Users operate knobs to adjust temperature. It requires connection to a power source, and proper ventilation is necessary to ensure safe usage. The compact design allows placement in various kitchen layouts."
+}

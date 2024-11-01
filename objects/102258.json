@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic pliers with black handles, medium-sized.",
+    "part_description": "Two metal jaws, black rubber grips, central pivot. Jaws are pointed and elongated, grips are curved and ergonomic, pivot is circular and central.",
+    "internal_interaction_description": "The two jaws are connected by a central pivot, allowing them to open and close. The handles are attached to the jaws, providing leverage when squeezed together. The pivot ensures smooth movement and alignment of the jaws for precise gripping.",
+    "external_interaction_description": "The pliers are used to grip, twist, or cut objects. The user applies pressure on the handles, which translates into force at the jaws. They interact with various materials like wires, bolts, or small objects, providing mechanical advantage for manipulation."
+}

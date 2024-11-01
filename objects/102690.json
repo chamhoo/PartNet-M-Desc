@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with tank and bowl.",
+    "part_description": "The toilet consists of a tank, bowl, and base. The tank is rectangular and sits atop the bowl. The bowl is oval-shaped and connects to the base, which anchors the toilet to the floor.",
+    "internal_interaction_description": "Water is stored in the tank, which is released into the bowl when flushed. The bowl directs waste into the plumbing system through the base. The tank's internal mechanisms control water flow and refilling after each flush.",
+    "external_interaction_description": "The toilet connects to plumbing for water supply and waste disposal. Users interact with the flush handle to operate it. It is typically installed in bathrooms and interacts with cleaning agents for maintenance."
+}

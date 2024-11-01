@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical object with a flat base.",
+    "part_description": "Consists of a large sphere and a rectangular base. The sphere is smooth and centrally positioned on the base, which is flat and rectangular.",
+    "internal_interaction_description": "The sphere is securely attached to the flat base, allowing it to stand upright. The connection between the sphere and base is stable, ensuring the object remains balanced and does not tip over easily.",
+    "external_interaction_description": "The object can be placed on flat surfaces like tables or shelves. It interacts with light, casting shadows and reflecting light due to its smooth surface. Its stable base allows it to remain stationary unless moved by an external force."
+}

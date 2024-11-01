@@ -1,0 +1,6 @@
+{
+    "base_description": "White, ceramic toilet with a compact design.",
+    "part_description": "Consists of a tank, seat, lid, bowl, and base. The tank is positioned at the back, the seat and lid cover the bowl, and the base supports the structure.",
+    "internal_interaction_description": "The tank holds water, released into the bowl via a flushing mechanism. The seat and lid provide comfort and hygiene, while the base channels waste to plumbing. The parts are securely connected to ensure efficient water flow and waste disposal.",
+    "external_interaction_description": "Interacts with plumbing for water supply and waste removal. Users interact with the seat and lid, and activate the flush for cleaning. The design fits into bathroom spaces, aligning with standard plumbing connections."
+}

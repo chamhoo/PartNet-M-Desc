@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cylindrical bucket with a handle.",
+    "part_description": "Consists of a cylindrical body, a curved handle, and a small protruding knob on one side. The handle is attached at opposite sides of the open top.",
+    "internal_interaction_description": "The handle is connected to the body, allowing it to pivot for carrying or resting. The knob may serve as a point for securing or hanging the bucket.",
+    "external_interaction_description": "The bucket can hold liquids or solids, carried by the handle. It interacts with users through lifting and pouring actions, and may interact with hooks or stands via the knob."
+}

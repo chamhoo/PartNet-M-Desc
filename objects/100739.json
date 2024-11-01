@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe on red stand with blue axis.",
+    "part_description": "The object consists of a spherical globe, a red circular base, and a blue axis. The globe is centrally mounted on the axis, which is attached to the base.",
+    "internal_interaction_description": "The globe rotates around the blue axis, which is fixed to the red base. The axis supports the globe, allowing it to spin freely while maintaining balance. The base provides stability, ensuring the globe remains upright.",
+    "external_interaction_description": "The globe can be manually rotated by a person to view different areas. It serves as an educational tool or decorative piece, interacting with its environment by providing geographical information or aesthetic appeal."
+}

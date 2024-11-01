@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with three drawers.",
+    "part_description": "Three horizontal drawers stacked vertically with handles, rectangular shape, uniform size, positioned on the front.",
+    "internal_interaction_description": "The drawers slide in and out of the cabinet frame smoothly, guided by internal rails. Each drawer is designed to fit snugly within the cabinet, preventing excessive movement while allowing easy access to contents.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a desk. The drawers interact with users by providing storage space, accessible through pulling the handles. It can hold various items, maintaining organization in a room."
+}

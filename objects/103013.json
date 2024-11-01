@@ -1,0 +1,6 @@
+{
+    "base_description": "White cabinet with a pull-out bin drawer.",
+    "part_description": "The cabinet has a rectangular body with a front panel. Inside, there are two blue bins placed side by side. The bins are positioned on a pull-out drawer mechanism.",
+    "internal_interaction_description": "The pull-out drawer mechanism allows the bins to slide in and out of the cabinet smoothly. The bins are supported by the drawer, keeping them stable and aligned side by side. The front panel serves as a handle for accessing the bins.",
+    "external_interaction_description": "The cabinet interacts with users by providing easy access to the bins through the pull-out mechanism. It can be placed in kitchens or offices for waste management, interacting with other furniture by fitting under countertops or alongside other cabinets."
+}

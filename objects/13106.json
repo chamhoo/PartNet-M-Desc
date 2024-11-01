@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, gray wireless keyboard.",
+    "part_description": "Contains multiple rectangular keys arranged in rows on a flat surface. Compact design with uniform key size. Positioned on an inclined plane for ergonomic use.",
+    "internal_interaction_description": "The keys are individually placed to allow easy pressing. Each key interacts with the internal mechanism to register a keystroke when pressed. The layout ensures efficient typing with minimal movement between keys.",
+    "external_interaction_description": "Designed to connect wirelessly to computers or tablets. Provides tactile feedback to the user. Can be used on various surfaces and interacts with software to input text and commands."
+}

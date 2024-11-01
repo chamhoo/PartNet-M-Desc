@@ -1,0 +1,6 @@
+{
+    "base_description": "Grey pliers with a curved handle design.",
+    "part_description": "Two curved handles, a pivot joint, and serrated jaws. Handles are elongated and connected at the pivot, with jaws positioned at one end.",
+    "internal_interaction_description": "The pivot joint allows the handles to move, which in turn opens and closes the jaws. The serrated design of the jaws enhances grip when pressure is applied by squeezing the handles together.",
+    "external_interaction_description": "Used by applying pressure to handles, enabling the jaws to grip, twist, or cut objects. Commonly interacts with wires, bolts, or other small items requiring a firm grip or manipulation."
+}

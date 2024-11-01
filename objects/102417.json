@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular camera, silver and red, compact size.",
+    "part_description": "Features a cylindrical lens at the front, rectangular body with red edges, four corner protectors, and a small display on the back.",
+    "internal_interaction_description": "The lens extends from the body, allowing light to enter the camera. The display on the back shows captured images or settings. The red edges and corner protectors provide structural integrity and protection against impacts.",
+    "external_interaction_description": "The camera can be held and operated by a user, capturing images or videos of external scenes. It can interact with external devices via a display for reviewing photos, and potentially connect to other devices for data transfer."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a modern style.",
+    "part_description": "Consists of six doors in two columns, each with vertical handles. The cabinet is divided into three horizontal sections, each containing two doors.",
+    "internal_interaction_description": "Each section of the cabinet is separated by a horizontal shelf, providing structural support and dividing the interior space for storage. The doors are attached with hinges, allowing them to swing open and closed, while handles facilitate easy access to the contents inside.",
+    "external_interaction_description": "The cabinet can be placed against a wall in a room, interacting with the surrounding space by providing storage for items. The doors can be opened by pulling the handles, allowing users to place or retrieve items, contributing to organization and space management."
+}

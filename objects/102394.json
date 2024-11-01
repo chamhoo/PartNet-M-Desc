@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, compact digital camera.",
+    "part_description": "Features include a lens, screen, and control buttons. The lens is circular, centrally positioned. The screen is rectangular, occupying the majority of the back. Control buttons are small, on the top and back.",
+    "internal_interaction_description": "The lens captures images, which are displayed on the screen. Control buttons allow navigation and settings adjustment. The internal circuitry connects the lens, screen, and buttons to function cohesively for image capturing and viewing.",
+    "external_interaction_description": "The camera interacts with users through buttons for capturing and viewing photos. It connects to external devices via USB or wireless for data transfer. It requires handling for operation and may be mounted on tripods for stability."
+}

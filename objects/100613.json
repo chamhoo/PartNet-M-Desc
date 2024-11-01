@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylinder with a rectangular protrusion.",
+    "part_description": "Consists of a cylindrical base and a rectangular block on top; the base is wide and flat, while the block is small and centered.",
+    "internal_interaction_description": "The rectangular block is securely attached to the top center of the cylindrical base, providing stability and a distinct geometric contrast. The flat surface of the cylinder supports the block, creating a unified structure.",
+    "external_interaction_description": "This object can be placed on flat surfaces and may serve as a stand or support for lightweight items. The top block could be used for mounting or displaying small objects, interacting minimally with its surroundings."
+}

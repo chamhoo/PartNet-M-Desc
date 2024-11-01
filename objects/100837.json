@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular suitcase, gray, with retractable handle.",
+    "part_description": "Includes two wheels, a retractable handle on top, a side handle, and a zipper closure. The wheels are at the bottom corners, handle extends from the top, and side handle is centered.",
+    "internal_interaction_description": "The retractable handle slides into the suitcase body, locking into place when extended. The zipper closure secures the suitcase contents, allowing the case to open and close smoothly. Wheels rotate to facilitate movement, supporting the suitcase's weight.",
+    "external_interaction_description": "The suitcase can be pulled by the retractable handle or carried using the side handle. It rolls on various surfaces thanks to its wheels, and the zipper allows easy access to contents. Suitable for travel, fitting in car trunks or airplane overhead compartments."
+}

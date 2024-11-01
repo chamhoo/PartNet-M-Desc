@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray computer monitor with a stand.",
+    "part_description": "The monitor has a rectangular screen, a slim bezel, and a circular base. The screen is flat and positioned vertically above the stand.",
+    "internal_interaction_description": "The screen is attached to the bezel, which holds it securely in place. The bezel connects to the back panel, which is mounted on the stand. The stand supports the entire structure, providing stability and allowing for slight adjustments in angle.",
+    "external_interaction_description": "The monitor connects to a computer via cables, displaying visual output. It can be adjusted for optimal viewing angles. Users interact with the monitor by viewing content, and it can be positioned on desks or mounted on walls for various uses."
+}

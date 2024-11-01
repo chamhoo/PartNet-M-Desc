@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical container with blue lid.",
+    "part_description": "Consists of a cylindrical body and a flat, circular lid. The body is gray and the lid is blue, fitting securely on top.",
+    "internal_interaction_description": "The lid fits snugly on the container's top edge, creating a seal that prevents contents from spilling. The cylindrical shape allows for even distribution of contents within.",
+    "external_interaction_description": "The container is designed to hold and protect contents, easily opened by twisting the lid. It can be stacked or stored with similar containers due to its uniform shape."
+}

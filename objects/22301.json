@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, white wooden table with drop leaves.",
+    "part_description": "Features four tapered legs, a central drawer with a handle, and two side drop leaves. The drawer is centered below the tabletop, and the leaves are positioned on either side.",
+    "internal_interaction_description": "The drop leaves are hinged to the main tabletop, allowing them to fold down or extend outward, increasing surface area. The drawer slides in and out smoothly, providing storage within the table's main body. The legs support the structure, maintaining stability whether the leaves are up or down.",
+    "external_interaction_description": "The table can be placed in various room settings, serving as a functional piece for dining or work. It interacts with chairs, allowing seating around it when leaves are extended. The drawer can store small items, interacting with users who require quick access to essentials."
+}

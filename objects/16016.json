@@ -1,0 +1,6 @@
+{
+    "base_description": "Red desk lamp with adjustable arm.",
+    "part_description": "Lamp has a red conical shade, metal adjustable arm, circular base, and a power cord. The shade is attached to the arm, which is connected to the base.",
+    "internal_interaction_description": "The adjustable arm allows the lamp shade to move, directing light where needed. The arm's joints enable vertical and horizontal adjustments. The power cord supplies electricity to the bulb inside the shade, illuminating the area beneath the lamp.",
+    "external_interaction_description": "The lamp provides focused illumination on a desk or table, aiding tasks like reading or writing. It can be manually adjusted by a person to change the light direction. The power cord connects to an electrical outlet for operation."
+}

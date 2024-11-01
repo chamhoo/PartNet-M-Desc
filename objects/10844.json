@@ -1,0 +1,6 @@
+{
+    "base_description": "Metal scissors with red plastic handles.",
+    "part_description": "Two metal blades intersect at a pivot point; two red handles attached to the blades' ends.",
+    "internal_interaction_description": "The blades pivot around a central point, allowing them to open and close. The handles are designed to provide leverage, enabling the blades to cut by shearing material placed between them.",
+    "external_interaction_description": "Used by hand, scissors cut paper, fabric, or other materials. The user places fingers in the handle loops, applying pressure to close the blades and slice through the material."
+}

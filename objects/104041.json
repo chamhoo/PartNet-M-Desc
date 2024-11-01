@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray remote control with buttons.",
+    "part_description": "Features a numeric keypad, circular button, and multiple smaller buttons arranged in rows on the front surface.",
+    "internal_interaction_description": "The buttons on the remote control are pressed to send signals through internal circuits, activating specific functions. Each button corresponds to a unique command, with the central circular button often used for navigation or selection. The arrangement allows for intuitive operation, with frequently used buttons positioned centrally.",
+    "external_interaction_description": "The remote control interacts with electronic devices, such as televisions or stereo systems, by transmitting infrared signals when buttons are pressed. Users point the remote towards the device to control it from a distance, allowing for convenient operation without direct contact."
+}

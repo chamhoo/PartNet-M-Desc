@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact red multi-tool with various metal implements.",
+    "part_description": "Contains multiple tools: knife, saw, screwdriver, and opener, all foldable and attached to a central red handle.",
+    "internal_interaction_description": "Each tool is pivoted at one end, allowing it to fold into the handle. The tools are arranged side by side, sharing a common axis, enabling compact storage and easy deployment when needed.",
+    "external_interaction_description": "Designed for portability and convenience, it interacts with various materials like wood, metal, and plastic. Users can deploy specific tools for cutting, screwing, or opening tasks, enhancing its utility in diverse situations."
+}

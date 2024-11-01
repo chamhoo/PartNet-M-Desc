@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with circular blades.",
+    "part_description": "Consists of a square frame and five curved blades. The frame is black with mounting holes at each corner, and the blades are centrally positioned within the frame.",
+    "internal_interaction_description": "The fan blades are attached to a central hub, allowing them to rotate within the square frame. This rotation is powered by a motor located behind the blades, which is connected to the hub. The frame supports the structure and provides mounting points.",
+    "external_interaction_description": "The fan is designed to be mounted in computer cases or electronic devices, facilitating airflow to cool internal components. It connects to power sources via cables, and its speed can be controlled by external hardware or software settings to optimize cooling efficiency."
+}

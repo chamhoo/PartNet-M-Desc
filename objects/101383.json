@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square computer fan with blades.",
+    "part_description": "Consists of a square frame and multiple angled blades. The blades are centrally positioned within the frame, evenly spaced, and designed to rotate.",
+    "internal_interaction_description": "The blades are mounted on a central hub, allowing them to spin within the frame. The rotation is facilitated by a motor, which is typically located at the center of the fan. This setup enables the fan to generate airflow efficiently.",
+    "external_interaction_description": "The fan is used to cool electronic components by drawing air through its blades. It is typically mounted inside a computer case or other electronic enclosures, where it helps dissipate heat by circulating air over hot components."
+}

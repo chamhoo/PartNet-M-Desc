@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window with gray frame.",
+    "part_description": "Two glass panes in gray frames, side by side. One pane is fixed, and the other slides horizontally within the frame.",
+    "internal_interaction_description": "The sliding pane moves horizontally along a track within the frame, allowing it to overlap with or separate from the fixed pane. The frame holds both panes securely, ensuring smooth sliding motion and stability.",
+    "external_interaction_description": "The window allows light and air to pass through when open, providing ventilation and visibility. It can be opened or closed by a person to control these elements, and it acts as a barrier against external weather conditions when shut."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white and gray box with blue panel.",
+    "part_description": "Features a rectangular body, blue front panel, top opening, and side labeling. Compact and symmetrical design.",
+    "internal_interaction_description": "The top opening interacts with the interior, allowing access to contents. The blue panel may serve as a door or display, interacting with internal mechanisms or storage compartments. Labels provide information, interacting visually with users.",
+    "external_interaction_description": "The object sits on flat surfaces, interacting with various environments. It can be opened or closed by users, possibly storing or protecting items inside. Labels interact by conveying information to people handling or using the object."
+}

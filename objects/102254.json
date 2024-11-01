@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray bin with yellow lid.",
+    "part_description": "The bin has a yellow lid, two black wheels, and a rectangular gray body. The lid is flat and covers the top. The wheels are attached at the bottom rear for mobility.",
+    "internal_interaction_description": "The yellow lid is hinged at the back, allowing it to open upwards for access to the bin's interior. The wheels are fixed to an axle, enabling the bin to tilt backward and roll for easy movement. The lid ensures contents are contained and protected from external elements.",
+    "external_interaction_description": "The bin interacts with users by providing a receptacle for waste disposal. It can be moved easily by tilting and rolling on its wheels. The lid helps prevent odors and pests from escaping, maintaining hygiene in its surrounding environment."
+}

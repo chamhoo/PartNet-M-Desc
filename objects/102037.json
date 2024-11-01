@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact USB drive with white and yellow colors.",
+    "part_description": "Consists of a rectangular white body with a yellow swivel cap. The body is flat with a USB connector at one end and branding text on the surface.",
+    "internal_interaction_description": "The yellow swivel cap rotates around a central pivot, allowing it to cover or expose the USB connector. This pivot mechanism ensures the USB connector is protected when not in use and easily accessible when needed.",
+    "external_interaction_description": "The USB drive connects to computers or other devices via the USB port, enabling data transfer. The swivel cap protects the connector from dust and damage, enhancing durability during transport and use."
+}

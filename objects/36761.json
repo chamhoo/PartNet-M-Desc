@@ -1,0 +1,6 @@
+{
+    "base_description": "Black office chair with wheels and armrests.",
+    "part_description": "The chair has a curved backrest with holes, a flat seat, two armrests, and a five-wheel base. The backrest and seat are black, while the base is metallic.",
+    "internal_interaction_description": "The backrest connects to the seat, providing support. Armrests are attached to the sides of the seat. The seat is mounted on a central support that branches into five legs, each with a wheel for mobility.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, allowing movement. It supports a seated person, offering comfort and mobility in an office setting. The armrests provide additional support for the user's arms."
+}

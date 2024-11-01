@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black monitor with a gray frame.",
+    "part_description": "Consists of a flat screen, a surrounding frame, and a rectangular base. The screen is centered within the frame, and the base supports the monitor's upright position.",
+    "internal_interaction_description": "The flat screen is mounted within the gray frame, which provides structural support. The frame is connected to the base, allowing the monitor to stand upright and maintain balance. The base is designed to stabilize the monitor and prevent tipping.",
+    "external_interaction_description": "The monitor connects to computers or other devices via cables, displaying visual output. It can be adjusted for viewing angles and is typically placed on desks or mounted on walls. Users interact with it through peripheral devices like keyboards and mice."
+}

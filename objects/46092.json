@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with a front handle.",
+    "part_description": "Includes a main body, door with handle, and interior space; rectangular shape, medium size, door on front.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to swing open and close. Inside, the space is empty, allowing for storage. The handle on the door provides a grip for opening and closing the door smoothly.",
+    "external_interaction_description": "The cabinet can be placed on the floor or mounted on a wall. It interacts with users by providing storage space, accessed by pulling the handle to open the door. It can be positioned alongside other furniture or appliances in a room."
+}

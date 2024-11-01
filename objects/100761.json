@@ -1,0 +1,6 @@
+{
+    "base_description": "Wireframe globe, spherical, metallic, modern, medium-sized.",
+    "part_description": "Composed of intersecting metal rings forming a spherical grid. Equator and meridian rings are prominent. Mounted on a circular base with a supporting axis.",
+    "internal_interaction_description": "The intersecting metal rings form a grid representing latitude and longitude lines, supporting each other structurally. The axis allows the globe to rotate, simulating Earth's rotation. The base stabilizes the entire structure, ensuring balance and smooth rotation.",
+    "external_interaction_description": "The globe can be manually rotated to view different regions, aiding in educational demonstrations. It interacts with light to cast shadows, enhancing its visual appeal. It can be placed on desks or shelves, serving as both a decorative piece and a learning tool for geography."
+}

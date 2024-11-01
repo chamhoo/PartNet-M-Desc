@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with numerous buttons.",
+    "part_description": "Features multiple circular buttons arranged in rows, a red button at the top, directional pad in the center, and volume/channel controls on the side.",
+    "internal_interaction_description": "Buttons are connected to internal circuitry, enabling signals to be sent when pressed. The directional pad controls navigation, while volume and channel buttons adjust settings. The red button likely serves a specific function such as power or recording.",
+    "external_interaction_description": "Designed to interact with electronic devices like TVs or stereos via infrared signals. Users press buttons to control device functions such as changing channels, adjusting volume, or navigating menus."
+}

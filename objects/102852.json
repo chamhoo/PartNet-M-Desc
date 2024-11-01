@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular camera with protruding lens.",
+    "part_description": "Camera body is rectangular with a cylindrical lens protruding. Flash and shutter button on top. Viewfinder at the back.",
+    "internal_interaction_description": "The lens focuses light onto the sensor inside the camera body. The shutter button triggers the capture mechanism. The viewfinder allows for framing the shot, and the flash provides additional light when needed.",
+    "external_interaction_description": "The camera captures images by focusing on subjects through the lens. It can be handheld by a photographer, mounted on a tripod, or connected to other devices for data transfer."
+}

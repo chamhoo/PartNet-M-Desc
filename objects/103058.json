@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, white-framed window with two glass panes.",
+    "part_description": "The window has a rectangular frame, two glass panes, and a horizontal divider. The frame is white, surrounding the glass panes, with the divider positioned centrally.",
+    "internal_interaction_description": "The two glass panes are separated by a horizontal divider within the frame. The frame holds the panes securely, allowing for potential sliding or opening mechanisms. The divider provides structural support and separates the panes for individual operation.",
+    "external_interaction_description": "The window can be installed in walls, allowing light and air into rooms. It interacts with external weather conditions, providing insulation. Users can open or close the panes for ventilation or security, and it may serve as a visual connection between indoor and outdoor spaces."
+}

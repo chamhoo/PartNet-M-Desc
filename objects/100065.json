@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, multicolored USB flash drive.",
+    "part_description": "Consists of a rotating cover, USB connector, and button. The cover is green, the connector is yellow, and the button is blue. The cover rotates around the connector, which is positioned at one end.",
+    "internal_interaction_description": "The rotating cover protects the USB connector when not in use, swiveling around a pivot point. The button may serve as a mechanism to lock the cover in place or to facilitate rotation. The connector is fixed to the main body, ensuring stable connection during use.",
+    "external_interaction_description": "The USB flash drive connects to computers or other devices via the USB connector, allowing data transfer. The rotating cover protects the connector from dust and damage. The button may be used to engage the cover or as an indicator during operation."
+}

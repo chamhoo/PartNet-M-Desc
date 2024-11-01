@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray, metal cart with wheels and rails.",
+    "part_description": "Four legs with wheels, a flat top surface, and side rails. Rails are cylindrical and evenly spaced around the top perimeter.",
+    "internal_interaction_description": "The wheels are attached to the bottom of each leg, allowing movement. The rails are connected to the top surface, providing a boundary to prevent items from falling off. The flat surface is supported by the legs, ensuring stability and balance.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person using the rails. It can transport items placed on its flat surface. The wheels facilitate movement across various floor types, making it useful in environments like kitchens or workshops."
+}

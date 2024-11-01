@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, black remote with buttons.",
+    "part_description": "Five circular buttons arranged vertically on a rectangular surface, positioned centrally on the face of the remote.",
+    "internal_interaction_description": "The buttons are likely connected to an internal circuit board that sends signals when pressed. Each button may correspond to a specific function, allowing the user to control various features of a device remotely.",
+    "external_interaction_description": "The remote interacts with electronic devices, such as TVs or stereos, by sending infrared signals. Users press the buttons to change settings or operate the device from a distance, enhancing convenience and usability."
+}

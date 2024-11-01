@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown cardboard box, medium size, square shape.",
+    "part_description": "The box has six parts: four flaps on top and a square base. Flaps are rectangular, equal in size, and positioned symmetrically.",
+    "internal_interaction_description": "The four flaps can fold inward or outward, allowing the box to open or close. When closed, the flaps overlap to secure the contents inside. The base supports the structure and contents, maintaining the box's shape.",
+    "external_interaction_description": "The box can be used for storing or transporting items. It interacts with external objects by containing them and can be stacked with other boxes. People can open, close, and carry it using the flaps."
+}

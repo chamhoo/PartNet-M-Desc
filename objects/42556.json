@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown chair with a metal frame and wheels.",
+    "part_description": "The chair has a padded seat and backrest, supported by a metal frame. It features five wheels attached to a central base for mobility.",
+    "internal_interaction_description": "The padded seat and backrest are connected to the metal frame, which provides structural support. The base with wheels allows for smooth movement and rotation, while the frame ensures stability.",
+    "external_interaction_description": "The chair can be easily moved and adjusted by a user, providing seating comfort. It can interact with various surfaces, allowing for mobility in different environments like offices or homes."
+}

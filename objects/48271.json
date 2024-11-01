@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with a single door.",
+    "part_description": "Includes a rectangular frame, a single front door with handle, and internal shelving. The door is positioned centrally, with the handle on the right side.",
+    "internal_interaction_description": "The door is attached to the frame with hinges on the left side, allowing it to swing open and closed. Inside, shelving provides storage space, with each shelf supported by brackets attached to the interior walls.",
+    "external_interaction_description": "The cabinet can be placed against a wall or integrated into a kitchen setup. The door handle allows for easy opening and closing by hand, providing access to stored items. It can be paired with other cabinets for a cohesive look."
+}

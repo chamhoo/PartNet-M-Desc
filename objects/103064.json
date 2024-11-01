@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray blender with a modern design.",
+    "part_description": "Includes a square base, a transparent pitcher with lid, handle, and control panel with buttons. The pitcher is positioned on top of the base.",
+    "internal_interaction_description": "The motor in the base powers the blades inside the pitcher when activated via the control panel. The lid prevents contents from spilling, and the handle allows for easy pouring.",
+    "external_interaction_description": "Operates when plugged into an electrical outlet. Users interact with the control panel to select blending settings. Can blend ingredients like fruits and vegetables, creating smoothies or purees."
+}

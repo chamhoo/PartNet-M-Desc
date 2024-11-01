@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black wall switch, compact and modern.",
+    "part_description": "Consists of a square frame and central switch plate; the frame is larger, encasing the smaller, slightly recessed switch plate.",
+    "internal_interaction_description": "The central switch plate is designed to pivot or depress within the frame, allowing for electrical connections to be made or broken, facilitating the switch's function.",
+    "external_interaction_description": "The switch interacts with external systems by controlling electrical circuits. It is typically mounted on a wall and operated manually by pressing, enabling or disabling connected devices like lights or fans."
+}

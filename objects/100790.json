@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe with a textured surface on a stand.",
+    "part_description": "The globe consists of a spherical body and a cylindrical stand. The sphere is smooth and white, mounted on a detailed stand with a circular base. The stand is ornate, featuring multiple layers and a knob at the top for support.",
+    "internal_interaction_description": "The sphere is attached to the stand at two points, allowing it to rotate around its axis. The stand provides stability and support, ensuring the globe remains upright and can spin smoothly. The design allows for easy rotation to view different parts of the globe.",
+    "external_interaction_description": "The globe can be manually rotated to display different geographical areas. It serves educational purposes, interacting with users who spin it to learn about world geography. The stable base allows placement on desks or tables, making it accessible for users to engage with its features."
+}

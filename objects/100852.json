@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic shopping cart with four wheels and basket.",
+    "part_description": "The cart has a rectangular basket, four wheels, a handlebar, and a lower rack. The basket is attached to the frame, with two wheels on each side at the bottom corners.",
+    "internal_interaction_description": "The basket is securely attached to the metal frame, providing stability. The handlebar is connected to the frame, allowing for easy pushing. The wheels are affixed to the bottom corners, enabling smooth movement and support for the basket's weight.",
+    "external_interaction_description": "The cart is designed to be pushed by a person, allowing easy transport of goods. It interacts with various surfaces via its wheels, which provide mobility. The basket holds items securely, facilitating shopping and transport in stores or other environments."
+}

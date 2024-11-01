@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, handheld tool with a curved shape.",
+    "part_description": "Consists of two long, curved arms joined by a pivot. One end forms a handle, while the other forms a gripping jaw with serrated edges.",
+    "internal_interaction_description": "The two arms pivot around the central joint, allowing the handles to move closer or apart. This movement opens and closes the gripping jaws, enabling it to grasp or release objects securely.",
+    "external_interaction_description": "The tool interacts with wires or small objects, gripping them tightly for cutting or stripping. It requires manual operation, with the user applying force to the handles to manipulate the jaws."
+}

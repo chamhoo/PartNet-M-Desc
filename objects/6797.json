@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, gray wall clock with minimalist design.",
+    "part_description": "Includes a circular frame, clock face, two hands, and hour markers. The hands are centrally positioned, with hour markers around the edge.",
+    "internal_interaction_description": "The clock hands rotate around a central axis, with the minute hand moving faster than the hour hand. The hands align with the hour markers to indicate time, driven by an internal mechanism.",
+    "external_interaction_description": "The clock is mounted on a wall and interacts with people by providing the current time. It requires occasional battery replacement to function accurately."
+}

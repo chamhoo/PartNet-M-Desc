@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, teal and white, handheld stapler.",
+    "part_description": "Composed of a teal top handle, white base, and metal stapling mechanism. The handle is curved and ergonomic, while the base is flat and rectangular.",
+    "internal_interaction_description": "The teal handle is hinged to the base, allowing it to pivot. When pressed, the handle pushes the metal stapling mechanism downwards, driving a staple through paper placed on the base. The mechanism then crimps the staple ends underneath the paper.",
+    "external_interaction_description": "The stapler is operated by hand, requiring manual pressure to function. It interacts with paper by binding sheets together. Staples are loaded into the mechanism, and the stapler must be refilled periodically to continue functioning."
+}

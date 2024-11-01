@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, light-colored door with frame.",
+    "part_description": "Consists of a rectangular panel and two vertical frame pieces. The panel is gray, and the frame is beige, surrounding the panel on three sides.",
+    "internal_interaction_description": "The gray panel is securely held within the beige frame, allowing the door to swing open and closed. The frame provides structural support, ensuring stability and alignment of the panel when in motion.",
+    "external_interaction_description": "The door can be opened or closed to allow or block passage. It interacts with hinges on one side for movement and may have a handle for user operation. Its position can influence room accessibility and privacy."
+}

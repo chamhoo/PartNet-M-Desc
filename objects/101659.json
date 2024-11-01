@@ -1,0 +1,6 @@
+{
+    "base_description": "Curved knife with a folding mechanism, gray color.",
+    "part_description": "Consists of a curved blade and a handle. Blade is sharp and crescent-shaped, attached to one end of the handle. Handle is straight and slightly longer than the blade, with a pivot point for folding.",
+    "internal_interaction_description": "The blade pivots around a central bolt, allowing it to fold into the handle for safe storage. A locking mechanism secures the blade in both open and closed positions, ensuring stability during use and safety when not in use.",
+    "external_interaction_description": "Used for cutting or slicing tasks, the knife interacts with various materials such as rope, fabric, or food. The handle provides grip for the user, ensuring precise control. When folded, it can be safely stored in pockets or toolkits, preventing accidental cuts."
+}

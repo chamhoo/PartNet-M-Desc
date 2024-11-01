@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and white multifunction printer with color buttons.",
+    "part_description": "Includes a paper tray, scanner lid, control panel with buttons, and output tray. The paper tray is at the bottom, scanner lid on top, and control panel at the front.",
+    "internal_interaction_description": "The scanner lid opens to allow documents to be placed on the glass for scanning. The control panel with buttons manages functions like printing, scanning, and copying. The paper tray feeds paper into the machine, and the output tray collects printed documents.",
+    "external_interaction_description": "Interacts with users through the control panel for operation. Connects to computers or networks for receiving print jobs. Requires regular paper and toner replacement by users. Outputs printed documents to the output tray for user retrieval."
+}

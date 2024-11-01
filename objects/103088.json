@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, black and white coffee maker.",
+    "part_description": "Features a top lid, carafe, handle, spout, and base. The carafe is centrally located under the lid, with the handle extending outward. The spout is positioned above the carafe, while the base supports the entire structure.",
+    "internal_interaction_description": "The lid opens to allow water and coffee grounds to be added. Water flows from a reservoir through a filter, where it interacts with the coffee grounds. The brewed coffee then drips into the carafe. The handle and spout facilitate pouring the coffee from the carafe.",
+    "external_interaction_description": "The coffee maker interacts with external elements by being plugged into a power source for heating. Users interact by adding water and coffee grounds, operating controls, and pouring coffee. The carafe can be removed and replaced for serving, and the lid must be opened for refilling."
+}

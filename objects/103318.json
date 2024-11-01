@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with grid pattern, gray frame.",
+    "part_description": "The window consists of a rectangular frame with two sections. Each section contains a grid of six square panes, arranged in two rows of three. The frame is gray and the panes are dark, possibly glass.",
+    "internal_interaction_description": "The window's frame holds two sections, each with a grid of six panes. These grids are evenly spaced and securely fitted within the frame. The frame provides structural support, ensuring the panes remain aligned and stable within each section.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external elements. It can be installed in a building to offer visibility and ventilation. Interaction with people might include opening or closing the window for airflow or adjusting blinds for light control."
+}

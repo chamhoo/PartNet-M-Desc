@@ -1,0 +1,6 @@
+{
+    "base_description": "Circular fan with three dark blades.",
+    "part_description": "The fan has three curved blades, centrally mounted, enclosed by a circular wire grille. The blades are evenly spaced and positioned within the protective grille.",
+    "internal_interaction_description": "The blades rotate around a central axis, driven by a motor. The wire grille remains stationary, providing a protective barrier while allowing air to flow through as the blades spin, creating airflow.",
+    "external_interaction_description": "The fan circulates air in its environment, cooling the surrounding area. It can be placed on a flat surface or mounted, interacting with its surroundings by directing airflow toward people or objects to provide ventilation."
+}

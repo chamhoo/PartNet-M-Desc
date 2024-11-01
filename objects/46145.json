@@ -1,0 +1,6 @@
+{
+    "base_description": "Large rectangular wooden cabinet with drawers and doors.",
+    "part_description": "Three drawers on top, three doors below, evenly spaced. Handles on each part for opening. Drawers are rectangular, doors are larger rectangles. Top surface is flat and wide.",
+    "internal_interaction_description": "The drawers slide in and out smoothly within the cabinet frame, guided by internal tracks. Doors open outward on hinges, allowing access to interior storage space. Handles on drawers and doors facilitate easy opening and closing. The top surface provides a stable area for placing items.",
+    "external_interaction_description": "The cabinet interacts with the surrounding environment by providing storage and organizational space. It can be placed against a wall or under a countertop, often used in kitchens or bathrooms. People interact with it by opening drawers and doors to store or retrieve items."
+}

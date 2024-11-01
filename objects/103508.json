@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige top-load washing machine, rectangular shape.",
+    "part_description": "Includes a lid, control panel, drum, and base. Lid on top, control panel at rear, drum inside, sturdy base.",
+    "internal_interaction_description": "The lid opens to access the drum, where clothes are placed. The control panel manages washing settings. The drum rotates to agitate clothes, with water circulating for cleaning. The base supports the machine, ensuring stability during operation.",
+    "external_interaction_description": "Interacts with users through the control panel for setting preferences. Connects to water supply and drainage systems for operation. Requires electrical power to function, and users load and unload clothes through the top lid."
+}

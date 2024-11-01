@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray monitor with a flat screen.",
+    "part_description": "Consists of a large rectangular screen, thin bezel, and a sturdy rectangular base. The screen is centrally positioned above the base, which provides support.",
+    "internal_interaction_description": "The screen is attached to the base via a central support, allowing the screen to stand upright. The bezel encases the screen, providing structural integrity and protection.",
+    "external_interaction_description": "The monitor connects to computers or other devices via cables, displaying visual output. It interacts with users by presenting images and videos, and can be adjusted or tilted for better viewing angles."
+}

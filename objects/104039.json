@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular gray remote control.",
+    "part_description": "Features multiple buttons arranged in rows; top curved.",
+    "internal_interaction_description": "Buttons interact with internal circuitry to send signals when pressed. Each button corresponds to specific functions, activating electronic components that communicate commands to external devices.",
+    "external_interaction_description": "Used to control electronic devices like TVs or stereos remotely. Sends infrared signals to devices, allowing users to change settings without physical contact. Requires line of sight for effective operation."
+}

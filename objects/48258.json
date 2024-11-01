@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular chest with four drawers.",
+    "part_description": "Four horizontal drawers, evenly stacked, with handles centered on each. Rectangular shape with smooth surfaces, positioned vertically.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly within the main frame, supported by internal tracks. The handles are affixed to the drawer fronts, providing leverage for opening and closing.",
+    "external_interaction_description": "Designed to store items, interacting with users through drawer handles for access. Can be placed against walls or in closets for organization, and supports weight on top for additional storage or decorative items."
+}

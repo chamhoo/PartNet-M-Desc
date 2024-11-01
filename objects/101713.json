@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cylindrical pen with a click mechanism.",
+    "part_description": "Contains a clip, push button, barrel, and tip. The clip is on the side, the push button on top, the barrel is cylindrical, and the tip is pointed.",
+    "internal_interaction_description": "The push button, when pressed, activates an internal spring mechanism that extends or retracts the pen tip. The clip is attached to the barrel, allowing it to be secured to surfaces. The barrel houses the ink refill, which is aligned with the tip for smooth ink flow.",
+    "external_interaction_description": "The pen interacts with paper through its tip, allowing for writing. The clip enables attachment to pockets or notebooks. The push button provides user control over the pen tip's extension, facilitating easy use and storage."
+}

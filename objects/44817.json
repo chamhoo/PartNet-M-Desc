@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular, four-drawer cabinet.",
+    "part_description": "Four equally sized drawers arranged vertically, each with a handle centered on the front panel.",
+    "internal_interaction_description": "Each drawer slides in and out of the cabinet frame on metal tracks, allowing smooth movement. The handles are attached to the front of each drawer, providing a grip for pulling. The drawers are stacked, sharing the same vertical space within the cabinet structure.",
+    "external_interaction_description": "The cabinet can store items within its drawers, interacting with users who pull the handles to open and close them. It stands on a flat surface, and the top can be used to place additional items. The cabinet can be positioned against a wall or within a room as needed."
+}

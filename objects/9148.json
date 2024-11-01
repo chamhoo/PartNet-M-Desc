@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular dark panel with metal rods.",
+    "part_description": "One large dark rectangular panel, two horizontal metal rods, two handles centered on panel.",
+    "internal_interaction_description": "The metal rods are attached horizontally at the top and bottom of the rectangular panel, providing structural support and enabling movement. The handles are centrally positioned on the panel, allowing manual operation for opening or closing the panel along the rods.",
+    "external_interaction_description": "The object can be mounted within a frame or structure, allowing the panel to slide open or closed along the rods. It interacts with users who can pull or push the handles to adjust the position of the panel for access or privacy."
+}

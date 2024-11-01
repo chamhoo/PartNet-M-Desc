@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray washing machine with control panel.",
+    "part_description": "Includes a top lid, control panel, and rectangular body. The lid is located on the top surface, and the control panel is positioned at the back of the top surface.",
+    "internal_interaction_description": "The lid opens to allow access to the washing drum inside. The control panel operates the machine's settings, controlling the drum's speed and water flow. The internal drum rotates to agitate clothes, while water is filled and drained through internal plumbing.",
+    "external_interaction_description": "The washing machine connects to external water and power sources. Users interact with the control panel to select wash settings. Clothes are loaded through the top lid, and the machine drains water through an external hose."
+}

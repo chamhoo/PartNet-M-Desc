@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, boxy CRT monitor with a black screen.",
+    "part_description": "Includes a rectangular screen, thick bezel, and protruding back. Screen is flat and central, surrounded by a wide frame. Back is bulky, extending rearward.",
+    "internal_interaction_description": "The screen is housed within the frame, which provides structural support and protection. The protruding back contains internal components like the cathode ray tube that projects images onto the screen. The bezel ensures the screen is securely held and aligned.",
+    "external_interaction_description": "The monitor connects to computers via cables, displaying visual output. The screen interacts with users by showing digital content, while the outer casing protects internal components from external damage. The monitor's base allows it to sit on a flat surface."
+}

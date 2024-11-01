@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, grey remote control with rounded edges.",
+    "part_description": "Features multiple buttons of varying sizes and shapes arranged in rows; includes a directional pad and number keys at the front.",
+    "internal_interaction_description": "The buttons on the remote control are interconnected with an internal circuit board. Pressing a button completes a circuit, sending a signal to the device it controls. The directional pad allows navigation through menus, while other buttons perform specific functions like volume control or channel selection.",
+    "external_interaction_description": "The remote interacts with electronic devices through infrared signals, allowing users to control televisions, stereos, or other compatible devices from a distance. Users press buttons to send commands, and the remote must be pointed towards the device for optimal performance."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, slender, brown floor lamp with modern design.",
+    "part_description": "Lamp has a circular base, tall cylindrical pole, adjustable arm, and bowl-shaped shade at the top.",
+    "internal_interaction_description": "The adjustable arm connects the pole to the shade, allowing the angle of light emission to be modified. The pole supports the arm and shade, ensuring stability. Wiring inside the pole connects the light source to the power supply.",
+    "external_interaction_description": "The lamp provides illumination to surrounding areas, interacting with nearby furniture and decor. It can be turned on or off by a switch, which adjusts the light intensity, affecting room ambiance and visibility."
+}

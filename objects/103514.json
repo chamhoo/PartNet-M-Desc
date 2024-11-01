@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver toaster with black accents.",
+    "part_description": "Two slots on top, two levers, and a dial on the front panel. Slots are parallel, levers and dial are centrally aligned below slots.",
+    "internal_interaction_description": "The levers control the internal heating elements, lowering bread into the slots. The dial adjusts the timer, determining the toasting duration. Heating elements surround the slots, providing even heat distribution to toast the bread.",
+    "external_interaction_description": "The toaster interacts with bread, lowering and toasting it when levers are engaged. Users adjust the dial for desired browning level, and the toaster ejects the bread when done, ready for consumption."
+}

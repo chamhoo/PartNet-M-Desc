@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with colorful buttons.",
+    "part_description": "Includes a circular button, multiple rows of small buttons, and colored buttons in the center. Positioned on the front face.",
+    "internal_interaction_description": "The circular button likely controls navigation, while the small buttons perform specific functions. Colored buttons may provide quick access to specific features, interacting with internal circuits to send signals.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or stereos, sending infrared signals when buttons are pressed. Users can control device functions remotely, such as changing channels or adjusting volume."
+}

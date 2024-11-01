@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern faucet, cylindrical, gray and purple.",
+    "part_description": "Features a cylindrical body, angled spout, and lever handle. The spout extends outward, and the lever is positioned on top, both in purple.",
+    "internal_interaction_description": "The lever handle rotates to control water flow and temperature, connected internally to valves. The spout directs water from the main body, ensuring smooth flow. Internal mechanisms adjust water mix as the lever moves.",
+    "external_interaction_description": "The faucet is mounted on sinks, interacting with plumbing to deliver water. Users manipulate the lever to adjust water pressure and temperature. Compatible with standard sink fittings, it requires external water supply connections for operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray window with two panes.",
+    "part_description": "The window has two rectangular glass panes vertically aligned, separated by a horizontal frame. The outer frame is rectangular, encompassing both panes.",
+    "internal_interaction_description": "The two panes are held securely within the outer frame, with a horizontal divider separating them. The frame provides structural integrity, ensuring the panes remain in place and aligned. The divider allows for independent movement or adjustment of each pane if designed as a sliding window.",
+    "external_interaction_description": "The window allows light and air to pass through while providing a barrier against external elements. It can be opened or closed to control ventilation. Installed in a building, it interacts with the wall structure, fitting snugly within a designated opening."
+}

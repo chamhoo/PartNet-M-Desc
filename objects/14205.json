@@ -1,0 +1,6 @@
+{
+    "base_description": "Small red sphere hanging by a thin string.",
+    "part_description": "A single red sphere attached to a thin vertical string. The sphere is smooth and round, positioned at the bottom of the string, which is straight and suspended from above.",
+    "internal_interaction_description": "The string serves as the only connection between the sphere and any support above, allowing the sphere to hang freely. The tension in the string keeps the sphere suspended, preventing it from falling due to gravity. The sphere remains stable unless external forces act upon it.",
+    "external_interaction_description": "The object can be influenced by external forces such as wind or physical touch, causing the sphere to swing or rotate. It may be used as a decorative element or in activities requiring a pendulum-like motion, interacting with its environment through movement."
+}

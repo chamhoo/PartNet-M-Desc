@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray and white rectangular printer with modern design.",
+    "part_description": "Includes a paper tray, output slot, control panel, and back support. The paper tray is at the bottom front, the output slot is above it, the control panel is on the top right, and the back support is vertical.",
+    "internal_interaction_description": "The printer's internal mechanisms pull paper from the tray, guide it through the printing area where ink is applied, and then direct the printed paper to the output slot. The control panel interacts with the internal electronics to manage print commands and settings.",
+    "external_interaction_description": "The printer connects to computers or networks via USB or wireless connection for receiving print jobs. Users interact with the printer through the control panel to execute commands like printing, scanning, or copying. The paper tray is loaded manually with paper, and the output slot dispenses printed documents."
+}

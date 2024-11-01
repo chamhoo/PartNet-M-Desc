@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray metal bucket with a handle.",
+    "part_description": "The bucket has a cylindrical body, a round base, and a curved metal handle attached at two points near the rim.",
+    "internal_interaction_description": "The handle is connected to the bucket's rim, allowing it to pivot for carrying. The cylindrical shape ensures stability and even weight distribution when filled with contents.",
+    "external_interaction_description": "The bucket can hold liquids or solids, interacting with various materials. The handle allows for easy transport by a person, and its sturdy construction makes it suitable for outdoor or indoor use."
+}

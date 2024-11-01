@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white cabinet with drawer and door.",
+    "part_description": "Includes one top drawer and one bottom cabinet door, both with handles. The drawer is positioned above the cabinet door. The handles are centered on each part.",
+    "internal_interaction_description": "The drawer slides in and out smoothly above the cabinet door, which swings open on hinges. The handles provide grip for easy access. The drawer and cabinet door operate independently but share a common vertical alignment.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a counter. It interacts with users who open the drawer or door to store or retrieve items. It may also be moved or adjusted for cleaning or rearranging space."
+}

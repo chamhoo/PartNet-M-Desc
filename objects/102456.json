@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray storage box with hinged lid.",
+    "part_description": "The box has a rectangular base, four vertical sides, and a hinged lid. It is supported by a flat bottom with short legs at each corner. The lid is slightly angled when open.",
+    "internal_interaction_description": "The lid is connected to the back side of the box with hinges, allowing it to open and close smoothly. The interior is hollow, providing space for storage. The short legs elevate the box slightly off the ground, ensuring stability.",
+    "external_interaction_description": "The box can be used to store various items, keeping them organized and protected. It can be placed on the floor or a flat surface. The lid can be opened or closed by a person, allowing easy access to the contents inside."
+}

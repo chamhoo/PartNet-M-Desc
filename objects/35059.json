@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with a single door.",
+    "part_description": "One main body, a front door with a knob, and a flat top. The door is centrally positioned with a small knob on the right side.",
+    "internal_interaction_description": "The door is attached to the main body with hinges on the left, allowing it to swing open and closed. The knob provides a grip for opening the door, and the interior is likely hollow for storage purposes.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a kitchen setup. It interacts with users who open the door to access stored items. The flat top may also serve as a surface for placing small objects."
+}

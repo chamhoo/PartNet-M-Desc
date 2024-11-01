@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic scissors with sharp blades and round handles.",
+    "part_description": "Two sharp blades, two round handles, joined by a pivot. Blades are elongated and pointed, handles are circular and positioned opposite the blades.",
+    "internal_interaction_description": "The blades are connected at a pivot point allowing them to open and close in a scissor-like motion. The handles provide leverage, enabling the blades to cut material when they come together. The pivot ensures smooth movement and alignment of the blades.",
+    "external_interaction_description": "Scissors interact with materials by cutting them when the handles are squeezed together. They require manual operation, with fingers placed in the handles to apply force. Suitable for cutting paper, fabric, and other thin materials, depending on the sharpness and size of the blades."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Curved black and gray computer mouse with orange scroll.",
+    "part_description": "Features two main buttons, a central orange scroll wheel, and a smooth curved surface. The buttons are positioned symmetrically on either side of the scroll wheel.",
+    "internal_interaction_description": "The scroll wheel rotates to allow vertical navigation on a screen, interacting with internal sensors to send signals to the computer. The buttons click when pressed, activating internal switches to perform functions like selecting or opening files.",
+    "external_interaction_description": "The mouse connects to a computer via USB or wireless signal, allowing a user to control the cursor on the screen. It requires a flat surface for optimal movement and interacts with the user's hand for input through clicks and scrolling."
+}

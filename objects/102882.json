@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular camera with lens and viewfinder.",
+    "part_description": "Features a large lens at the front, a viewfinder on top, a shutter button, and a rectangular body. The lens protrudes from the main body, and the viewfinder is centrally positioned.",
+    "internal_interaction_description": "The lens focuses light onto the camera's sensor or film, while the viewfinder allows for image composition. The shutter button activates the internal mechanism to capture the image by opening and closing the shutter at a set speed.",
+    "external_interaction_description": "The camera interacts with external objects by capturing their images. It requires a user to operate the shutter and adjust settings. It can also connect to other devices or accessories, such as tripods or external flashes, to enhance functionality."
+}

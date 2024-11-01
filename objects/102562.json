@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cart with black wheels.",
+    "part_description": "The cart has a flat rectangular surface, two large black wheels at the back, and two smaller swivel wheels at the front. The wheels are positioned at each corner for stability.",
+    "internal_interaction_description": "The large rear wheels provide primary mobility, allowing the cart to move forward and backward. The smaller swivel wheels at the front enable easy turning and maneuverability. The flat surface is supported by the wheel assembly, ensuring a stable platform for carrying items.",
+    "external_interaction_description": "The cart interacts with external elements by transporting items placed on its flat surface. It can be pushed or pulled by a person using the handle or edges. The wheels allow it to move smoothly over flat surfaces, facilitating the movement of heavy or bulky objects."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular laptop with a flat design.",
+    "part_description": "Consists of a screen and a keyboard; screen is thin and vertical, keyboard is flat and horizontal with marked keys.",
+    "internal_interaction_description": "The screen is hinged to the base, allowing it to open and close. The keyboard is integrated into the base, providing input functionality. Keys are arranged in a standard QWERTY layout, facilitating typing and user interaction.",
+    "external_interaction_description": "The laptop interacts with users through its keyboard for input and screen for display. It can connect to external devices via ports, and functions as a portable computing device, suitable for work, communication, and entertainment."
+}

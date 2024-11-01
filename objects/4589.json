@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular monitor with a circular base.",
+    "part_description": "The monitor has a large rectangular screen and a circular base. The screen is flat, thin, and positioned vertically above the base, which is centered and supports the screen.",
+    "internal_interaction_description": "The screen is connected to the base via a stand, which allows it to pivot and adjust angles. The stand supports the screen's weight while maintaining stability. The internal wiring connects the screen to the power and data inputs, ensuring functionality.",
+    "external_interaction_description": "The monitor connects to a computer via cables, displaying visual output. It interacts with users through visual display and can be adjusted for optimal viewing angles. It requires a power source and data input to function properly, typically placed on desks or mounted on walls."
+}

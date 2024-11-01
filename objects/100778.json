@@ -1,0 +1,6 @@
+{
+    "base_description": "Small blue and green globe on a gray stand.",
+    "part_description": "The globe consists of a spherical map with green continents on a blue ocean background, mounted on a gray semi-circular axis, which is attached to a flat, hexagonal base.",
+    "internal_interaction_description": "The globe rotates around the gray semi-circular axis, allowing it to spin horizontally. The axis is fixed to the globe at two points, enabling smooth rotation. The axis is connected to the base, providing stability and support for the globe\u2019s movement.",
+    "external_interaction_description": "The globe can be manually spun by a person to view different regions, making it a useful educational tool. It can be placed on a desk or shelf, serving as both a functional object and a decorative piece in a room."
+}

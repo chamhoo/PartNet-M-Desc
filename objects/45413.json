@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, narrow, gray cabinet with a handle.",
+    "part_description": "One main rectangular body, a front door with a handle, and a base. The handle is horizontally aligned near the top of the door.",
+    "internal_interaction_description": "The door is hinged to the main body, allowing it to swing open and closed. The handle provides a grip for opening the door, which reveals the storage space inside the cabinet.",
+    "external_interaction_description": "The cabinet is designed to be placed against a wall or within a kitchen setup. It interacts with users who open the door to access stored items, and its flat surfaces can align with adjacent furniture."
+}

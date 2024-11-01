@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with three blades.",
+    "part_description": "Three elongated blades evenly spaced, attached to a central hub. The hub connects to a downrod and canopy for ceiling attachment.",
+    "internal_interaction_description": "The motor within the central hub rotates the three blades, creating airflow. The blades are symmetrically attached to the hub, ensuring balanced rotation and efficient air circulation.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling. It is controlled by a switch or remote, allowing users to adjust speed and direction. It integrates with the ceiling, requiring electrical connection for operation."
+}

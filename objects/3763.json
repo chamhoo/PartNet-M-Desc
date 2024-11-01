@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical yellow bottle with black cap.",
+    "part_description": "The bottle has two main parts: a yellow cylindrical body and a black cylindrical cap. The body is tall and slightly tapered, while the cap is small and sits on top.",
+    "internal_interaction_description": "The black cap screws onto the top of the yellow bottle, sealing the contents inside. The cap's threads align with the bottle's neck threads, ensuring a secure fit. The bottle's body is designed to hold liquid securely, with the cap preventing spills or leaks.",
+    "external_interaction_description": "The bottle can be easily handled and opened by twisting the cap. It can be placed upright on flat surfaces due to its flat base. The yellow body is visible and can be labeled for identification. When opened, contents can be poured out or dispensed as needed."
+}

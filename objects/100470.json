@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray bucket with a round shape and handle.",
+    "part_description": "The bucket has a cylindrical body and a curved handle attached at two opposite sides. The body is smooth and uniformly gray, with a slightly tapered shape towards the bottom.",
+    "internal_interaction_description": "The handle is attached to the bucket's rim, allowing it to pivot for carrying or hanging. The bucket's smooth interior can hold liquids or solids, and the handle's curvature provides balance and support.",
+    "external_interaction_description": "The bucket can be used to carry water, sand, or other materials. It interacts with users by providing a means to transport contents easily. The handle allows for hanging on hooks or carrying by hand, offering versatility in usage."
+}

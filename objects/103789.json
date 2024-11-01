@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray monument with a stepped base.",
+    "part_description": "Features a rectangular top structure, a central block, and a multi-layered base. The top is elongated, the central block is smaller, and the base is wide and tiered.",
+    "internal_interaction_description": "The top structure rests centrally on the block, which is directly supported by the multi-layered base. Each tier of the base is slightly smaller than the one below, creating a stepped appearance and ensuring stability for the upper parts.",
+    "external_interaction_description": "The monument is designed to be stationary, interacting with its environment by serving as a focal point. It may be placed in public spaces or memorial sites, interacting with visitors who observe or approach it for contemplation or ceremonies."
+}

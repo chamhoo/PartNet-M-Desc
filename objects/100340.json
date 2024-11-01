@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, cylindrical, blue lighter with metal top.",
+    "part_description": "Contains a metal top, plastic body, ignition wheel, and button. The metal top is at the upper part, the plastic body is cylindrical and blue, the ignition wheel is metallic, and the button is red, located near the top.",
+    "internal_interaction_description": "The ignition wheel, when rotated, creates a spark that ignites the butane gas released from the nozzle. The button, when pressed, releases the gas. The metal top houses the ignition components and directs the flame upwards, while the plastic body contains the gas reservoir.",
+    "external_interaction_description": "The lighter is used to ignite materials like candles or cigarettes. It requires manual operation by a person, involving pressing the button and rotating the wheel. The flame produced can interact with other objects, providing heat necessary for ignition or lighting purposes."
+}

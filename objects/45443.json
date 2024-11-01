@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with a fold-down door.",
+    "part_description": "Features a large fold-down door on the front, three open compartments on top, and a rectangular shape. The compartments are evenly spaced and positioned above the door.",
+    "internal_interaction_description": "The fold-down door is hinged at the bottom, allowing it to open downward to access the interior space. The top compartments are open and provide additional storage, separate from the main interior accessed by the door.",
+    "external_interaction_description": "The cabinet can be placed against a wall, with the fold-down door providing easy access to stored items. It interacts with users by offering storage space and organizing items in the top compartments."
+}

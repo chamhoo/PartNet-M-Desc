@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray louvered door.",
+    "part_description": "Two vertical panels with horizontal slats, one partially open. Panels are framed and hinged on the sides.",
+    "internal_interaction_description": "The panels are connected by hinges, allowing them to pivot open or closed. The horizontal slats within each panel are fixed, providing structural integrity and allowing airflow while maintaining privacy.",
+    "external_interaction_description": "The door can be pushed or pulled by a person to open or close it. It serves as a barrier or access point, interacting with surrounding walls or door frames, and can influence airflow and light in a room."
+}

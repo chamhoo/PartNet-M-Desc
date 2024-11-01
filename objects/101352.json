@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular camera with a cylindrical lens.",
+    "part_description": "Contains a cylindrical lens at the front, a rectangular body, and red accents. The lens is positioned centrally, and the body features small circular elements on top.",
+    "internal_interaction_description": "The cylindrical lens is attached to the rectangular body, allowing light to pass through to the internal sensor. The red accents may indicate buttons or indicators, interacting with internal circuits for functionality.",
+    "external_interaction_description": "Designed to capture images or videos, interacting with users through buttons or a display. It can connect to external devices for data transfer and may require handling for operation and positioning."
+}

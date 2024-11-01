@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wired mouse with red accents.",
+    "part_description": "Features two buttons, a scroll wheel, and a cable. The buttons are on top, the scroll wheel is centered, and the cable extends from the front.",
+    "internal_interaction_description": "The buttons and scroll wheel are connected to internal sensors that detect clicks and scrolling. These sensors send signals through the internal circuitry, which processes the input and transmits it via the cable to the connected device.",
+    "external_interaction_description": "The mouse connects to a computer via the cable, allowing users to control the cursor on the screen. The buttons and scroll wheel enable interaction with software, facilitating tasks like clicking, selecting, and scrolling through content."
+}

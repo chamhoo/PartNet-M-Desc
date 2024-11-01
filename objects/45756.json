@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray dresser with three drawers.",
+    "part_description": "Three horizontal drawers with handles, evenly stacked vertically. Rectangular shape, each drawer spans the width of the dresser, positioned centrally on the front.",
+    "internal_interaction_description": "Each drawer slides in and out along internal tracks, allowing for smooth opening and closing. The handles are securely attached to the front of each drawer, enabling easy grip and pull functionality. The drawers fit snugly within the frame, maintaining stability and alignment.",
+    "external_interaction_description": "The dresser can be placed against a wall, providing storage space for clothing or other items. The handles allow for easy access to the contents inside. It interacts with the surrounding environment by offering a flat surface on top for decorative items or additional storage."
+}

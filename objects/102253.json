@@ -1,0 +1,6 @@
+{
+    "base_description": "Red-handled metal pliers with a sleek design.",
+    "part_description": "Contains two red handles, a metal jaw, and pivot joint. Handles are curved, jaw is angular, and pivot is circular, centrally located.",
+    "internal_interaction_description": "The two handles are connected by a pivot joint, allowing them to move in tandem. When the handles are squeezed together, the metal jaws close, enabling the pliers to grip or cut objects. The pivot ensures smooth operation and alignment of the jaws.",
+    "external_interaction_description": "Used by hand to grip, twist, or cut materials. The handles provide leverage for applying force, while the metal jaws interact with objects like wires or small components. Suitable for use in construction, electrical work, or crafts, interacting with various materials and tools."
+}

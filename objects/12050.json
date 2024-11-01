@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, silver refrigerator with two doors.",
+    "part_description": "Consists of two main compartments; top freezer and bottom fridge. Each compartment has a separate door. Includes a handle on each door and a dispenser on the fridge door.",
+    "internal_interaction_description": "The freezer compartment maintains a colder temperature for frozen goods, while the fridge compartment keeps items cool. The doors seal tightly to preserve temperature, and the dispenser provides easy access to water or ice.",
+    "external_interaction_description": "The refrigerator interacts with external power sources to operate. Users open doors to access stored food, and use the dispenser for water or ice. It fits into kitchen spaces, often positioned against a wall or between cabinets."
+}

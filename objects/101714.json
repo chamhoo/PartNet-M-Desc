@@ -1,0 +1,6 @@
+{
+    "base_description": "Black mechanical pencil, cylindrical and compact.",
+    "part_description": "Features a cylindrical body, click mechanism, eraser top, and lead tip.",
+    "internal_interaction_description": "The click mechanism pushes the lead forward through the tip when pressed. The eraser is attached to the top, often covering the lead storage compartment. The lead is held in place by a clutch that releases small amounts with each click.",
+    "external_interaction_description": "Used for writing or drawing on paper, interacting with user through the click mechanism to extend lead. The eraser allows for correction of marks. Compatible with standard lead refills for continued use."
+}

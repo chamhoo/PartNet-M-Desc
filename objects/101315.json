@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical white teapot with a lid.",
+    "part_description": "The teapot has a cylindrical body, a curved spout, and a round lid with a knob on top, all in white. The spout is attached near the top side of the body.",
+    "internal_interaction_description": "The lid fits snugly on top of the cylindrical body, preventing liquid from spilling. The spout is designed to channel liquid smoothly from the body when tilted, ensuring a steady pour. The knob on the lid provides a grip for easy removal.",
+    "external_interaction_description": "The teapot is used to hold and pour liquids, typically tea or coffee. It interacts with cups or mugs into which the liquid is poured. Users handle the teapot by its body or lid knob to pour or refill."
+}

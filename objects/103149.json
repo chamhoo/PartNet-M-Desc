@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with blue and gray panes.",
+    "part_description": "Two rectangular panes, one blue and one gray, arranged vertically within a white frame.",
+    "internal_interaction_description": "The blue pane is positioned above the gray pane, both secured within the white frame. The frame provides structural support and separation between the two panes, allowing them to function independently while maintaining overall integrity.",
+    "external_interaction_description": "The window can be installed in walls, allowing light and visibility while providing insulation. It interacts with external elements like weather by offering protection and can be opened or closed by people to control airflow."
+}

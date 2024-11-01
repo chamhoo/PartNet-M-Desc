@@ -1,0 +1,6 @@
+{
+    "base_description": "Small scissors with black and red handles.",
+    "part_description": "Two sharp metal blades, two circular plastic handles, one pivot point. Blades are pointed and aligned, handles are looped and positioned opposite each other.",
+    "internal_interaction_description": "The two blades intersect at a pivot point, allowing them to move in a scissor-like motion. When the handles are pressed together, the blades close and cut materials placed between them. The pivot point ensures smooth opening and closing of the blades.",
+    "external_interaction_description": "Scissors are used by holding the handles and applying pressure to cut paper, fabric, or other thin materials. The user inserts fingers into the handles, allowing precise control over the cutting action. The object interacts with various materials by slicing through them with the sharp blades."
+}

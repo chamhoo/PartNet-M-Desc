@@ -1,0 +1,6 @@
+{
+    "base_description": "Black remote control with numerous buttons.",
+    "part_description": "Features a large number of buttons arranged in rows, with varying sizes and colors, including a prominent red button at the top.",
+    "internal_interaction_description": "Buttons are connected to an internal circuit board that sends specific signals when pressed. Each button has a unique function, linked to electronic components inside, allowing for different commands to be executed.",
+    "external_interaction_description": "Interacts with electronic devices, like TVs or stereos, by sending infrared signals when buttons are pressed. Requires line of sight to the device's receiver and is operated by a user to control the device remotely."
+}

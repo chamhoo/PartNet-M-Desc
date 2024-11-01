@@ -1,0 +1,6 @@
+{
+    "base_description": "Square teal fan with four gray blades.",
+    "part_description": "The fan has four gray blades, evenly spaced, attached to a central hub. It's encased in a square teal frame, with a circular white grid behind the blades.",
+    "internal_interaction_description": "The four blades are connected to a central hub, which rotates to circulate air. The rotation is supported by the central axis that allows smooth movement. The circular grid behind the blades provides structural support and safety, ensuring efficient airflow through the fan without obstruction.",
+    "external_interaction_description": "The fan is designed to be mounted on a wall or ceiling, where it can efficiently circulate air within a room. It interacts with the surrounding air by drawing it in and pushing it out, creating a cooling effect. It requires an external power source to operate."
+}

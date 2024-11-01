@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray metal safe with handle.",
+    "part_description": "Consists of a main body, door, handle, and hinges. The door is front-facing, with a circular handle centrally positioned. Hinges are on one side, allowing the door to swing open. The safe is tall and rectangular, with a flat top and bottom.",
+    "internal_interaction_description": "The door is attached to the main body via hinges, allowing it to open and close securely. The handle engages a locking mechanism inside the door, which secures the door to the main body when turned. The interior may contain shelves or compartments for organization.",
+    "external_interaction_description": "The safe interacts with users who open and close the door using the handle. It may be bolted to the floor or wall for security. Users store valuable items inside, protecting them from theft or damage. It remains stationary due to its weight and design."
+}

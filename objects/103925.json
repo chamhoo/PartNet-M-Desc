@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, gray remote control device.",
+    "part_description": "Features a large screen, circular button, keypad, and base. Screen at top, button and keypad below, arranged vertically.",
+    "internal_interaction_description": "The screen displays information, while the circular button navigates or selects options. The keypad inputs commands, interacting with internal circuitry to execute functions. Each part is connected to the internal circuit board for power and signal processing.",
+    "external_interaction_description": "Interacts with external devices like TVs or stereos via infrared signals. Users press buttons to send commands, changing settings or channels. The remote requires line-of-sight to the device for proper function. It is typically held in one hand for ease of use."
+}

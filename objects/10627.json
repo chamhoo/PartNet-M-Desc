@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, silver refrigerator with two doors.",
+    "part_description": "Two doors: upper small freezer, lower larger fridge. Silver handles on each door, positioned vertically. Top and bottom sections are separated by a thin dividing line.",
+    "internal_interaction_description": "The upper freezer compartment maintains a colder temperature for frozen items, while the lower fridge compartment keeps perishable food fresh. Each door seals tightly to maintain internal temperatures, with separate compartments allowing for efficient cooling and energy use.",
+    "external_interaction_description": "The refrigerator stands upright, interacting with the kitchen environment by providing accessible storage for food. Doors open outward, requiring space clearance. It connects to a power source for operation, and users interact with it by opening doors and adjusting temperature settings."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, silver and black refrigerator.",
+    "part_description": "Consists of a top door and bottom freezer drawer, with handles. The top door is larger, covering the main compartment, while the bottom drawer is smaller for freezing items.",
+    "internal_interaction_description": "The top door opens to reveal shelves and compartments for storing fresh food. The bottom drawer slides out to access the freezer, which is designed to keep items frozen. Both compartments are insulated to maintain temperature.",
+    "external_interaction_description": "The refrigerator interacts with users by providing accessible storage for food. The doors open outward, requiring space in front. It requires a power source to function and fits into kitchen spaces, often alongside other appliances."
+}

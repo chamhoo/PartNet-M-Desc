@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, gray kettle with a dark handle.",
+    "part_description": "Includes a spout, lid, handle, and body. The spout protrudes from the side, the lid sits on top, and the handle arches over the body.",
+    "internal_interaction_description": "The handle is attached to the body, allowing for lifting. The lid fits snugly on top, sealing the kettle. The spout is integrated with the body for pouring liquid.",
+    "external_interaction_description": "The kettle is used to heat water on a stove. Its handle allows for easy lifting and pouring. The spout directs the flow of liquid into a cup or container."
+}

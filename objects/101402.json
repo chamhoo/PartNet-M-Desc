@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray boat propeller with angular design.",
+    "part_description": "Consists of a mounting plate, angular housing, and three-blade propeller. The mounting plate is circular, the housing is angular and connects to the propeller, which is centrally positioned.",
+    "internal_interaction_description": "The angular housing connects the mounting plate to the propeller, allowing rotational movement. The propeller blades are attached to a central hub, which facilitates spinning when powered, ensuring efficient thrust generation.",
+    "external_interaction_description": "The propeller interacts with water to generate thrust, propelling a boat forward. It is mounted onto a boat's stern, connecting to the engine, which powers the spinning blades. This interaction is crucial for navigation and maneuverability in aquatic environments."
+}

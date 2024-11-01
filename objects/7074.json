@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray clock with minimalist design.",
+    "part_description": "Contains a square frame, four black hour markers, and two slender hands positioned centrally.",
+    "internal_interaction_description": "The clock hands are centrally mounted, rotating around the clock face to indicate time. The hour markers are evenly spaced at the 12, 3, 6, and 9 positions, providing a simple guide for reading time. The hands move in a synchronized manner, with the minute hand moving faster than the hour hand.",
+    "external_interaction_description": "The clock is designed to be wall-mounted, interacting with the environment by providing a visual time reference. Its minimalist design allows it to blend with various interior styles. Users interact with it by visually checking the time, and it may require occasional battery changes or time adjustments."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, grey keyboard with raised keys.",
+    "part_description": "Comprises multiple square keys arranged in rows on a flat surface, with a slightly elevated back edge for ergonomic use.",
+    "internal_interaction_description": "Each key is individually mounted, allowing for independent movement when pressed. The keys are evenly spaced to ensure consistent tactile feedback. The elevated back provides a slight angle, enhancing typing comfort by aligning with natural hand positions.",
+    "external_interaction_description": "The keyboard interacts with computers via wired or wireless connections, allowing users to input data. It is designed to be placed on desks, and its ergonomic angle aids in reducing wrist strain during prolonged use."
+}

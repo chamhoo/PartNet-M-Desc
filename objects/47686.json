@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with a modern design.",
+    "part_description": "The cabinet has two main parts: a large door and a smaller side panel. The door is centrally located, while the side panel is on the left. Both parts are rectangular and flat, with the door being larger.",
+    "internal_interaction_description": "The large door is hinged on the right side, allowing it to swing open for access to the interior space. The smaller side panel provides structural support and may also serve as an additional access point or decorative element. The alignment of the door and panel ensures stability and functionality.",
+    "external_interaction_description": "The cabinet is designed to be placed against a wall, providing storage space in a room. The door opens outward, requiring clearance in front for accessibility. It can be used to store various items, interacting with users who open and close the door to retrieve or place items inside."
+}

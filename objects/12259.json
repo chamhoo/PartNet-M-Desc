@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver rectangular dishwasher with a modern design.",
+    "part_description": "Includes a front door with handle, control panel on top, and internal racks for dishes. The door is centered and covers the front, while the control panel is positioned at the top edge.",
+    "internal_interaction_description": "The dishwasher door opens downward, allowing access to internal racks that can slide out for loading and unloading dishes. The control panel on top interacts with the internal mechanisms to start and manage washing cycles, adjusting settings like temperature and cycle duration.",
+    "external_interaction_description": "The dishwasher is typically installed under a kitchen counter, interacting with plumbing for water intake and drainage. Users interact with the control panel to select washing cycles. It requires an electrical connection to operate and is designed to fit standard kitchen cabinetry dimensions."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small white wooden table with a drawer.",
+    "part_description": "One tabletop, one drawer with handle, four slender legs, and a backboard. The tabletop is rectangular, the drawer is centered, and the legs are evenly spaced at corners.",
+    "internal_interaction_description": "The drawer slides in and out within the table frame, supported by internal tracks. The handle is attached to the drawer front, allowing for easy opening and closing. The legs provide stability and support to the tabletop and drawer structure.",
+    "external_interaction_description": "The table can hold small objects on its surface and inside the drawer. It can be placed against a wall or next to furniture for additional storage or decorative purposes. The handle allows users to access the drawer's contents easily."
+}

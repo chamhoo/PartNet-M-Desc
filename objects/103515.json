@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical blue lighter with gray top.",
+    "part_description": "Features a blue cylindrical body, gray top with ignition button, and metal flame guard. Red button on top for flame control.",
+    "internal_interaction_description": "The red button, when pressed, releases gas from the lighter's chamber. The ignition button, when struck, creates a spark that ignites the gas, producing a flame. The metal guard helps protect the flame from wind.",
+    "external_interaction_description": "The lighter is handheld, used to ignite objects like candles or stoves. The flame can be adjusted with the red button, and the cylindrical shape provides a comfortable grip. It should be kept away from flammable materials when not in use."
+}

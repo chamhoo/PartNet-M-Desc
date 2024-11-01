@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray double doors with oval glass panels.",
+    "part_description": "Two rectangular doors, each with an oval glass panel centered. The doors are side by side, with handles positioned in the middle. The frame is rectangular, surrounding the doors.",
+    "internal_interaction_description": "The two doors are hinged to a central frame, allowing them to swing open and close. The oval glass panels are fixed within each door, providing a visual connection between the spaces they separate. The handles allow for manual operation of the doors.",
+    "external_interaction_description": "The doors serve as a barrier or entryway between two spaces, allowing passage when opened. They provide visual access through the glass panels while maintaining separation. The handles facilitate human interaction for opening and closing the doors."
+}

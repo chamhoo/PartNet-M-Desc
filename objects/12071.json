@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, trapezoidal 3D shape with a flat top.",
+    "part_description": "One trapezoidal base, four sides with varying angles, flat top.",
+    "internal_interaction_description": "The trapezoidal base supports the structure, with sides connected at varying angles to form a stable, enclosed shape. The flat top provides a surface parallel to the base, maintaining the object's geometric integrity.",
+    "external_interaction_description": "The object can rest on flat surfaces, potentially used as a small table or stand. Its geometric shape allows for stacking or alignment with other similar objects, offering functional or decorative uses in various environments."
+}

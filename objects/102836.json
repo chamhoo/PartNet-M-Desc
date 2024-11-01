@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray, modern light switch.",
+    "part_description": "Consists of a central square button surrounded by a larger square frame. The button is slightly raised and centered within the frame.",
+    "internal_interaction_description": "The central button is designed to depress into the surrounding frame, activating an internal mechanism that toggles the electrical circuit on or off. The frame provides structural support and prevents the button from being pressed accidentally.",
+    "external_interaction_description": "The switch is mounted on a wall and interacts with a user through physical touch. Pressing the button allows the user to control lighting or other connected electrical devices, providing tactile feedback upon activation."
+}

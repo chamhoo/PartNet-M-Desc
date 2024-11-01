@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical soap dispenser with a pump, gray and clear.",
+    "part_description": "Consists of a cylindrical body, a pump top, and a spout. The body is clear, the pump is gray, and the spout protrudes from the top.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the cylindrical body, allowing liquid to be drawn up when the pump is pressed. The spout directs the liquid outward efficiently.",
+    "external_interaction_description": "When pressed, the pump dispenses soap or liquid onto hands or surfaces. It can be refilled by unscrewing the top, and it is typically placed on countertops or sinks for easy access."
+}

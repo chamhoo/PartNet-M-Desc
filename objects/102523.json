@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact camera, rectangular body, cylindrical lens, monochrome.",
+    "part_description": "Consists of a main body, lens, buttons, and viewfinder. The lens is cylindrical and protrudes from the front. Buttons are located on top and back. The viewfinder is positioned at the top rear. Body is rectangular.",
+    "internal_interaction_description": "The lens adjusts focus by rotating, controlled by the buttons. The viewfinder aligns with the lens for image capture. Internal mechanisms coordinate shutter release and image processing when buttons are pressed.",
+    "external_interaction_description": "Interacts with users through buttons for capturing images. Connects to tripods via a mount at the bottom. Compatible with external lenses and flashes. Transfers images to computers via USB or memory card slots."
+}

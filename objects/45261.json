@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular cabinet with five drawers.",
+    "part_description": "Five horizontally aligned drawers, equal size, front-facing handles.",
+    "internal_interaction_description": "Each drawer slides in and out within the cabinet frame, supported by internal tracks that ensure smooth movement and alignment. The handles on the drawer fronts allow for easy grip and operation.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a room, providing storage space. Users interact by pulling the handles to access contents, and the flat top can hold additional items or decorations."
+}

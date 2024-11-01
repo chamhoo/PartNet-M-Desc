@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular kitchen cabinet with drawers and doors.",
+    "part_description": "Two upper drawers, two lower doors, rectangular shape, positioned symmetrically on the front.",
+    "internal_interaction_description": "The upper drawers slide horizontally within the cabinet frame, providing storage space. The lower doors swing open on hinges, revealing internal compartments for larger items. The arrangement allows for organized storage and easy access to contents.",
+    "external_interaction_description": "The cabinet interacts with users by providing accessible storage space in kitchens or similar environments. It supports countertops and integrates with other kitchen fixtures, enhancing functionality and organization. Users can open drawers and doors to store or retrieve items as needed."
+}

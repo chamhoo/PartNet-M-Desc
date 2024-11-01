@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square fan with five blades.",
+    "part_description": "The fan has five curved blades arranged symmetrically around a central hub, encased in a square frame with rounded edges.",
+    "internal_interaction_description": "The blades rotate around the central hub, driven by an internal motor. The symmetrical arrangement ensures balanced airflow, minimizing vibration and noise. The frame supports the structure, providing stability and protection to the rotating blades.",
+    "external_interaction_description": "The fan is designed to be mounted in electronic devices, cooling by expelling hot air. It can be connected to power sources via cables, activated by switches or sensors, and interacts with surrounding air to regulate temperature."
+}

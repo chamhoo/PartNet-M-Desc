@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized black and gray electric blender.",
+    "part_description": "Consists of a cylindrical container with a handle, a lid on top, and a base with a control knob and speed settings.",
+    "internal_interaction_description": "The container houses blades at the bottom, which rotate when powered. The lid fits securely on top, preventing spills. The control knob on the base adjusts the speed of the blades, allowing for different blending actions.",
+    "external_interaction_description": "The blender plugs into an electrical outlet for power. Users interact with the control knob to operate the blender. It blends ingredients placed inside the container, which can be poured out using the spout after blending."
+}

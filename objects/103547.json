@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white toaster with two slots.",
+    "part_description": "Features two slots on top, a lever on the side, and a control knob. The slots are parallel and evenly spaced. The lever is positioned on the side, above the knob, which is circular and protrudes slightly.",
+    "internal_interaction_description": "The lever, when pushed down, activates the heating mechanism inside the toaster. The control knob adjusts the toasting time, affecting the heating duration. The slots house the bread, which is toasted by the internal heating elements that surround the slots evenly.",
+    "external_interaction_description": "The toaster is designed to interact with bread slices, toasting them when inserted into the slots. It requires an external power source to function and is operated by a person adjusting the settings and inserting or removing bread."
+}

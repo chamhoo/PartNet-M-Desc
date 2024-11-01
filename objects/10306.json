@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with a black keyboard.",
+    "part_description": "Consists of a rectangular screen, a keyboard with black keys, and a base. The screen is thin and attached to the base by hinges. The keyboard occupies most of the base's surface.",
+    "internal_interaction_description": "The screen is connected to the base via hinges, allowing it to open and close. The keyboard is integrated into the base, enabling input when keys are pressed. The components are closely fitted to maintain a compact design.",
+    "external_interaction_description": "The laptop interacts with users through its keyboard and screen, allowing input and display output. It can connect to external devices via ports, facilitating data transfer and peripheral connectivity. The screen displays visual information, while the keyboard allows text and command input."
+}

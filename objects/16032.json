@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue desk lamp with adjustable arm and cone shade.",
+    "part_description": "The lamp has a round base, adjustable arm, and cone-shaped shade. The arm has two segments connected by a joint, allowing movement. The shade is positioned at the top of the arm.",
+    "internal_interaction_description": "The adjustable arm segments are connected by a joint, allowing the lamp to extend or retract. The shade is fixed at the end of the arm, directing light downward. The base provides stability, supporting the arm's movement and maintaining balance.",
+    "external_interaction_description": "The lamp interacts with external elements by providing focused light to a specific area, suitable for tasks like reading or working. It requires a power source to operate and can be placed on desks or tables, enhancing visibility and reducing eye strain for users."
+}

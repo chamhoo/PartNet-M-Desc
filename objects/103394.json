@@ -1,0 +1,6 @@
+{
+    "base_description": "Clear plastic bottle with pump dispenser.",
+    "part_description": "Consists of a cylindrical bottle and a pump top. The bottle is clear, allowing visibility of contents, while the pump is positioned at the top for dispensing.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, which draws liquid upwards when the pump is pressed. The bottle's cylindrical shape facilitates even distribution of pressure.",
+    "external_interaction_description": "The pump is pressed by hand to dispense liquid, typically interacting with the user\u2019s palm or fingers. The bottle can be refilled by unscrewing the pump top, allowing interaction with other liquid containers."
+}

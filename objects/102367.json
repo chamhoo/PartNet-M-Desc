@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow bucket with a metal handle.",
+    "part_description": "Cylindrical yellow body, metal handle attached on opposite sides.",
+    "internal_interaction_description": "The metal handle is attached to the bucket's sides, allowing it to pivot for carrying. The bucket's cylindrical shape ensures even distribution of contents, while the flat base provides stability when placed on surfaces.",
+    "external_interaction_description": "The bucket can hold liquids or solids, carried by its handle. It interacts with surfaces by resting on its base. Users can easily transport materials by gripping the handle, and it can be filled or emptied via the open top."
+}

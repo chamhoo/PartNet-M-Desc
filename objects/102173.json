@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular gray trash bin with curved lid.",
+    "part_description": "The bin has a large rectangular body, a curved lid on top, and a small handle. The lid is divided into two parts for opening, and the body has a front panel for access.",
+    "internal_interaction_description": "The lid parts are hinged to allow opening and closing, enabling waste disposal. The handle facilitates lifting the lid. The front panel may open for trash removal, interacting with an internal waste container or bag.",
+    "external_interaction_description": "The trash bin interacts with people who dispose of waste by lifting the lid. It may be placed in public or private spaces, interacting with the environment by containing waste and maintaining cleanliness."
+}

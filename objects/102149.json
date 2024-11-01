@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and black kitchen appliance with two containers.",
+    "part_description": "The appliance has a tall, cylindrical blender jar on top and a wider, circular food processor bowl beside it. Both parts have black handles, with the blender jar positioned vertically and the processor bowl horizontally.",
+    "internal_interaction_description": "The blender jar and food processor bowl are connected to the main base, allowing them to share the motor for operation. The motor provides rotational force, enabling the blades inside each container to blend or process food efficiently.",
+    "external_interaction_description": "The appliance interacts with users through control buttons for operation. It requires an electrical outlet for power and can be used to blend or process food ingredients. Users can remove and clean the containers separately, facilitating easy maintenance and versatility in food preparation tasks."
+}

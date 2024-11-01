@@ -1,0 +1,6 @@
+{
+    "base_description": "White, dome-shaped kettle with a black handle.",
+    "part_description": "Features a spout, lid with orange knob, and black handle. The spout is cylindrical, the lid is conical, and the handle is arch-shaped, attached on top.",
+    "internal_interaction_description": "The handle is attached to the main body, providing a grip for lifting. The lid fits snugly on top, with the knob allowing easy removal. The spout is positioned for pouring, aligned with the kettle's opening for efficient liquid flow.",
+    "external_interaction_description": "The kettle is designed to be placed on a stove, heating liquid inside. The handle allows safe handling when hot, and the spout directs liquid into cups or containers. The lid can be removed to fill or clean the kettle, interacting smoothly with user actions."
+}

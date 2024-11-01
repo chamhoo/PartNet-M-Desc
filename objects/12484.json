@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular, two-drawer appliance.",
+    "part_description": "Two equal-sized drawers stacked vertically with handles, enclosed in a rectangular frame.",
+    "internal_interaction_description": "The drawers slide within the frame on internal tracks, allowing smooth opening and closing. Each drawer is supported by rails that ensure stability and alignment, preventing tilting or jamming during operation.",
+    "external_interaction_description": "The appliance interacts with users through the handles for opening and closing. It may be placed under a countertop or integrated into kitchen cabinetry, interacting with surrounding furniture and appliances for efficient space usage."
+}

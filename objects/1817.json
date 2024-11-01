@@ -1,0 +1,6 @@
+{
+    "base_description": "White, round faucet handle with a lever.",
+    "part_description": "Includes a round base, cylindrical center, and lever on top.",
+    "internal_interaction_description": "The lever is mounted on the cylindrical center, allowing rotational movement to control water flow. The base supports the entire structure, ensuring stability and proper alignment of the lever with the internal valve mechanism.",
+    "external_interaction_description": "The handle interacts with a water valve, controlling water flow when turned. Users grip the lever to adjust water pressure and temperature. The base connects to the sink surface, providing a stable attachment for effective operation."
+}

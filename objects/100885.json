@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular object with cylindrical protrusions.",
+    "part_description": "Four cylindrical rods arranged horizontally in a row, attached to a rectangular base with slots for each rod, evenly spaced.",
+    "internal_interaction_description": "The cylindrical rods are inserted into the slots of the rectangular base, allowing them to be securely held in place. Each rod fits snugly within its respective slot, ensuring stability and alignment. The arrangement allows for uniform spacing and potential independent movement of each rod within its slot.",
+    "external_interaction_description": "The object can be mounted onto surfaces or connected with compatible components. The rods may be used to hold or support other objects, allowing interaction with tools or devices that fit over or between the rods. Suitable for environments requiring organized alignment or spacing of attached items."
+}

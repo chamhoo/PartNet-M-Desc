@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular box with a sliding drawer.",
+    "part_description": "Consists of a main rectangular body and one front-facing sliding drawer. The drawer is located at the bottom front, matching the width of the box.",
+    "internal_interaction_description": "The sliding drawer fits snugly into the main body, allowing smooth movement in and out. The drawer is supported by tracks or grooves inside the main body, ensuring stability and alignment. The drawer's face aligns flush with the main box when closed.",
+    "external_interaction_description": "The object interacts with users by allowing them to pull the drawer open to store or retrieve items. It can be placed on surfaces like tables or desks and may be stacked with similar objects for organizational purposes."
+}

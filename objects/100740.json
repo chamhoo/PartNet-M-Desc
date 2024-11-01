@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, spherical, blue and white globe on a stand.",
+    "part_description": "The globe consists of a sphere with blue and white sections, mounted on a circular frame with a central axis. It rests on a hexagonal base.",
+    "internal_interaction_description": "The sphere is held in place by the circular frame, allowing it to rotate around the central axis. The axis is secured to the base, enabling the globe to spin smoothly within the frame.",
+    "external_interaction_description": "The globe can be manually rotated by a person to view different areas. It's commonly used for educational purposes, allowing users to explore geographical locations by spinning the sphere."
+}

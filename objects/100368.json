@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white switch with a central knob.",
+    "part_description": "Features a central circular knob, two small icons on either side, and a rectangular base. The knob is slightly elevated and centrally positioned.",
+    "internal_interaction_description": "The central knob likely rotates or pushes to activate internal mechanisms, altering the function of the switch. The icons suggest different settings or modes, indicating the knob's role in selecting these options.",
+    "external_interaction_description": "The switch is designed to be mounted on a wall, allowing users to interact by turning or pressing the knob to control connected devices, such as lights or fans, based on the icon indicators."
+}

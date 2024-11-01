@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular cabinet with three drawers.",
+    "part_description": "Contains three horizontal drawers, each with a handle, aligned vertically within a rectangular frame.",
+    "internal_interaction_description": "Each drawer slides in and out of the main frame on rails, allowing access to the contents inside. The handles are attached to the front of each drawer, providing a means to pull them open or push them closed.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a room, providing storage space. People can interact by opening drawers to store or retrieve items, and it can be moved or repositioned as needed."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow utility knife with retractable blade.",
+    "part_description": "Comprises a yellow plastic handle, a metal retractable blade, a black slider, and a safety cap. The handle is elongated and houses the blade, which extends and retracts via the slider. The safety cap is positioned at the back.",
+    "internal_interaction_description": "The blade is housed within the handle, sliding along a track. The black slider on top of the handle allows the user to extend or retract the blade smoothly. The safety cap prevents accidental extension of the blade when not in use, ensuring secure storage.",
+    "external_interaction_description": "The utility knife interacts with various materials, such as cardboard, paper, or plastic, by cutting through them. Users hold the handle and manipulate the slider to extend the blade for cutting tasks. The knife's ergonomic design fits comfortably in hand, allowing for precise control during use."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "A gray, rectangular, freestanding electric stove.",
+    "part_description": "Features four circular burners on top, a control panel with knobs, an oven with a door and handle, and a lower storage drawer.",
+    "internal_interaction_description": "The control knobs adjust the heat level of the burners and oven. Burners transfer heat to cookware, while the oven heats its interior for baking. The storage drawer provides space for kitchen utensils. The oven door seals to maintain temperature.",
+    "external_interaction_description": "The stove connects to an electrical outlet for power. Users operate the knobs to cook food on the burners or bake in the oven. Cookware and baking trays are placed on burners or inside the oven. The design allows for integration into a kitchen setup."
+}

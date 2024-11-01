@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray window with four glass panels.",
+    "part_description": "Four rectangular glass panels arranged horizontally in a frame. Each panel is of equal size, positioned side by side, and encased within a slim, gray border.",
+    "internal_interaction_description": "The four glass panels are fixed within the gray frame, providing structural stability. The panels are aligned in a linear sequence, with each panel separated by a narrow vertical divider, allowing for seamless integration and support within the overall frame structure.",
+    "external_interaction_description": "The window allows light to pass through from outside to inside, providing visibility and illumination. It can be opened or closed to regulate airflow and temperature, interacting with external weather conditions. It serves as a barrier against external elements while offering a view of the surroundings."
+}

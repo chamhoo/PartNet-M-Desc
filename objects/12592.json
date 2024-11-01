@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular white dishwasher with a modern design.",
+    "part_description": "Includes a door with a handle, control panel with buttons, and indicator lights. The handle is centrally located on the front, while the buttons and lights are positioned above it.",
+    "internal_interaction_description": "The door opens to reveal racks and compartments for holding dishes. The control panel buttons interact with the internal mechanisms to start, pause, or stop washing cycles. Indicator lights signal different operational statuses such as power, cycle, or alerts.",
+    "external_interaction_description": "The dishwasher connects to water and electrical systems, requiring plumbing and power supply. Users interact with the control panel to select washing cycles and settings. Dishes and utensils are loaded and unloaded through the front door."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic scissors, medium-sized, silver, sleek design.",
+    "part_description": "Two sharp blades, two circular handles; blades intersect at pivot, handles at opposite ends.",
+    "internal_interaction_description": "The blades pivot around a central point, allowing them to open and close smoothly. The handles provide leverage, enabling the user to apply force, causing the blades to meet and cut through materials. The alignment ensures precision and efficiency in cutting tasks.",
+    "external_interaction_description": "Scissors interact with various materials like paper, fabric, or hair, cutting them with applied hand pressure. Users grip the handles, exerting force to close the blades. Proper alignment and pressure ensure clean cuts. Scissors require regular maintenance, like sharpening, to maintain optimal performance."
+}

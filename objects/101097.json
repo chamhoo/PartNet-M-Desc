@@ -1,0 +1,6 @@
+{
+    "base_description": "Red metal cart with wooden base and wheels.",
+    "part_description": "Four vertical red metal frames on a rectangular wooden base, supported by four wheels at each corner.",
+    "internal_interaction_description": "The metal frames are securely attached to the wooden base, providing stability and structure. The wheels are affixed to the base's corners, allowing smooth movement. The frames are evenly spaced to support items placed between them.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person, facilitating the transport of items. The wheels enable easy movement across flat surfaces, while the frames provide support for carrying large or flat objects like panels or boards."
+}

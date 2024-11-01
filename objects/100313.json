@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue and gray lighter, rectangular shape, compact size.",
+    "part_description": "Comprises a blue body, gray top, and black middle band. The top includes a metal wheel and ignition button. The body is elongated and rectangular, with the top positioned centrally.",
+    "internal_interaction_description": "The ignition button, when pressed, rotates the metal wheel to create a spark. This spark ignites the gas released from the nozzle, producing a flame. The black band serves as a separator between the gas chamber and ignition mechanism, ensuring safety and functionality.",
+    "external_interaction_description": "The lighter is handheld, designed for use in igniting cigarettes, candles, or other objects requiring a flame. It interacts with the user's hand for operation, and the flame interacts with external materials to produce combustion. The compact size allows for easy portability in pockets or bags."
+}

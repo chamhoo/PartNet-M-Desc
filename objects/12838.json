@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray keyboard with integrated touchpad.",
+    "part_description": "Contains an array of keys, a touchpad, and a flat surface. Keys are arranged in rows, touchpad is below the keys, all parts are embedded in a single rectangular frame.",
+    "internal_interaction_description": "Keys are depressible and interact with underlying mechanisms to register input. The touchpad detects finger movements and gestures, translating them into cursor movements on a connected device. Both components are integrated into a single housing, allowing simultaneous use.",
+    "external_interaction_description": "Connects to computers via USB or wireless technology, allowing input of text and commands. The touchpad interacts with the user's fingers for navigation and control, enhancing the keyboard's functionality. It is typically placed on a desk or flat surface for ergonomic use."
+}

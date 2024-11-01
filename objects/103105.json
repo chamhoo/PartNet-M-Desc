@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, gray blender with black accents.",
+    "part_description": "Consists of a cylindrical jar with lid, handle on side, and a round base with a control knob.",
+    "internal_interaction_description": "The jar holds ingredients while the lid keeps them contained. The handle provides grip for easy pouring. The base houses the motor, which spins the blades inside the jar for blending.",
+    "external_interaction_description": "The blender connects to a power source, allowing the user to control blending speed with the knob. It interacts with ingredients by chopping and mixing them, and can be easily moved or stored due to its compact design."
+}

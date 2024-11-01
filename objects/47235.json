@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray dresser with six drawers.",
+    "part_description": "The dresser has six drawers arranged in two columns. Each drawer is rectangular with a horizontal handle centered on the front. The dresser is supported by a flat base.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly within its compartment, guided by internal tracks. The handles are attached to the front of each drawer, allowing for easy opening and closing. The drawers are stacked in two vertical columns, sharing a common structural frame.",
+    "external_interaction_description": "The dresser provides storage space for clothing or other items. It can be placed against a wall or in a closet. Users interact with the dresser by pulling the handles to open drawers and placing items inside. Its flat top can also hold decorative items or small objects."
+}

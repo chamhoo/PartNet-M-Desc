@@ -1,0 +1,6 @@
+{
+    "base_description": "White pen with red accents, cylindrical shape.",
+    "part_description": "Contains a red cap, clip, and tip; white barrel. The cap is at the top, the clip is near the cap, and the tip is at the bottom.",
+    "internal_interaction_description": "The cap fits securely over the pen tip, preventing ink from drying out. The clip is attached to the barrel near the cap, providing a means to attach the pen to pockets or papers. The barrel houses the ink reservoir, allowing smooth ink flow to the tip.",
+    "external_interaction_description": "The pen is designed to be held comfortably by a user for writing. The clip allows it to be attached to clothing or notebooks, making it portable. The cap protects the tip from damage and prevents ink stains when not in use."
+}

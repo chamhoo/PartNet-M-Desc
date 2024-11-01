@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, gray, wall-mounted sink with faucet.",
+    "part_description": "Consists of a rectangular tank, a cylindrical faucet, and a conical basin. The tank is mounted above the basin, with the faucet extending from the front of the tank.",
+    "internal_interaction_description": "The faucet is connected to the tank, allowing water to flow into the basin. The basin collects water, directing it towards a drain at the bottom. The tank supports the faucet, enabling water delivery.",
+    "external_interaction_description": "The sink is designed for handwashing, interacting with users by providing water through the faucet. It must be connected to plumbing for water supply and drainage. The wall-mounted design saves space, making it suitable for small bathrooms."
+}

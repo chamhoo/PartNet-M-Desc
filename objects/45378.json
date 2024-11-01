@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with double doors.",
+    "part_description": "Two doors with handles, rectangular shape, positioned at the front. The cabinet is box-like with a flat top and sides.",
+    "internal_interaction_description": "The two doors are hinged on the sides, allowing them to open outward. They meet in the middle when closed, and the handles facilitate easy opening and closing. The interior space is accessible through these doors.",
+    "external_interaction_description": "The cabinet can be placed on the floor and used for storage. It interacts with users who open the doors to access contents. It can be positioned against walls or under countertops in kitchens or other rooms."
+}

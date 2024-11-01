@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown office chair with wheels and armrests.",
+    "part_description": "Chair includes a cushioned seat, backrest, two armrests, and a wheeled base with five legs.",
+    "internal_interaction_description": "The cushioned seat is connected to the backrest, providing support. Armrests are attached to the sides of the seat. The base is connected to the seat via a central support column, allowing rotation. Five legs extend from the base, each ending in a wheel for mobility.",
+    "external_interaction_description": "The chair interacts with users by providing a comfortable seating option, allowing for movement and rotation. It can be adjusted in height through the central column. The wheels enable easy repositioning on smooth surfaces, facilitating interaction with desks and other office furniture."
+}

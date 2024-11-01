@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray refrigerator with two doors.",
+    "part_description": "The refrigerator has two doors, one on top and one below. The top part is smaller, likely a freezer, and the bottom is larger. Each door has a handle on the side. The overall shape is a vertical rectangle.",
+    "internal_interaction_description": "The top section, likely a freezer, interacts with the lower section by maintaining separate temperature zones. The doors open independently, allowing access to each compartment without affecting the other. Shelves inside may adjust to accommodate different items, optimizing storage and cooling efficiency.",
+    "external_interaction_description": "The refrigerator interacts with users by providing storage for perishable goods. It requires an electrical connection to function and is typically placed in a kitchen. Users open the doors to access food, and the appliance's efficiency affects energy consumption and food preservation."
+}

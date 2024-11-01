@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with wheels and armrests.",
+    "part_description": "The chair has a padded seat and backrest, two armrests, five caster wheels on a star-shaped base, and a central support column.",
+    "internal_interaction_description": "The seat and backrest are connected to the support column, allowing for adjustable height. Armrests are attached to the sides of the seat. The caster wheels are fixed to the base, enabling smooth movement across surfaces.",
+    "external_interaction_description": "The chair is designed for sitting, providing comfort and mobility for users. It can be moved easily across floors due to the wheels, and the height can be adjusted to fit different desks or workspaces."
+}

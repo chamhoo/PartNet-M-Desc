@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver scissors with sharp blades and looped handles.",
+    "part_description": "Two metal blades, sharp and pointed, intersect at a pivot. Each blade has a looped handle for grip, positioned opposite the cutting edge.",
+    "internal_interaction_description": "The blades pivot around a central point, allowing them to open and close. When the handles are squeezed together, the blades meet and cut material placed between them. The pivot ensures smooth movement and precise alignment of the blades.",
+    "external_interaction_description": "Scissors are manipulated by hand, with fingers inserted into the looped handles. They cut through materials like paper, fabric, or hair by applying pressure. Proper alignment and sharpness of the blades are essential for effective cutting action."
+}

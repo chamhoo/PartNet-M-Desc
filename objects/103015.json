@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with blue panels and slats.",
+    "part_description": "Three blue panels at the top, followed by vertical slats arranged in three columns below, all framed in white.",
+    "internal_interaction_description": "The blue top panels are fixed above the vertical slats, which are arranged in three distinct columns. Each slat is parallel and evenly spaced, allowing for potential movement or adjustment. The frame holds all components securely, providing structural integrity to the entire setup.",
+    "external_interaction_description": "The window can be opened or closed to regulate light and air flow. It interacts with external elements such as sunlight, air, and potentially rain. People may adjust the slats for privacy or light control, and the structure can be part of a building's facade."
+}

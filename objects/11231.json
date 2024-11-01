@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with two doors.",
+    "part_description": "Two vertical doors with handles, rectangular shape, positioned symmetrically on the front.",
+    "internal_interaction_description": "The two doors are hinged on the sides, allowing them to swing open and closed. Handles on each door facilitate easy opening. The interior likely contains shelves or compartments for storage, though not visible in the image.",
+    "external_interaction_description": "The cabinet interacts with users who open and close the doors to access stored items. It can be placed against a wall or within a room, serving as a storage unit for various objects."
+}

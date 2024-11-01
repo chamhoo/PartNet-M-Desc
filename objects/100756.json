@@ -1,0 +1,6 @@
+{
+    "base_description": "Spherical model with layered colors on a stand.",
+    "part_description": "The object consists of a sphere with colored layers, a vertical rod through its center, and a circular base. The sphere is divided into four layers: brown, orange, yellow, and white. The rod is black, and the base is circular and black.",
+    "internal_interaction_description": "The sphere's layers are concentric, arranged from the outer brown layer to the innermost white core. The vertical rod runs through the center of the sphere, providing structural support and alignment. Each layer is distinctly colored, representing different sections of the sphere's composition.",
+    "external_interaction_description": "The object interacts with its environment by serving as an educational tool, demonstrating layered structures. It can be rotated around the rod for better viewing of each section. The base provides stability, allowing it to be placed on various surfaces for display or instructional purposes."
+}

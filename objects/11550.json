@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray refrigerator with two doors.",
+    "part_description": "Two doors vertically aligned; smaller top door, larger bottom door; handles on right side; cooling vent at bottom.",
+    "internal_interaction_description": "The top door opens to a freezer compartment, designed to keep items frozen. The bottom door reveals the main refrigeration area, maintaining a cool temperature for perishable goods. The cooling vent circulates air to regulate temperature across both compartments, ensuring efficient cooling and energy use.",
+    "external_interaction_description": "The refrigerator interacts with users by providing storage for food items, requiring periodic opening and closing of doors. It connects to an electrical outlet for power, and its exterior surface can hold magnets or notes. The design allows placement against a wall or within a kitchen cabinetry setup."
+}

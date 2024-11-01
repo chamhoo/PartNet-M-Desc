@@ -1,0 +1,6 @@
+{
+    "base_description": "White, round toilet with a tank and seat.",
+    "part_description": "Consists of a bowl, tank, seat, and lid. The bowl is round and elevated on a pedestal, with the tank positioned behind it. The seat and lid are on top of the bowl.",
+    "internal_interaction_description": "The lid covers the seat, which is attached to the bowl. The tank holds water and connects to the bowl via a flushing mechanism. When flushed, the tank releases water into the bowl to remove waste.",
+    "external_interaction_description": "Used by people for sanitation, the toilet connects to plumbing for waste disposal. External interactions include flushing the handle to operate the mechanism, and cleaning the surfaces regularly to maintain hygiene."
+}

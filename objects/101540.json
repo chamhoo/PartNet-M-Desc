@@ -1,0 +1,6 @@
+{
+    "base_description": "Black cylindrical bottle with a silver spray nozzle.",
+    "part_description": "Includes a cylindrical black body and a silver spray nozzle on top, featuring a trigger and cap. The nozzle is positioned vertically above the bottle.",
+    "internal_interaction_description": "The trigger mechanism on the spray nozzle is connected to an internal tube that extends into the bottle. When the trigger is pressed, it creates pressure that draws liquid up the tube and out through the nozzle, dispersing it as a spray. The nozzle cap can be closed to prevent accidental spraying.",
+    "external_interaction_description": "The object is designed to be handheld, allowing a person to aim and spray liquid onto a surface. It interacts with external elements by dispensing its contents, which could be a cleaning solution, air freshener, or other liquid, onto targeted areas when the trigger is pressed."
+}

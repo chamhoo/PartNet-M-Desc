@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with modern style.",
+    "part_description": "Cabinet with one upper drawer and one lower door. The drawer is positioned at the top, and the door is below it, both with horizontal handles.",
+    "internal_interaction_description": "The drawer slides horizontally within the cabinet, providing storage space. The door swings open on hinges, allowing access to the interior compartment. Both parts function independently, ensuring smooth operation without interference.",
+    "external_interaction_description": "The cabinet can be placed in kitchens or offices, interacting with users who open the drawer and door for storage. It can be positioned against walls, and its flat top surface may hold small items or appliances."
+}

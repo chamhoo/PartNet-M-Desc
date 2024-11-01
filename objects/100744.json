@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe on a tripod stand.",
+    "part_description": "A spherical globe mounted on a curved axis with a three-legged tripod stand. The globe is positioned centrally above the stand, which has evenly spaced legs for stability.",
+    "internal_interaction_description": "The globe is attached to a curved axis allowing it to spin freely, simulating Earth's rotation. The axis is fixed to the top of the tripod stand, providing support and balance. The legs of the stand are angled outward to distribute weight evenly.",
+    "external_interaction_description": "The globe can be rotated by hand to view different regions. It serves as an educational tool, allowing users to explore geographical information. The tripod stand ensures it remains stable during interaction, making it suitable for use on desks or tables."
+}

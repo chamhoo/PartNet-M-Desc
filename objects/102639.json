@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with tank and bowl.",
+    "part_description": "Consists of a tank, seat, and bowl; tank is rectangular, seat is oval, bowl is round, positioned sequentially from top to bottom.",
+    "internal_interaction_description": "The tank stores water, which is released into the bowl through a flush mechanism. The seat provides a cover and seating area over the bowl. Water flows from the tank into the bowl, enabling waste removal through a siphoning action.",
+    "external_interaction_description": "The toilet interfaces with plumbing to receive water and dispose of waste. Users interact with it via the flush handle to initiate water flow. It is typically installed in bathrooms and requires a connection to a sewage system for proper waste management."
+}

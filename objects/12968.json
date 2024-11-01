@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, gray wireless keyboard.",
+    "part_description": "Contains numerous square keys arranged in rows and columns.",
+    "internal_interaction_description": "Keys are spring-loaded, allowing them to return to position after being pressed. They are arranged to facilitate typing, with each key corresponding to a specific function or character.",
+    "external_interaction_description": "Connects wirelessly to computers or devices, allowing users to input data by pressing keys. It can be placed on various surfaces and interacts with users through tactile feedback."
+}

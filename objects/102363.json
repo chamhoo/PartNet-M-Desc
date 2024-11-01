@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, gray, conical bucket with handle.",
+    "part_description": "Includes a circular rim, conical body, and a side handle with a loop. The rim is wide and open, and the handle is attached near the top.",
+    "internal_interaction_description": "The handle is securely attached to the bucket's side, allowing it to bear weight when lifted. The conical shape aids in holding contents securely, with the wide rim providing easy access to the interior.",
+    "external_interaction_description": "The bucket can hold liquids or solids, carried using the handle. It interacts with external elements by containing materials and being moved by people. Its shape allows stacking with similar objects for storage."
+}

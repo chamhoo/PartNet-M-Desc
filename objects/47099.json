@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular cabinet with two doors.",
+    "part_description": "Two equal-sized doors on the front, rectangular shape, positioned vertically. The cabinet is a solid block with flat surfaces, and the doors are side by side.",
+    "internal_interaction_description": "The two doors are likely hinged, allowing them to swing open and closed. They are positioned to cover the front opening of the cabinet, providing access to the internal storage area when opened.",
+    "external_interaction_description": "The cabinet can be placed against a wall for storage use. The doors allow access to stored items, interacting with users who open and close them. Its flat top can hold additional items externally."
+}

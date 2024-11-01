@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with minimalist style.",
+    "part_description": "Two upper doors, two lower doors, vertical handles, rectangular shape, positioned symmetrically.",
+    "internal_interaction_description": "The cabinet's doors open outward, revealing interior shelves for storage. The vertical handles allow easy access to the contents. The doors are hinged for smooth opening and closing, ensuring secure storage of items inside.",
+    "external_interaction_description": "The cabinet interacts with the environment by providing storage space. It can be placed against a wall in a home or office. Users interact by opening the doors to store or retrieve items, utilizing the handles for access."
+}

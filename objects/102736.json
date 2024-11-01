@@ -1,0 +1,6 @@
+{
+    "base_description": "White, conical teapot with a curved handle.",
+    "part_description": "Includes a conical body, curved spout, rounded handle, and pointed lid.",
+    "internal_interaction_description": "The lid fits snugly on the top opening, allowing liquid to be poured through the spout. The handle is attached to the body, providing a grip for pouring. The spout is angled for precise pouring, while the body holds the liquid securely.",
+    "external_interaction_description": "The teapot is used to pour liquids, typically interacting with cups or mugs. It requires a user to lift and tilt it for pouring. It can be placed on a flat surface and may interact with heat sources for warming."
+}

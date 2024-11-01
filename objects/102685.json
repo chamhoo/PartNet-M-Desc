@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with tank and bowl.",
+    "part_description": "Consists of a tank, seat, and bowl. The tank is rectangular, positioned at the back, and the bowl is oval and open at the top.",
+    "internal_interaction_description": "The tank stores water, releasing it into the bowl when flushed. The bowl is connected to the plumbing system, allowing waste to be carried away. The seat is hinged, allowing it to be lifted or lowered.",
+    "external_interaction_description": "Used by people for sanitation purposes. Connects to plumbing for water supply and waste disposal. Interacts with cleaning tools for maintenance."
+}

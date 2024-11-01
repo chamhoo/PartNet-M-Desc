@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cube-shaped camera with cylindrical lens.",
+    "part_description": "Consists of a cube body and a protruding cylindrical lens at the front. The lens is centrally positioned, and the cube has smooth edges.",
+    "internal_interaction_description": "The cylindrical lens is attached to the front of the cube body, allowing it to focus light onto the internal sensor. The lens and body are designed to work together to capture images efficiently.",
+    "external_interaction_description": "The camera interacts with users through buttons and dials on its body, allowing for adjustments. It connects externally via ports for data transfer and power supply, and the lens interacts with light to capture photographs."
+}

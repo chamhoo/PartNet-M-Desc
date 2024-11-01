@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, silver refrigerator with a modern design.",
+    "part_description": "Two vertical doors; left with water dispenser, right plain. Handles vertically aligned, centered on each door. Ice dispenser below water dispenser. Rectangular shape, flat top, and sides.",
+    "internal_interaction_description": "The left door houses a water and ice dispenser, interacting with internal water lines and ice-making mechanisms. The doors open to reveal storage shelves, with cooling air circulated through vents to maintain temperature. Shelves and bins are adjustable, allowing flexible storage arrangements within the refrigerator.",
+    "external_interaction_description": "The refrigerator interacts with users through the water and ice dispenser, providing convenience. It requires an external power source and water connection for full functionality. Its doors open outward, necessitating sufficient surrounding space. The appliance also interacts with ambient room temperature, adjusting its cooling cycle accordingly."
+}

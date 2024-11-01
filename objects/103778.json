@@ -1,0 +1,6 @@
+{
+    "base_description": "Cubic teal washing machine with front door.",
+    "part_description": "Includes a circular front door, control panel with buttons, and a detergent drawer on top. The door is centrally positioned, and the panel is above it.",
+    "internal_interaction_description": "The circular door opens to allow access to the drum, where clothes are loaded. The control panel manages washing cycles, while the detergent drawer dispenses cleaning agents during operation.",
+    "external_interaction_description": "Interacts with users through the control panel for operation. Connects to water and power supply for functionality. The door allows loading and unloading of laundry, and the machine operates on various surfaces."
+}

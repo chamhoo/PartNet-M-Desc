@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue laptop with a rectangular screen and keyboard.",
+    "part_description": "Consists of a screen, keyboard, trackpad, and hinge. The screen is rectangular, hinged to the base. The keyboard is flat, positioned on the base, with a centered trackpad below.",
+    "internal_interaction_description": "The hinge connects the screen and base, allowing the screen to open and close. The keyboard inputs data to the system, while the trackpad controls the cursor on the screen. Internal circuits and components facilitate processing and display functions.",
+    "external_interaction_description": "Interacts with users through input devices like the keyboard and trackpad. Connects to external devices via ports for data exchange. The screen displays information for user interaction, while wireless connections enable internet access and peripheral connectivity."
+}

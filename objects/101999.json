@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular USB drive with gray and yellow colors.",
+    "part_description": "Includes a gray plastic body, a yellow USB connector, and a removable black cap. The USB connector is positioned at one end, and the cap covers it when not in use.",
+    "internal_interaction_description": "The USB connector fits snugly into the plastic body, ensuring secure data transfer. The cap slides over the connector, providing protection from dust and physical damage. The internal circuitry connects the USB interface to the storage components, allowing for data storage and retrieval.",
+    "external_interaction_description": "The USB drive connects to computers or compatible devices via the USB port for data transfer. It can be carried easily due to its compact size, making it convenient for portable data storage. The drive interacts with software on the connected device to read and write data."
+}

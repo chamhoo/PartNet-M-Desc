@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with two dark glass panes.",
+    "part_description": "Two equal-sized rectangular glass panes arranged vertically within a light-colored frame, separated by a vertical divider in the center.",
+    "internal_interaction_description": "The two panes are secured within the frame, with the central divider providing structural support and separation. The frame holds the panes in place, allowing for stability and potential sliding or opening mechanisms.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external elements. It can be opened or closed to regulate airflow and temperature. It interacts with walls or structures where it's installed, providing visibility and protection."
+}

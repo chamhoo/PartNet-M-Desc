@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white printer with curved front.",
+    "part_description": "Features include a paper tray, control panel, and output slot. The paper tray is on top, control panel at front-left, and output slot at front-center.",
+    "internal_interaction_description": "The printer's internal mechanism pulls paper from the tray, processes it through the printing area, and ejects it through the output slot. The control panel allows for operation and settings adjustments, interacting with internal circuits to manage tasks.",
+    "external_interaction_description": "The printer connects to computers via USB or wireless, receiving print jobs. Users interact through the control panel for setup and maintenance. It requires paper and ink refills and outputs printed documents for user retrieval."
+}

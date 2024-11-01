@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, green and white, L-shaped faucet.",
+    "part_description": "The faucet has a cross-shaped handle, cylindrical spout, and hexagonal base. The handle is green, spout is white, and base is white. The handle is on top, spout curves downward, and base connects them.",
+    "internal_interaction_description": "The handle rotates to control the flow of water through the spout. The hexagonal base secures the handle and spout, allowing smooth movement and ensuring water is directed properly. The internal mechanism opens or closes the valve as the handle is turned.",
+    "external_interaction_description": "The faucet connects to a water supply system, allowing users to control water flow. It interacts with external plumbing through its base, which attaches to pipes. Users manually turn the handle to release or stop water, making it functional for sinks or outdoor use."
+}

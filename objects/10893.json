@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized black scissors with red handles.",
+    "part_description": "Two metal blades, black plastic handles with red interior, connected by a metal pivot.",
+    "internal_interaction_description": "The two metal blades pivot around a central metal screw, allowing them to open and close. The handles are ergonomically shaped to fit fingers, providing leverage for cutting. The red interior provides a visual contrast, enhancing grip visibility.",
+    "external_interaction_description": "Scissors are used to cut various materials like paper, fabric, and plastic. The user places fingers in the handle loops and applies pressure to close the blades, slicing through the material. The sharp blades interact directly with the cutting surface, requiring careful handling."
+}

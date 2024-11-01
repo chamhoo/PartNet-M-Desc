@@ -1,0 +1,6 @@
+{
+    "base_description": "Small blue globe with gray stand.",
+    "part_description": "Features a spherical globe, metal axis, and hexagonal base. The globe is blue with cream continents, mounted on a gray axis that connects to a hexagonal base.",
+    "internal_interaction_description": "The globe rotates around the metal axis, which is fixed to the base. The axis allows smooth spinning, enabling different parts of the globe to be viewed. The base provides stability, ensuring the globe remains upright and balanced during rotation.",
+    "external_interaction_description": "The globe can be manually spun by a person to view different regions. It serves as an educational tool, allowing users to explore geography. The stable base ensures it can be placed on various surfaces without tipping over during interaction."
+}

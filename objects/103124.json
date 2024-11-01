@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, box-shaped coffee machine with modern design.",
+    "part_description": "Includes a control panel, spout, drip tray, and display. The control panel is on the front top, the spout is centrally located, the drip tray is below the spout, and the display is above the control panel.",
+    "internal_interaction_description": "The control panel allows users to operate the machine, sending signals to the internal mechanisms. The spout dispenses coffee, controlled by internal valves. The drip tray collects excess liquid, ensuring cleanliness. The display provides feedback on machine status and settings.",
+    "external_interaction_description": "The coffee machine interacts with users through the control panel and display, allowing for customized coffee preparation. It requires external power and water supply to function. Users place cups under the spout for dispensing and remove the drip tray for cleaning."
+}

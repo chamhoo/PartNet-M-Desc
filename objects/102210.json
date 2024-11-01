@@ -1,0 +1,6 @@
+{
+    "base_description": "Green, rectangular recycling bin with wheels.",
+    "part_description": "The bin has a lid, two wheels, and a recycling symbol. The lid is flat and covers the top. The wheels are positioned at the back for mobility.",
+    "internal_interaction_description": "The lid hinges at the back, allowing it to open and close for depositing recyclables. The wheels are attached to axles at the bottom rear, enabling movement when tilted backward.",
+    "external_interaction_description": "The bin interacts with users who open the lid to deposit recyclables. It can be wheeled to different locations for collection and emptied by sanitation workers or recycling services."
+}

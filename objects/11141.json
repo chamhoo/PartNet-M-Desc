@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop with rectangular shape and sleek design.",
+    "part_description": "The laptop has a screen, keyboard, touchpad, and base. The screen is thin and rectangular, positioned on top. The keyboard is full-sized with a touchpad centered below it. The base houses internal components.",
+    "internal_interaction_description": "The screen hinges to the base, allowing it to open and close smoothly. The keyboard is integrated into the base, facilitating input. The touchpad is centrally located below the keyboard, providing navigation control. Internal components such as the processor, memory, and storage interact to perform computing tasks.",
+    "external_interaction_description": "The laptop connects to external devices via USB ports, HDMI, and other interfaces. It interacts with users through the display, keyboard, and touchpad. It can connect to the internet wirelessly, enabling communication with online services and networks."
+}

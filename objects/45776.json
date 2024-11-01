@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a door.",
+    "part_description": "One main door with a handle on the upper left, rectangular shape, vertical orientation, and a flat top surface. The cabinet has a hollow interior space.",
+    "internal_interaction_description": "The door swings open on hinges, allowing access to the interior space. The handle provides a grip point for opening and closing. The interior is a single compartment, suitable for storing items vertically or horizontally depending on size.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a kitchen setup. It interacts with users by providing storage space, allowing them to open the door via the handle to place or retrieve items. Its flat top can hold additional objects or decorations."
+}

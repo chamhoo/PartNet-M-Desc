@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray storage cabinet.",
+    "part_description": "Single door with handle, rectangular shape, vertical orientation.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to swing open and close. The handle is positioned vertically on the door's front, facilitating easy grip and pull action to access the cabinet's interior space.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, providing storage space. It interacts with users who open the door via the handle to store or retrieve items. Its neutral color allows it to blend with various room decors."
+}

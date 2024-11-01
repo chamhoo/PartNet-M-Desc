@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with minimalist design.",
+    "part_description": "Single door with two horizontal handles on the left side; smooth, solid sides and top; rectangular shape with vertical orientation.",
+    "internal_interaction_description": "The door swings open on hinges, allowing access to internal storage space. The handles provide grip for opening and closing. Inside, shelves may be present to organize stored items, though not visible externally.",
+    "external_interaction_description": "The cabinet interacts with users who open the door to store or retrieve items. It may be placed against a wall or in a corner, interacting with surrounding furniture by providing additional storage space, while its design complements modern interiors."
+}

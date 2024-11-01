@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, silver stove with multiple burners and ovens.",
+    "part_description": "Six burners on top, two large front-facing ovens, control knobs above ovens, and handles on oven doors.",
+    "internal_interaction_description": "The burners are positioned on the top surface, each with its own control knob for adjusting flame intensity. The ovens below have separate doors and handles, each with its own heating element controlled by knobs, allowing for simultaneous cooking at different temperatures.",
+    "external_interaction_description": "The stove interacts with external elements like cookware placed on the burners or inside the ovens. Users adjust knobs to control heat, and oven doors open outward to place or remove food. It connects to a gas or electric supply for functionality."
+}

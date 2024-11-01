@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver toaster with black accents.",
+    "part_description": "Features two slots on top, a black lever on the side, and a numbered dial on the front. The toaster is rectangular with a flat base and slightly rounded edges.",
+    "internal_interaction_description": "The lever, when pressed, lowers bread into the slots, activating internal heating elements. The dial adjusts the timer, controlling the duration of heat exposure. Once the set time elapses, the internal mechanism releases the lever, raising the bread.",
+    "external_interaction_description": "The toaster is placed on a countertop and plugged into an electrical outlet. Users insert bread into the slots and adjust the dial to the desired setting. Once the cycle completes, the toaster pops the bread up for easy retrieval."
+}

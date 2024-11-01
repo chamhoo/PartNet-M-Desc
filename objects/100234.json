@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized, gray box with pink base and text.",
+    "part_description": "The box has a cubic shape with an open top, four flaps, and a pink base. The flaps are rectangular and attached to the top edges. The pink base features white text reading 'Balikbayan Box'.",
+    "internal_interaction_description": "The flaps are connected to the top edges of the box, allowing them to open outward or fold inward to close the box. The structure is designed to hold contents securely when closed, with the flaps overlapping to prevent spillage.",
+    "external_interaction_description": "The box interacts with external elements by serving as a container for storage or transport. It can be easily opened or closed by people using the flaps, and the text on the base provides identification or branding, making it recognizable during handling or shipping."
+}

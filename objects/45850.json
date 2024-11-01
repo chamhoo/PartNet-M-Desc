@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray box with a hinged front panel.",
+    "part_description": "The object has a rectangular shape with a hinged front panel. The panel is positioned on the front side and spans the entire width. The box is solid with defined edges and a smooth surface.",
+    "internal_interaction_description": "The hinged front panel allows access to the interior. The panel can be opened or closed, providing a secure closure when shut. The hinges are located on one side, facilitating smooth movement and alignment with the box's main structure.",
+    "external_interaction_description": "The box can be placed on flat surfaces and used for storage. The hinged panel allows users to access contents easily. It can be integrated into larger storage systems or used independently, interacting with other objects by containing or organizing them."
+}

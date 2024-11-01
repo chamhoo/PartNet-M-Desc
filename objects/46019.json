@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with two doors.",
+    "part_description": "Two vertical doors with handles, rectangular shape, positioned side by side; enclosed rectangular top and bottom panels.",
+    "internal_interaction_description": "The two doors are hinged to the main cabinet frame, allowing them to swing open and closed. The handles provide grip for easy access. The top and bottom panels stabilize the structure, ensuring the cabinet maintains its shape and supports the doors effectively.",
+    "external_interaction_description": "The cabinet can store items inside, interacting with various household objects. Its doors open outward, requiring space in front. It may be placed against a wall to maximize space efficiency and can be accessed by people for storage purposes."
+}

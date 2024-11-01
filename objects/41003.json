@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with four doors.",
+    "part_description": "The cabinet has four doors, two on top and two below, with handles. It is rectangular, tall, and divided into two main sections.",
+    "internal_interaction_description": "The cabinet's doors are connected to the main structure with hinges, allowing them to open and close smoothly. Each section may have internal shelves for storage, providing organized space within the cabinet.",
+    "external_interaction_description": "The cabinet can be placed against a wall, used for storing items like books or dishes. People interact with it by opening the doors via the handles to access stored items."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with a blue screen.",
+    "part_description": "Consists of a rectangular base with a keyboard area and touchpad, and a hinged screen positioned vertically.",
+    "internal_interaction_description": "The screen is connected to the base via a hinge, allowing it to open and close. The keyboard and touchpad are integrated into the base for user input.",
+    "external_interaction_description": "The laptop interacts with users through the screen display and input devices. It can connect to external networks and devices via ports and wireless connections."
+}

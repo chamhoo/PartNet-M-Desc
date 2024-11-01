@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, black rectangular cabinet with two doors.",
+    "part_description": "Two vertical doors with handles, control panel on left door.",
+    "internal_interaction_description": "The two doors open outward, allowing access to the interior compartments. The control panel is integrated into the left door, likely managing internal settings. Handles are positioned for easy grip, facilitating door operation.",
+    "external_interaction_description": "The cabinet is designed for storage, interacting with users who open the doors to access contents. The control panel allows users to adjust settings, possibly for temperature or security. Its size and shape make it suitable for placement against a wall."
+}

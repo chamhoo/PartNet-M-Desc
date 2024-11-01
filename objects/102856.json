@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular switch with eight white toggles.",
+    "part_description": "Eight white square toggles arranged linearly on a red base; each toggle is numbered from 1 to 8, with 'ON' label on the left.",
+    "internal_interaction_description": "Each toggle switch can be flipped individually to open or close electrical circuits. The toggles are aligned in a row, allowing for sequential or individual operation. The positions of the toggles determine the binary code output, interacting internally to change the circuit configuration.",
+    "external_interaction_description": "The switch interacts with electronic devices by controlling circuit connections. Users flip toggles to configure settings or inputs. It may connect to a circuit board or device, allowing for manual control of electrical signals and settings adjustments."
+}

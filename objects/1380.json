@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver door handle with rectangular base plate.",
+    "part_description": "Consists of a rectangular base plate, cylindrical handle, and curved lever. The base plate is vertical, with the handle extending horizontally.",
+    "internal_interaction_description": "The handle is connected to the base plate, allowing rotational movement around the handle's axis. The curved lever is attached to the handle, providing grip for turning or pulling.",
+    "external_interaction_description": "The handle interacts with a door, allowing it to open or close when turned. It requires manual operation by a person, providing access control to a space."
+}

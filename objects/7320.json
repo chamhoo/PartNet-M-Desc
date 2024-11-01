@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver and black microwave oven.",
+    "part_description": "Consists of a door with a handle, control panel on the right, and a viewing window. The door is front-facing, rectangular, and large. The control panel is vertical, slim, and positioned on the right side.",
+    "internal_interaction_description": "The door opens to reveal the cooking chamber, allowing access to the turntable inside. The control panel manages the microwave's functions, sending signals to the internal components to start or stop cooking, adjust power levels, and set timers.",
+    "external_interaction_description": "The microwave interacts with users through the control panel, allowing them to input cooking settings. It requires an external power source and is typically placed on a countertop or mounted above a stove. Users open the door to place or remove food items."
+}

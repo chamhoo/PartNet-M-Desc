@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray bottle with black cap, cylindrical shape.",
+    "part_description": "The bottle has two parts: a gray cylindrical body and a black cylindrical cap on top. The body is slightly curved, and the cap is smaller and positioned centrally.",
+    "internal_interaction_description": "The cap screws onto the top of the bottle, creating a seal to keep the contents secure. The curved shape of the bottle allows for an ergonomic grip, facilitating easy handling and pouring.",
+    "external_interaction_description": "The bottle is designed to be held and used by people, typically for dispensing liquids. It can be placed on flat surfaces due to its stable base and is portable for use in various settings, such as bathrooms or kitchens."
+}

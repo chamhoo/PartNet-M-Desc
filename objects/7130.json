@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and gray oven with two compartments.",
+    "part_description": "The oven has two compartments, each with a door. The top compartment is smaller, while the bottom is larger. Both doors have handles and are positioned on the front.",
+    "internal_interaction_description": "The upper and lower compartments are separate, allowing for different cooking or heating functions. The doors open outward, providing access to the interior. Heat is distributed evenly within each compartment, ensuring consistent cooking results.",
+    "external_interaction_description": "The oven interacts with users through its doors and control panel, allowing for selection of cooking settings. It requires an electrical connection to function and is typically placed on a kitchen counter or built-in space."
+}

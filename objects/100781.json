@@ -1,0 +1,6 @@
+{
+    "base_description": "Small blue globe with green continents, yellow stand.",
+    "part_description": "The globe has a spherical shape with green landmasses and a yellow axis. It sits on a hexagonal yellow base connected by a thin rod.",
+    "internal_interaction_description": "The globe rotates on its axis, which is attached to the stand. The axis allows for smooth spinning, providing a full view of the continents. The rod connects the globe securely to the base, ensuring stability during rotation.",
+    "external_interaction_description": "The globe is used for educational purposes, allowing users to visualize Earth's geography. It can be manually spun to view different regions, aiding in teaching and learning. Its compact size makes it suitable for desktops or shelves, interacting with various educational settings."
+}

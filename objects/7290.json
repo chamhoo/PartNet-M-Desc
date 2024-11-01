@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray microwave with a digital display.",
+    "part_description": "Features a door with a handle, digital display on top, and a window for viewing contents. The door is front-facing, rectangular, and centrally positioned.",
+    "internal_interaction_description": "The door swings open on hinges, allowing access to the interior. The digital display interacts with internal sensors to show time and settings. The window provides visibility while cooking, and the handle facilitates opening and closing.",
+    "external_interaction_description": "Interacts with users through the digital display for setting time and power. The door allows insertion and removal of food items. It requires an electrical outlet for power and can be placed on countertops or built into cabinetry."
+}

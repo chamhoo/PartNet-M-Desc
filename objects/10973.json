@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver scissors with pointed blades.",
+    "part_description": "Two metal blades, sharp and pointed, connected by a pivot; two looped plastic handles for grip.",
+    "internal_interaction_description": "The two blades pivot around a central point, allowing them to move in opposite directions. This motion enables the blades to come together precisely, creating a shearing action that cuts through materials placed between them.",
+    "external_interaction_description": "Scissors are used by hand to cut various materials like paper, fabric, or hair. The user inserts fingers into the handles, applying pressure to bring the blades together. Proper alignment and pressure ensure effective cutting, while the pointed tips allow for precision work."
+}

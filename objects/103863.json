@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and white printer, compact size.",
+    "part_description": "Features a top lid, control panel, and paper tray. The lid is centered, the control panel is on the right, and the tray is at the bottom.",
+    "internal_interaction_description": "The top lid opens to access the internal components for paper or toner replacement. The control panel allows user interaction for printing tasks. The paper tray feeds paper into the printer mechanism for printing.",
+    "external_interaction_description": "Connects to computers or networks for receiving print jobs. Users interact with the control panel for operation. The printer outputs printed documents, which users collect from the output tray."
+}

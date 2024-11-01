@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white door with panel design.",
+    "part_description": "The door has three rectangular panels arranged vertically. Each panel is recessed and rectangular, occupying equal space on the door. A round doorknob is positioned on the right side of the door.",
+    "internal_interaction_description": "The three panels are evenly spaced, creating a symmetrical design. The doorknob is aligned with the central panel, allowing for balanced weight distribution when the door is opened or closed. The recessed panels provide structural integrity and aesthetic appeal.",
+    "external_interaction_description": "The door serves as a barrier and entry point, interacting with walls and door frames. It opens and closes using the doorknob, allowing people to pass through. The door can be locked to provide security and privacy, interacting with external locking mechanisms."
+}

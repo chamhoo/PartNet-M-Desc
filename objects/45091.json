@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with shelves and compartments.",
+    "part_description": "Includes three upper compartments, a large middle shelf, and a lower cabinet with a handle on the left side.",
+    "internal_interaction_description": "The upper compartments are evenly spaced for storage, the middle shelf provides a broad area for larger items, and the lower cabinet can be accessed via the handle, allowing for organized storage of various objects.",
+    "external_interaction_description": "The cabinet can be placed against a wall for stability and accessed by opening the lower cabinet door and utilizing the shelves for storage. It interacts with users by providing easy access to stored items and can be moved or adjusted as needed."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black keyboard with gray keys.",
+    "part_description": "Features multiple rows of rectangular keys, including function, alphanumeric, and special keys. Arranged in a standard QWERTY layout with additional numeric keypad on the right.",
+    "internal_interaction_description": "Keys are individually mounted and interact with underlying switches. Pressing a key completes a circuit, sending a signal to the connected device. Keys are spring-loaded for tactile feedback, returning to their original position after being pressed.",
+    "external_interaction_description": "Connects to computers via USB or wireless technology. Users press keys to input data, execute commands, and interact with software. Can be used on desks or other flat surfaces, typically alongside a mouse."
+}

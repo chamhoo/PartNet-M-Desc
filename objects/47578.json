@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular cabinet with four drawers.",
+    "part_description": "Four horizontal drawers stacked vertically, each with a curved handle. The cabinet is rectangular and stands upright.",
+    "internal_interaction_description": "The drawers slide in and out of the cabinet on tracks, allowing for smooth operation. Each drawer is supported by the cabinet structure, ensuring stability and alignment when opened or closed.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner. Users can pull the handles to open drawers for storage, making it suitable for organizing items like clothes or office supplies."
+}

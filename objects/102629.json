@@ -1,0 +1,6 @@
+{
+    "base_description": "White porcelain toilet with tank and bowl.",
+    "part_description": "Includes a tank, seat, bowl, and base. The tank is rectangular, positioned at the back. The bowl is oval, attached to the base. The seat is circular, fitting over the bowl.",
+    "internal_interaction_description": "The tank holds water and is connected to the bowl. When flushed, water from the tank flows into the bowl, creating a siphon effect that removes waste. The seat and lid are hinged, allowing them to be lifted or lowered as needed.",
+    "external_interaction_description": "The toilet is used by people for sanitation purposes. It connects to a plumbing system for water supply and waste removal. The flush handle on the tank initiates the flushing process, while the seat provides a comfortable surface for use."
+}

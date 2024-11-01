@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, grey cabinet with two doors.",
+    "part_description": "Two doors vertically aligned, each with a handle on the left side, covering internal shelves.",
+    "internal_interaction_description": "The two doors swing open on hinges, revealing internal shelves for storage. The upper and lower doors operate independently, allowing access to separate compartments within the cabinet.",
+    "external_interaction_description": "The cabinet stands upright on the floor, interacting with users who open the doors to access stored items. Handles provide grip for easy opening, and the cabinet's height makes it suitable for standing access."
+}

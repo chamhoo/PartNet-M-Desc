@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray, open cardboard box, medium size.",
+    "part_description": "Consists of a square base and lid, both flat. The base is a flat bottom with raised edges, and the lid is attached at one side, folding over the base.",
+    "internal_interaction_description": "The lid is designed to fold over and align with the base, creating an enclosed space when closed. The edges of the lid and base interlock to maintain shape and provide structural support.",
+    "external_interaction_description": "The box can hold lightweight items, typically used for food like pizza. It can be opened and closed by a person, easily stacked with similar boxes for storage or transportation."
+}

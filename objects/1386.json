@@ -1,0 +1,6 @@
+{
+    "base_description": "White faucet with two handles on a base.",
+    "part_description": "The faucet has a curved spout, two cross-shaped handles, and a wavy base. The spout is centrally positioned, while the handles are symmetrically placed on either side.",
+    "internal_interaction_description": "The handles control the flow of water through the spout. Turning the handles adjusts the internal valves, regulating the water pressure and temperature that exits through the spout.",
+    "external_interaction_description": "The faucet connects to plumbing to deliver water. Users turn the handles to release water for various uses, such as washing hands or filling containers, and it can be mounted on a sink or countertop."
+}

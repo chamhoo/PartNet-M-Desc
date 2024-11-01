@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black, portable external hard drive.",
+    "part_description": "Main body is rectangular with a grid-like top surface. Includes a short, attached cable with a USB connector. Rubberized edges for protection.",
+    "internal_interaction_description": "The grid-like surface design helps dissipate heat. The rubberized edges absorb shocks, protecting internal components. The USB cable connects internal storage to external devices, facilitating data transfer.",
+    "external_interaction_description": "Connects to computers via USB for data transfer. Portable design allows easy transport. Rubber edges provide durability against physical impacts, making it suitable for travel and varied environments."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular vehicle with cylindrical wheels.",
+    "part_description": "Includes a rectangular cabin, two cylindrical wheels, stairs, and a rear platform. The cabin is positioned atop the main body, with stairs on the side and wheels underneath.",
+    "internal_interaction_description": "The rectangular cabin sits on the main body, providing space for occupants. The cylindrical wheels are attached beneath, enabling movement. Stairs allow access to the cabin, while the rear platform extends functionality for carrying additional items or passengers.",
+    "external_interaction_description": "Designed to interact with roads and terrains, the vehicle's wheels facilitate movement. The cabin offers space for passengers, while the rear platform can hold cargo. Stairs enable easy entry and exit, enhancing user accessibility."
+}

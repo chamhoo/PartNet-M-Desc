@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray remote control with multiple buttons.",
+    "part_description": "Features numerous circular and rectangular buttons arranged in rows. A small LED indicator is positioned near the top.",
+    "internal_interaction_description": "Buttons are pressed to complete circuits, sending signals through the internal circuitry to control devices. The LED indicator lights up to confirm signal transmission.",
+    "external_interaction_description": "Interacts with electronic devices like TVs, sending infrared signals to control functions such as volume and channel changing. Requires user operation to press buttons for desired actions."
+}

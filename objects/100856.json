@@ -1,0 +1,6 @@
+{
+    "base_description": "Simple cart with red wheels and white frame.",
+    "part_description": "Four red wheels, white rectangular seat, and flat base. Wheels are evenly distributed at corners, seat positioned centrally on base.",
+    "internal_interaction_description": "The wheels are connected to the base allowing movement. The seat is securely attached to the base, providing stability for a rider. The frame supports the overall structure, ensuring the wheels and seat remain aligned and functional.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person, with the wheels facilitating smooth movement over surfaces. It can carry a person or objects in the seat, interacting with external forces like gravity and friction to maintain balance and direction."
+}

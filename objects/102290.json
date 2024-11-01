@@ -1,0 +1,6 @@
+{
+    "base_description": "White, rectangular device with rounded edges.",
+    "part_description": "Contains a button on top, a small screen, and a circular port at the front.",
+    "internal_interaction_description": "The button likely activates internal mechanisms, possibly interacting with electronic components to display information on the screen. The port may connect to other devices, facilitating data transfer or power supply.",
+    "external_interaction_description": "The device can be operated by pressing the button, viewed through the screen, and connected via the port to external devices for charging or data exchange."
+}

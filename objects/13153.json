@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray keyboard with white keys.",
+    "part_description": "Consists of multiple rows of rectangular keys, including function keys, alphanumeric keys, and a numeric keypad on the right.",
+    "internal_interaction_description": "Keys are arranged in rows, with function keys at the top, alphanumeric keys in the center, and a numeric keypad on the right. Each key is spring-loaded for tactile feedback and connected to a circuit board for input recognition.",
+    "external_interaction_description": "Used by individuals to input data into computers. Connects via USB or wireless technology to communicate with devices, translating keystrokes into digital signals recognized by software applications."
+}

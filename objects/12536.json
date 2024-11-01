@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular dishwasher with white top.",
+    "part_description": "Features a black door with handle, control panel on top, and white flat top surface.",
+    "internal_interaction_description": "The door opens to reveal internal racks and compartments for holding dishes. The control panel allows selection of different washing modes, which control the water jets and temperature inside the dishwasher.",
+    "external_interaction_description": "The dishwasher connects to water and power sources for operation. Users interact with the control panel to set washing cycles and open the door to load and unload dishes."
+}

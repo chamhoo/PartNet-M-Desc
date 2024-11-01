@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, silver, rectangular refrigerator with two doors.",
+    "part_description": "Consists of two main compartments, upper and lower, each with a door. The upper part is larger, likely for refrigeration, and the lower for freezing. Handle bars are horizontally aligned on each door.",
+    "internal_interaction_description": "The upper compartment likely contains shelves and drawers for organizing refrigerated items. The lower compartment may have baskets or shelves for frozen goods. Both compartments are insulated to maintain temperature and prevent cold air from escaping when doors are closed.",
+    "external_interaction_description": "The refrigerator interacts with the environment by maintaining a cool temperature inside, using electricity. It requires space for ventilation and is accessed by opening the doors to store or retrieve food items. It may also have adjustable feet for stability on uneven surfaces."
+}

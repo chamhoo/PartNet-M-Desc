@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with a simple design.",
+    "part_description": "Includes one large door, a drawer above, and a handle on each. The door and drawer are aligned vertically on the front face.",
+    "internal_interaction_description": "The drawer slides in and out above the cabinet space. The door swings open to reveal storage space inside the cabinet. Both parts are connected via hinges and sliders for smooth operation.",
+    "external_interaction_description": "The cabinet can be placed against walls or under countertops. It interacts with users via handles for opening the door and drawer, providing storage for various items."
+}

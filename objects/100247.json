@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular box with rounded lid.",
+    "part_description": "Box with a hinged lid, containing multiple small, round, yellow objects scattered inside.",
+    "internal_interaction_description": "The hinged lid allows the top to open and close, providing access to the interior where the yellow objects are placed. The objects rest loosely on the bottom surface, allowing for easy movement within the box when tilted or shaken.",
+    "external_interaction_description": "The box can be opened by lifting the lid, allowing access to the yellow objects inside. It can be carried or moved easily due to its compact size, and the contents can be poured out or displayed when the lid is open."
+}

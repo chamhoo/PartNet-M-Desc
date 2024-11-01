@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized scissors with blue handles.",
+    "part_description": "Consists of two metal blades, each attached to a blue plastic handle. The blades are sharp and pointed, crossing at a central pivot. The handles are oval-shaped, providing grip for two fingers each.",
+    "internal_interaction_description": "The two blades intersect at a pivot point, allowing them to move in a scissor-like motion. When the handles are squeezed together, the blades close, cutting materials placed between them. The pivot facilitates smooth movement and alignment of the blades.",
+    "external_interaction_description": "The scissors are used by gripping the handles, applying pressure to cut through materials like paper or fabric. They interact with the material by slicing through it when the handles are pressed together, relying on the sharpness of the blades and the user\u2019s hand strength."
+}

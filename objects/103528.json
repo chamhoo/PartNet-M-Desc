@@ -1,0 +1,6 @@
+{
+    "base_description": "White top-loading washing machine with control panel.",
+    "part_description": "Includes a rectangular body, a top lid, and a control panel with knobs. The lid is centered on top, and the panel is positioned at the back.",
+    "internal_interaction_description": "The lid opens to reveal the drum inside, where clothes are placed. The control panel allows users to select wash settings, which control the drum's operation, water flow, and cycle timing.",
+    "external_interaction_description": "Users interact with the machine by loading clothes, adding detergent, and selecting wash cycles. It connects to water supply and drains water externally. Positioned typically in laundry areas, it requires electrical power to operate."
+}

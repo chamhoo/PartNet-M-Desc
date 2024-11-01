@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical beige bottle with pump dispenser.",
+    "part_description": "Bottle has a large cylindrical body, a smaller cylindrical neck, and a black pump on top. The body is beige with a white label, and the pump is positioned centrally on the top surface.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, which extends to the bottom. When pressed, the pump creates suction, drawing liquid from the bottle through the tube and dispensing it through the nozzle.",
+    "external_interaction_description": "The bottle is designed to dispense liquid when the pump is pressed, typically used in bathrooms or kitchens. It can be refilled by unscrewing the pump. The label can be customized to indicate the contents, and the bottle can be placed on flat surfaces for stability."
+}

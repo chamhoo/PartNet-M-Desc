@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular brown wooden chest with a simple design.",
+    "part_description": "The chest has a flat top, four sides, and two hinges. It stands on four short legs, with two handles on each side for easy lifting.",
+    "internal_interaction_description": "The hinges connect the lid to the back panel, allowing it to open and close smoothly. The handles are attached to the sides, providing grip for lifting. The legs support the base, ensuring stability and elevation from the ground.",
+    "external_interaction_description": "The chest can be opened to store items inside, interacting with users who lift the lid. It can be moved by lifting with the side handles, and its flat top can serve as a surface for placing objects."
+}

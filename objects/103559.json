@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, silver toaster with black accents.",
+    "part_description": "Two slots on top, lever on front, control panel on side. Slots are rectangular, positioned parallel, and evenly spaced. Lever is centered below slots.",
+    "internal_interaction_description": "When the lever is pressed, internal heating elements activate, surrounding the inserted bread with heat. The slots guide the bread into position, and the toaster's mechanism holds it until the cycle completes, then releases it upward.",
+    "external_interaction_description": "Users insert bread into the top slots and press the lever to start toasting. The toaster requires a power source and sits on a flat surface. Once done, it pops the bread up for easy retrieval."
+}

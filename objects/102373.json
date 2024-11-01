@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular, open cardboard box.",
+    "part_description": "Contains four sides and a bottom, with flaps on top edges. Flaps fold inward and outward, with the box being rectangular and gray.",
+    "internal_interaction_description": "The flaps can fold inward to close the box, interlocking at the edges for stability. The sides are connected at the corners, forming a sturdy rectangular structure. The bottom supports the weight of contents, while the flaps provide additional closure.",
+    "external_interaction_description": "The box can hold various items, protecting them from external elements. It can be stacked with other boxes for storage or transport. The open top allows for easy access, and the flaps can be sealed with tape for security."
+}

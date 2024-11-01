@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular air conditioning unit.",
+    "part_description": "Includes vents on top, a front panel, and a side panel. Vents are evenly spaced, front panel is large, side panel angled.",
+    "internal_interaction_description": "Air flows through internal ducts from the intake vents to the output vents, cooling the air as it passes through the system. The compressor and evaporator work together to regulate temperature and airflow.",
+    "external_interaction_description": "The unit is installed in a wall opening, drawing warm air in and expelling cool air into the room. It interacts with the room environment by altering the temperature and humidity levels, providing comfort to occupants."
+}

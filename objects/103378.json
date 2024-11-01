@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical bottle with red pump top.",
+    "part_description": "Contains a white cylindrical base, a yellow tapered neck, and a red pump dispenser on top.",
+    "internal_interaction_description": "The pump mechanism interacts with the liquid inside, drawing it up from the base through the neck when pressed. The neck helps guide the liquid to the pump, ensuring efficient dispensing.",
+    "external_interaction_description": "The bottle is designed for easy pressing by users, dispensing liquid such as soap or lotion. It can be placed on flat surfaces and refilled when necessary. The bright colors make it easy to locate in a bathroom or kitchen setting."
+}

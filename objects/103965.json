@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, spherical globe with blue and yellow stand.",
+    "part_description": "The globe has a spherical shape, mounted on a curved yellow axis, supported by a blue base. The axis is positioned at the top and bottom of the sphere, allowing rotation.",
+    "internal_interaction_description": "The globe rotates around the yellow axis, which is connected to the blue base. The axis allows smooth spinning of the globe, enabling easy viewing of different parts of the sphere. The base provides stability, ensuring the globe remains upright during rotation.",
+    "external_interaction_description": "The globe can be manually spun by a person, allowing them to view different areas of the sphere. It serves as an educational tool, often used in classrooms or homes to teach geography. The stable base allows it to be placed on flat surfaces like desks or tables."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, gray and clear soap dispenser.",
+    "part_description": "Consists of a cylindrical body, pump top, and nozzle. The body is clear, with a gray base and top. The pump is positioned centrally on top, with a protruding nozzle.",
+    "internal_interaction_description": "The pump mechanism is connected internally to a tube that extends into the body. When pressed, the pump creates a vacuum that draws liquid soap up the tube and out through the nozzle, dispensing it efficiently.",
+    "external_interaction_description": "Designed for use with liquid soap, it interacts with human hands by dispensing soap when the pump is pressed. It can be placed on countertops in kitchens or bathrooms, interacting with its environment by providing easy access to soap."
+}

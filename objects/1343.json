@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical faucet with modern design.",
+    "part_description": "Includes a cylindrical base, a horizontal spout, and a lever handle. The spout extends outward from the base, and the handle is positioned on top.",
+    "internal_interaction_description": "The lever handle controls the flow of water through the spout. When lifted, it opens an internal valve, allowing water to pass from the base through the spout. The cylindrical shape houses the internal plumbing necessary for water flow regulation.",
+    "external_interaction_description": "The faucet is installed on sinks, allowing users to control water flow for washing or cleaning purposes. It interacts with external plumbing systems to receive water supply and is operated by rotating or lifting the handle."
+}

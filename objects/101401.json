@@ -1,0 +1,6 @@
+{
+    "base_description": "Circular fan with red hub and black blades.",
+    "part_description": "The fan has six black blades arranged around a central red hub, all enclosed in a beige circular frame.",
+    "internal_interaction_description": "The black blades are attached to the central red hub, which rotates to create airflow. The circular frame supports the structure, ensuring stability and alignment of the blades during rotation.",
+    "external_interaction_description": "When powered, the fan draws air from one side and pushes it out the other, cooling or ventilating the surrounding environment. It can be mounted or placed in various settings for effective air circulation."
+}

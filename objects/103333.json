@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window, gray frame, modern style.",
+    "part_description": "Two large rectangular glass panes, set in a gray frame, with one pane positioned to slide horizontally over the other.",
+    "internal_interaction_description": "The two glass panes are set within a single frame, allowing one pane to slide horizontally along a track over the other. This sliding mechanism is facilitated by the frame's integrated track system, enabling smooth movement and secure closure when aligned.",
+    "external_interaction_description": "The window interacts with external elements by providing a barrier against weather while allowing light and air to pass through when open. It can be operated by a person sliding one pane to open or close the window, adjusting ventilation and visibility."
+}

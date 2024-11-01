@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with white frame and blue panes.",
+    "part_description": "Two sashes with six blue glass panes each, white frame surrounding panes, vertical and horizontal dividers.",
+    "internal_interaction_description": "The window's sashes slide vertically within the frame, allowing the top and bottom sections to open or close. The dividers create smaller sections within each sash, maintaining structural integrity and aesthetic appeal. The frame holds the sashes securely, ensuring smooth operation.",
+    "external_interaction_description": "The window allows light and air to pass through while providing a barrier against external elements. It can be opened for ventilation or closed for insulation. The frame can be installed in walls, interacting with building structures, and the glass panes provide visibility and security."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, black, rectangular cabinet with multiple drawers.",
+    "part_description": "The cabinet has 10 drawers, vertically aligned, each of equal size and shape. Drawers have recessed handles, positioned centrally on the front face.",
+    "internal_interaction_description": "Each drawer slides in and out of the cabinet frame on metal runners, allowing smooth operation. The drawers stack vertically, with each one resting on the runners of the one below, ensuring stability and even weight distribution.",
+    "external_interaction_description": "The cabinet stands on a flat surface, requiring minimal space due to its vertical design. It interacts with users by providing storage space, accessed via the recessed handles. It can be placed against a wall or in a corner for space efficiency."
+}

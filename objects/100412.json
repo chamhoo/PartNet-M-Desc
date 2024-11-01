@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with multiple buttons.",
+    "part_description": "Contains numerous circular and rectangular buttons arranged in rows, including labeled 'Power', 'Vol.', and 'Ch.' buttons, with directional pad at bottom.",
+    "internal_interaction_description": "Buttons are pressed to send signals internally to a circuit board, which processes inputs to execute commands. Each button corresponds to specific functions, such as volume control or channel change, interacting with the internal electronics to perform tasks.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or stereos via infrared signals emitted from the top, requiring line-of-sight for operation. Users press buttons to control device functions such as power, volume, and channel selection, enhancing user-device interaction."
+}

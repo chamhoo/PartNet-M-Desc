@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with two doors.",
+    "part_description": "The cabinet has two rectangular doors with handles, positioned vertically on the front. The top is flat, and the sides are solid. The base is slightly elevated, and the interior is hollow for storage.",
+    "internal_interaction_description": "The two doors are hinged on the sides, allowing them to swing open and closed. The handles facilitate easy opening. The interior space is designed for storing items, with potential shelving or compartments not visible from the exterior.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a kitchen setup. It interacts with users who open the doors to access stored items. It may also support objects placed on top, such as kitchen appliances or decorative items."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black toaster with silver sides.",
+    "part_description": "Two slots on top, black exterior, silver sides, control knob on front.",
+    "internal_interaction_description": "The heating elements inside each slot toast bread by generating heat when the toaster is activated. The control knob adjusts the toasting level, and the internal mechanism lowers and raises the bread slices. The slots hold the bread securely during toasting.",
+    "external_interaction_description": "The toaster interacts with bread slices, toasting them when inserted into the slots. Users adjust the knob to control toasting level and press the lever to start. Once done, the toaster pops the bread up for easy removal."
+}

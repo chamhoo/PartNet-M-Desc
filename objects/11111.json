@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver metal scissors with sharp blades.",
+    "part_description": "Two sharp blades, two handles with loops, pivot point in center.",
+    "internal_interaction_description": "The blades pivot around the central point, allowing them to open and close smoothly. The handles are connected to the blades, providing leverage for cutting. The loops in the handles accommodate fingers for grip and control, ensuring the blades align correctly during use.",
+    "external_interaction_description": "The scissors are used to cut materials like paper, fabric, or hair. They require manual operation, with fingers placed in the handle loops to open and close the blades. The sharp edges interact with materials to slice through them cleanly when pressure is applied."
+}

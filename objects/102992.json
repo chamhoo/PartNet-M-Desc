@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular trash bin with a lid.",
+    "part_description": "The bin has a rectangular body, a flat lid on top, and a foot pedal at the base. The lid is slightly larger than the body and overhangs. The pedal is rectangular and protrudes from the lower front.",
+    "internal_interaction_description": "Pressing the foot pedal causes the lid to open via a lever mechanism inside the bin. The pedal connects to a rod or lever that lifts the lid, allowing for hands-free operation. The lid closes automatically when the pedal is released.",
+    "external_interaction_description": "The bin interacts with users by allowing waste disposal without hand contact, promoting hygiene. It can be placed in kitchens, bathrooms, or offices. The lid helps contain odors and the design prevents pests from accessing the contents."
+}

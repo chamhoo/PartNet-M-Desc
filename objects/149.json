@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic faucet set with classic design.",
+    "part_description": "Includes curved spout and two separate handles; spout is central, handles are symmetrically placed on either side.",
+    "internal_interaction_description": "The handles control water flow through the spout. Turning the handles adjusts internal valves, regulating water temperature and pressure. The spout channels combined water to the outlet.",
+    "external_interaction_description": "Interacts with plumbing to deliver water. Users operate handles to adjust water flow and temperature. Can be installed on sinks or countertops, interacting with surrounding fixtures and surfaces."
+}

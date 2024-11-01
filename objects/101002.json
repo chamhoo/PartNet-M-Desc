@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular remote with red button.",
+    "part_description": "Features a red power button, multiple small buttons, and an LED indicator on the front. The buttons are arranged vertically and vary in size.",
+    "internal_interaction_description": "The red power button activates the device's circuitry, sending signals through internal pathways. The smaller buttons trigger different functions, each connected to specific circuit components. The LED indicator lights up when a button is pressed, showing active status.",
+    "external_interaction_description": "The remote interacts with electronic devices via infrared signals, controlling functions like power and volume. Users press buttons to send commands, requiring line-of-sight to the device. It can be held comfortably in one hand, facilitating easy operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular cabinet with five drawers.",
+    "part_description": "Five horizontal drawers, evenly spaced, with simple handles, stacked vertically within a rectangular frame.",
+    "internal_interaction_description": "Each drawer slides in and out of the cabinet frame on metal tracks. The drawers are aligned vertically, allowing them to open independently without interference. The handles provide grip for pulling the drawers open.",
+    "external_interaction_description": "The cabinet stores items within its drawers, accessible by pulling the handles. It can be placed against a wall or under a desk, interacting with surrounding furniture. Users interact by opening drawers to store or retrieve items."
+}

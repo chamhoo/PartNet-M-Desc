@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray storage cabinet.",
+    "part_description": "Includes a main body, a vertical handle, and a lower compartment. The handle is positioned centrally on the front, while the lower compartment is at the bottom part.",
+    "internal_interaction_description": "The handle is attached to the cabinet door, allowing it to swing open and closed. The lower compartment provides additional storage space, accessible when the door is opened.",
+    "external_interaction_description": "The cabinet interacts with users by providing storage space. It can be placed against a wall or in a corner, and users can open the door using the handle to access contents inside."
+}

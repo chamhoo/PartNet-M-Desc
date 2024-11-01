@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray desk with drawers.",
+    "part_description": "Two sets of drawers on each side, rectangular tabletop, four legs at corners.",
+    "internal_interaction_description": "The drawers slide in and out of the desk frame, supported by runners. Each set of drawers is housed within a compartment on either side, providing storage space. The tabletop rests securely on the legs, which are positioned at each corner for stability.",
+    "external_interaction_description": "The desk provides a flat surface for writing or computer use. Drawers offer storage for office supplies. It can be positioned against a wall or in the center of a room, accommodating various seating arrangements. The desk interacts with chairs, allowing users to sit and work comfortably."
+}

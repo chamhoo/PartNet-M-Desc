@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray file cabinet with multiple drawers.",
+    "part_description": "Contains five drawers, uniformly arranged horizontally. Each drawer is rectangular, slightly protruding, and has a handle near the top edge.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly within the cabinet frame. The drawers are aligned with tracks inside the cabinet, allowing for easy opening and closing. The handles facilitate grip and movement, ensuring the drawers remain secure when closed.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in an office space. Users can pull the drawers open using the handles to store or retrieve documents. The flat top surface may also serve as a temporary space for placing items."
+}

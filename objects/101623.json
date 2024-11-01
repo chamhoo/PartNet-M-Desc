@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cubic safe with an open door.",
+    "part_description": "The safe has a main body and a hinged door. The door features a circular lock mechanism and multiple locking bolts along one side. Inside, there are visible shelves for storage.",
+    "internal_interaction_description": "The door is attached to the main body via hinges, allowing it to swing open and closed. The locking mechanism engages with the bolts to secure the door, while the interior shelves provide organized storage space within the safe.",
+    "external_interaction_description": "The safe interacts with external elements by securing valuables from unauthorized access. Its sturdy, locked door can only be opened with the correct combination or key, protecting contents from theft or damage."
+}

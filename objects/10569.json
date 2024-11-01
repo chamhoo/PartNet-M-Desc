@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver scissors with a sleek design.",
+    "part_description": "Two sharp blades, two handles with circular grips, joined by a central pivot. Blades are elongated and pointed, handles are rounded.",
+    "internal_interaction_description": "The blades pivot around a central screw, allowing them to open and close in a scissor-like motion. The handles provide leverage to move the blades, enabling cutting action when pressed together.",
+    "external_interaction_description": "Used to cut paper, fabric, or other materials by applying pressure on the handles. Requires manual operation by a user, typically held in one hand, aligning the blades with the material to be cut."
+}

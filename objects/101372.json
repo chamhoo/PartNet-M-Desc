@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square cooling fan with circular blades.",
+    "part_description": "Contains a square frame and circular arrangement of blades. The frame is thin and houses multiple evenly spaced blades inside, centered around a hub.",
+    "internal_interaction_description": "The blades are mounted on a central hub, allowing them to rotate within the square frame. This rotation facilitates the movement of air through the fan. The blades' curved design optimizes airflow, and their spacing ensures balanced rotation, reducing noise and increasing efficiency.",
+    "external_interaction_description": "The fan is typically mounted inside electronic devices or computer cases to provide cooling by expelling hot air and drawing in cooler air. It can be connected to a power source, often controlled by the device's temperature management system to operate at varying speeds."
+}

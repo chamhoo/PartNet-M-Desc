@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact blue flip phone with screen and keypad.",
+    "part_description": "Consists of two main parts: a screen and a keypad. The screen is rectangular and sits above the keypad, which has multiple keys arranged in rows. Both parts are connected by a hinge.",
+    "internal_interaction_description": "The hinge connects the screen and keypad, allowing the phone to open and close. When opened, the screen displays information, and the keypad allows for input. The internal wiring facilitates communication between the screen and keypad for functionality.",
+    "external_interaction_description": "The phone interacts with users through the keypad for input and the screen for output. It connects to cellular networks for communication. Users can flip it open to answer calls, send texts, or access other functions."
+}

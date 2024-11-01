@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black and white USB flash drive.",
+    "part_description": "Consists of a main rectangular body, a rotating cover, and a USB connector. The body is white with a black cover and a circular button on top. The USB connector is positioned at one end.",
+    "internal_interaction_description": "The rotating cover protects the USB connector when not in use. The circular button may be used to lock or unlock the cover in place. The internal memory chip stores data and interacts with devices via the USB connector.",
+    "external_interaction_description": "Connects to computers and other USB-compatible devices for data transfer. The cover provides physical protection, while the button may provide additional functionality for secure usage. The device is portable and designed for easy handling and storage."
+}

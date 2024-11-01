@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, metallic folding knife with sleek design.",
+    "part_description": "The knife has a handle and a foldable blade. The handle is textured for grip, and the blade folds into the handle. It includes a pivot mechanism for opening and closing.",
+    "internal_interaction_description": "The blade pivots around a central axis within the handle, allowing it to fold in and out smoothly. The textured handle provides grip and stability, while the pivot mechanism ensures secure locking when the blade is extended or retracted.",
+    "external_interaction_description": "The knife interacts with external objects through cutting or slicing actions. The handle's design allows for comfortable grip by a user, making it suitable for various tasks requiring precision and control."
+}

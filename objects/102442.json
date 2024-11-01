@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray electronic device with buttons.",
+    "part_description": "Features four round buttons on top, a circular indentation on the front, and a side latch. Rectangular shape with clean edges.",
+    "internal_interaction_description": "The buttons on top likely interact with internal circuits to control functions. The circular indentation may house a speaker or sensor, interacting with internal components. The side latch could be part of a mechanism to open or secure a compartment.",
+    "external_interaction_description": "The device can be operated by pressing buttons, likely interacting with users for control. The circular front feature may interact with sound or light, while the latch allows access to internal compartments for maintenance or battery replacement."
+}

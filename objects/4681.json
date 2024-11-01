@@ -1,0 +1,6 @@
+{
+    "base_description": "Square monitor, black screen, silver frame.",
+    "part_description": "Consists of a rectangular screen, silver frame, and black stand. The screen is centrally located, bordered by a thin silver frame. The stand is a single piece, flat and wide, supporting the screen from the bottom.",
+    "internal_interaction_description": "The screen is attached to the frame, which holds it securely in place. The frame connects to the stand, providing stability and allowing the monitor to remain upright. The screen and frame form a single visual unit, while the stand ensures balance and support.",
+    "external_interaction_description": "The monitor interfaces with computers via cables, displaying visual information on the screen. It can be adjusted for better viewing angles. Users interact with the monitor by viewing content, adjusting settings, and connecting peripheral devices like keyboards and mice."
+}

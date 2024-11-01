@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact red camera with a protruding lens.",
+    "part_description": "Features a main body, lens, buttons, viewfinder, and flash. The lens is circular and extends from the front. Buttons are on top, with a rectangular viewfinder and flash on the back.",
+    "internal_interaction_description": "The lens assembly interacts with the camera body to focus and capture images. Buttons control various functions like shutter release and settings. The viewfinder allows framing, while the flash synchronizes with the shutter to illuminate scenes.",
+    "external_interaction_description": "The camera interacts with users through manual operation of buttons and viewfinder use for composing shots. It interfaces with external storage cards for saving images and can connect to other devices for image transfer."
+}

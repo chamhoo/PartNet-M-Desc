@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular metallic lighter, silver color, compact size.",
+    "part_description": "Contains a hinged lid, flint wheel, and wick. Lid is rectangular and fits over the body. Flint wheel is circular, positioned above the wick, which is centrally located.",
+    "internal_interaction_description": "The lid opens to reveal the flint wheel and wick. The flint wheel, when rotated, strikes against a flint to create a spark. This ignites the wick, which draws fuel from an internal reservoir. The lid protects the wick and wheel when closed.",
+    "external_interaction_description": "The lighter is held in hand, and the lid is flipped open with a thumb. The flint wheel is rotated with a finger to ignite the wick. It can be used to light cigarettes, candles, or other items requiring a small flame."
+}

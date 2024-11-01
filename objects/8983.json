@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black door with a blue knob.",
+    "part_description": "The door consists of a large rectangular panel, a circular blue knob located centrally on the right side, and a small lock beneath the knob.",
+    "internal_interaction_description": "The blue knob is connected to the internal locking mechanism, allowing it to control the door's opening and closing functions. The lock beneath the knob interacts with the door frame to secure the door when engaged.",
+    "external_interaction_description": "The door can be opened or closed by turning the knob, allowing passage for people. It can be locked for security, interacting with a key or code to prevent unauthorized access."
+}

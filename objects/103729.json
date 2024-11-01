@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver blade with a wooden handle, folding style.",
+    "part_description": "The object has a metallic blade and a wooden handle. The blade is sharp, narrow, and pointed, while the handle is elongated and curved, with a pivot point for folding. A small locking mechanism is visible near the pivot.",
+    "internal_interaction_description": "The blade folds into the handle via a pivot point, allowing for compact storage. The locking mechanism ensures the blade stays securely in place when extended. The handle provides a sturdy grip, with contours that align with the blade's movement during folding and unfolding.",
+    "external_interaction_description": "The knife is designed for cutting tasks and can be used by hand. It interacts with various materials by slicing or piercing. The folding feature enhances safety and portability, making it convenient for outdoor activities or everyday carry. The handle offers ergonomic support during use."
+}

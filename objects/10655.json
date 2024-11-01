@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall black refrigerator with sleek design.",
+    "part_description": "Two vertical doors with handles, a water dispenser on the left door.",
+    "internal_interaction_description": "The left door houses the freezer, while the right side is the refrigerator compartment. Shelves and drawers inside both sections allow for organized storage of various items. The water dispenser is connected internally to a water supply system, providing chilled water.",
+    "external_interaction_description": "The refrigerator interacts with users through its doors and water dispenser. It requires an electrical connection to function, and it fits into standard kitchen spaces, interacting with surrounding cabinetry and appliances."
+}

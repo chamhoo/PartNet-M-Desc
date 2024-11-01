@@ -1,0 +1,6 @@
+{
+    "base_description": "Square blue switch with gray button.",
+    "part_description": "Square base with a central gray rectangular button and a red indicator on top.",
+    "internal_interaction_description": "The gray button is positioned centrally on the blue square base. Pressing the button likely triggers an internal mechanism, possibly activating or deactivating a circuit. The red indicator on top may light up to show the button's status.",
+    "external_interaction_description": "The switch is designed to be mounted on a wall or panel. Users interact by pressing the gray button, which may control electrical devices or systems. The red indicator provides visual feedback, indicating whether the switch is on or off."
+}

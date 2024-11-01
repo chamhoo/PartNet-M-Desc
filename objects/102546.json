@@ -1,0 +1,6 @@
+{
+    "base_description": "Green wheelbarrow with a single red wheel.",
+    "part_description": "One large green tray, two metal handles with grips, one red wheel, metal frame supporting the structure.",
+    "internal_interaction_description": "The tray is securely attached to the metal frame, which provides support. The single wheel is mounted at the front, allowing for balance and mobility. The handles are positioned at the rear, enabling leverage and control when lifting and moving the wheelbarrow.",
+    "external_interaction_description": "The wheelbarrow is used to transport materials like soil or tools. The user lifts the handles, balancing the load over the wheel, and pushes or pulls to move it. The wheel interacts with the ground, providing stability and ease of movement across various surfaces."
+}

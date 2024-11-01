@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical globe with teal axis on stand.",
+    "part_description": "Includes a spherical globe, teal axis, and brown base. The globe is centrally mounted on the axis, which is vertically aligned. The base is circular and supports the entire structure.",
+    "internal_interaction_description": "The globe is mounted on the teal axis, allowing it to rotate around the axis. The axis is fixed to the brown base, providing stability and support. The rotation enables different parts of the globe to be viewed easily.",
+    "external_interaction_description": "The globe can be manually rotated by a person to view different areas. It serves as an educational tool for learning geography. The stable base allows it to be placed on flat surfaces such as tables or desks."
+}

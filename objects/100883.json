@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, dual-switch wall plate.",
+    "part_description": "Two rectangular switch slots centered on a flat plate.",
+    "internal_interaction_description": "The switch slots are positioned side by side, allowing for the installation of two separate switches. The design ensures that each switch slot is isolated, preventing interference between the two switches when installed.",
+    "external_interaction_description": "The wall plate attaches to a wall, covering electrical switch mechanisms. It interacts with user inputs, allowing toggling of connected lights or devices. The design ensures easy installation and removal for maintenance or replacement."
+}

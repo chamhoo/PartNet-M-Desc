@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray switch panel with two beige switches.",
+    "part_description": "Two rectangular beige switches on a gray panel, evenly spaced. Each switch has a small red indicator at the bottom center.",
+    "internal_interaction_description": "The two switches are mounted on the panel, each with a mechanism allowing them to toggle on and off. The red indicators likely signal the current state of the switches, changing as the switches are toggled.",
+    "external_interaction_description": "The switch panel is designed to be mounted on a wall. Users interact by pressing the switches to control connected electrical devices, with the red indicators providing a visual cue of the switch state."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Oval, green bottle with a white pump.",
+    "part_description": "Consists of a green oval body and a white pump. The pump is cylindrical and positioned at the top center of the bottle.",
+    "internal_interaction_description": "The pump mechanism consists of a tube inside the bottle that extends to the bottom. When pressed, the pump creates suction to draw liquid up the tube and out through the nozzle.",
+    "external_interaction_description": "The bottle is typically used to dispense liquids like soap or lotion. Users press the pump to release the contents. It can be placed on a flat surface like a counter and refilled by unscrewing the pump."
+}

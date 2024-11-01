@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with multiple blades.",
+    "part_description": "The fan has a square frame, central hub, and several curved blades. The blades are evenly spaced and attached to the hub, which is centrally positioned. The frame has mounting holes at each corner.",
+    "internal_interaction_description": "The blades are connected to the central hub, allowing rotation within the square frame. As the hub turns, the blades spin, creating airflow. The frame supports and stabilizes the structure, ensuring the blades rotate smoothly without obstruction.",
+    "external_interaction_description": "The fan can be mounted using the corner holes, allowing it to be fixed in various positions. When powered, it circulates air, cooling or ventilating an area. It can be integrated into electronic devices, enhancing their cooling systems by expelling hot air and drawing in cooler air."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White, ceramic toilet with tank and bowl.",
+    "part_description": "Consists of a tank, bowl, and seat. The tank is rectangular and positioned at the back. The bowl is oval-shaped and supports the seat. The seat is hinged on top of the bowl.",
+    "internal_interaction_description": "The tank holds water, which is released into the bowl when flushed. The bowl directs waste into plumbing. The seat provides a comfortable surface for sitting and is attached to the bowl with hinges, allowing it to be lifted or lowered.",
+    "external_interaction_description": "The toilet connects to a water supply and drainage system. Users interact with it by flushing, which involves pressing a handle or button to release water from the tank. It is designed to accommodate human use comfortably, with the seat and lid providing accessibility and hygiene."
+}

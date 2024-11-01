@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular stapler with a sleek design.",
+    "part_description": "Consists of a top arm, base, hinge, and staple tray. The top arm is curved, while the base is flat and rectangular. The hinge connects the arm and base, allowing movement. The staple tray is located inside the base.",
+    "internal_interaction_description": "The top arm is pressed down to push a staple through paper. The hinge allows the arm to pivot, aligning the staple with the anvil on the base. The staple tray feeds staples forward, ready for use when the arm is lifted.",
+    "external_interaction_description": "The stapler is used to fasten sheets of paper together by pressing down on the top arm. It interacts with paper by piercing and bending staples to secure the sheets. The stapler is typically operated manually by a person."
+}

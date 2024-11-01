@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, medium-sized stapler with sleek design.",
+    "part_description": "Consists of a metal base, a spring-loaded arm, and a staple compartment. The arm is curved and fits over the base, with a small metal plate for staple ejection. The staple compartment is located at the front.",
+    "internal_interaction_description": "The spring-loaded arm compresses when pressed, pushing the staples from the compartment through the paper. The metal plate bends the staple ends inward to secure papers. The arm returns to its original position after releasing.",
+    "external_interaction_description": "The stapler is used to fasten sheets of paper together. It requires manual pressure to operate. Staples are loaded into the compartment, and the user aligns the paper under the metal plate before pressing the arm."
+}

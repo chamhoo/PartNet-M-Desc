@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, gray refrigerator with a minimalist design.",
+    "part_description": "Two main compartments, top freezer and bottom fridge, each with a door. Silver handles on the right side.",
+    "internal_interaction_description": "The top freezer compartment maintains a colder temperature for frozen items, while the bottom fridge compartment keeps perishable food at a cool, but not freezing, temperature. Both compartments have separate doors, allowing independent access and temperature control.",
+    "external_interaction_description": "The refrigerator interacts with external elements by storing food and drinks for preservation. It requires a power source to operate and is commonly placed in kitchens. Users interact with it by opening doors to access stored items."
+}

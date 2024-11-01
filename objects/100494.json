@@ -1,0 +1,6 @@
+{
+    "base_description": "Green metal hand truck with two wheels.",
+    "part_description": "Features a rectangular base, two wheels, and a vertical handle. The base is flat and positioned at the bottom, wheels are attached on either side, and the handle extends upward from the base.",
+    "internal_interaction_description": "The wheels are connected to the base, allowing for movement. The handle is attached to the base and provides leverage for tilting and maneuvering. The structure ensures stability and ease of lifting and transporting items.",
+    "external_interaction_description": "The hand truck interacts with external objects by carrying them on its base. Users can push or pull the handle to move heavy items efficiently. The wheels facilitate smooth transportation across various surfaces."
+}

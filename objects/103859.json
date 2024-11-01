@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige, box-shaped printer with a digital display.",
+    "part_description": "Includes a top paper tray, two front drawers, control panel with buttons and display, and an output slot.",
+    "internal_interaction_description": "The paper tray feeds paper into the printer, where it interacts with internal mechanisms for printing. The control panel allows user input to manage printing tasks, while the drawers store paper and printed documents. The output slot releases the finished prints.",
+    "external_interaction_description": "Connects to computers or networks for print jobs, receives user input via buttons, and outputs printed documents for user retrieval. Compatible with various paper sizes and types, facilitating diverse printing needs in office environments."
+}

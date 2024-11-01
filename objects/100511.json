@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, blue USB flash drive.",
+    "part_description": "Consists of a blue plastic cover and a green connector. The cover is elongated and rounded at one end, while the green connector is rectangular and positioned at the opposite end.",
+    "internal_interaction_description": "The green connector is housed within the blue plastic cover, which protects the internal electronic components. The connector is positioned to slide in and out of the cover, allowing for connection to other devices.",
+    "external_interaction_description": "The USB flash drive connects to computers and other devices via the green connector, allowing data transfer. It is portable, fitting easily into pockets or bags, and requires a USB port for operation."
+}

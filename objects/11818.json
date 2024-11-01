@@ -1,0 +1,6 @@
+{
+    "base_description": "Green cylindrical bin with a black lid.",
+    "part_description": "The bin has a cylindrical body and a flat, circular lid. The body is large and green, and the lid is black, fitting snugly on top. A small handle is on the side.",
+    "internal_interaction_description": "The lid fits securely onto the body of the bin, preventing contents from spilling. The handle on the side allows for easy lifting and maneuvering of the bin when needed.",
+    "external_interaction_description": "The bin is used for waste collection, interacting with people who dispose of trash. It can be placed in various environments and moved as needed using the handle, ensuring easy accessibility."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and green lighter, rectangular and compact.",
+    "part_description": "Contains a metal top, ignition wheel, gas release button, and plastic body. The metal top is silver, the body is red with a green section, and the ignition wheel is positioned at the top.",
+    "internal_interaction_description": "The ignition wheel, when rotated, creates a spark that ignites the gas released from the valve. The gas release button controls the flow of gas, allowing the flame to sustain once ignited. The metal top helps protect the ignition components and directs the flame.",
+    "external_interaction_description": "The lighter is typically used by people to ignite objects like candles or cigarettes. It requires manual operation by pressing the button and rotating the wheel simultaneously. The compact size makes it portable and easy to carry in pockets or bags."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Green wheelbarrow with a single wheel and handles.",
+    "part_description": "Includes one large bucket, two handles, one wheel, and two legs. The bucket is rectangular, positioned at the top. Handles extend from the rear, and the wheel is centrally located at the front with legs on either side.",
+    "internal_interaction_description": "The wheel allows for movement, supporting the bucket's weight. Handles provide leverage for lifting and steering. The legs stabilize the wheelbarrow when stationary, preventing tipping. The bucket is secured to the frame, ensuring balance when transporting materials.",
+    "external_interaction_description": "Used by individuals to transport materials like soil or tools. The wheel facilitates movement over various terrains, while the handles allow for easy lifting and maneuvering. Supports efficient load carrying in gardening or construction settings, reducing physical strain on the user."
+}

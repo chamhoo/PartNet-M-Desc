@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with four green glass panes.",
+    "part_description": "Four rectangular glass panes arranged horizontally in a silver frame. Each pane is similar in size and shape, positioned side by side, forming a linear arrangement.",
+    "internal_interaction_description": "The four glass panes are secured within a single silver frame, with each pane separated by vertical dividers. The dividers provide structural support and maintain the alignment of the panes, ensuring stability and uniformity across the entire window structure.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external elements. It can be opened or closed to regulate airflow and temperature, interacting with the surrounding wall structure to form part of a building's exterior or interior design."
+}

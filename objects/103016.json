@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, beige and brown coffee machine.",
+    "part_description": "Includes two portafilters, a drip tray, steam wands, and cup warmer. Portafilters are at the front, drip tray at the bottom, steam wands on sides, cup warmer on top.",
+    "internal_interaction_description": "The portafilters hold coffee grounds and interact with the machine to brew espresso. Steam wands are used for frothing milk. The drip tray collects excess water and coffee. The cup warmer keeps cups warm using residual machine heat.",
+    "external_interaction_description": "The coffee machine interacts with users who operate it to brew coffee. It requires water and electricity input to function. Cups are placed on the warmer, and milk is frothed using the steam wands for various coffee drinks."
+}

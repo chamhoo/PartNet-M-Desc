@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular yellow panel with three black switches.",
+    "part_description": "Three identical black switches arranged horizontally on a yellow rectangular panel. Each switch has a rectangular base and a lever positioned centrally. The switches are evenly spaced across the panel's surface.",
+    "internal_interaction_description": "Each switch operates independently, allowing for individual control. The levers can be flipped to change the state from off to on, influencing the internal circuitry connected to each switch. The switches are mounted securely on the panel, ensuring stability during operation.",
+    "external_interaction_description": "The panel can be mounted on a wall, allowing users to manually operate each switch by flipping the levers. This interaction can control connected electrical devices or circuits, providing a user interface for managing power supply to various external elements."
+}

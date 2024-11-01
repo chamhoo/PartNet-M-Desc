@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray dishwasher with a front handle.",
+    "part_description": "Consists of a rectangular body, front door, and handle. The door covers the front, with a handle positioned horizontally near the top edge.",
+    "internal_interaction_description": "The front door swings open to allow access to the interior compartments, where dishes are placed. The handle facilitates the opening and closing of the door, ensuring a secure seal when closed to prevent water leakage during operation.",
+    "external_interaction_description": "Interacts with users who open the door to load and unload dishes. Connects to a water supply and electrical outlet for its operation. Fits under kitchen countertops, aligning with cabinetry for a seamless kitchen design."
+}

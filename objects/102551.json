@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and gray wheeled cart with handle.",
+    "part_description": "The cart has a rectangular red body, four black wheels, and a gray handle. The wheels are evenly spaced at the base, and the handle extends from the rear top.",
+    "internal_interaction_description": "The wheels are attached to the base of the cart, allowing it to roll smoothly. The handle is connected to the top rear of the cart, providing leverage for pushing or pulling. The rectangular body is the main compartment for carrying items.",
+    "external_interaction_description": "The cart is designed to carry objects, making it useful for transporting goods. It can be pushed or pulled by a person using the handle, and its wheels enable easy movement over flat surfaces."
+}

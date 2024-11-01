@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray and black wireless computer mouse, ergonomic shape.",
+    "part_description": "Two main parts: upper gray surface with a central button and lower black base. The upper part is smooth and slightly curved, while the base is flat and supports the structure.",
+    "internal_interaction_description": "The central button on the upper surface is designed to interact with the internal click mechanism. The outer shell encases the electronic components, providing protection and housing for the battery and sensor.",
+    "external_interaction_description": "The mouse interacts with a computer via wireless connection, allowing the user to control the cursor on the screen. It is moved across a flat surface, translating motion into cursor movement."
+}

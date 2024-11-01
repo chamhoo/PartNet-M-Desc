@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical bottle with red cap, blue and gray body.",
+    "part_description": "Consists of a red cylindrical cap, a blue spherical neck, and a tall gray cylindrical body with a blue section. Cap is on top, neck is below cap, body is the main structure.",
+    "internal_interaction_description": "The red cap screws onto the blue neck, sealing the bottle to prevent leaks. The neck connects the cap to the main body, ensuring stability and allowing for controlled dispensing of contents. The blue section of the body adds visual contrast and may provide grip.",
+    "external_interaction_description": "The bottle is designed to be held and operated by hand, with the cap being twisted open or closed. It can be placed upright on surfaces. The color and design make it easily recognizable among other containers, and its shape allows for efficient storage and use in various settings."
+}

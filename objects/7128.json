@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular microwave with black accents.",
+    "part_description": "Features a large front door with a glass window, two control knobs, and a digital display on the right side.",
+    "internal_interaction_description": "The control knobs adjust settings, which are displayed on the digital screen. The door opens to reveal the interior cooking space, allowing for placement and removal of items. The glass window provides visibility during operation.",
+    "external_interaction_description": "The microwave interacts with users through the control knobs and display, facilitating cooking tasks. It requires an electrical outlet for power and is typically placed on a countertop or shelf in kitchens."
+}

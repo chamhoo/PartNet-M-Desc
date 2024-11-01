@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical globe on brown stand.",
+    "part_description": "The globe consists of a white sphere and a brown base. The sphere is centrally positioned on the base, which is circular and flat, providing stability.",
+    "internal_interaction_description": "The white sphere is mounted on the brown base, allowing it to rotate. The base supports the sphere, ensuring it remains upright and can spin freely around its axis, simulating the Earth's rotation.",
+    "external_interaction_description": "The globe can be spun by hand to view different angles. It serves as an educational tool, often used in classrooms or homes for learning geography. The base allows it to be placed on flat surfaces like tables or desks."
+}

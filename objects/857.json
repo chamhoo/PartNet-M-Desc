@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, curved kitchen faucet with a side handle.",
+    "part_description": "Comprises a spout, handle, and base. The spout is curved and extends outward from the base. The handle is cylindrical and positioned beside the spout for easy access.",
+    "internal_interaction_description": "The handle controls the water flow through the spout by adjusting the internal valve mechanism. When the handle is lifted or turned, it opens the valve, allowing water to pass from the base through the spout. The internal plumbing directs water efficiently from the supply lines to the spout.",
+    "external_interaction_description": "The faucet interacts with a sink, providing water for washing or rinsing. Users operate the handle to control water temperature and flow. It connects to plumbing fixtures for water supply and drainage, ensuring seamless functionality in kitchen environments."
+}

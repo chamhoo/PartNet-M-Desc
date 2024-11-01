@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white dispenser with a spout.",
+    "part_description": "Consists of a rectangular base and a cylindrical spout on top. The base is tall and narrow, while the spout is short and angled outward from the top center.",
+    "internal_interaction_description": "The spout is connected to the base, likely housing a pump mechanism inside. When the spout is pressed, it activates the pump, drawing liquid from the base and dispensing it through the spout. The base serves as a reservoir for the liquid.",
+    "external_interaction_description": "The dispenser is designed to interact with users by dispensing liquid when the spout is pressed. It can be placed on flat surfaces like countertops and is typically used in bathrooms or kitchens for soap, lotion, or sanitizer."
+}

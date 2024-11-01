@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, white suitcase with wheels.",
+    "part_description": "Features a retractable handle, two wheels, and a side handle. The suitcase is rectangular with a hard shell and rounded edges.",
+    "internal_interaction_description": "The retractable handle slides into the suitcase body when not in use. Wheels are attached to the bottom corners, allowing smooth movement. The side handle is fixed for carrying.",
+    "external_interaction_description": "The suitcase is designed for easy transport by rolling on its wheels or carrying using the side handle. It interacts with airport luggage systems and fits in overhead compartments."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular coffee grinder with teal accents.",
+    "part_description": "Includes a cylindrical hopper on top, a rectangular body, a spout with a handle, and a flat base. The hopper is teal, while the body is mainly black and gray.",
+    "internal_interaction_description": "The hopper feeds coffee beans into the grinder mechanism inside the body. The ground coffee exits through the spout, which is controlled by a handle for dispensing. The base provides stability during operation.",
+    "external_interaction_description": "Users load beans into the hopper and operate the handle to dispense ground coffee. The grinder can be placed on countertops and interacts with containers to catch the coffee grounds."
+}

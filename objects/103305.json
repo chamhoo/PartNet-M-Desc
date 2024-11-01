@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, gray and blue stapler.",
+    "part_description": "Consists of a top handle, base, and staple magazine. The handle is blue and curves to fit the hand. The base is flat and black, housing the staple magazine beneath the handle.",
+    "internal_interaction_description": "The handle is pressed down to push a metal plate inside, forcing a staple through paper. The staple magazine holds staples in a row, feeding them one by one into the mechanism. A spring mechanism helps return the handle to its original position after use.",
+    "external_interaction_description": "The stapler is used to fasten sheets of paper together by driving a metal staple through them. It requires manual pressure to operate and is often used in office or school settings, interacting with paper and human users."
+}

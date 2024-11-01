@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with two drawers.",
+    "part_description": "Two drawers with horizontal handles, stacked vertically. Rectangular top surface and side panels. The drawers are centered on the front face.",
+    "internal_interaction_description": "The drawers slide in and out of the cabinet's main frame, guided by internal tracks. The handles are affixed to the front of each drawer, providing leverage for opening and closing. The cabinet's structure supports the drawers, ensuring smooth operation.",
+    "external_interaction_description": "The cabinet can be placed against walls or under desks, providing storage. Users interact with the drawers by pulling the handles to access contents. It can hold various items, depending on drawer size and weight capacity. The flat top can support light objects like decorations or office supplies."
+}

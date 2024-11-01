@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with wheels and cushioned seat.",
+    "part_description": "Includes a cushioned seat, backrest, central support, and five-wheel base. The seat and backrest are rectangular, positioned on top of the central support, which connects to the wheeled base.",
+    "internal_interaction_description": "The backrest is attached to the seat via a central support, allowing for slight reclining. The seat is mounted on the central support, which connects to the wheeled base, enabling height adjustment and swivel movement. The wheels provide mobility in all directions.",
+    "external_interaction_description": "The chair interacts with users by providing seating support. The wheels allow for easy movement across floors, while the adjustable height and swivel features accommodate different desk heights and orientations. It can be used in office settings for tasks requiring mobility and comfort."
+}

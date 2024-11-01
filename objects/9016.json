@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, open frame structure.",
+    "part_description": "Consists of three rectangular panels; two vertical, one horizontal.",
+    "internal_interaction_description": "The horizontal panel connects the top edges of the two vertical panels, forming an open rectangular frame. The vertical panels are parallel and spaced apart, supporting the horizontal panel at the top.",
+    "external_interaction_description": "The structure can serve as a doorway or passage, allowing movement through the open space. It may support additional elements like a door or curtain, interacting with people or objects passing through."
+}

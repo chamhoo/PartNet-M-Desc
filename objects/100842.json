@@ -1,0 +1,6 @@
+{
+    "base_description": "Red suitcase with black handle, medium size.",
+    "part_description": "Features a retractable handle, two wheels, and a side handle. The suitcase is oval-shaped with a zippered closure along the edge.",
+    "internal_interaction_description": "The retractable handle slides into the suitcase's top section, locking in place when extended. The wheels are attached at the bottom corners, allowing smooth movement. The zippered closure secures contents inside, running along the suitcase's edge for full opening.",
+    "external_interaction_description": "The suitcase can be pulled by the retractable handle or carried using the side handle. It rolls on two wheels for easy transport on flat surfaces. Designed to fit in overhead compartments and withstand handling during travel."
+}

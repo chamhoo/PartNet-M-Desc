@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray remote control with buttons.",
+    "part_description": "Features multiple circular and rectangular buttons arranged vertically.",
+    "internal_interaction_description": "Buttons are mechanically connected to internal circuits, enabling signal transmission when pressed. Each button likely corresponds to a specific function, with pressure activating electrical contacts that send commands to a paired device.",
+    "external_interaction_description": "Interacts with electronic devices via infrared or radio signals. Users press buttons to control functions like power, volume, or channel selection on compatible devices such as TVs or stereos. Requires line of sight or pairing for effective operation."
+}

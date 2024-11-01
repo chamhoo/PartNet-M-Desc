@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular microwave with digital keypad.",
+    "part_description": "Features a large front door, digital display, and keypad with multiple buttons on the right. The door has a handle on the side.",
+    "internal_interaction_description": "The keypad allows for setting cooking time and power levels, which the microwave uses to generate heat inside the chamber. The door, when closed, creates a sealed environment for efficient cooking.",
+    "external_interaction_description": "Interacts with users through the keypad for inputting commands. Requires an electrical outlet for power and accommodates various food items placed inside for heating or cooking."
+}

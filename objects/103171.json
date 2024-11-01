@@ -1,0 +1,6 @@
+{
+    "base_description": "Ceiling fan with four blades, modern style.",
+    "part_description": "The fan has four elongated blades symmetrically arranged around a central hub. The hub is connected to a ceiling mount, with pull chains hanging down for operation.",
+    "internal_interaction_description": "The central hub houses the motor, which rotates the blades when powered. The blades are attached to the hub at equal angles to ensure balanced rotation. Pull chains interact with the internal switch to control speed and power.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling. It can be manually operated via pull chains or remotely if equipped. It hangs from the ceiling, interacting with the room's airflow and temperature."
+}

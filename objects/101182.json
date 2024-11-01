@@ -1,0 +1,6 @@
+{
+    "base_description": "Red wheelbarrow with a single black wheel.",
+    "part_description": "Consists of a red tray, one black wheel, two handles, and metal legs. The tray is rectangular and deep, positioned above the wheel. The handles extend from the back, and the metal legs support the front.",
+    "internal_interaction_description": "The red tray is mounted above the single black wheel, allowing for balance and movement. The handles are attached to the tray, providing leverage for lifting and pushing. The metal legs offer stability when stationary, ensuring the wheelbarrow remains upright.",
+    "external_interaction_description": "The wheelbarrow is designed for manual operation, allowing a person to lift and push it using the handles. It can transport materials like soil or tools across various terrains. The single wheel facilitates maneuverability, while the metal legs provide stability when loading or unloading."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular file folder with a tab.",
+    "part_description": "One main rectangular body with a protruding tab on top. The tab is positioned centrally along the top edge. The folder is open at the top and sides, allowing for document insertion.",
+    "internal_interaction_description": "The tab is integrated into the top edge of the folder, providing an area for labeling. The folder's open sides allow for easy access and organization of inserted documents. The structure supports the insertion and removal of papers while maintaining a flat, organized stack within.",
+    "external_interaction_description": "The folder interacts with external elements by holding and organizing papers or documents. It can be labeled for identification and is designed to fit in cabinets or drawers. Users can easily insert or remove documents, facilitating efficient document management and retrieval."
+}

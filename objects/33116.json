@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular wooden table with foldable side leaf.",
+    "part_description": "Includes a main tabletop, one foldable side leaf, four legs, a drawer, and a lower support frame. The tabletop is rectangular, the leaf is attached on one side, and the drawer is beneath the tabletop. Legs are positioned at each corner.",
+    "internal_interaction_description": "The foldable side leaf is connected to the main tabletop with hinges, allowing it to be raised or lowered. The drawer slides in and out from beneath the tabletop, supported by internal tracks. The legs support the tabletop and leaf, while the lower frame provides additional stability.",
+    "external_interaction_description": "The table provides a stable surface for placing items and can be adjusted by raising or lowering the leaf for additional space. The drawer offers storage for small items. It interacts with the environment by serving as a workspace or dining area, accommodating chairs around it."
+}

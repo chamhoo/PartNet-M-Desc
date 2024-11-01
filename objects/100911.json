@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray square with a central circular knob.",
+    "part_description": "Contains a square base and a protruding circular knob centered on the front. The base is smooth with rounded edges, and the knob is slightly raised, matching the base's color.",
+    "internal_interaction_description": "The circular knob is likely connected to an internal mechanism that allows it to rotate or be pressed. This interaction facilitates the control of an internal function, possibly through a rotational axis or a push mechanism that triggers a response within the object.",
+    "external_interaction_description": "The object interacts with users through the knob, which can be turned or pressed to perform a function, such as adjusting volume or settings. It may also be mounted on a surface or integrated into a larger system, interacting with other components."
+}

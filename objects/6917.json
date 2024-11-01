@@ -1,0 +1,6 @@
+{
+    "base_description": "Round gray clock with simple design.",
+    "part_description": "Circular face with two hands; one orange, one yellow. Numbers positioned around the edge.",
+    "internal_interaction_description": "The clock hands rotate around a central pivot point, with the orange hand representing minutes and the yellow hand representing hours. The hands are connected to an internal mechanism that regulates their movement, ensuring consistent timekeeping.",
+    "external_interaction_description": "The clock is mounted on a wall, interacting with people by displaying the current time. It requires an external power source, such as a battery, to function. Users glance at it to check the time, relying on its accuracy for daily scheduling."
+}

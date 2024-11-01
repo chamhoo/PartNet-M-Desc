@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall cylindrical gray bottle with a pump.",
+    "part_description": "The bottle has a cylindrical body, a pump nozzle on top, and a ribbed base. The pump is centrally located and the ribbed section is at the bottom.",
+    "internal_interaction_description": "The pump mechanism is connected internally to a tube that reaches the bottom of the bottle, allowing liquid to be drawn up when the pump is pressed. The ribbed base provides stability.",
+    "external_interaction_description": "The pump bottle dispenses liquid when pressed, interacting with hands or other surfaces. It's designed to hold and dispense liquids like soap or lotion, making it useful in bathrooms or kitchens."
+}

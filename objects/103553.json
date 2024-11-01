@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, rectangular toaster with four slots.",
+    "part_description": "Four slots on top, two levers, two dials, rounded corners, compact size.",
+    "internal_interaction_description": "The levers lower the bread into the slots where heating elements toast it. The dials adjust the toasting time, controlling the heat intensity. Each slot operates independently, allowing for different settings on each side.",
+    "external_interaction_description": "The toaster interacts with bread slices, toasting them to the desired level. Users adjust settings via dials and levers. Requires an electrical outlet for power, and fits on kitchen countertops, complementing other appliances."
+}

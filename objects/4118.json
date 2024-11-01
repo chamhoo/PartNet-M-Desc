@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical container with a red lid.",
+    "part_description": "The object has a cylindrical body and a flat, circular red lid on top. The body is gray, smooth, and vertically oriented.",
+    "internal_interaction_description": "The red lid fits snugly onto the cylindrical body, creating a seal to secure the contents within. The lid's flat design allows it to be easily removed and replaced, ensuring the contents are protected from external elements.",
+    "external_interaction_description": "The container can be easily handled and opened by people, making it suitable for storing various items. Its design allows it to be stacked or placed on flat surfaces, and the lid provides easy access for filling or emptying."
+}

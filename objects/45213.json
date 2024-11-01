@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with a single door.",
+    "part_description": "Includes one main body, a hinged door with handle, and a recessed top. The door is front-facing, centrally positioned, and the handle is vertically aligned.",
+    "internal_interaction_description": "The door is attached to the main body via hinges, allowing it to swing open and closed. The handle provides grip for operating the door. The recessed top suggests potential internal shelving or compartments.",
+    "external_interaction_description": "The cabinet can be placed against walls or in kitchens for storage. The door allows access to internal contents, while the handle facilitates opening. It interacts with users primarily through the door mechanism."
+}

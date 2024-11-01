@@ -1,0 +1,6 @@
+{
+    "base_description": "White, modern stand mixer with bowl.",
+    "part_description": "Includes a main body, mixing bowl, and control knob. The bowl is centrally positioned under the arm, which holds the mixing mechanism. The control knob is located on the side of the main body.",
+    "internal_interaction_description": "The mixing arm rotates within the bowl, driven by an internal motor. The control knob adjusts speed settings, regulating the motor's power and mixing speed. The bowl remains stationary while the arm moves, allowing thorough mixing of ingredients.",
+    "external_interaction_description": "The mixer is placed on a countertop, interacting with ingredients placed in the bowl. Users adjust the control knob to change settings. It requires an electrical outlet for power, and its design allows for easy cleaning and storage."
+}

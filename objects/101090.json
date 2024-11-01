@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue, two-shelf utility cart with wheels.",
+    "part_description": "Two rectangular shelves, four wheels, metal frame, handle. Shelves are parallel, supported by a blue frame. Wheels attached at corners, handle at top.",
+    "internal_interaction_description": "The metal frame supports the two shelves, providing stability. The wheels are mounted at the bottom corners of the frame, allowing smooth movement. The handle is connected to the top of the frame, enabling easy pushing or pulling of the cart.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person using the handle. It holds items on the shelves, which can be accessed easily. The wheels allow it to move across various surfaces, making it useful for transporting goods in different environments."
+}

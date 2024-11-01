@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window, gray frame, modern style.",
+    "part_description": "Consists of two main glass panels, vertical alignment. One panel slides horizontally over the other. Gray frame encompasses the panels, with a handle on the sliding panel.",
+    "internal_interaction_description": "The sliding panel moves horizontally along a track within the frame, allowing it to overlap with the stationary panel. This mechanism enables opening and closing, facilitated by the handle attached to the sliding panel.",
+    "external_interaction_description": "The window allows light and air to pass through when open, providing ventilation and visibility. It can be opened or closed by a person using the handle, and it fits into a wall opening for installation."
+}

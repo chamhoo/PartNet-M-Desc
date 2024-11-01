@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black vintage mobile phone with antenna.",
+    "part_description": "Features a numeric keypad, small screen, and external antenna. The keypad is below the screen, with buttons arranged in a grid. The antenna is positioned at the top.",
+    "internal_interaction_description": "The keypad inputs numbers and commands, which are processed internally to facilitate dialing and other functions. The screen displays information such as numbers dialed and signal strength. The antenna receives and transmits signals to enable communication.",
+    "external_interaction_description": "The phone interacts with cellular networks to make and receive calls. Users interact with the keypad to dial numbers and navigate functions. The antenna communicates with cell towers to maintain connectivity."
+}

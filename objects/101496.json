@@ -1,0 +1,6 @@
+{
+    "base_description": "White tabletop fan with a circular base.",
+    "part_description": "Consists of a circular base, vertical stand, motor housing, three blades, and a protective grill. The blades are centrally positioned within the grill, attached to the motor housing on top of the stand.",
+    "internal_interaction_description": "The motor inside the housing rotates the blades, which are secured to the motor shaft. The protective grill surrounds the blades, ensuring safety while allowing airflow. The stand supports the motor and blades, maintaining stability during operation.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling. It can be placed on tables or desks and adjusted to direct airflow. Users can turn it on or off and adjust settings via controls on the motor housing."
+}

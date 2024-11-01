@@ -1,0 +1,6 @@
+{
+    "base_description": "Green USB flash drive with a rectangular shape.",
+    "part_description": "Consists of a rectangular body and a removable cap, both green. The USB connector is metallic and protrudes from one end. The body has a small red indicator light.",
+    "internal_interaction_description": "The removable cap fits snugly over the USB connector, protecting it when not in use. The red indicator light on the body illuminates when the device is active, signaling data transfer or power connection. The metallic connector interfaces with external USB ports for data exchange.",
+    "external_interaction_description": "The USB flash drive connects to computers or other USB-compatible devices for data transfer. It can be easily carried due to its compact size. The cap protects the connector from dust and damage, ensuring reliable functionality. The drive is typically inserted into a USB port for use."
+}

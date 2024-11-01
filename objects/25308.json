@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular blue and gray workbench with drawers.",
+    "part_description": "Features two drawers, a flat tabletop, and a lower shelf. Drawers are centered beneath the tabletop. The shelf spans the length of the bench below the drawers.",
+    "internal_interaction_description": "The drawers slide in and out from beneath the tabletop, providing storage space. The lower shelf is fixed, offering additional storage or support. The tabletop provides a stable surface for work, while the drawers and shelf maintain the bench's structural integrity.",
+    "external_interaction_description": "The workbench can be used in workshops or garages, interacting with tools and materials placed on the tabletop. Users can store items in the drawers and shelf, making it functional for organizing and accessing tools efficiently. Its height and stability allow for comfortable use by standing individuals."
+}

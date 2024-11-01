@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, gray, rectangular refrigerator with modern style.",
+    "part_description": "Two doors vertically aligned, upper smaller than lower; handles on left side; small display screen on upper door.",
+    "internal_interaction_description": "The upper and lower doors open to separate compartments, likely a freezer above and fridge below, each with shelves and drawers for organizing contents. The display screen may control temperature or settings. Handles provide grip for opening the doors, ensuring secure closure.",
+    "external_interaction_description": "The refrigerator interacts with users who open the doors to store or retrieve food. It requires electrical power to operate, maintaining internal temperatures. The display screen may interact with users for adjustments. It fits into kitchen spaces, aligning with cabinetry and appliances."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with blue doors.",
+    "part_description": "Two main sections: upper with three open compartments and lower with two large blue sliding doors, divided into four panels.",
+    "internal_interaction_description": "The upper section's open compartments provide storage space, allowing easy access to items. The lower section's sliding doors can move horizontally, revealing or concealing the internal storage space. The division into panels allows for organized storage, separating items within the cabinet.",
+    "external_interaction_description": "The cabinet interacts with external elements by providing storage for various items. Users can access the upper compartments directly and slide the lower doors to reach stored items. Its design allows placement against a wall, optimizing space in a room."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white pump bottle.",
+    "part_description": "Comprises a cylindrical body and a pump head with a spout. The pump is positioned on top. The body is smooth and slightly tapered towards the top.",
+    "internal_interaction_description": "The pump mechanism inside the head draws liquid from the bottle's base through a tube when pressed. The spout directs the liquid outward. The pump head moves vertically, compressing a spring to create suction.",
+    "external_interaction_description": "The bottle dispenses liquid when the pump is pressed by a hand. It can be refilled by unscrewing the pump head. Suitable for dispensing soap, lotion, or sanitizer in bathrooms or kitchens."
+}

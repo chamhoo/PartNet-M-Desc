@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with a round seat.",
+    "part_description": "Includes a round seat, lid, tank, and base. The seat and lid are on top, the tank is at the back, and the base is at the bottom.",
+    "internal_interaction_description": "The lid covers the seat, which is attached to the base. The tank holds water and is connected to the base, enabling flushing. The seat and lid can be lifted independently for use.",
+    "external_interaction_description": "The toilet connects to plumbing for water supply and waste removal. Users interact by lifting the lid and seat, sitting, and flushing using a handle or button on the tank."
+}

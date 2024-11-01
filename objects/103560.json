@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, two-slot toaster with modern design.",
+    "part_description": "Features two slots on top, control knob, and levers on the front. Blue indicator lights are present near the levers. The toaster has a sloped front panel.",
+    "internal_interaction_description": "The levers, when pressed, lower the bread into the slots, activating the heating elements inside. The control knob adjusts the toasting duration, while the blue lights indicate power or readiness status.",
+    "external_interaction_description": "Users insert bread slices into the slots, adjust settings with the knob, and press the levers to start toasting. The toaster connects to a power source and may be placed on a kitchen countertop."
+}

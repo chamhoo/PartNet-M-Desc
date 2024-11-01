@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular suitcase with wheels and handle.",
+    "part_description": "Includes a main compartment, retractable handle, two wheels, and side handle. The retractable handle is on top, wheels at the bottom, and side handle on the side.",
+    "internal_interaction_description": "The retractable handle extends and retracts smoothly, allowing easy handling. The wheels are positioned to provide stability and smooth movement. The main compartment offers ample storage space, secured by a zipper, and the side handle provides an alternative carrying option.",
+    "external_interaction_description": "The suitcase interacts with surfaces via its wheels, enabling smooth transportation. The retractable handle allows users to pull it easily. It fits in overhead compartments or car trunks, and the durable exterior protects contents from external impacts."
+}

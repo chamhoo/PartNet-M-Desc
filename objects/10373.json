@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white refrigerator with glass door.",
+    "part_description": "Contains a glass door front, solid white sides, and vented bottom panel. The door is large, covering most of the front, with a vent panel at the bottom for air circulation.",
+    "internal_interaction_description": "The glass door allows visibility into the refrigerator's interior, facilitating easy access to contents. The vented bottom panel ensures proper air circulation, maintaining internal temperature. The door is likely hinged for opening and closing, providing a seal to preserve the cold environment inside.",
+    "external_interaction_description": "Interacts with users who open the door to access stored items. The transparent door aids in viewing contents without opening, reducing energy loss. The refrigerator must be plugged into a power source to function, and it interacts with the surrounding space by occupying vertical storage area."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, white wired keyboard.",
+    "part_description": "Contains alphanumeric keys, function keys, and a numeric keypad arranged in rows.",
+    "internal_interaction_description": "Keys are spring-loaded and interact with the internal circuit board to register keystrokes when pressed.",
+    "external_interaction_description": "Connects via a wire to a computer, allowing user input through key presses for typing and commands."
+}

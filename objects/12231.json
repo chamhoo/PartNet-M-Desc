@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a door.",
+    "part_description": "Single door on front, rectangular top, and sides; door attached with hinges on the right side.",
+    "internal_interaction_description": "The door swings open on the hinges, allowing access to the interior space. The top and sides form a sturdy enclosure, providing support and structure to the cabinet. The hinges ensure smooth operation of the door, maintaining alignment and stability.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, interacting with its surroundings by providing storage space. The door can be opened by a person to access contents inside, and it can be moved or relocated to suit different spatial arrangements."
+}

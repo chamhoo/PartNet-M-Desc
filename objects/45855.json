@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with sliding doors.",
+    "part_description": "Two sliding doors, one handle each, on a rectangular frame. Left door half the size of the right door. Simple, minimalist design.",
+    "internal_interaction_description": "The sliding doors move horizontally along tracks within the cabinet frame. The left door overlaps with the right when fully opened, allowing access to the interior space. The handles facilitate smooth sliding and provide grip for opening and closing.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, interacting with surrounding furniture. The sliding doors require minimal space to operate, making it suitable for compact areas. Users interact by sliding the doors to access stored items."
+}

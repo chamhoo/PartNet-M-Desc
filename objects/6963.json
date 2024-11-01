@@ -1,0 +1,6 @@
+{
+    "base_description": "Round wall clock, gray with silver frame.",
+    "part_description": "Circular frame, numbered face, three hands; numbers 1-12 arranged clockwise.",
+    "internal_interaction_description": "The clock hands rotate around the central axis. The hour hand moves slowly, completing one full rotation every 12 hours, while the minute hand completes a rotation every 60 minutes. The second hand moves continuously, completing a rotation every 60 seconds. All hands are anchored at the center.",
+    "external_interaction_description": "The clock is designed to hang on a wall, visible to people for time-telling. It may interact with light sources, affecting visibility. The clock does not require physical interaction to function but may need periodic adjustments for time accuracy and battery replacement."
+}

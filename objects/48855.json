@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cabinet with a rectangular shape.",
+    "part_description": "Features two doors and a drawer, all with handles. The doors are positioned below the drawer, which is centered at the top.",
+    "internal_interaction_description": "The cabinet's drawer slides open and closed, supported by internal runners. The doors swing on hinges, allowing access to the internal storage space. Handles on each part facilitate easy opening and closing.",
+    "external_interaction_description": "The cabinet can be placed against a wall, providing storage. Users can open the drawer and doors to store or retrieve items, using the handles for access."
+}

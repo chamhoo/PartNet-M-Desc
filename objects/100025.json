@@ -1,0 +1,6 @@
+{
+    "base_description": "Round white rice cooker with black lid.",
+    "part_description": "Includes a round body, two side handles, a black lid, and a control panel. The body is cylindrical, handles are flat and rectangular, and the lid fits on top. The control panel is on the front.",
+    "internal_interaction_description": "The lid fits securely on the top of the cooker, allowing for steam retention. The control panel manages the heating element inside the body, which evenly distributes heat to cook rice. Handles provide support for lifting and moving the cooker.",
+    "external_interaction_description": "The rice cooker connects to an external power source via a cord. Users operate it through the control panel to cook rice. It interacts with kitchen surfaces, sitting stably on counters. The lid can be removed for adding or removing rice and water."
+}

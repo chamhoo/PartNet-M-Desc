@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular dumpster with a slanted lid.",
+    "part_description": "The dumpster has a rectangular body, a slanted lid with three panels, two side handles, and four wheels at the base.",
+    "internal_interaction_description": "The lid panels are hinged, allowing them to open and close for access to the interior. The handles are attached to the sides for manual maneuvering, and the wheels enable movement across surfaces.",
+    "external_interaction_description": "The dumpster interacts with waste collection vehicles for emptying. People use the handles to move it, and the lid is opened to deposit or remove waste. The wheels facilitate transportation over short distances."
+}

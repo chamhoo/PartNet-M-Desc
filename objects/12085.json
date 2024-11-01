@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver rectangular dishwasher with digital controls.",
+    "part_description": "Includes a front door, digital control panel, two internal racks for dishes, and a handle. The control panel is on the top front, racks inside are parallel and extendable.",
+    "internal_interaction_description": "The internal racks slide out for easy loading and unloading of dishes. The control panel operates the dishwasher's settings, affecting the water jets that clean the dishes. The door seals shut to prevent water leakage during operation.",
+    "external_interaction_description": "The dishwasher connects to a water supply and electrical outlet. Users interact through the digital panel to select washing cycles. It fits under a kitchen counter, aligning with cabinetry for integrated use."
+}

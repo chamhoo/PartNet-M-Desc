@@ -1,0 +1,6 @@
+{
+    "base_description": "Black office chair with wheels and armrests.",
+    "part_description": "The chair has a cushioned seat and backrest, two armrests, a five-star base with wheels, and an adjustable height mechanism.",
+    "internal_interaction_description": "The seat and backrest are connected to the base, allowing for height adjustment. The armrests are attached to the backrest, providing support. The wheels are connected to the base, enabling mobility. The height mechanism allows the seat to move up and down smoothly.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, allowing movement. It supports a person sitting, providing comfort with its cushioning. The armrests offer additional support for arms. It can be positioned near a desk or table for work or relaxation."
+}

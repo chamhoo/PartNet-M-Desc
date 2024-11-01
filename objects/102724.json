@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, gray teapot with a modern style.",
+    "part_description": "Includes a round body, a curved spout, a lid with a knob, and a handle. The spout and handle are positioned opposite each other on the body.",
+    "internal_interaction_description": "The lid fits snugly on top of the teapot, preventing spills. The spout is designed to channel liquid smoothly, while the handle provides a secure grip for pouring. The body holds the liquid, maintaining temperature and ensuring stability.",
+    "external_interaction_description": "The teapot is used to pour tea into cups, interacting with liquid and heat. It can be held by the handle, and the spout directs the flow of liquid. It interacts with a stovetop or kettle for heating purposes."
+}

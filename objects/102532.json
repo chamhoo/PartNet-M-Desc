@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, boxy camera with a protruding lens.",
+    "part_description": "Features a lens, body, film advance knob, viewfinder, and flash mount. The lens is centered, the body is rectangular, the knob is on top, and the viewfinder is above the lens.",
+    "internal_interaction_description": "The lens focuses light onto the film inside the camera body. The film advance knob rotates to move the film for the next exposure. The viewfinder aligns the user's view with the lens. The flash mount allows attachment of external flash units.",
+    "external_interaction_description": "The camera captures images on film when used by a photographer. It interacts with light, focusing it through the lens onto the film. The film is developed externally to produce photographs. Accessories like flashes can be attached for enhanced lighting."
+}

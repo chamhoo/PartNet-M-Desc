@@ -1,0 +1,6 @@
+{
+    "base_description": "Wooden desk with shelves and drawers.",
+    "part_description": "The desk includes two shelves above, a flat tabletop, and three drawers to the right. The shelves are horizontally aligned, the tabletop is rectangular, and the drawers are vertically stacked.",
+    "internal_interaction_description": "The shelves provide vertical storage, supported by the side and back panels. The tabletop connects to the side panels, offering a sturdy workspace. Drawers slide in and out within the right-side compartment, using internal tracks for smooth operation.",
+    "external_interaction_description": "The desk can hold various items like books, computers, and stationery on its shelves and tabletop. The drawers store smaller items, ensuring organization. It interacts with users who sit facing it, using the workspace for tasks and accessing stored items."
+}

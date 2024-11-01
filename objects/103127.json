@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, black and silver coffee maker.",
+    "part_description": "Includes a water reservoir, brew head, drip tray, and control panel. The reservoir is on the left, the brew head in the center, and the control panel on the right.",
+    "internal_interaction_description": "Water from the reservoir is heated and directed through the brew head. The control panel manages the brewing process, while the drip tray collects excess liquid.",
+    "external_interaction_description": "The coffee maker interacts with users through the control panel for brewing settings. It requires external power and uses coffee pods placed in the brew head to make coffee."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with silver blades.",
+    "part_description": "Contains a square frame, five silver blades, and a heat sink with fins. The blades are centrally positioned within the frame, and the heat sink is attached to the back.",
+    "internal_interaction_description": "The blades rotate within the frame, driven by an internal motor, to push air through the heat sink. The heat sink's fins dissipate heat from the base, enhancing cooling efficiency.",
+    "external_interaction_description": "The fan cools electronic components by expelling hot air and drawing in cooler air. It can be mounted onto a CPU or other hardware, interacting with the surrounding environment to maintain optimal temperatures."
+}

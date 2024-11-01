@@ -1,0 +1,6 @@
+{
+    "base_description": "Metal scissors with red and grey handles.",
+    "part_description": "Two metal blades, one red handle, one grey handle, pivot point.",
+    "internal_interaction_description": "The blades pivot around a central point, allowing them to open and close. Handles provide leverage for cutting. The overlapping blades create a shearing action as they close, effectively cutting materials placed between them.",
+    "external_interaction_description": "Used by hand to cut paper, fabric, or other materials. The user inserts fingers into the handles, applying pressure to close the blades. The scissors interact with the material being cut, requiring manual guidance for precision."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular keyboard with standard key layout.",
+    "part_description": "Contains multiple rows of keys, including letters, numbers, and function keys, arranged in a rectangular grid. The keys are uniformly sized and positioned on a flat surface with indicator lights on the top right.",
+    "internal_interaction_description": "Keys are spring-loaded and interact with underlying circuits when pressed, sending signals to the connected device. The keys are arranged to facilitate typing and input, with specific keys for different functions like typing letters, numbers, and executing commands.",
+    "external_interaction_description": "Connects to computers or devices via USB or wireless. Users interact by pressing keys to input data, execute commands, and control software. The keyboard may also have indicator lights to show status like Caps Lock or power."
+}

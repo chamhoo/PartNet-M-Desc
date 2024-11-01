@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, gray USB flash drive.",
+    "part_description": "Consists of a rectangular body with a removable cap. The USB connector is metallic, protruding from one end. The cap fits snugly over the connector.",
+    "internal_interaction_description": "The USB connector fits into the main body, allowing data transfer through internal circuitry. The cap protects the connector when attached, ensuring the device remains secure and functional.",
+    "external_interaction_description": "Connects to computers or other USB-compatible devices for data transfer and storage. The cap prevents dust and debris from entering the connector, maintaining functionality when not in use."
+}

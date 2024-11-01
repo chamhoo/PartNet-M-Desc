@@ -1,0 +1,6 @@
+{
+    "base_description": "Metal wire cart with wheels and handle.",
+    "part_description": "Rectangular wire basket, two wheels at the base, handle on top. Basket is grid-patterned, wheels are circular, and handle is straight.",
+    "internal_interaction_description": "The wire grid structure forms a sturdy, open basket allowing visibility and ventilation. The handle is connected to the top of the basket for easy pulling or pushing. Wheels are attached to the bottom corners, enabling smooth movement and stability.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person using the handle. It is designed to carry items within the basket, supported by the wheels for transport over various surfaces. The open grid allows for easy loading and unloading of contents."
+}

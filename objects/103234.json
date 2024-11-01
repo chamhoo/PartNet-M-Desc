@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with a brown seat.",
+    "part_description": "Consists of a tank, bowl, and seat. The tank is rectangular, positioned at the back. The bowl is rounded and supports the seat, which is flat and brown.",
+    "internal_interaction_description": "The tank stores water, which is released into the bowl when flushed. The seat is hinged to the bowl, allowing it to be lifted or lowered. The flush mechanism inside the tank activates water flow into the bowl, facilitating waste removal.",
+    "external_interaction_description": "The toilet is used by people for sanitation purposes. It connects to plumbing systems for water supply and waste removal. The seat provides comfort, while the flush button or lever on the tank initiates the flushing process. It integrates with bathroom decor and fixtures."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black laptop with CD drive and USB device.",
+    "part_description": "Laptop includes a screen, keyboard, CD drive, and USB port. The screen is rectangular, the keyboard has numerous keys, the CD drive is extended with a disc, and the USB port has a device inserted.",
+    "internal_interaction_description": "The laptop's screen displays output from the internal processor. The keyboard inputs data to the system. The CD drive reads or writes data from the inserted disc. The USB port allows data transfer or peripheral connection via the inserted USB device.",
+    "external_interaction_description": "The laptop can connect to external networks and devices through Wi-Fi or USB. It interacts with users via the keyboard and screen, facilitating computing tasks. The CD drive allows reading or writing of optical discs, while the USB device can be used for data transfer or peripheral connection."
+}

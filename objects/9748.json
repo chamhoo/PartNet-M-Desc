@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular laptop with a large screen.",
+    "part_description": "Screen, keyboard, and touchpad; rectangular shape; screen upright, keyboard flat; touchpad centered below keyboard.",
+    "internal_interaction_description": "The keyboard inputs data to the system, displayed on the screen. The touchpad allows cursor movement and selection on the screen. The hinge connects the screen and base, enabling screen angle adjustment.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input. The screen displays visual output. It can connect to external devices like USBs, headphones, and power sources, and communicate wirelessly over networks."
+}

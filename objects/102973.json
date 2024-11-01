@@ -1,0 +1,6 @@
+{
+    "base_description": "Black retractable pen with a silver clip.",
+    "part_description": "The pen has a cylindrical body, a click mechanism at the top, a pocket clip on the side, and a tapered tip. The body is black, while the clip and clicker are silver.",
+    "internal_interaction_description": "The click mechanism at the top of the pen interacts with an internal spring and ink cartridge. Pressing the clicker extends the cartridge through the tip for writing. Releasing the clicker retracts the cartridge back into the body, preventing ink from marking surfaces unintentionally.",
+    "external_interaction_description": "The pen is used for writing or drawing on paper by applying pressure and moving across the surface. The clip allows it to be attached to pockets or notebooks for convenience. It interacts with the user's hand, providing grip and control during use."
+}

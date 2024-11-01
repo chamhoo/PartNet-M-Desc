@@ -1,0 +1,6 @@
+{
+    "base_description": "White table lamp with a conical shade.",
+    "part_description": "Includes a conical shade, adjustable arm, and circular base. The shade is positioned at the top, the arm connects the shade to the base, and the base is at the bottom.",
+    "internal_interaction_description": "The conical shade is connected to an adjustable arm, allowing for directional changes of light. The arm is attached to the circular base, providing stability and support. The arm's joints enable movement, facilitating the adjustment of the lamp's height and angle.",
+    "external_interaction_description": "The lamp provides focused lighting for reading or working when placed on a desk or table. It requires an electrical outlet for power. Users can adjust the arm to direct light as needed, enhancing visibility and creating a comfortable environment for tasks."
+}

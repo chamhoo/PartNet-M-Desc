@@ -1,0 +1,6 @@
+{
+    "base_description": "Orange hand truck with four wheels and handles.",
+    "part_description": "Features two large wheels at the back, two smaller wheels at the front, a flat base, and two curved handles with yellow grips.",
+    "internal_interaction_description": "The large rear wheels provide stability and support, while the smaller front wheels assist in maneuverability. The flat base is designed for carrying loads, with the handles allowing the user to tilt and push the truck. The frame connects all parts, ensuring structural integrity.",
+    "external_interaction_description": "The hand truck is used to transport heavy or bulky items, reducing manual lifting effort. It interacts with external objects by sliding under them for support and moving them. Users grip the handles to operate, and the wheels enable smooth movement across surfaces."
+}

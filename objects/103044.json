@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white-framed window with multiple panes.",
+    "part_description": "The window consists of three sections, each with multiple rectangular panes. The central section is larger, flanked by two narrower sections. All sections have white frames and equal-sized glass panes arranged in a grid pattern.",
+    "internal_interaction_description": "The three sections of the window are fixed together within a single frame, allowing light to pass through the glass panes. The grid-like arrangement of panes provides structural support and aesthetic design. Each pane is securely fitted within the frame, ensuring stability and insulation.",
+    "external_interaction_description": "The window allows natural light to enter a room while providing a view of the outside. It can be opened to allow air circulation, depending on the design. The sturdy frame ensures durability against weather elements, while the glass panes offer insulation and sound reduction."
+}

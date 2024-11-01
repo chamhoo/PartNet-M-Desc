@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact folding knife, black blade, gray handle.",
+    "part_description": "Consists of a sharp black blade and a gray handle. The blade is triangular and folds into the handle, which is rectangular and ergonomic. A pivot point connects the blade to the handle.",
+    "internal_interaction_description": "The blade rotates around the pivot point, allowing it to fold into the handle for safety and portability. The handle provides a secure grip, enabling controlled movement of the blade during use. A locking mechanism may be present to keep the blade in place when extended.",
+    "external_interaction_description": "The knife can be used to cut or slice various materials. It interacts with the user's hand, providing a grip for precise control. The folding mechanism allows safe storage in pockets or bags, minimizing the risk of accidental cuts when not in use."
+}

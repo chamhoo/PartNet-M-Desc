@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic shopping cart with red seat, medium size.",
+    "part_description": "Four wheels, metal grid basket, red seat, handlebar. Wheels are positioned at corners, basket on top with handlebar at rear, red seat inside basket.",
+    "internal_interaction_description": "The wheels are connected to the base, allowing movement. The metal grid basket holds items, and the red seat provides a space for children. The handlebar is attached to the basket, enabling steering and pushing.",
+    "external_interaction_description": "The cart can be pushed by a person using the handlebar, moving smoothly on various surfaces. It can carry groceries or other items in the basket, and accommodate a child in the red seat, facilitating shopping activities."
+}

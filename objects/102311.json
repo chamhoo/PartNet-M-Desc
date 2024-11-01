@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular metal safe with a door.",
+    "part_description": "The safe has a rectangular body, a front door with a combination lock, and two protruding hinges. The lock is circular and centrally positioned, while the hinges are on the right side.",
+    "internal_interaction_description": "The door is attached to the main body via the hinges, allowing it to swing open and closed. The combination lock interacts with internal locking mechanisms to secure the door. The hinges provide rotational movement, enabling the door to open smoothly.",
+    "external_interaction_description": "The safe interacts with the environment by providing secure storage for valuables. Users interact with the combination lock to open or close the safe. The sturdy build resists external tampering, and its weight deters easy movement by unauthorized individuals."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver microwave with digital display.",
+    "part_description": "Consists of a door with a black window, digital display, and control panel. The display shows numbers, and the control panel is below it. The door is centered on the front, with a handle on the right side.",
+    "internal_interaction_description": "The digital display interacts with the control panel to show user inputs and settings. The door's window allows visibility inside while cooking. The handle enables easy opening and closing of the door, ensuring secure access to the microwave's interior.",
+    "external_interaction_description": "The microwave interacts with users through the control panel and display, allowing them to set cooking times and power levels. It requires a power source to operate and can be placed on a countertop or built into cabinetry, interacting with the surrounding kitchen environment."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray dishwasher with a minimalist design.",
+    "part_description": "Includes a front panel door, control panel on top, and a black base. The door is large and flat, covering the front entirely.",
+    "internal_interaction_description": "The door opens to reveal racks and compartments for placing dishes. The control panel allows selection of washing modes, interacting with internal mechanisms to start cycles.",
+    "external_interaction_description": "Connects to water and power supply; interacts with users through the control panel. Dishes are loaded and unloaded by the user, and the dishwasher integrates into kitchen cabinetry."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white window with six glass panes.",
+    "part_description": "The window has a rectangular frame with six equally sized glass panes arranged in two rows and three columns. The frame is thick and white, surrounding the glass panes securely.",
+    "internal_interaction_description": "The glass panes are held within the frame, separated by thin white dividers that create a grid pattern. These dividers ensure the panes are evenly spaced and provide structural support, maintaining the window's overall integrity and aesthetic symmetry.",
+    "external_interaction_description": "The window can be installed in a wall to allow light and air into a room. It can be opened or closed to control ventilation and light entry. It interacts with external elements like weather, providing insulation and protection from rain, wind, and temperature changes."
+}

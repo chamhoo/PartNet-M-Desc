@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular multifunction printer with digital display.",
+    "part_description": "Includes a flatbed scanner on top, paper tray below, control panel with buttons and digital screen on the front, and output tray at the bottom.",
+    "internal_interaction_description": "The scanner captures images onto the digital screen, while internal mechanisms transfer data to print onto paper from the input tray. The control panel allows user input to manage scanning, copying, or printing tasks, coordinating the operation of all parts.",
+    "external_interaction_description": "Connects to computers or networks via USB or wireless for printing and scanning. Users interact through the control panel or connected devices to execute tasks. Paper and ink are manually refilled, while printed documents are collected from the output tray."
+}

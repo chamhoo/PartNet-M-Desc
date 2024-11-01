@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige stove with four burners and an oven.",
+    "part_description": "Four circular burners on top, arranged in a square. Oven door below with a rectangular window. Control panel with knobs above burners, and a digital display on the back panel.",
+    "internal_interaction_description": "The burners are connected to gas lines controlled by knobs, allowing for flame adjustment. The oven has heating elements regulated by a thermostat, providing consistent internal temperature. The control panel coordinates these functions, ensuring safe and efficient operation.",
+    "external_interaction_description": "The stove connects to a gas supply and requires ventilation. Users interact with the knobs to control heat levels for cooking. The oven door opens to access the baking area, and the digital display provides temperature and timer information."
+}

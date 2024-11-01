@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical gray bottle with red cap and straw.",
+    "part_description": "Consists of a gray cylindrical body, a red circular cap on top, and a gray straw protruding from the cap.",
+    "internal_interaction_description": "The red cap fits securely on the cylindrical body, preventing liquid from spilling. The gray straw is inserted through a hole in the cap, allowing liquid to be drawn up when suction is applied. The cap's seal ensures the straw remains in place during use.",
+    "external_interaction_description": "The bottle can be held by hand, with the straw allowing easy sipping of the contents. It can be placed on flat surfaces due to its stable base. The design is suitable for use in various settings like home, office, or outdoor activities."
+}

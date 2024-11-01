@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with circular blades.",
+    "part_description": "Consists of a square frame and circular fan blades. The frame has four corners with mounting holes. Blades are centrally positioned within the frame.",
+    "internal_interaction_description": "The circular blades are connected to a central hub, allowing them to rotate within the square frame. The blades are evenly spaced and angled to facilitate airflow when spinning. The central hub is likely attached to a motor that drives the rotation, enabling efficient air movement.",
+    "external_interaction_description": "The fan can be mounted using the holes in its corners, allowing it to attach to various surfaces or devices. It interacts with the surrounding air by drawing it in and pushing it out, providing ventilation or cooling. It can be powered by an electrical source to operate."
+}

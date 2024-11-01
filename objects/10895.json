@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, long-handled scissors with pointed blades.",
+    "part_description": "Two metal blades, each with a sharp point, connected at a pivot, with looped handles at the opposite end.",
+    "internal_interaction_description": "The two blades pivot around a central point, allowing them to open and close. The looped handles provide leverage for the user to apply pressure, bringing the blades together to cut material placed between them.",
+    "external_interaction_description": "Used by a person to cut materials like paper or fabric. The user places fingers in the loops, manipulating the scissors to open and close the blades, applying force to cut through the material."
+}

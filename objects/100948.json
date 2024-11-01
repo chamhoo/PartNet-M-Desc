@@ -1,0 +1,6 @@
+{
+    "base_description": "Square gray switch plate with central toggle.",
+    "part_description": "One rectangular plate, one central toggle switch, two screw holes.",
+    "internal_interaction_description": "The toggle switch is mounted on the plate, allowing it to pivot up and down. The screw holes are positioned symmetrically on either side of the switch, securing the plate to a surface.",
+    "external_interaction_description": "The switch interacts with electrical circuits, controlling power flow. Users flip the toggle to turn devices on or off. The plate is mounted on walls, integrating with building electrical systems."
+}

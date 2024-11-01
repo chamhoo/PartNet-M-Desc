@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black and silver digital camera.",
+    "part_description": "Features a large circular lens, rectangular body, buttons, and a viewfinder. The lens is prominent and centrally positioned. Buttons are on the top and side of the body.",
+    "internal_interaction_description": "The lens captures light and focuses it onto the camera sensor within the body. Buttons control various functions like power, zoom, and settings. The viewfinder allows framing of shots. Internal circuits process the captured images for storage.",
+    "external_interaction_description": "The camera interacts with users through buttons and viewfinder. It connects to computers via USB for data transfer. The lens can be adjusted for focus and zoom, allowing users to capture images of external scenes."
+}

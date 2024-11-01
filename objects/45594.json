@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray, modern refrigerator.",
+    "part_description": "Consists of two compartments, vertically stacked, with handles on the right side of each door.",
+    "internal_interaction_description": "The upper compartment is typically a freezer, maintaining a colder temperature, while the lower compartment is a refrigerator, keeping food fresh. Each has shelves and bins to organize contents, with doors sealing tightly to maintain internal temperatures.",
+    "external_interaction_description": "Interacts with users by storing perishable items, accessed by opening doors. Requires electrical connection for operation and fits into kitchen spaces, often alongside cabinets or counters."
+}

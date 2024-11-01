@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, gray wardrobe with sliding doors.",
+    "part_description": "Includes two sliding doors, a shelf, and a hanging rod. The doors cover the front, the shelf is on the left, and the rod is beneath the shelf.",
+    "internal_interaction_description": "The sliding doors move horizontally to open and close, revealing or concealing the interior. The shelf provides a surface for storage, while the hanging rod supports clothes. The arrangement allows easy access to stored items and clothing.",
+    "external_interaction_description": "The wardrobe interacts with the room by providing organized storage. Users slide the doors to access contents, and it can be placed against a wall to save space. Its neutral color and design blend with various interior styles."
+}

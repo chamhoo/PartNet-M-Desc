@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black monitor with gray stand.",
+    "part_description": "Includes a large rectangular screen, a vertical support, and a horizontal base. The screen is positioned at the top, supported by the vertical stand in the center, which connects to the wide base at the bottom.",
+    "internal_interaction_description": "The screen is mounted on the vertical support, allowing it to stand upright. The support is securely attached to the base, providing stability. The base's wide design ensures balance, preventing the monitor from tipping over.",
+    "external_interaction_description": "The monitor connects to external devices like computers via cables. It displays visual output from connected devices. Users interact with the monitor through controls on the device it is connected to, adjusting settings for brightness and contrast."
+}

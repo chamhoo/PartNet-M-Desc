@@ -1,0 +1,6 @@
+{
+    "base_description": "White, rectangular cart with wheels and handle.",
+    "part_description": "Includes a rectangular basket, two large wheels on sides, a vertical handle at the front, and a small rear support wheel.",
+    "internal_interaction_description": "The basket is mounted on a base, supported by two large wheels on either side for balance and movement. The vertical handle is centrally attached to the front for steering. The rear support wheel provides additional stability, ensuring the cart remains upright when stationary or in motion.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person using the handle, allowing it to transport items within the basket. The wheels enable smooth movement across flat surfaces, while the open design allows easy loading and unloading of goods. It interacts with various terrains and can be used in different environments."
+}

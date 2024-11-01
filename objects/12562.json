@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, modern dishwasher.",
+    "part_description": "Includes a front door with handle, main body, and base panel. The door is centered on the front, with a handle spanning its width. The base panel is located at the bottom, slightly recessed.",
+    "internal_interaction_description": "The door hinges at the bottom, allowing it to open downwards, providing access to internal racks and compartments. The handle facilitates easy opening and closing. The base panel may house controls or support the structure, ensuring stability.",
+    "external_interaction_description": "Designed to fit under a kitchen counter, the dishwasher interacts with plumbing for water intake and drainage. Users open the door to load and unload dishes, utilizing the handle. It requires electrical power to operate, typically connecting to a standard outlet."
+}

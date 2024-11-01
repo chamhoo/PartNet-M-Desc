@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, white table with wheels and a mesh panel.",
+    "part_description": "The table has a flat square top, four sturdy legs, a mesh panel on one side, and four red caster wheels at the base.",
+    "internal_interaction_description": "The tabletop is supported by four legs, providing stability. The mesh panel is attached between two legs, adding structural integrity and aesthetic appeal. The caster wheels are affixed to each leg's base, allowing smooth movement and easy repositioning.",
+    "external_interaction_description": "The table can be easily moved across surfaces due to its caster wheels. It can hold various objects on its flat top, making it suitable for different uses. The mesh panel may serve decorative or functional purposes, potentially holding lightweight items."
+}

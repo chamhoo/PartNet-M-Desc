@@ -1,0 +1,6 @@
+{
+    "base_description": "Wooden table with curved legs and a drawer.",
+    "part_description": "The table has four curved legs, a flat rectangular top, and one centered drawer with a round knob. Legs are positioned at each corner.",
+    "internal_interaction_description": "The legs provide support to the tabletop, ensuring stability. The drawer is integrated into the tabletop, with a smooth sliding mechanism facilitated by internal rails. The knob allows easy access to the drawer contents.",
+    "external_interaction_description": "The table can hold various objects on its surface, like books or decor. The drawer stores small items. The curved legs add aesthetic appeal, making it suitable for living rooms or offices, and it can be moved by lifting or sliding."
+}

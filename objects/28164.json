@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray table with drawers and shelf.",
+    "part_description": "Two drawers with knobs, one shelf below, four legs. Drawers are side-by-side under the tabletop. Shelf is positioned at the bottom between the legs.",
+    "internal_interaction_description": "The drawers slide in and out of the table frame, supported by rails. The shelf is fixed between the legs, providing structural support and additional storage space. The legs support the tabletop and maintain the table's stability.",
+    "external_interaction_description": "The table can support items placed on the top surface, inside drawers, or on the shelf. It can be used for storage or display purposes. People can interact with the drawers to store or retrieve items, and the table can be moved to different locations as needed."
+}

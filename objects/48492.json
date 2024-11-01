@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray box with yellow handles and latch.",
+    "part_description": "The object has a rectangular shape with two yellow handles on the sides and a central yellow latch on the front. The top is divided into two panels, and the box is primarily gray.",
+    "internal_interaction_description": "The two top panels likely interact by opening and closing to provide access to the interior. The yellow latch secures these panels when closed, ensuring the contents remain inside. The handles provide a means to carry or move the box, indicating a functional design for storage or transport.",
+    "external_interaction_description": "The box can be carried or moved by people using the yellow handles. It can interact with other objects by storing them inside, offering protection and organization. The latch ensures security, making it suitable for transporting items without spilling or losing contents."
+}

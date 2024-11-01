@@ -1,0 +1,6 @@
+{
+    "base_description": "Black box-shaped cart with wheels and steering.",
+    "part_description": "Four black wheels, rectangular body, steering wheel, and seat. Wheels are evenly spaced, body is rectangular with a front seat and backrest.",
+    "internal_interaction_description": "The steering wheel connects to the front wheels, allowing directional control. The seat is positioned centrally within the rectangular body, providing a space for the user to sit and operate the steering. The wheels are attached to a supporting frame, ensuring stability and movement.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person, with the wheels facilitating movement over flat surfaces. The steering wheel allows the user to navigate the cart in different directions. It can interact with various terrains, depending on wheel design and material."
+}

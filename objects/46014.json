@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with four drawers.",
+    "part_description": "Four horizontal drawers, evenly stacked, with handles centered on each. Rectangular shape, uniform size, positioned front-facing.",
+    "internal_interaction_description": "Each drawer slides horizontally within the cabinet frame, supported by internal tracks. The handles allow for easy pulling and pushing of the drawers, facilitating smooth operation.",
+    "external_interaction_description": "The cabinet can be placed against walls or in corners, used for storage by people. Drawers are accessed by pulling handles, and the flat top surface can support additional items."
+}

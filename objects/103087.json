@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and black blender, medium-sized and modern style.",
+    "part_description": "The blender has a red base with a control dial, a black pitcher with a handle, and a red lid. The base is ribbed and cylindrical, while the pitcher is conical and sits atop the base.",
+    "internal_interaction_description": "The motor in the base drives the blades inside the pitcher when activated via the control dial. The pitcher securely locks onto the base, ensuring stability during operation. The lid fits tightly on top of the pitcher to prevent spillage, and the handle provides a firm grip for pouring.",
+    "external_interaction_description": "The blender connects to a power source via a cord, allowing it to blend ingredients placed inside the pitcher. Users interact with the control dial to select blending speeds. The blender can be easily moved and stored due to its compact size, making it suitable for kitchen countertops."
+}

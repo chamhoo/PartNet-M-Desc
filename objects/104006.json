@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular printer with black accents.",
+    "part_description": "Includes a paper tray, control panel, output slot, and display screen. The paper tray is at the bottom, control panel on the front, output slot on top, and screen near the panel.",
+    "internal_interaction_description": "The paper tray feeds sheets into the printer mechanism, where ink or toner is applied to create text or images. The control panel allows user input to manage printing tasks, and the display screen provides status updates. The printed paper exits through the output slot.",
+    "external_interaction_description": "The printer connects to computers or networks via cables or wireless connections to receive print jobs. Users interact with it through the control panel for direct operations or through software on connected devices for remote management."
+}

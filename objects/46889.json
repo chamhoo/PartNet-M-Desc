@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular gray cabinet with handle.",
+    "part_description": "The cabinet has a rectangular door with a vertical handle on the right side. The top, sides, and back are flat, forming a box shape.",
+    "internal_interaction_description": "The door is hinged on the left side, allowing it to swing open and closed. The handle provides a grip for opening the door. Inside, shelves may be present for organizing contents, though they are not visible from the outside.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner. It interacts with users through the handle for opening and closing. It may store items, providing organization and protection from external elements like dust or light."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact silver espresso machine with modern design.",
+    "part_description": "Includes a water tank, control panel, portafilter, drip tray, and steam wand. The control panel has buttons and a knob, positioned at the front. The portafilter is below the panel, with the drip tray underneath. The steam wand is on the side.",
+    "internal_interaction_description": "The water tank feeds water to the heating element. The control panel manages brewing settings. The portafilter holds coffee grounds, allowing water to pass through and extract espresso. The steam wand froths milk using steam generated internally. The drip tray collects excess liquid.",
+    "external_interaction_description": "Users interact with the control panel to operate the machine. The portafilter is manually filled and attached. Cups are placed on the drip tray to collect espresso. The steam wand is used with external milk containers for frothing. The machine requires regular cleaning and maintenance."
+}

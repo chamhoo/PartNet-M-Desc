@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular black keyboard with integrated touchpad.",
+    "part_description": "Includes 78 keys arranged in rows, a touchpad on the right, and function keys at the top. The keys are square and evenly spaced, while the touchpad is rectangular and positioned at the bottom right corner.",
+    "internal_interaction_description": "The keys are mechanically connected to sensors that register keystrokes. The touchpad detects finger movements and gestures for cursor control. Function keys provide shortcuts for various operations, enhancing user efficiency. Key presses and touchpad inputs are processed by an internal circuit board.",
+    "external_interaction_description": "Connects to computers or devices via USB or Bluetooth, allowing input for typing and cursor control. The keyboard is used by people for data entry and navigation, interacting with software applications and operating systems. It may rest on a flat surface like a desk during use."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular camera with red and blue accents.",
+    "part_description": "Features a large circular lens, red shutter button, blue viewfinder, and rectangular body. Lens protrudes from front, buttons on top.",
+    "internal_interaction_description": "The lens focuses light onto the camera's sensor inside the body. The shutter button, when pressed, triggers the internal mechanism to capture an image. The viewfinder aligns with the lens to allow framing of the subject.",
+    "external_interaction_description": "Used by photographers to capture images, the camera interacts with light to record scenes. The lens can be adjusted for focus, and the shutter button is pressed by the user to take photos. Compatible with tripods and other photographic equipment."
+}

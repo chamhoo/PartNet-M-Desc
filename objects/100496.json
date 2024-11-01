@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular cart with two shelves and wheels.",
+    "part_description": "Two rectangular shelves, four vertical supports, and four wheels. Shelves are parallel and supported by vertical bars. Wheels attached at corners.",
+    "internal_interaction_description": "The shelves are held in place by the vertical supports, providing stability and structure. The wheels are connected to the base, allowing the cart to move smoothly. The alignment of the shelves ensures balanced weight distribution.",
+    "external_interaction_description": "The cart interacts with the ground through its wheels, enabling movement. It can be pushed or pulled by a person using the handle. The shelves can hold various items, making it useful for transporting goods."
+}

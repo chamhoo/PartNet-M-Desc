@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver pliers with black handles, medium-sized.",
+    "part_description": "Two black handles, silver jaws, and a pivot point. Handles are long and curved, jaws are short and flat, positioned at the top.",
+    "internal_interaction_description": "The handles are connected by a pivot, allowing them to move in opposition. When the handles are squeezed together, the jaws close, enabling the gripping function. This mechanism provides leverage, amplifying the force applied to the handles to the jaws.",
+    "external_interaction_description": "Pliers interact with objects by gripping, twisting, or bending them. They are often used by people to hold or manipulate small objects, wires, or components, providing precision and strength. The rubberized handles offer comfort and improved grip for the user."
+}

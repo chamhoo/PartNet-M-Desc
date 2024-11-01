@@ -1,0 +1,6 @@
+{
+    "base_description": "Wall-mounted cylindrical faucet with lever handle.",
+    "part_description": "Consists of a cylindrical body, a square wall plate, and a curved lever handle. The cylinder is mounted on the square plate, with the lever extending downwards.",
+    "internal_interaction_description": "The lever handle controls the flow of water through the cylindrical body. When the lever is lifted or turned, it adjusts an internal valve mechanism, allowing water to flow through the spout. The connection between the cylinder and the plate provides stability and support for the faucet.",
+    "external_interaction_description": "The faucet is designed to be installed on a wall, interacting with plumbing systems to deliver water. Users interact with the lever handle to control water flow and temperature. The faucet's design facilitates easy cleaning and maintenance, and it complements modern bathroom or kitchen aesthetics."
+}
