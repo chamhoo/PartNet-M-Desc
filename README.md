@@ -19,8 +19,7 @@ PartNet-M-Desc/
 ```
 Each `.json` file contains:
 
-- **Object ID:** A unique identifier for the object.
-Base Description: A one-sentence overview with basic information, including size, shape, color, and style.
+- **Base Description:** A one-sentence overview with basic information, including size, shape, color, and style.
 - **Part Description:** Information on the object's parts, such as quantity, arrangement, size, and position, limited to 50 characters.
 - **Internal Interaction Description:** Describes interactions between parts within the object, up to 100 characters.
 - **External Interaction Description:** Describes interactions with external elements, such as other objects or people, up to 100 characters.
