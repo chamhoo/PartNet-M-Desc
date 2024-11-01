@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical object on a conical base.",
+    "part_description": "The object consists of a large sphere atop a cone-shaped base, both uniformly white. The sphere is smooth and sits centrally on the base, which flares outward at the bottom.",
+    "internal_interaction_description": "The sphere is securely balanced on the conical base, with its weight evenly distributed. The base provides stability, preventing the sphere from rolling. The connection between the sphere and base is central, maintaining symmetry and balance.",
+    "external_interaction_description": "The object can be placed on flat surfaces, interacting stably due to the wide base. It may be used as a decorative piece or a model, interacting visually with its surroundings. It requires careful handling to avoid toppling."
+}

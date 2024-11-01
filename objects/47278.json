@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with two doors.",
+    "part_description": "The cabinet has two large doors with handles, a flat top surface, and a recessed base. The doors are centrally positioned and symmetrical.",
+    "internal_interaction_description": "The two doors swing open on hinges, allowing access to the interior storage space. The handles are positioned vertically, facilitating easy gripping. The flat top surface can support additional objects.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a kitchen or bathroom setting. It interacts with users through the opening and closing of its doors, providing storage for various items. The top surface can hold decorative items or functional objects like a sink."
+}

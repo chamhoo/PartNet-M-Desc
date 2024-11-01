@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a handle.",
+    "part_description": "Single door with a handle, rectangular shape, vertical alignment, occupying the front face.",
+    "internal_interaction_description": "The cabinet door is attached to the main body via hinges on one side, allowing it to swing open and closed. The handle is positioned for easy grip to facilitate this movement. Inside, shelves or compartments may be present, supported by the cabinet walls.",
+    "external_interaction_description": "The cabinet is designed to store items and can be placed in a kitchen, office, or storage area. It interacts with users who open the door to access stored contents. Its flat top can also serve as a surface for additional items."
+}

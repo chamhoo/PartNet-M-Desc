@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cubic safe with a front door.",
+    "part_description": "Features a circular dial and handle on the front, with two hinges on the right side. The dial is above the handle and both are centrally located.",
+    "internal_interaction_description": "The circular dial interacts with an internal locking mechanism, controlling the locking bolts. The handle engages with the locking system, allowing the door to open when unlocked. Hinges support the door's movement.",
+    "external_interaction_description": "The safe interacts externally with users who input combinations via the dial and pull the handle to access contents. It also interacts with its environment by providing secure storage, typically placed in secure locations."
+}

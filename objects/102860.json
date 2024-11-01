@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular switch with white text and button.",
+    "part_description": "Consists of a red rectangular body with white 'ON' text and a protruding white square button near the bottom front.",
+    "internal_interaction_description": "The white square button is likely connected to an internal mechanism that toggles the switch's state. Pressing the button may engage or disengage electrical contacts inside, changing the switch from off to on, or vice versa. The button's movement is restricted to a linear path within the rectangular body.",
+    "external_interaction_description": "The switch interacts with external electrical circuits, controlling power flow when toggled. Users press the white button to operate the switch, turning connected devices on or off. The 'ON' label guides users, indicating the button's function and current state."
+}

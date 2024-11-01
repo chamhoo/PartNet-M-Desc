@@ -1,0 +1,6 @@
+{
+    "base_description": "Cream-colored round teapot with lid and spout.",
+    "part_description": "Includes a round body, a curved spout, a handle, and a lid with a knob. The spout is attached to the side, the handle opposite, and the lid fits on top.",
+    "internal_interaction_description": "The lid sits securely on the teapot's opening, preventing liquid from spilling. The spout allows for controlled pouring, while the handle provides an easy grip. The knob on the lid aids in removal and placement.",
+    "external_interaction_description": "Used to pour tea, interacting with cups and saucers. The handle allows a person to lift and pour without touching the hot surface. The spout directs the liquid flow into other containers."
+}

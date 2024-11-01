@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote control with buttons.",
+    "part_description": "Contains multiple buttons in grid layout, rectangular shape, with a red button at the top. The buttons vary in size and are positioned towards the front face.",
+    "internal_interaction_description": "The buttons are arranged to allow user input, with each button likely corresponding to a specific function. Pressing a button sends an electrical signal through the circuitry inside, triggering a command.",
+    "external_interaction_description": "The remote interacts with electronic devices like TVs or stereos, sending infrared signals when buttons are pressed. Users hold it in hand, directing it towards a device to control functions such as power, volume, and channel selection."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, rectangular stapler with sleek design.",
+    "part_description": "Consists of a metal base, plastic top cover, hinge, and staple compartment. The top cover is elongated, the base is flat, and the hinge connects them. The staple compartment is inside the top cover.",
+    "internal_interaction_description": "The hinge allows the top cover to lift, enabling staple loading. When pressed, the top cover pushes staples through the base, securing papers. The spring mechanism inside the staple compartment advances staples forward for use.",
+    "external_interaction_description": "Used to bind papers by pressing down on the top. Requires staples to function. Can be placed on desks or in drawers. Interacts with paper by puncturing and folding staples to hold sheets together."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular wall-mounted air conditioner.",
+    "part_description": "Includes a front panel, vents on top, and a lower flap. The front panel is large and rectangular, while the vents are smaller and evenly spaced. The lower flap is positioned at the bottom.",
+    "internal_interaction_description": "The vents on top allow air to flow into the system where it is cooled or heated. The lower flap directs the conditioned air into the room. Internal fans and coils work together to regulate the temperature and airflow.",
+    "external_interaction_description": "The air conditioner is mounted on a wall, interacting with the room by adjusting the air temperature and humidity. It requires an external power source and may interact with a remote control or smart home system for operation."
+}

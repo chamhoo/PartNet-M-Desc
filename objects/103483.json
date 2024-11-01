@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray toaster with two slots.",
+    "part_description": "The toaster has two parallel slots on top, a lever on the side, and four small feet at the corners for stability.",
+    "internal_interaction_description": "Inside the toaster, heating elements surround the slots to evenly toast bread. The lever, when pushed down, activates the heating elements and lowers the bread into the slots, starting the toasting process.",
+    "external_interaction_description": "The toaster interacts with bread slices, toasting them when the lever is pressed. It requires an electrical outlet for power and can be placed on a kitchen countertop for convenient use."
+}

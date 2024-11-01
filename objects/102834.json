@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, black camera with red top, compact size.",
+    "part_description": "Features a cylindrical lens, rectangular body, red top, small button, and a viewfinder. The lens is centrally placed on the front, the button is on top, and the viewfinder is on the back.",
+    "internal_interaction_description": "The cylindrical lens extends from the rectangular body, allowing light to enter the camera. The button on top interacts with internal mechanisms to capture images. The viewfinder aligns with the lens for framing shots. All parts are integrated to function cohesively for photography.",
+    "external_interaction_description": "The camera interacts with users who hold it to capture images. The lens focuses on external scenes, while the button is pressed to take pictures. It can be connected to other devices for image transfer, and its compact design facilitates portability and ease of use."
+}

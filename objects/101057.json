@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, teal and yellow utility knife.",
+    "part_description": "Includes a retractable metal blade, plastic teal body, and yellow slider. The blade is long and thin, housed in the body, with the slider positioned on top for blade control.",
+    "internal_interaction_description": "The yellow slider moves along a track on the teal body, allowing the metal blade to extend or retract. The blade is held securely within the body, with the slider locking it in place at various lengths.",
+    "external_interaction_description": "The utility knife cuts materials like paper, cardboard, or plastic. Users grip the teal body and manipulate the yellow slider to expose the blade, applying pressure to slice through materials. Care is needed to avoid injury during use."
+}

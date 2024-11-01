@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet with two doors and a drawer.",
+    "part_description": "Two doors at the bottom, one drawer above, metallic handles on each, rectangular shape, medium size.",
+    "internal_interaction_description": "The drawer slides in and out above the doors, which open outward. The handles facilitate opening and closing. The interior is likely divided into compartments for storage, with hinges allowing door movement.",
+    "external_interaction_description": "The cabinet can be placed against a wall and used to store items. Its handles allow easy access to contents, and it can be integrated into kitchen or bathroom settings for organizing supplies."
+}

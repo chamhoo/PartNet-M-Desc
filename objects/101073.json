@@ -1,0 +1,6 @@
+{
+    "base_description": "Two-wheeled bench cart with metal frame.",
+    "part_description": "Consists of a bench seat, two wheels, and handles. Bench is horizontal with slats, wheels are circular and attached on either side, handles extend backwards.",
+    "internal_interaction_description": "The bench seat is supported by a metal frame connected to the wheels, allowing stability. Wheels are attached on both sides of the frame, providing mobility. The handles are connected to the frame, enabling steering and control when pushed or pulled.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person using the handles. It rolls on the wheels over various surfaces, allowing transportation of people or items. The bench provides seating, making it usable in parks or gardens for mobility and rest."
+}

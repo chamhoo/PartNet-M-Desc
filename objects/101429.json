@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with four blades.",
+    "part_description": "The fan has four evenly spaced, elongated blades attached to a central hub. The hub is connected to a short rod leading to a ceiling mount. Each blade is flat and slender, extending outward symmetrically.",
+    "internal_interaction_description": "The blades are connected to the central hub, which rotates to create airflow. The hub is powered by an internal motor, which is housed within the central part of the fan. The motor's operation causes the blades to spin, distributing air evenly throughout the room.",
+    "external_interaction_description": "The fan is mounted to the ceiling, interacting with the room by circulating air to provide cooling. It can be operated via a wall switch or remote control, allowing users to adjust the speed and direction of airflow. Its presence helps in maintaining a comfortable room temperature."
+}

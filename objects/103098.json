@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular coffee machine, grey and black.",
+    "part_description": "Features a control panel with buttons, a cup holder, and a drip tray. The control panel has three buttons arranged horizontally. The drip tray is positioned at the bottom, and the cup holder is centrally located.",
+    "internal_interaction_description": "The control panel buttons interact with internal mechanisms to start brewing, adjust settings, and stop the process. The drip tray collects excess liquid, and the cup holder supports cups during brewing. Internal components work together to heat water and brew coffee efficiently.",
+    "external_interaction_description": "The coffee machine interacts with users through the control panel, allowing them to select brewing options. It requires an external power source to operate. Users place a cup on the holder, and the machine dispenses coffee into it. Compatible with standard coffee pods or grounds."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow rectangular box with pink circular protrusion.",
+    "part_description": "One pink circular protrusion on front, small green dot on top left, blue rectangle on right side. Protrusion is centered, dot is top-left, blue rectangle is vertically centered.",
+    "internal_interaction_description": "The pink circular protrusion is attached to the front surface of the yellow box, suggesting a possible functional element like a button or dial. The small green dot on top might indicate a status light or sensor. The blue rectangle on the right side could be a display or panel, integrated into the box structure.",
+    "external_interaction_description": "The object may interact with users through the pink protrusion, possibly as a control mechanism. The green dot could provide visual feedback or status indication. The blue rectangle might display information or interact with external devices, suggesting the object has a functional purpose in user interaction."
+}

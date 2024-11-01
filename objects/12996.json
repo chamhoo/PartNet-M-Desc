@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, black rectangular keyboard with QWERTY layout.",
+    "part_description": "Contains 104 keys arranged in rows, including alphanumeric, function, and control keys. Compact and flat design with evenly spaced keys.",
+    "internal_interaction_description": "Keys are connected to an internal circuit board that registers keystrokes. Each key press activates a switch beneath, sending an electrical signal to the computer. The layout allows for efficient typing and easy access to frequently used keys.",
+    "external_interaction_description": "Connects to computers via USB or wireless technology. Used for typing and inputting data into computers. Can be placed on desks or other flat surfaces, interacting with users through tactile feedback when keys are pressed."
+}

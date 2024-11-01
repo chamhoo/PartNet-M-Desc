@@ -1,0 +1,6 @@
+{
+    "base_description": "Curved, metallic faucet with a single handle.",
+    "part_description": "Consists of a tall, curved spout with a detachable spray head, and a single side handle for water control, all mounted on a base.",
+    "internal_interaction_description": "The handle controls the internal valves, regulating water flow and temperature. The spout directs water through its curved shape, and the detachable spray head allows for flexible water direction and pressure adjustment.",
+    "external_interaction_description": "The faucet connects to plumbing for water supply. Users interact by turning the handle to adjust water flow and temperature, and using the spray head for targeted cleaning tasks."
+}

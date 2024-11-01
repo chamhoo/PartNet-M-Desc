@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue plastic pen with a clip.",
+    "part_description": "The pen has a cylindrical body, a click mechanism at the top, a silver clip on the side, and a pointed tip at the bottom.",
+    "internal_interaction_description": "The click mechanism at the top interacts with an internal spring to extend or retract the pen tip. The clip is attached to the body, allowing it to flex slightly for attachment to surfaces.",
+    "external_interaction_description": "The pen is designed to be held by hand, with the clip allowing attachment to pockets or notebooks. The tip interacts with paper to dispense ink for writing."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, brown, dual-panel light switch.",
+    "part_description": "Two rectangular panels side by side on a larger base.",
+    "internal_interaction_description": "Each panel operates independently, likely connected to electrical components behind the base for switching lights on or off.",
+    "external_interaction_description": "Users press the panels to control lighting; fits into a wall socket, interacting with electrical systems."
+}

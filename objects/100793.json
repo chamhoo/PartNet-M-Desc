@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe on a stand, spherical and smooth.",
+    "part_description": "Spherical globe, metallic axis, curved stand, square base. Globe is large, central; axis runs through it; stand is curved, supports from above; base is flat, stable.",
+    "internal_interaction_description": "The globe is mounted on an axis allowing it to spin. The axis is connected to the curved stand, providing support and enabling rotation. The stand is attached to the square base, ensuring stability and balance. The interaction between these parts allows the globe to rotate smoothly and remain upright.",
+    "external_interaction_description": "The globe can be manually rotated by a person, allowing for interactive exploration of its surface. It serves as an educational tool, often used in classrooms or offices for geographical reference. The stable base ensures it remains stationary during use, while the smooth surface facilitates easy handling and turning."
+}

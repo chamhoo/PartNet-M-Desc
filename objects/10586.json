@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular refrigerator with dual doors.",
+    "part_description": "Two vertical doors, left with a water dispenser, right plain. Handles run vertically near the edges of the doors.",
+    "internal_interaction_description": "The two doors open to reveal separate compartments for food storage. The left door, featuring a water dispenser, is likely connected to an internal water line and storage tank. The doors seal tightly to maintain internal temperature.",
+    "external_interaction_description": "The refrigerator interacts with users through the doors and dispenser. Users open the doors to access food and use the dispenser for water. It requires an electrical connection and possibly a water line for the dispenser."
+}

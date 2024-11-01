@@ -1,0 +1,6 @@
+{
+    "base_description": "Purple faucet with a blue handle, modern style.",
+    "part_description": "Includes a curved spout, circular base, and a cloud-shaped blue handle. The spout extends horizontally from the base, which is mounted on a wall. The handle is positioned below the spout.",
+    "internal_interaction_description": "The handle controls the water flow through the spout. When turned, it opens or closes the internal valve, allowing water to pass through the spout from the base. The base provides stability and connection to plumbing.",
+    "external_interaction_description": "The faucet interacts with users who turn the handle to release water. It connects to a water supply system, dispensing water through the spout when activated. It is typically installed in kitchens or bathrooms, interacting with sinks and countertops."
+}

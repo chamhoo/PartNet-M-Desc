@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige, oval toilet with a modern design.",
+    "part_description": "Comprises a tank, seat, and bowl; oval seat on top, tank at back, bowl below.",
+    "internal_interaction_description": "The tank stores water, releasing it into the bowl when flushed. The seat provides a comfortable surface for use, while the bowl directs waste into the plumbing system. The lid can be lifted or closed over the seat.",
+    "external_interaction_description": "Interacts with plumbing for water supply and waste removal. Users lift the lid and seat for use, and flush to activate water flow from the tank to the bowl. The design allows integration into various bathroom settings."
+}

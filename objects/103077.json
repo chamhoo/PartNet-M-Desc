@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, blue sliding window with gray frame.",
+    "part_description": "Two rectangular glass panes, each in a gray frame, positioned side by side within a larger white frame.",
+    "internal_interaction_description": "The two glass panes slide horizontally within the gray frames, allowing one pane to overlap the other for opening and closing. The frames guide the panes smoothly along their tracks, ensuring stability and ease of movement.",
+    "external_interaction_description": "The window allows light and air to pass through when open, providing ventilation and visibility. It can be opened or closed by sliding the panes, interacting with the surrounding wall structure to fit securely and maintain insulation when closed."
+}

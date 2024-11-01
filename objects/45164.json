@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a minimalist design.",
+    "part_description": "Includes a main body, a front door, and an internal shelf. The door is centrally positioned, and the shelf is horizontally placed inside.",
+    "internal_interaction_description": "The door swings open to reveal the internal shelf, which divides the storage space into two sections. The shelf is fixed, providing structural support and organizing items within the cabinet.",
+    "external_interaction_description": "The cabinet can be placed against a wall or integrated into a kitchen setup. The door allows access to stored items, and its design accommodates interaction with other kitchen components like countertops."
+}

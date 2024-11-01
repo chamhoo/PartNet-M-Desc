@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white door with a classic style.",
+    "part_description": "Consists of six rectangular panels, a doorknob on the left side, and a frame surrounding the panels.",
+    "internal_interaction_description": "The panels are symmetrically arranged in two vertical columns of three. The doorknob is positioned at a convenient height on the left side, allowing for easy operation. The frame provides structural support, ensuring the panels remain securely in place.",
+    "external_interaction_description": "The door interacts with its frame to open and close, allowing passage between spaces. The doorknob facilitates manual operation by users, enabling them to open or secure the door as needed. It may also interact with locks or other security mechanisms."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black coffee machine with dual containers.",
+    "part_description": "Includes two top containers, a front panel with buttons, a dispensing nozzle, and a drip tray. Containers are rectangular, positioned on top; nozzle and tray at front bottom.",
+    "internal_interaction_description": "The top containers hold coffee beans or grounds, feeding them into the machine's internal grinder or brewing system. The front panel controls the brewing process, activating the system to dispense coffee through the nozzle into a cup placed on the drip tray.",
+    "external_interaction_description": "The machine interacts with users through the front panel, allowing selection of coffee options. It requires external power and water supply to operate. Users place a cup under the nozzle for dispensing, and the drip tray collects any overflow or drips."
+}

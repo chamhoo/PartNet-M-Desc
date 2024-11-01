@@ -1,0 +1,6 @@
+{
+    "base_description": "Small blue globe with gray stand.",
+    "part_description": "The globe has a spherical blue body with beige continents, supported by a gray semi-circular meridian and a hexagonal base.",
+    "internal_interaction_description": "The globe rotates around the axis formed by the meridian, allowing it to spin freely. The meridian is attached to the base, providing stability and allowing the globe to tilt slightly, mimicking Earth's axial tilt.",
+    "external_interaction_description": "The globe can be manually spun to view different regions of the world. It serves as an educational tool, helping users learn geography. Its compact size makes it suitable for placement on desks or shelves, interacting with surrounding decor."
+}

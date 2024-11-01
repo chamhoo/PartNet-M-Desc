@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular blue USB flash drive with swivel cover.",
+    "part_description": "Consists of a blue rectangular body and a silver swivel cover. The body houses the USB connector, and the cover rotates around a pivot point at one end.",
+    "internal_interaction_description": "The swivel cover rotates around the pivot, allowing it to protect the USB connector when not in use. The cover can be turned to expose the connector for insertion into a USB port. The body securely holds the electronic components necessary for data storage.",
+    "external_interaction_description": "Connects to computers and other devices via the USB port for data transfer. The swivel cover protects the connector from dust and damage when not in use. It is portable and can be attached to keychains or lanyards through the loop in the cover."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact red multi-tool with various implements.",
+    "part_description": "Includes knife blade, saw, scissors, corkscrew, and more. Parts are foldable, arranged around a central red handle, varying in size and shape.",
+    "internal_interaction_description": "Each tool pivots around a central axis within the handle, allowing individual tools to be extended or retracted as needed. The folding mechanism ensures compact storage and easy access to each tool, providing versatility in a compact form.",
+    "external_interaction_description": "The multi-tool interacts with external elements by providing various functionalities like cutting, opening, and screwing. It is designed for portability, fitting easily in a pocket or bag, and is used by individuals for tasks requiring convenience and multiple tools in one device."
+}

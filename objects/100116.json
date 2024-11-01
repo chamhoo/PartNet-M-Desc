@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, gray electronic device with flap.",
+    "part_description": "Consists of a main body with a digital display and a hinged flap. The body is rectangular, and the flap is curved, positioned at one end.",
+    "internal_interaction_description": "The digital display on the main body is connected to internal electronic components, likely powered by a battery. The hinged flap is designed to open and close, possibly covering or protecting a connector or port.",
+    "external_interaction_description": "The device can be held by a person and may connect to other electronic devices via the port under the flap. It is likely used for data transfer or storage, interacting with computers or similar equipment."
+}

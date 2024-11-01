@@ -1,0 +1,6 @@
+{
+    "base_description": "Ceiling fan with five blades, white color.",
+    "part_description": "Five evenly spaced blades attached to a central motor housing, with a light fixture below. The blades are flat and rectangular, extending outward symmetrically.",
+    "internal_interaction_description": "The motor within the central housing rotates the attached blades, creating airflow. The light fixture is mounted beneath the motor, allowing illumination. The blades are balanced to ensure smooth rotation without wobbling.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling effect. It can be controlled via a wall switch or remote, adjusting speed and light settings. The fan's airflow can affect temperature distribution and comfort in the space."
+}

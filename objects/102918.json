@@ -1,0 +1,6 @@
+{
+    "base_description": "Thin, blue pen with a gray cap.",
+    "part_description": "Consists of a blue barrel, gray cap, and clip. The barrel is long and cylindrical, the cap is rounded, and the clip is attached to the cap.",
+    "internal_interaction_description": "The cap fits tightly over the pen tip to prevent ink drying. The clip is attached to the cap, allowing it to secure the pen to pockets or notebooks. The barrel houses the ink reservoir, enabling smooth writing.",
+    "external_interaction_description": "The pen is used for writing on paper, held comfortably in hand. The clip allows attachment to clothing or books, making it portable. The cap can be removed and replaced to protect the pen tip when not in use."
+}

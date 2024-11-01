@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular microwave with a glass door.",
+    "part_description": "Features a rectangular glass door on the front, a handle on the side, and a control panel likely on the unseen side. The interior is spacious for cooking.",
+    "internal_interaction_description": "The glass door allows visibility into the microwave's interior, facilitating monitoring of food while cooking. The handle provides easy access to open and close the door, ensuring secure containment of microwaved items.",
+    "external_interaction_description": "The microwave interacts with users through its control panel for setting cooking times and power levels. It requires an electrical outlet for power and is typically placed on a kitchen counter or shelf for convenience."
+}

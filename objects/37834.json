@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern ergonomic chair with mesh back and wheels.",
+    "part_description": "Features a mesh backrest, cushioned seat, two armrests, adjustable height mechanism, and five-wheel base.",
+    "internal_interaction_description": "The chair's adjustable height mechanism connects the seat to the base, allowing vertical movement. Armrests are attached to the seat for support. The mesh backrest is fixed to the seat, providing flexibility and support. The five-wheel base ensures stability and mobility, connected to the seat via a central column.",
+    "external_interaction_description": "The chair interacts with users by providing seating comfort and support, allowing adjustments for height. The wheels enable easy movement across different floor surfaces. It can be used at desks or tables, facilitating ergonomic posture for work or leisure activities."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, cylindrical, orange lighter with a metallic top.",
+    "part_description": "Includes a cylindrical body, metallic top, ignition wheel, and red button. The body is orange and smooth, the top is silver with a textured wheel and button, positioned at the upper section.",
+    "internal_interaction_description": "The ignition wheel, when rotated, strikes against a flint to produce a spark. The red button, when pressed, releases gas from the body. The spark ignites the gas, creating a flame. The parts are precisely aligned to ensure efficient operation.",
+    "external_interaction_description": "The lighter interacts with external objects by producing a flame when activated, used to ignite materials like candles or cigarettes. It requires manual operation by a person, who rotates the wheel and presses the button simultaneously to function."
+}

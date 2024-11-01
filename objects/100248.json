@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, oval suitcase with a retractable handle.",
+    "part_description": "Features a main compartment, retractable handle, side handle, and wheels. The main compartment is large and oval-shaped. The retractable handle is on top, while the side handle is on the side. Two wheels are at the base for easy movement.",
+    "internal_interaction_description": "The retractable handle slides into the suitcase's body, allowing for compact storage. The wheels are attached to the base, enabling smooth rolling. The side handle is fixed, providing an alternative grip for lifting. The main compartment opens via a zip, offering storage space inside.",
+    "external_interaction_description": "The suitcase can be pulled using the retractable handle, interacting with the ground through its wheels for mobility. It can be lifted using the side handle. It interacts with travelers, providing storage for personal belongings during travel, fitting in car trunks or plane overhead compartments."
+}

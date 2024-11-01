@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical jar with a blue lid.",
+    "part_description": "Consists of a cylindrical gray body and a blue circular lid on top.",
+    "internal_interaction_description": "The lid screws onto the top of the jar, creating a secure seal. The jar's body is hollow, allowing for storage of contents. The lid's internal threading matches the jar's external threading for closure.",
+    "external_interaction_description": "The jar can be held by hand, with the lid easily removable for accessing contents. It can be placed on flat surfaces and stored in cupboards or shelves. Suitable for holding liquids or solids, interacting with kitchen or storage environments."
+}

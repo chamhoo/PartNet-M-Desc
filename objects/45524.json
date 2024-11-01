@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray kitchen cabinet.",
+    "part_description": "Contains a main body, a door with a handle, and internal shelving. The door is attached to the front, and the handle is horizontally positioned near the top.",
+    "internal_interaction_description": "The door swings open to reveal internal shelving, allowing for storage. The handle provides leverage for opening and closing. Shelves are fixed inside, supporting stored items and maintaining structure.",
+    "external_interaction_description": "Designed to be placed in kitchens, it stores utensils, dishes, or pantry items. The cabinet door opens outward, requiring space in front. It can be integrated with other kitchen furniture for a cohesive look."
+}

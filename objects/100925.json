@@ -1,0 +1,6 @@
+{
+    "base_description": "Square device with a teal frame and gray center.",
+    "part_description": "Consists of a teal square frame, a gray inner square, and a red horizontal line near the top. The gray square is centrally positioned within the teal frame.",
+    "internal_interaction_description": "The red horizontal line is positioned near the top of the gray square, likely indicating a functional or decorative element. The gray square is nested within the teal frame, suggesting a layered design where the frame provides a border or support for the inner components.",
+    "external_interaction_description": "The device can be mounted on walls or surfaces, interacting with users through its front-facing design. The red line may serve as an indicator or control interface, responding to user input or conveying status information."
+}

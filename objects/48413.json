@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray refrigerator with a handle.",
+    "part_description": "Includes a main body, door, and handle. The door is front-facing, rectangular, and attached to the body. The handle is horizontal, located on the left side of the door.",
+    "internal_interaction_description": "The door is hinged on one side, allowing it to swing open and close, sealing the main storage compartment. The handle provides a gripping surface to facilitate opening and closing the door, ensuring secure access to the interior.",
+    "external_interaction_description": "The refrigerator interacts with users who open the door to access stored items. It maintains a cool internal temperature to preserve food. It can be placed in kitchens, requiring an electrical outlet for power, and fits in spaces designed for standard kitchen appliances."
+}

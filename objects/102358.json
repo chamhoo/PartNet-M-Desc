@@ -1,0 +1,6 @@
+{
+    "base_description": "Small gray metal bucket with a handle.",
+    "part_description": "The bucket has a cylindrical body, a rounded base, and a metal handle attached at two opposite points near the top. The body has horizontal ridges for reinforcement.",
+    "internal_interaction_description": "The handle is attached to the bucket's body, allowing it to pivot for carrying or hanging. The ridges provide structural integrity, preventing deformation when filled with weighty contents.",
+    "external_interaction_description": "The bucket can hold liquids or solids, carried by the handle. It can be placed on surfaces or hung from hooks, interacting with various environments for tasks like cleaning, gardening, or storage."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver stove with a glass top and control knobs.",
+    "part_description": "Includes four control knobs on the front panel, a digital display, a glass top, and an oven door with a handle. The knobs are evenly spaced above the display. The oven door is centrally located with a horizontal handle.",
+    "internal_interaction_description": "The control knobs adjust the heat levels for the burners on the glass top. The digital display provides temperature and timer settings for the oven. The oven door opens downward, allowing access to the interior for placing or removing food. The glass top covers the burners when not in use.",
+    "external_interaction_description": "The stove is used for cooking by placing pots or pans on the burners. Users interact with the control knobs to set the desired temperature. The oven is used for baking or roasting, with the door providing access. The glass top can be lifted for cleaning or access to the burners."
+}

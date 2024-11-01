@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray drawer cabinet.",
+    "part_description": "Contains ten evenly spaced horizontal drawers, stacked vertically.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly within the cabinet frame, supported by internal tracks. Drawers are aligned to maintain balance and structural integrity, allowing for efficient storage and access.",
+    "external_interaction_description": "Interacts with users who open and close drawers to store or retrieve items. Can be placed against walls or in closets, providing organized storage solutions in homes or offices."
+}

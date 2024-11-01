@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray remote with circular buttons.",
+    "part_description": "Features 40 circular buttons, arranged in rows and columns, including a cross-shaped button area.",
+    "internal_interaction_description": "The circular buttons are embedded on the surface, with some forming a cross shape for directional input. Each button likely connects to an internal circuit board to send signals when pressed.",
+    "external_interaction_description": "The remote interacts with electronic devices, transmitting signals when buttons are pressed. Users hold it in hand, pressing buttons to control devices like TVs or media players."
+}

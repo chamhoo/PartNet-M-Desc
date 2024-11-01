@@ -1,0 +1,6 @@
+{
+    "base_description": "Black cylindrical smart trash can with blue accent.",
+    "part_description": "Consists of a cylindrical body, a flat lid, and a blue LED ring near the top edge.",
+    "internal_interaction_description": "The lid is likely hinged or motorized to open and close automatically, possibly triggered by sensors. The blue LED ring may indicate power status or operational mode. Internal sensors could detect motion or proximity to activate the lid mechanism.",
+    "external_interaction_description": "Interacts with users by opening the lid when motion is detected. Can be placed in kitchens or offices for waste disposal. The LED ring may provide visual feedback to users regarding its status, such as being full or needing maintenance."
+}

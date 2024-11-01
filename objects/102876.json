@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray camera with black lens.",
+    "part_description": "Features a black circular lens on front, two buttons on top, and a small rectangular screen on back.",
+    "internal_interaction_description": "The lens extends and retracts for focusing, while internal sensors capture images. The buttons control power and shutter functions, interacting with the internal circuitry to operate the camera.",
+    "external_interaction_description": "The camera interacts with users through buttons for capturing photos. It connects to external devices via ports for data transfer. The lens adjusts to light conditions, and the screen displays captured images for user review."
+}

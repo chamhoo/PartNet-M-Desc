@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, metal scissors with black plastic handles.",
+    "part_description": "Two metal blades intersect, with black plastic handles. The blades are sharp and pointed, crossing each other near the pivot. Handles are oval-shaped and ergonomic.",
+    "internal_interaction_description": "The two blades pivot around a central point, allowing them to open and close smoothly. The sharp edges of the blades meet precisely to cut materials when the handles are squeezed together. The handles provide leverage and control for the cutting action.",
+    "external_interaction_description": "The scissors are used by applying pressure on the handles to cut paper, fabric, or other thin materials. They interact with external objects by slicing through them when the blades are brought together. They require careful handling to avoid accidents."
+}

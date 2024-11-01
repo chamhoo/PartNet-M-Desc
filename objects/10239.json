@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular laptop with a screen and keyboard.",
+    "part_description": "The laptop has a screen, keyboard, trackpad, and ports. The screen is rectangular and thin, positioned above the keyboard. The keyboard is full-sized with standard keys. The trackpad is centered below the keyboard. Ports are located on the sides.",
+    "internal_interaction_description": "The screen is hinged to the base, allowing it to open and close over the keyboard. The keyboard is integrated into the base, providing input to the system. The trackpad offers an interface for cursor control, interacting with the screen display. Internal components connect through a motherboard.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and trackpad for input, while the screen displays output. It connects to external devices via ports for data transfer and charging. The device can connect wirelessly to networks and peripherals, facilitating communication and data exchange."
+}

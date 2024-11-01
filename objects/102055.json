@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray stove with four burners.",
+    "part_description": "Four circular burners arranged in two rows, each with a grid. Control knobs located on the right side.",
+    "internal_interaction_description": "Each burner is covered by a grid, allowing for even heat distribution. The control knobs adjust the gas flow to the burners, regulating the flame size. The arrangement facilitates simultaneous cooking on multiple burners with separate control.",
+    "external_interaction_description": "The stove is designed to be placed on a countertop and interacts with cookware placed on the burners. The knobs allow a user to control the heat, and the stove connects to a gas supply for operation."
+}

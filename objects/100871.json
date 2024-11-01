@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular box with mounting hole.",
+    "part_description": "Features a rectangular main body, mounting hole at top, and two small holes on the front. A protruding section on the side indicates additional functionality.",
+    "internal_interaction_description": "The main body houses internal components, possibly electronics, with the mounting hole facilitating attachment. The side protrusion may contain connectors or controls, interacting with the internal mechanisms to enable functionality.",
+    "external_interaction_description": "Designed to mount on surfaces, interacting with external systems via the side protrusion for connectivity. The front holes may allow for screws or indicators, facilitating user interaction or integration with other devices."
+}

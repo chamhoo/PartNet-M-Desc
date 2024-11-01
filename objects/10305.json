@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular laptop with a black screen.",
+    "part_description": "Consists of a screen and keyboard, rectangular shape. The screen is positioned vertically, and the keyboard lies flat horizontally with evenly spaced keys.",
+    "internal_interaction_description": "The screen and keyboard are connected by a hinge allowing the screen to open and close over the keyboard. The keys are electronically connected to the internal hardware, enabling input to be processed and displayed on the screen.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard for input and the screen for output. It can connect to external devices like mice, printers, and networks via ports and wireless connections, enhancing functionality and user interaction."
+}

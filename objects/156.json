@@ -1,0 +1,6 @@
+{
+    "base_description": "Green, curved faucet with a modern design.",
+    "part_description": "Includes a curved spout, cylindrical base, and a side handle. The spout is long and arching, the base is striped and circular, and the handle is small and angular, positioned on the side.",
+    "internal_interaction_description": "The handle controls the flow of water through the spout. Turning the handle adjusts the internal valve, regulating water pressure and temperature. The spout directs water flow downward, while the base anchors the structure.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop, interacting with plumbing to deliver water. Users adjust the handle to control water flow. The spout directs water into a basin, and it may interact with various accessories like aerators or filters."
+}

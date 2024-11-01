@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with a modern design.",
+    "part_description": "Consists of a tank, bowl, seat, and lid. The tank is positioned at the back, the bowl is round and open at the top, the seat and lid are attached on top of the bowl.",
+    "internal_interaction_description": "The tank stores water which is released into the bowl when flushed. The seat and lid can be lifted or closed as needed. The flushing mechanism inside the tank controls water flow into the bowl to remove waste.",
+    "external_interaction_description": "Used by people for sanitation purposes, it connects to plumbing for water supply and waste removal. The flush handle or button is operated externally to initiate the flushing process, cleaning the bowl and maintaining hygiene."
+}

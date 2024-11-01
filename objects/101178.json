@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cart with two large wheels.",
+    "part_description": "Includes a rectangular base, two large circular wheels on sides, and two long handles extending forward. The base is flat and rectangular; wheels are positioned centrally on each side.",
+    "internal_interaction_description": "The wheels are attached to the sides of the rectangular base, enabling the cart to move. The handles are connected to the front of the base, allowing for steering and pulling. The wheels rotate around their axles, providing mobility, while the handles offer leverage for direction.",
+    "external_interaction_description": "The cart is designed to be pulled by a person using the handles. It can carry various items on its flat base. The wheels allow it to move smoothly over surfaces, while the handles provide control and direction. It interacts with different terrains and can be loaded with goods or materials."
+}

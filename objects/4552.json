@@ -1,0 +1,6 @@
+{
+    "base_description": "Flat-screen monitor, rectangular, black, modern design.",
+    "part_description": "Consists of a large rectangular screen and a rectangular base. The screen is thin and wide, positioned vertically above the base. The base is flat, supporting the screen securely.",
+    "internal_interaction_description": "The screen is connected to the base through a vertical support, allowing the screen to stand upright. The electrical components within the screen interact to display images, while the base provides stability and may house additional electronics for power and connectivity.",
+    "external_interaction_description": "The monitor connects to external devices like computers via cables for display purposes. Users interact with it by viewing content on the screen. It may also have ports for peripherals like keyboards or mice, enhancing its functionality in a desktop setup."
+}

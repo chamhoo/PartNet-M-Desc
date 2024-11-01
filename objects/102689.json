@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet, compact and modern design.",
+    "part_description": "Consists of a tank, seat, lid, and bowl. The tank is rectangular and positioned at the back. The oval seat and lid are atop the bowl, which is supported by a pedestal base.",
+    "internal_interaction_description": "The tank holds water and connects to the bowl via an internal flush mechanism. The seat and lid are hinged, allowing them to be lifted. Water flows from the tank into the bowl when flushed, facilitating waste removal.",
+    "external_interaction_description": "Interacts with plumbing for water supply and waste disposal. Users lift the lid and seat for use, and press a flush button or lever to activate. Requires regular cleaning and maintenance to ensure hygiene and functionality."
+}

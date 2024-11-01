@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and white office chair with wheels.",
+    "part_description": "Chair has a cushioned seat, backrest, two armrests, and five-wheel base. The seat and backrest are white, armrests and base are black. Backrest is tall and slightly curved. Armrests are parallel and attached to seat.",
+    "internal_interaction_description": "The backrest is connected to the seat, providing support and comfort. Armrests are fixed on either side of the seat, offering arm support. The five-wheel base allows for mobility and stability, with each wheel evenly distributing weight and enabling smooth movement.",
+    "external_interaction_description": "The chair interacts with users by providing seating support, allowing for movement via wheels. It can be adjusted for height and recline, accommodating various body types and preferences. It can be positioned near desks or tables, facilitating work or leisure activities."
+}

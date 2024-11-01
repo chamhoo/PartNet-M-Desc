@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, cylindrical, blue and gray lighter.",
+    "part_description": "Consists of a blue body, gray top, red button, and metal wheel. The body is cylindrical, and the top houses the ignition mechanism.",
+    "internal_interaction_description": "The red button, when pressed, releases gas. The metal wheel, when spun, creates a spark that ignites the gas. The gray top contains the mechanism, ensuring the components work together to produce a flame.",
+    "external_interaction_description": "The lighter is handheld, used to ignite materials like candles or cigarettes. It requires manual operation, with the user pressing the button and spinning the wheel to generate a flame."
+}

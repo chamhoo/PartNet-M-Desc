@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray microwave with a modern design.",
+    "part_description": "Includes a large front door with a window, control panel on the side, and a handle. The door is centrally positioned, and the control panel is vertical to the left.",
+    "internal_interaction_description": "The door is hinged, allowing it to open and close for access. The control panel is connected to the microwave's internal electronics, enabling operation settings. The window allows visibility inside while cooking.",
+    "external_interaction_description": "The microwave interacts with external power sources via a plug. Users open the door to place food inside, use the control panel to set cooking times, and monitor through the window."
+}

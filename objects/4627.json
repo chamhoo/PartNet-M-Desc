@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular monitor with a circular base.",
+    "part_description": "Consists of a flat rectangular screen and a round base. The screen is large and thin, positioned vertically on the base. The base is circular, supporting the screen's weight.",
+    "internal_interaction_description": "The screen connects to the base via a vertical stand, allowing for stability and possibly some tilt adjustment. The stand ensures the screen remains upright and in place, distributing the weight evenly across the base.",
+    "external_interaction_description": "The monitor can be connected to computers or other devices via cables. It displays visual output from connected devices. Users can adjust the screen angle and position for optimal viewing comfort."
+}

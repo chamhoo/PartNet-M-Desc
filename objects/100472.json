@@ -1,0 +1,6 @@
+{
+    "base_description": "Orange plastic bucket with a metal handle.",
+    "part_description": "The bucket has a cylindrical body, a circular open top, and a metal handle attached on opposite sides near the top.",
+    "internal_interaction_description": "The metal handle is attached to the bucket's body with pivot points on either side, allowing it to swing up and down for carrying or resting against the bucket when not in use.",
+    "external_interaction_description": "The bucket can be filled with liquids or solids and carried using the handle. It is commonly used for transporting water, sand, or other materials, and can be easily cleaned and stored."
+}

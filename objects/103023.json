@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, black, oval-shaped wireless mouse.",
+    "part_description": "Includes two buttons, a scroll wheel, and a smooth underside. Buttons are on top, scroll wheel in the center, and underside is flat.",
+    "internal_interaction_description": "The buttons and scroll wheel interact with internal sensors to send signals. Pressure on buttons triggers switches, while the scroll wheel rotates on an axis to send scrolling commands.",
+    "external_interaction_description": "Interacts with a computer via wireless connection. Users click buttons and scroll to navigate digital interfaces. The mouse moves smoothly on flat surfaces to control the cursor on the screen."
+}

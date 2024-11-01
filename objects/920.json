@@ -1,0 +1,6 @@
+{
+    "base_description": "Metal faucet with dual handles and curved spout.",
+    "part_description": "Consists of a curved spout, two cross handles, and a base. The spout is centrally positioned, arching over the base. Each handle is placed on either side of the base, symmetrically aligned.",
+    "internal_interaction_description": "The handles control the flow of water through the spout. Turning the handles adjusts internal valves, allowing water to mix and flow through the spout. The spout directs water downward from the base, ensuring efficient water delivery.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop. Users interact by turning the handles to regulate water temperature and flow. It connects to plumbing systems for water supply and is typically used in kitchens or bathrooms for washing purposes."
+}

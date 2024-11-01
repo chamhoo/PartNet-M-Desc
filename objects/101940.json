@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver stove with black handles and controls.",
+    "part_description": "Features four circular burners on top, a front oven door with a handle, a control panel with knobs and buttons, and a bottom drawer with a handle.",
+    "internal_interaction_description": "The burners heat up via electrical elements controlled by the knobs. The oven door opens to reveal a cooking chamber where heat is evenly distributed for baking or roasting. The bottom drawer provides storage space for cookware, interacting with the oven's heat indirectly.",
+    "external_interaction_description": "The stove connects to electrical power for operation. Users interact with the control panel to adjust heat settings for cooking. Cookware is placed on the burners or inside the oven. The stove's surface may interact with kitchen counters, and the oven door swings open for access."
+}

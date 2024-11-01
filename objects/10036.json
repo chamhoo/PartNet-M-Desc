@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall black refrigerator with double doors.",
+    "part_description": "Two vertical doors, left door with an ice dispenser, handles run vertically along each door, rectangular shape.",
+    "internal_interaction_description": "The left door houses the ice dispenser, which is integrated into the door's structure. Both doors provide access to separate compartments within the refrigerator, allowing for organized storage. The vertical handles facilitate easy opening and closing of each door, ensuring efficient access to contents.",
+    "external_interaction_description": "The refrigerator interacts with users by providing chilled storage space and dispensing ice. The exterior design allows it to fit into standard kitchen spaces, and the handles enable easy operation. The ice dispenser interacts with external water supply to produce ice on demand."
+}

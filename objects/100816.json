@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with colorful buttons.",
+    "part_description": "Includes numeric keypad, power button, directional pad, and function buttons arranged on the front.",
+    "internal_interaction_description": "The numeric keypad allows input selection, while the power button controls device activation. Directional pad navigates menus, and function buttons perform specific tasks like volume control and channel scanning.",
+    "external_interaction_description": "Interacts with electronic devices like TVs by sending infrared signals. Users press buttons to control power, volume, channels, and settings from a distance."
+}

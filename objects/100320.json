@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular red and gray inhaler device.",
+    "part_description": "Consists of a red body with a gray top and mouthpiece. The mouthpiece is positioned at the top, with a protruding section for inhalation.",
+    "internal_interaction_description": "The internal mechanism involves pressing the gray top to release medication from the red body through the mouthpiece. This interaction ensures the medication is dispensed effectively into the user's respiratory system.",
+    "external_interaction_description": "The inhaler is designed to be handheld, allowing users to easily press the top to release medication. It interacts with the user by delivering a precise dose directly into the mouth, aiding in respiratory treatment."
+}

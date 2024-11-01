@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular safe with keypad and handle.",
+    "part_description": "Features a numeric keypad with numbers 0-9, a small display above, and a handle on the front. The keypad is centrally positioned, the display is above it, and the handle is to the right of the keypad.",
+    "internal_interaction_description": "The numeric keypad allows for input of a security code, which interacts with the internal locking mechanism. The display provides feedback on the status, such as locked or unlocked. The handle engages or disengages the lock based on the correct code input.",
+    "external_interaction_description": "The safe interacts with users who input codes via the keypad to secure or access stored items. It may also interact with security systems or alarms if connected. The safe's size and weight affect its placement and security level in an environment."
+}

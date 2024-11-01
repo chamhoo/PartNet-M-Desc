@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white plastic bottle with pump.",
+    "part_description": "Consists of a cylindrical body, a pump mechanism on top, and a nozzle. The body is smooth and uniform, while the pump is positioned centrally on the top.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, which extends to the bottom. Pressing the pump compresses a spring, creating suction that draws liquid through the tube and out of the nozzle.",
+    "external_interaction_description": "The bottle is designed to dispense liquid when the pump is pressed by a user. It can be refilled by unscrewing the pump. It interacts with external surfaces by standing upright, and its contents can be applied directly to skin or other surfaces."
+}

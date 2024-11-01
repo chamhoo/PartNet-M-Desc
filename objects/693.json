@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, white, modern-style faucet with lever handle.",
+    "part_description": "Features a curved lever handle, cylindrical spout, and base. The handle is positioned on top, spout extends forward, and base anchors the faucet.",
+    "internal_interaction_description": "The lever handle controls water flow through an internal valve mechanism. When lifted or turned, it adjusts the mix of hot and cold water, directing it through the spout. The smooth motion of the handle ensures precise control of water temperature and pressure.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop, interacting with plumbing to provide water. Users operate the lever to dispense water, adjusting flow and temperature for tasks like washing hands or dishes. Its sleek design complements modern bathroom or kitchen decor."
+}

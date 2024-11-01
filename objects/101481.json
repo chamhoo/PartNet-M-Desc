@@ -1,0 +1,6 @@
+{
+    "base_description": "Black circular fan with three blades.",
+    "part_description": "The fan consists of three curved blades, a central hub, and a circular protective frame. The blades are evenly spaced and attached to the hub, which is positioned centrally within the frame.",
+    "internal_interaction_description": "The blades are mounted on the central hub, which rotates to create airflow. The circular frame holds the hub and blades in place, ensuring stability and safety during operation. The even spacing of the blades allows for balanced rotation and efficient air movement.",
+    "external_interaction_description": "The fan interacts with its surroundings by moving air, providing cooling or ventilation. It requires an external power source to operate. When placed in a room, it circulates air to improve comfort for people nearby. The frame prevents accidental contact with the moving blades."
+}

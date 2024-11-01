@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown, rectangular open cardboard box.",
+    "part_description": "The box has four flaps, two on each side, and a rectangular base. The flaps are equal in size and positioned at the top edges.",
+    "internal_interaction_description": "The flaps can be folded inward or outward, allowing the box to open and close. The base supports the structure, while the flaps provide coverage and protection when closed.",
+    "external_interaction_description": "The box can be used to store or transport items. It interacts with external elements by being carried, filled, or emptied by people, and can be stacked with other boxes."
+}

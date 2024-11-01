@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, red-handled pruning shears with curved blades.",
+    "part_description": "Two red handles, one curved blade, one straight blade, central pivot. Handles are elongated and ergonomic; blades are metallic, sharp, and positioned at the front.",
+    "internal_interaction_description": "The two handles are connected by a central pivot, allowing them to move together. When the handles are squeezed, the blades close together, enabling cutting. The curved blade overlaps the straight blade, providing a scissor-like action for precise trimming.",
+    "external_interaction_description": "Designed for cutting small branches, stems, or plants. The ergonomic handles fit comfortably in a user's hand, providing leverage for cutting. The sharp blades interact with plant material, slicing through with minimal force, ideal for gardening tasks."
+}

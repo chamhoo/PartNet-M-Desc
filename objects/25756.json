@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, grey container with black handles and wheels.",
+    "part_description": "Includes a rectangular body, two parallel black handles on top, two ladder-like structures on sides, and four wheels underneath.",
+    "internal_interaction_description": "The handles are attached to the top surface for carrying. Ladder-like structures are fixed on the sides for support or climbing. Wheels are positioned at each corner to facilitate movement, ensuring stability and ease of transport.",
+    "external_interaction_description": "The object can be pushed or pulled using the handles. It interacts with the ground via wheels, allowing smooth movement. The ladder-like structures may be used by people to access the top, and the container can store or transport other items."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Large rectangular gray cabinet with multiple doors.",
+    "part_description": "The cabinet has three main sections, each with a door. The top features three drawers, and the bottom has larger storage compartments. Handles are centered on each door and drawer.",
+    "internal_interaction_description": "The drawers slide in and out, providing access to the top compartments. The doors swing open to reveal larger storage spaces below. Each section is separated by internal dividers, allowing organized storage within the cabinet.",
+    "external_interaction_description": "The cabinet can be placed against a wall and used for storing kitchen or office supplies. Users interact with it by opening drawers and doors to access stored items. The flat top surface can support additional objects or decorations."
+}

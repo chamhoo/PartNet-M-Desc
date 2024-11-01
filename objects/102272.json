@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, curved tape dispenser with beige wheel.",
+    "part_description": "Consists of a black body and a beige wheel. The body is curved, housing the wheel centrally, which holds the tape roll.",
+    "internal_interaction_description": "The beige wheel rotates within the black body, allowing the tape to be dispensed smoothly. The wheel is positioned to facilitate easy rotation and tension, ensuring the tape unwinds without jamming.",
+    "external_interaction_description": "The dispenser is used by pulling the tape from the wheel, cutting it on the serrated edge. It interacts with human hands for dispensing tape and can be placed on desks for accessibility."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with shelves and door.",
+    "part_description": "Contains three upper shelves and a lower cabinet door. The shelves are evenly spaced, rectangular, and positioned horizontally. The door is large, rectangular, and occupies the lower half of the cabinet.",
+    "internal_interaction_description": "The upper shelves provide storage space, allowing items to be organized separately. The lower cabinet door opens to reveal additional storage space, potentially with internal shelves for further organization. The shelves and door are integrated into the main structure, offering stability and support.",
+    "external_interaction_description": "The cabinet can be placed against a wall, used to store items like books or kitchenware. The door and shelves interact with users, who can open the door and place items on the shelves. The cabinet's flat top can also hold decorative items."
+}

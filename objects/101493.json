@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with five blades.",
+    "part_description": "The fan has five equally spaced, elongated blades attached to a central hub. A vertical rod extends upward from the hub. Each blade is flat and rectangular, symmetrically positioned around the hub.",
+    "internal_interaction_description": "The blades are connected to the central hub, which rotates around the vertical rod. This rotation is facilitated by an internal motor within the hub, allowing the blades to spin uniformly. The symmetrical arrangement ensures balanced movement and efficient air circulation.",
+    "external_interaction_description": "The ceiling fan interacts with the surrounding air, creating airflow to cool the environment. It is typically controlled by a switch or remote, allowing users to adjust speed settings. The fan's position on the ceiling maximizes air distribution across the room."
+}

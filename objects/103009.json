@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, compact espresso machine with modern design.",
+    "part_description": "Includes a main body, handle, drip tray, and control panel. The main body is cylindrical, the handle is horizontal, and the drip tray is flat and rectangular, positioned at the base.",
+    "internal_interaction_description": "The handle interacts with the internal brewing mechanism, allowing water to flow through coffee grounds. The control panel regulates temperature and pressure, while the drip tray collects excess liquid and grounds, preventing overflow.",
+    "external_interaction_description": "The machine connects to a power source for operation. Users interact with the handle to brew coffee and use the control panel to adjust settings. The drip tray is removable for easy cleaning and maintenance."
+}

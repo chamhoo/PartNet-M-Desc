@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet, medium size, gray color, modern style.",
+    "part_description": "Contains two doors and one drawer; doors are rectangular, positioned below the drawer, all in a symmetrical arrangement.",
+    "internal_interaction_description": "The drawer slides horizontally above the cabinet space, while the two doors swing open on vertical hinges, allowing access to the interior storage area. The doors meet at the center when closed, ensuring a seamless appearance with the drawer above.",
+    "external_interaction_description": "The cabinet can be placed against a wall, providing storage space in kitchens or bathrooms. Users interact by pulling the drawer and opening the doors to access contents, while the flat top surface can support additional objects or appliances."
+}

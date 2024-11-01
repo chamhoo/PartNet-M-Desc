@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige washing machine with a turquoise door.",
+    "part_description": "Includes a main rectangular body, circular door, control panel with knobs and buttons, and a drum inside. The door is turquoise and protrudes from the front.",
+    "internal_interaction_description": "The circular door connects to the front, allowing access to the drum inside. The control panel, located on the top front, interfaces with the internal mechanisms to manage washing cycles, water flow, and drum rotation.",
+    "external_interaction_description": "The washing machine interacts with users through the control panel and door. It connects to water and power supplies, draining used water externally. Users load laundry through the door and select settings via the panel."
+}

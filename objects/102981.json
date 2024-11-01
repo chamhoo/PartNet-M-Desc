@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white window with blue glass panes.",
+    "part_description": "Two blue glass panes, white frame, handles on each pane, positioned side by side.",
+    "internal_interaction_description": "The panes are held within the frame, with handles allowing sliding movement. The frame supports the panes structurally, ensuring they are securely fastened yet mobile for opening and closing.",
+    "external_interaction_description": "The window can be opened or closed by a person using the handles. It allows light and air to pass through when open, while providing insulation and protection when closed."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, red and black USB flash drive.",
+    "part_description": "Consists of a red rectangular USB connector and a black curved cover. The connector is metallic, and the cover is plastic with branding.",
+    "internal_interaction_description": "The USB connector fits snugly into the black cover, protecting the metal contacts when not in use. The cover slides over the connector, ensuring it stays attached and prevents dust or damage.",
+    "external_interaction_description": "The USB flash drive connects to computers or devices via the USB port, allowing data transfer. It can be easily carried due to its compact size, and interacts with external systems for data storage and retrieval."
+}

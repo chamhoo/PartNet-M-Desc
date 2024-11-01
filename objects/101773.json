@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver and black oven with knobs.",
+    "part_description": "Features three control knobs, a digital display, a glass door, and a ribbed stovetop. Knobs and display are on the front panel. The door is below the panel, and the stovetop is on top.",
+    "internal_interaction_description": "The control knobs adjust oven and stovetop settings, interacting with the internal heating elements. The digital display provides feedback on temperature and time. The glass door allows visibility and access to the oven's interior, while the stovetop supports cooking utensils.",
+    "external_interaction_description": "The oven interacts with users through the control knobs and digital display for cooking adjustments. It accommodates cookware on the stovetop and inside the oven. External power is required for operation, and it fits into kitchen cabinetry for integrated installation."
+}

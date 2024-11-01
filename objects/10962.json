@@ -1,0 +1,6 @@
+{
+    "base_description": "Black scissors with angular handles.",
+    "part_description": "Two blades, two handles, central pivot; angular, symmetrical design.",
+    "internal_interaction_description": "The two blades are connected at a central pivot point, allowing them to rotate around this axis. The handles provide leverage for the user to apply force, causing the blades to come together for cutting. The angular design ensures a firm grip and precise movement.",
+    "external_interaction_description": "The scissors interact with materials like paper, fabric, or string, cutting them when the handles are squeezed together. The user holds the handles, applying pressure to operate the blades. The sharp edges of the blades facilitate clean cuts through various materials."
+}

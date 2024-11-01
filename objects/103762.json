@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular briefcase with handle, open lid.",
+    "part_description": "Contains a handle, hinges, and internal compartments. The handle is centered on top. The lid and base are rectangular, connected by hinges. Inside are various compartments for organization.",
+    "internal_interaction_description": "The lid and base are connected by hinges, allowing the case to open and close. Internal compartments are arranged to hold items securely, preventing movement during transport. The handle facilitates carrying, distributing weight evenly when closed.",
+    "external_interaction_description": "Designed for carrying documents or items, the briefcase interacts with users by providing organized storage. It can be easily transported by hand using the handle. When placed on surfaces, its flat base ensures stability."
+}

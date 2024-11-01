@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact rectangular camera, gray and brown.",
+    "part_description": "Features a lens, buttons, viewfinder, and grip. Lens is centered, buttons on top, viewfinder on the back, grip on the side.",
+    "internal_interaction_description": "The lens extends and retracts for focusing. Buttons control power and settings, interacting with internal electronics to capture images. The viewfinder aligns with the lens for framing shots, while the grip ensures stable handling.",
+    "external_interaction_description": "Interacts with users for photography, connects to external devices via ports for data transfer. The lens captures light from external scenes, and the buttons allow user input for various functions."
+}

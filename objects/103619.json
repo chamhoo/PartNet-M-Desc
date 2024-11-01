@@ -1,0 +1,6 @@
+{
+    "base_description": "Green spray bottle with blue trigger, medium size.",
+    "part_description": "Includes a green cylindrical bottle, blue trigger, purple handle, and nozzle. The bottle is the base, with the trigger assembly on top.",
+    "internal_interaction_description": "The trigger mechanism operates the internal pump, drawing liquid from the bottle through a tube. Squeezing the trigger compresses a spring, forcing liquid through the nozzle to create a spray.",
+    "external_interaction_description": "Designed for human use, the spray bottle dispenses liquids when the trigger is squeezed. It interacts with external surfaces by applying the liquid, often used for cleaning or gardening tasks."
+}

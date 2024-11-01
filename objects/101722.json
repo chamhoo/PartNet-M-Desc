@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue pen with gray cap, cylindrical shape.",
+    "part_description": "Consists of a blue cylindrical body and a gray cap. The pen body is long and slender, with a clip on the cap. The cap fits snugly on the top of the pen.",
+    "internal_interaction_description": "The pen's cap fits securely over the tip, protecting the ink from drying out. The clip on the cap allows it to attach to pockets or notebooks. The ink flows from an internal reservoir to the tip when pressure is applied.",
+    "external_interaction_description": "The pen interacts with paper by transferring ink to create marks. It can be held comfortably in hand for writing. The clip allows it to attach to clothing or other materials for easy access and storage."
+}

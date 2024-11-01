@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white wooden cabinet with glass doors.",
+    "part_description": "Two glass doors on top, two drawers in the middle, two solid doors at the bottom. Rectangular shape with a flat top.",
+    "internal_interaction_description": "The glass doors open to reveal shelves for storage, allowing visibility of contents. The drawers slide open and closed, providing additional storage space. The solid doors at the bottom open outward, concealing more storage shelves. Each part functions independently but contributes to overall storage efficiency.",
+    "external_interaction_description": "The cabinet can be placed against a wall, serving as storage for items like books or dishes. Its glass doors allow for display of items, interacting visually with the room. The drawers and doors are operated manually, requiring interaction with users for access to stored items."
+}

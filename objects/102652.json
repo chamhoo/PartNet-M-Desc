@@ -1,0 +1,6 @@
+{
+    "base_description": "White, round, modern toilet with a lid.",
+    "part_description": "Includes a round bowl, flat lid, and rectangular tank. The bowl is wide and tapers downward, the lid is circular and flat, and the tank is rectangular and attached at the back.",
+    "internal_interaction_description": "The lid covers the bowl, providing a seal and aesthetic finish. The tank connects to the bowl, housing the flushing mechanism. The bowl and tank work together to manage water flow and waste disposal efficiently.",
+    "external_interaction_description": "The toilet interacts with plumbing to receive water and dispose of waste. It requires human interaction for flushing and maintenance. Its design allows for easy cleaning and comfortable use in bathrooms."
+}

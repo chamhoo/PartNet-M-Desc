@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular box with a front panel.",
+    "part_description": "Contains a top lid, front door, and internal compartments. The lid is flat, the door is centrally located, and compartments are visible through a front window.",
+    "internal_interaction_description": "The front door opens to provide access to internal compartments. Compartments are arranged vertically, allowing for organized storage. The lid may also open for additional access or ventilation.",
+    "external_interaction_description": "The object can be placed on a flat surface and interacted with by opening the front door. It may store items or connect with other devices for functional use."
+}

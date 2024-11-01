@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window, gray frame, two panels.",
+    "part_description": "Two rectangular glass panels, one fixed and one sliding, within a gray frame. The sliding panel moves horizontally along a track within the frame, allowing for opening and closing.",
+    "internal_interaction_description": "The sliding panel moves along a horizontal track within the frame, allowing it to overlap with the fixed panel when opened. The frame holds both panels securely, ensuring stability and smooth movement. The track mechanism facilitates easy sliding, with stoppers preventing excessive movement.",
+    "external_interaction_description": "The window can be opened to allow air and light to enter a room. It serves as a barrier against external elements like rain and wind when closed. People can operate the sliding mechanism to adjust ventilation. The window integrates into walls, providing visibility and insulation."
+}

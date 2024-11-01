@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular white cabinet with sleek design.",
+    "part_description": "Two vertical doors, four shelves inside, metal handles centered on doors.",
+    "internal_interaction_description": "The doors swing open on hinges, revealing four evenly spaced shelves for storage. The shelves are fixed, providing stable support for items placed inside. The handles allow for easy opening and closing of the doors.",
+    "external_interaction_description": "The cabinet can be placed against a wall, serving as storage for various items. It interacts with users through the handles for access, and with its flat top surface, it can hold decorative items or additional storage bins."
+}

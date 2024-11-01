@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular safe with a metallic lock.",
+    "part_description": "The safe has a single door with a metallic lock situated on the front. The lock is rectangular, featuring a circular dial and a small red button. The safe is box-shaped, with a flat top and smooth surfaces.",
+    "internal_interaction_description": "The door is hinged on one side, allowing it to swing open when unlocked. The metallic lock mechanism interacts with the door, securing it in place when locked and releasing it when the correct combination is entered on the dial or button. The internal space is likely hollow for storage.",
+    "external_interaction_description": "The safe is designed to interact with users who input a combination to unlock it. It can be placed on floors or mounted in secure locations. The safe's exterior is robust, providing protection against unauthorized access or environmental factors."
+}

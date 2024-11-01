@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, rectangular agricultural trailer with large wheels.",
+    "part_description": "The trailer has two large wheels on either side, a rectangular body with a yellow cylindrical component on top, and angled side panels. It features a rear hitch for attachment.",
+    "internal_interaction_description": "The wheels support the trailer's weight, allowing movement. The yellow cylindrical component likely functions as a cover or support for the top. The angled side panels help contain materials inside the trailer, directing them towards the center. The hitch connects to a vehicle for towing.",
+    "external_interaction_description": "The trailer attaches to a tractor or similar vehicle via the hitch for transportation. It interacts with external materials by carrying and containing them during transit. The wheels enable movement across various terrains, while the structure supports loading and unloading operations."
+}

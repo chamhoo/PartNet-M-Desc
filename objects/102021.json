@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray and red eraser.",
+    "part_description": "Consists of two parts: a large gray eraser and a smaller red sleeve. The gray part is rectangular and the red part is a sleeve covering one end.",
+    "internal_interaction_description": "The gray eraser fits snugly within the red sleeve, which holds it in place. The sleeve provides structural support, allowing the gray eraser to be used effectively without slipping or breaking.",
+    "external_interaction_description": "The eraser interacts with paper to remove pencil marks. The red sleeve provides a grip for users, preventing direct contact with the eraser and ensuring precision during use."
+}

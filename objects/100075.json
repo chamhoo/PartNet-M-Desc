@@ -1,0 +1,6 @@
+{
+    "base_description": "Two-wheeled cart with a metal frame.",
+    "part_description": "Consists of two large black wheels, a metal frame, two circular rings, and a curved handle. The frame is rectangular, supporting the rings, with the handle extending from the rear.",
+    "internal_interaction_description": "The metal frame supports the entire structure, with the rings mounted securely on top. The wheels are attached to the frame's sides, allowing for movement. The handle is connected to the frame, providing leverage for pushing or pulling the cart.",
+    "external_interaction_description": "The cart interacts with the ground through its wheels, enabling transport of items. It can be pushed or pulled by a person using the handle. The rings may hold specific objects or tools, depending on their size and shape."
+}

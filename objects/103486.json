@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, silver toaster with modern design.",
+    "part_description": "Two slots on top, three buttons on front, one lever and knob on side, compact body.",
+    "internal_interaction_description": "The lever lowers bread into the slots, activating the heating elements inside. The knob adjusts the timer, controlling how long the elements remain active. Buttons may control additional functions like defrosting or reheating. The internal mechanism pops the bread up when toasting is complete.",
+    "external_interaction_description": "The toaster requires an electrical outlet to function. Users insert bread slices into the slots and adjust settings via buttons and the knob. Once toasting is complete, the bread automatically pops up for easy retrieval. The toaster's exterior remains cool to touch, ensuring user safety."
+}

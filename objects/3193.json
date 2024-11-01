@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with wheels and armrests.",
+    "part_description": "The chair has a cushioned seat, backrest, two armrests, and a five-wheel base. The seat and backrest are rectangular, with armrests on each side. The base is star-shaped with five legs, each ending in a caster wheel.",
+    "internal_interaction_description": "The backrest is connected to the seat, providing support. Armrests are attached to the sides of the seat, offering arm support. The five-wheel base is connected to the seat, allowing rotation and movement. The wheels enable smooth gliding on surfaces.",
+    "external_interaction_description": "The chair interacts with users by providing seating comfort and mobility. It can be adjusted for height and tilt to suit user preferences. The wheels allow it to move across floors, making it easy to reposition or slide under desks."
+}

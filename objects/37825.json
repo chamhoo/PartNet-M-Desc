@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with black armrests and wheels.",
+    "part_description": "The chair has a cushioned seat and backrest, two armrests, and a five-wheel base. The seat and backrest are gray and rectangular, while the armrests are black. The wheels are arranged in a star pattern at the base.",
+    "internal_interaction_description": "The seat is connected to the backrest, providing support and comfort. The armrests are attached to the sides of the chair, allowing for arm support. The five-wheel base facilitates smooth movement and rotation, with each wheel supporting the chair's stability and mobility.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, allowing it to move easily. It provides seating support for a person, accommodating different postures with its cushioned surfaces. The armrests offer additional comfort, and the chair's height and tilt can often be adjusted to fit various desk heights."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern desk lamp, cylindrical head, metallic finish.",
+    "part_description": "Consists of a cylindrical head, adjustable arm, round base, and power cord. The head is mounted on the arm, which is connected to the base. The power cord extends from the base.",
+    "internal_interaction_description": "The cylindrical head can be adjusted via the arm for directing light. The arm pivots on the base, allowing for height and angle adjustments. The power cord connects internally to the bulb holder, enabling electrical flow when plugged in.",
+    "external_interaction_description": "The lamp provides illumination when connected to a power source. Its adjustable head allows users to direct light onto specific areas, ideal for reading or working. The base stabilizes the lamp on flat surfaces, while the metallic finish complements modern decor."
+}

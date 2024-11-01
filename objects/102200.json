@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular black bin with yellow lid.",
+    "part_description": "The bin has a rectangular body, two side wheels, and a hinged lid. The lid is yellow and fits snugly on top. The wheels are attached at the bottom rear for easy movement.",
+    "internal_interaction_description": "The hinged lid opens and closes to allow access to the bin's interior, securing waste inside. The wheels interact with the axle, enabling the bin to be tilted and rolled for transport. The lid's fit ensures minimal odor escape.",
+    "external_interaction_description": "The bin interacts with users who open the lid to deposit waste. It can be wheeled to different locations by tilting it onto its wheels. The bin is designed to be compatible with waste collection systems for easy emptying."
+}

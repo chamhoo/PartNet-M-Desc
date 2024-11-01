@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, matte black modern faucet.",
+    "part_description": "One cylindrical body, horizontal spout, and a small lever on top. The body is tall, with the spout extending horizontally from the upper part, and the lever positioned above the body.",
+    "internal_interaction_description": "The lever on top controls the flow of water through the faucet. When moved, it opens or closes the internal valve, allowing water to pass through the cylindrical body and out of the horizontal spout.",
+    "external_interaction_description": "The faucet interacts with plumbing systems to provide water. Users operate the lever to start or stop water flow, adjusting temperature and pressure as needed. It is typically installed on sinks or countertops, providing water for various tasks like washing hands or dishes."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular gray door with minimal design.",
+    "part_description": "The door consists of a single rectangular panel with a small round doorknob positioned on one side. The panel is flat and smooth, and the doorknob is centrally located horizontally, near the vertical edge.",
+    "internal_interaction_description": "The door panel is attached to a frame, allowing it to pivot open or closed around hinges not visible in the image. The doorknob is designed to interact with a latch mechanism inside the door, enabling the door to be securely closed or easily opened.",
+    "external_interaction_description": "The door interacts with its surrounding frame, fitting snugly within it when closed. It can be opened by turning the doorknob, allowing passage for people or objects. The door may also serve as a barrier for privacy or security, separating spaces or rooms."
+}

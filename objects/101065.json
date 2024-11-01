@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wooden cart with woven sides and wheels.",
+    "part_description": "The cart has two large circular wheels, a rectangular base, and woven sides. The wheels are positioned at the bottom, and the woven sides are upright and parallel.",
+    "internal_interaction_description": "The wheels are attached to the base, allowing it to roll. The woven sides are fixed to the base, providing structure and stability. The arrangement ensures the cart can carry items securely while being mobile.",
+    "external_interaction_description": "The cart can be pushed or pulled by people, used to transport goods. It interacts with the ground through its wheels, allowing movement. The woven sides can hold various items, making it useful for carrying loads."
+}

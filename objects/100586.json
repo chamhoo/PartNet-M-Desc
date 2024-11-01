@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray folding chair with a curved backrest.",
+    "part_description": "Includes a curved backrest, flat seat, two front legs, two rear legs, and folding hinges. All parts are metal, uniformly gray, and the legs have black caps.",
+    "internal_interaction_description": "The backrest connects to the seat via hinges, allowing folding. The legs are attached to the seat and backrest, providing stability. Hinges enable the chair to collapse for easy storage, with the legs folding inward beneath the seat.",
+    "external_interaction_description": "The chair supports a seated person, providing a stable surface. It can be easily moved and stored due to its folding mechanism. The chair's metal construction supports moderate weight, and the black caps prevent slipping on smooth surfaces."
+}

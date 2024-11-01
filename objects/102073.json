@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, red and yellow pliers with a metallic head.",
+    "part_description": "Two red handles, yellow grip, and metallic jaws. Handles are curved, jaws are flat with a cutting edge, and grip is centered.",
+    "internal_interaction_description": "The handles pivot around a central joint, allowing the jaws to open and close. The yellow grip provides stability and comfort, enhancing the leverage when pressure is applied to the handles, enabling the cutting edge to function effectively.",
+    "external_interaction_description": "The pliers are used to grip, twist, or cut objects such as wires. The user applies force to the handles, which translates into a clamping or cutting action at the jaws, interacting with materials like metal or plastic."
+}

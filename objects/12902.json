@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, gray and white keyboard.",
+    "part_description": "Contains approximately 78 keys, arranged in rows, with a rectangular shape and standard size. Positioned on a slightly elevated base.",
+    "internal_interaction_description": "Keys are mounted on a base that allows for individual depression and rebound. Each key interacts with a switch beneath, which registers a keystroke when pressed. The layout supports efficient typing with keys positioned for ergonomic access.",
+    "external_interaction_description": "Connects to computers or tablets via wireless or USB. Users interact by pressing keys to input data or commands. Compatible with various operating systems and used for typing, gaming, and data entry."
+}

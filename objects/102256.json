@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular gray trash bin with black lid.",
+    "part_description": "Includes a main gray body, black hinged lid, and two black wheels at the bottom rear for mobility.",
+    "internal_interaction_description": "The black lid is attached to the top of the main body with hinges, allowing it to open and close smoothly. The wheels are affixed to the bottom rear, enabling easy tilting and rolling of the bin for transport.",
+    "external_interaction_description": "The bin is designed to hold waste, interacting with users who open the lid to deposit trash. The wheels allow it to be easily moved to different locations, such as from indoors to curbside for collection."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White plastic bucket with a metal handle.",
+    "part_description": "Cylindrical body, circular lid, metal handle attached on sides.",
+    "internal_interaction_description": "The lid fits snugly on the bucket's rim, providing a secure seal. The handle is attached to the sides, allowing it to pivot for carrying. The bucket's interior holds contents securely, preventing spillage when the lid is on.",
+    "external_interaction_description": "The bucket is carried by its handle, allowing easy transport. It can be placed on flat surfaces for stability. The lid can be removed to access contents, and the bucket can be filled with liquids or solids for various uses."
+}

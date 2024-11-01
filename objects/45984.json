@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white cabinet with drawer and door.",
+    "part_description": "One top drawer, one lower door, metal handles on each, rectangular shape.",
+    "internal_interaction_description": "The drawer slides in and out on metal tracks, while the door swings open on hinges. The handles are fixed to the drawer and door, providing grip points for operation.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a counter. It interacts with users who open the drawer and door to store or retrieve items. It may also interact with adjacent furniture in a room setting."
+}

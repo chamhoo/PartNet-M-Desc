@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, white, folding chair with simple design.",
+    "part_description": "Consists of a rectangular frame, seat, and backrest. The frame is angular with rounded edges, the seat is flat and rectangular, and the backrest is slightly angled. Parts are interconnected at pivot points for folding.",
+    "internal_interaction_description": "The seat hinges on the main frame, allowing it to fold up against the backrest. The backrest is connected to the frame, providing support. The frame supports the overall structure, enabling stability when unfolded. Pivot points allow smooth folding and unfolding of the chair.",
+    "external_interaction_description": "The chair interacts with the ground to provide stable seating. It can be easily carried and stored due to its folding nature. Designed for human use, it supports weight when seated and can be placed on various surfaces. Suitable for indoor and outdoor use."
+}

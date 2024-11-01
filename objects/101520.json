@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular purple box with a cylindrical pump.",
+    "part_description": "The object consists of a rectangular base and a cylindrical pump on top. The base is smooth and flat, while the pump is centrally positioned and vertically oriented.",
+    "internal_interaction_description": "The cylindrical pump likely includes a mechanism that interacts with the interior of the rectangular base to dispense a substance. The pump's vertical movement facilitates the transfer of contents from inside the base to the outside.",
+    "external_interaction_description": "The object is designed for interaction with hands, allowing users to press the pump to dispense contents. It is typically placed on flat surfaces like countertops, interacting with the environment by providing easy access to its contents."
+}

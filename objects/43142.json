@@ -1,0 +1,6 @@
+{
+    "base_description": "White office chair with black frame and wheels.",
+    "part_description": "Includes a cushioned seat, backrest, five wheels, and a central support column. The seat and backrest are rectangular, positioned horizontally and vertically, respectively.",
+    "internal_interaction_description": "The seat is connected to the central support column, allowing height adjustment. The backrest is attached to the column, providing support. The wheels are fixed to a five-legged base, enabling movement.",
+    "external_interaction_description": "Designed for user comfort and mobility, it allows easy movement across surfaces. The height-adjustable seat accommodates different desk heights, while the backrest supports posture during prolonged use."
+}

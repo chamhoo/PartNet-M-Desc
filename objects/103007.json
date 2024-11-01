@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray trash bin with a curved lid.",
+    "part_description": "The bin has a rectangular body and a curved lid. The lid is attached on top and is slightly smaller than the body. The body is tall and narrow, providing ample space for waste. The lid is hinged for easy opening.",
+    "internal_interaction_description": "The lid is hinged to the top of the bin, allowing it to open and close smoothly. This mechanism ensures that the contents are securely contained while providing easy access. The lid's design prevents odors from escaping and keeps the trash concealed.",
+    "external_interaction_description": "The trash bin interacts with its environment by being placed in kitchens, offices, or public spaces. Users lift the lid to dispose of waste, and the bin's design allows it to fit against walls or in corners, optimizing space usage. The lid can be easily removed for cleaning or emptying."
+}

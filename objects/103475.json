@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular red and gray toaster.",
+    "part_description": "Two slots on top, lever and knob on side, compact size.",
+    "internal_interaction_description": "The lever lowers slices into the slots, activating the heating elements inside. The knob adjusts the timer, controlling the duration of heating. Once the set time elapses, the internal mechanism releases the lever, popping the slices up.",
+    "external_interaction_description": "The toaster interacts with bread slices, heating them to desired crispness. Users adjust settings via the knob and lever. It requires a power source to function, typically plugged into an electrical outlet. External surfaces remain cool for safe handling."
+}

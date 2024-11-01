@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cubic safe with a glass door.",
+    "part_description": "The safe has a glass door, two hinges, a handle, and a combination lock on the front. It is cubic in shape with four small feet at the bottom corners.",
+    "internal_interaction_description": "The door is attached to the main body via two hinges, allowing it to swing open and closed. The handle provides a grip for opening, while the combination lock secures the door, preventing unauthorized access. The feet elevate the safe slightly off the ground.",
+    "external_interaction_description": "The safe is designed to securely store valuable items, interacting with users through the combination lock for access. It can be placed on various surfaces and is intended to deter theft or unauthorized entry."
+}

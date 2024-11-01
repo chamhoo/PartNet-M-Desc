@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white window with shutters.",
+    "part_description": "Consists of a central window with grid pattern and two side shutters. The window is rectangular with a central vertical handle. Shutters are positioned on each side, matching the window's height.",
+    "internal_interaction_description": "The window's central handle allows it to be opened or closed, while the grid pattern provides structural support and aesthetic design. The side shutters can be adjusted to control light and privacy, pivoting on hinges attached to the window frame.",
+    "external_interaction_description": "The window interacts with external elements by allowing light and air to pass when open. It provides a barrier against weather and noise when closed. The shutters can be adjusted to block or filter sunlight and provide privacy, interacting with the surrounding environment and occupants."
+}

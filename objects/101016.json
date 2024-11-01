@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular white remote with colorful buttons.",
+    "part_description": "Features numerous small buttons arranged in rows, with distinct colors like red, green, and blue. The top includes a sensor, and the bottom has a circular green logo.",
+    "internal_interaction_description": "Buttons are pressed to send signals via the sensor at the top. Each button corresponds to a specific function, interacting with internal circuits to activate commands.",
+    "external_interaction_description": "Used to control electronic devices like TVs or stereos. The remote sends infrared signals to compatible devices, requiring a line of sight for effective communication."
+}

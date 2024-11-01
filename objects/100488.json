@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, red and white golf cart with seats.",
+    "part_description": "Two seats, steering wheel, four wheels, and rear cargo area. Seats are positioned side by side at the front, with a steering wheel in front of the left seat. The wheels are at each corner, and the cargo area is behind the seats.",
+    "internal_interaction_description": "The steering wheel connects to the front wheels, allowing directional control. The seats provide seating for two passengers, with the rear cargo area for storage. The wheels support the vehicle's movement, and the structure integrates these parts for stability and function.",
+    "external_interaction_description": "Designed for transporting people and small items on golf courses or similar terrains. It interacts with the ground via wheels, providing mobility. Passengers interact by sitting and steering, while its size allows maneuverability in confined spaces, making it suitable for recreational and utility purposes."
+}

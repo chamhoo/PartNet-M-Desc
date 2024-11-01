@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular dishwasher with a simple design.",
+    "part_description": "Includes a front door, control panel, handle, and internal racks. The door is on the front, with a handle and control panel on the top edge, and racks are inside for holding dishes.",
+    "internal_interaction_description": "The control panel allows users to select washing settings. The door opens downward, revealing internal racks where dishes are arranged. Water jets and detergent interact with dishes, cleaning them through programmed cycles.",
+    "external_interaction_description": "The dishwasher connects to plumbing for water intake and drainage. Users load dishes through the front door, select settings on the control panel, and unload clean dishes. It requires an electrical connection to operate."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, boxy coffee machine with minimalist design.",
+    "part_description": "Features include buttons, a knob, a spout, and a drip tray. The buttons and knob are on the front panel, the spout is centrally located, and the drip tray is at the bottom.",
+    "internal_interaction_description": "The buttons and knob control the machine's functions, such as brewing and dispensing coffee. The spout directs the coffee into a cup, while the drip tray collects any excess liquid, preventing spills.",
+    "external_interaction_description": "Users interact with the machine by pressing buttons and turning the knob to brew coffee. A cup is placed under the spout to collect the coffee, and the drip tray can be removed for cleaning."
+}

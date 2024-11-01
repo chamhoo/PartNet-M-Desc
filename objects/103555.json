@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver rectangular toaster with black accents.",
+    "part_description": "Two slots on top, lever on side, control panel below slots, compact rectangular shape.",
+    "internal_interaction_description": "The lever lowers bread into the slots, activating internal heating elements. The control panel adjusts the toasting time, and once complete, the heating elements deactivate, releasing the lever to pop up the bread.",
+    "external_interaction_description": "The toaster is placed on a kitchen counter, plugged into an electrical outlet. Users insert bread slices into the slots, adjust settings via the control panel, and push the lever to start toasting. Toast pops up when done, ready for removal."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with a door.",
+    "part_description": "Includes one door with a handle, a top drawer, and a rectangular body. The door is positioned below the drawer, with the handle on the left side.",
+    "internal_interaction_description": "The door swings open on hinges, allowing access to the internal storage space. The drawer slides out from the top section, providing additional storage. Both parts operate independently, with the door providing access to larger items and the drawer suitable for smaller items.",
+    "external_interaction_description": "The cabinet can be placed in kitchens or bathrooms, interacting with users by providing storage space for utensils, toiletries, or cleaning supplies. The handle facilitates opening, while the flat top can hold decorative items or small appliances."
+}

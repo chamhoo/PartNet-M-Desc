@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical paper lantern with a black hook.",
+    "part_description": "Consists of a spherical paper body and a black hook on top. The paper body is smooth with subtle ridges, and the hook is small and centrally positioned.",
+    "internal_interaction_description": "The paper body forms a hollow sphere, supported internally by a wire frame that maintains its shape. The black hook is attached to the wire frame, allowing for hanging while maintaining the lantern's structure and balance.",
+    "external_interaction_description": "Designed to be hung from ceilings or hooks, providing ambient lighting when a light source is placed inside. The lantern interacts with light, diffusing it softly through the paper, creating a warm and decorative illumination effect."
+}

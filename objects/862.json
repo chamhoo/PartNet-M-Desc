@@ -1,0 +1,6 @@
+{
+    "base_description": "White, curved faucet with dual handles.",
+    "part_description": "Includes a curved spout and two cylindrical handles, one red and one blue, positioned symmetrically on either side of the base.",
+    "internal_interaction_description": "The handles control water flow through the spout. Turning the red handle adjusts hot water flow, while the blue handle controls cold water. Both handles are connected internally to valves that regulate water pressure and temperature through the spout.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop, allowing water dispensing for washing hands, dishes, etc. Users interact by turning the handles to adjust water temperature and flow. It connects to plumbing for water supply and drainage."
+}

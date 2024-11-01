@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white cabinet with four doors.",
+    "part_description": "The cabinet has four doors, arranged in two rows of two. Each door is rectangular, with handles positioned horizontally near the edge.",
+    "internal_interaction_description": "The doors are hinged and open outward, allowing access to the internal compartments. Each door can be opened independently, providing flexible access to different sections of the cabinet.",
+    "external_interaction_description": "The cabinet is designed to be placed against a wall, providing storage space. It interacts with users through the opening and closing of doors, and can hold various items inside."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, flat, grey remote control.",
+    "part_description": "Features multiple rectangular and circular buttons arranged in rows on the surface.",
+    "internal_interaction_description": "Buttons are arranged to function independently, activating specific circuits when pressed to send signals.",
+    "external_interaction_description": "Used to control electronic devices remotely, sending signals to adjust settings or power devices on/off."
+}

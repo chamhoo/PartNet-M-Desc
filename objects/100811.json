@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, silver remote with blue buttons.",
+    "part_description": "Features numerous circular buttons, a power button, directional pad, and numeric keypad arranged vertically.",
+    "internal_interaction_description": "Buttons connect to internal circuitry that sends signals to control devices. The power button activates or deactivates the device, while the directional pad navigates menus. Numeric buttons allow channel selection.",
+    "external_interaction_description": "The remote interacts with electronic devices via infrared signals, allowing users to control functions like power, volume, and channel selection from a distance."
+}

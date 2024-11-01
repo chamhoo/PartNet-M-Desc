@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular keyboard with black corners.",
+    "part_description": "Contains multiple square keys arranged in rows, black corners, and a USB cable extending from one side.",
+    "internal_interaction_description": "The keys are evenly spaced and likely connected to an internal circuit board, which registers keystrokes when pressed. The black corners may provide structural support or aesthetic design. The USB cable is connected to the internal components to transmit data.",
+    "external_interaction_description": "The keyboard connects to external devices via the USB cable, allowing users to input data. It can be placed on flat surfaces for stability during use, and the keys are pressed by the user's fingers to interact with connected devices."
+}

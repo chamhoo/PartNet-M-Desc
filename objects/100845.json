@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black control panel with switches and lights.",
+    "part_description": "Contains one toggle switch, two indicator lights, and one knob. The toggle switch is silver and centrally located. Red and green lights are on the left and right of the switch. A black knob is on the right side.",
+    "internal_interaction_description": "The toggle switch controls the state of the device, potentially activating or deactivating circuits. The indicator lights reflect the operational status, with the red light possibly indicating an error or off state, and the green light indicating normal operation. The knob may adjust settings like volume or intensity.",
+    "external_interaction_description": "The control panel interfaces with users who can manipulate the switch and knob to operate machinery or systems. The lights provide visual feedback to the user. It likely connects to other electronic components or systems, enabling control and monitoring of external processes or devices."
+}

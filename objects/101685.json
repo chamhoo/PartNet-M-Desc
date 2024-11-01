@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray pen with detachable cap, cylindrical shape.",
+    "part_description": "Consists of a long cylindrical body and a small removable cap. The body is uniform in shape, and the cap fits snugly over the tip.",
+    "internal_interaction_description": "The cap securely attaches to the pen's tip, preventing ink from drying. The body houses the ink reservoir, which feeds ink to the tip for writing when the cap is removed.",
+    "external_interaction_description": "The pen is held by hand for writing on paper. The cap can be placed on the pen's opposite end when in use, ensuring it is not misplaced."
+}

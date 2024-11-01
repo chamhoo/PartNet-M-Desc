@@ -1,0 +1,6 @@
+{
+    "base_description": "Small rectangular green lighter with metallic top.",
+    "part_description": "Features a green plastic body, metallic top, ignition wheel, and fuel lever. The ignition wheel is centrally located on the top, with the fuel lever adjacent. The body is rectangular and elongated.",
+    "internal_interaction_description": "The ignition wheel, when spun, creates a spark that ignites the fuel released by pressing the fuel lever. The metallic top houses these components, ensuring they operate smoothly together to produce a flame.",
+    "external_interaction_description": "The lighter is handheld, used to ignite materials such as candles or cigarettes. It interacts with the user's hand for operation, requiring a thumb to spin the wheel and press the lever simultaneously to produce a flame."
+}

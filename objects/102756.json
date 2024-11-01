@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, maroon kettle with silver handle.",
+    "part_description": "Includes a round body, spout, lid, and handle. The handle is silver with a black grip, attached to the top. The spout protrudes from the side. The lid fits on top.",
+    "internal_interaction_description": "The handle is attached to the body, providing a grip for pouring. The lid covers the opening, preventing spillage and retaining heat. The spout directs liquid flow when pouring. All parts are integrated to function as a kettle.",
+    "external_interaction_description": "The kettle is used to heat liquids, interacting with heat sources like stoves. It is handled by people via the grip, allowing safe pouring. The spout directs liquid into cups or containers, interacting with them during use."
+}

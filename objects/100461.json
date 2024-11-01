@@ -1,0 +1,6 @@
+{
+    "base_description": "White cylindrical bucket with a black handle.",
+    "part_description": "The bucket has a cylindrical body with a smooth surface. It features a black handle attached at two opposite points near the top edge, allowing for easy carrying.",
+    "internal_interaction_description": "The handle is attached to the bucket's top edge, allowing it to pivot for carrying or resting. The cylindrical shape provides stability and a large open top for filling and emptying contents easily.",
+    "external_interaction_description": "The bucket can be filled with various materials like water or sand. The handle allows for easy transportation by a person, and its shape enables it to fit under taps or be stacked with similar buckets."
+}

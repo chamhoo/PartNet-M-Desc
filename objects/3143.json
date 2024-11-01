@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern office chair, gray, with wheels and armrests.",
+    "part_description": "The chair has a high backrest, a flat seat, two armrests, a swivel base with five legs, and wheels. The backrest and seat are padded and attached. The armrests are metal, positioned on each side.",
+    "internal_interaction_description": "The backrest is connected to the seat, providing support and comfort. The armrests are attached to both the seat and backrest, offering lateral support. The swivel base allows for 360-degree rotation, and the wheels enable smooth movement across surfaces.",
+    "external_interaction_description": "The chair interacts with users by providing seating comfort and mobility. It can be adjusted for height and moved easily due to its wheels, making it suitable for use at desks or in office environments. The armrests support the user's arms, reducing strain during prolonged use."
+}

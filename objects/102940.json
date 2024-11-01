@@ -1,0 +1,6 @@
+{
+    "base_description": "Green and black mechanical pencil, medium size.",
+    "part_description": "Consists of a green grip, black barrel, green clip, and tip. The barrel is cylindrical, with a retractable lead mechanism. The clip is attached near the top, and the tip is conical.",
+    "internal_interaction_description": "The retractable lead advances through the conical tip when the top is pressed. The grip provides comfort, and the clip allows attachment to surfaces. The internal mechanism ensures smooth lead advancement and retraction.",
+    "external_interaction_description": "The pencil interacts with paper to create marks, held by users for writing or drawing. The clip can attach to notebooks or pockets for easy carrying. Its ergonomic design facilitates comfortable, extended use."
+}

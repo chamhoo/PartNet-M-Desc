@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, narrow, gray cabinet with modern design.",
+    "part_description": "The cabinet has a single door with a handle, vertical panels, and a flat top. It is rectangular and stands upright.",
+    "internal_interaction_description": "The cabinet door is attached with hinges, allowing it to swing open for access to internal storage space. The handle is positioned for easy grip, facilitating the opening and closing of the door.",
+    "external_interaction_description": "The cabinet can be placed against a wall or between other furniture pieces. It interacts with users by providing storage space, accessed by opening the door using the handle."
+}

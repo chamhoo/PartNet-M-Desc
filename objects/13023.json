@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white keyboard with raised keys.",
+    "part_description": "Contains multiple square keys arranged in rows and columns. Keys are uniformly sized and positioned on a rectangular base.",
+    "internal_interaction_description": "Keys are designed to depress when pressed, sending signals through internal circuitry. Each key is spring-loaded to return to its original position after being pressed. The keys are interconnected through a matrix that detects key presses.",
+    "external_interaction_description": "Interacts with a computer via a wired or wireless connection, transmitting user input. Users press keys to input data or commands. The keyboard is typically placed on a flat surface for ergonomic use."
+}

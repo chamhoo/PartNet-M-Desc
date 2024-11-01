@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular wooden table with metal legs.",
+    "part_description": "Four metal legs at corners, rectangular wooden top, central drawer beneath.",
+    "internal_interaction_description": "The tabletop is supported by four legs at each corner, providing stability. A central drawer is attached underneath the tabletop, sliding in and out for storage. The legs are evenly spaced to balance the weight of the tabletop and any items placed on it.",
+    "external_interaction_description": "The table serves as a surface for placing items such as books, computers, or dining ware. It can be used in offices, dining rooms, or study areas. The drawer offers additional storage for small items, enhancing organizational functionality. The table's height allows for comfortable seating with chairs."
+}

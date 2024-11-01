@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular door with panel design.",
+    "part_description": "Features two rectangular panels, a doorknob on the right side, and a frame surrounding the door.",
+    "internal_interaction_description": "The panels are inset into the door, providing a decorative appearance. The doorknob is attached to the right side, allowing for rotation to open or close the door. The frame supports the door, ensuring it fits securely within a doorway.",
+    "external_interaction_description": "The door can open or close to allow or restrict passage between spaces. It interacts with a door frame for stability and may connect with a latch or lock mechanism for security. Users interact with the doorknob to operate the door."
+}

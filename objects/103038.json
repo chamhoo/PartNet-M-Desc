@@ -1,0 +1,6 @@
+{
+    "base_description": "Black coffee maker with a glass carafe.",
+    "part_description": "Includes a black top lid, glass carafe, filter basket, and base. The carafe is positioned at the front, with the filter basket above it. The base is circular and supports the entire structure.",
+    "internal_interaction_description": "The filter basket holds coffee grounds, allowing hot water to drip through and brew coffee into the carafe. The lid covers the filter basket, ensuring heat retention. The base provides stability and houses the heating element, which maintains the coffee's temperature in the carafe.",
+    "external_interaction_description": "The coffee maker interacts with users by allowing them to add water and coffee grounds. It requires an electrical outlet for power. Users can pour brewed coffee from the carafe, which has a handle for easy gripping. The coffee maker may be placed on kitchen countertops."
+}

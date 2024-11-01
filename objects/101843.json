@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue 3D glasses with white arms.",
+    "part_description": "Two blue rectangular lenses, two white arms. Lenses are front-facing, arms extend backward for ear placement.",
+    "internal_interaction_description": "The lenses are connected to the arms at the sides, allowing the glasses to rest on the user's nose and ears. The arms provide support and stability, ensuring the lenses remain in front of the eyes for optimal vision.",
+    "external_interaction_description": "The glasses interact with the user's face, resting on the nose and ears to stay in place. They are designed to filter light from 3D screens, enhancing the viewing experience by creating a stereoscopic effect."
+}

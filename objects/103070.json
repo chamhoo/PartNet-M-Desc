@@ -1,0 +1,6 @@
+{
+    "base_description": "Large rectangular sliding glass door, silver frame.",
+    "part_description": "Consists of four glass panels in a metal frame, with two central sliding doors and two fixed side panels.",
+    "internal_interaction_description": "The two central glass panels slide horizontally within the frame, allowing them to overlap with the fixed side panels. This sliding mechanism is facilitated by tracks at the top and bottom of the frame, ensuring smooth movement and alignment.",
+    "external_interaction_description": "The sliding door provides access between indoor and outdoor spaces, allowing light and air to pass through while closed. It can be locked for security and is typically operated by pulling or pushing the handle."
+}

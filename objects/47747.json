@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with two doors.",
+    "part_description": "Two doors vertically aligned, each with a handle on the side. The cabinet has a rectangular shape with a smooth surface and is divided into two main sections.",
+    "internal_interaction_description": "The two doors serve as access points to the interior compartments. Each door swings open on hinges, allowing entry to separate storage spaces. The handles facilitate easy opening and closing, ensuring secure containment of items within the cabinet.",
+    "external_interaction_description": "The cabinet interacts with its environment by providing storage space. It can be placed against a wall in a room, allowing people to store and organize items. The doors can be opened or closed to access stored contents, making it functional for daily use."
+}

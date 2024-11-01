@@ -1,0 +1,6 @@
+{
+    "base_description": "Black wired computer mouse with ergonomic design.",
+    "part_description": "Features two main buttons, a scroll wheel, and a cable. The buttons are on top, the wheel is centrally positioned, and the cable extends from the front.",
+    "internal_interaction_description": "The scroll wheel is positioned between the two buttons, allowing for easy scrolling while clicking. The internal circuitry connects the buttons and wheel to the cable, transmitting signals to the connected device.",
+    "external_interaction_description": "The mouse connects to a computer via the cable, allowing user input through clicks and scrolling. It interacts with a flat surface for accurate movement tracking, translating physical motion into cursor movement on the screen."
+}

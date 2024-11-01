@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular USB drive, white and red, compact.",
+    "part_description": "Consists of a rectangular body and removable cap. The body houses a USB connector and is primarily white with red accents. The cap is similarly colored and fits over the connector.",
+    "internal_interaction_description": "The USB connector is housed within the main body and protrudes when the cap is removed. The connector has metal contacts arranged to interface with a USB port, ensuring secure data transfer. The cap fits snugly over the connector, protecting it from dust and damage.",
+    "external_interaction_description": "The USB drive connects to computers or compatible devices via its USB connector, facilitating data transfer and storage. It is portable and can be easily carried or attached to keychains. The cap protects the connector when not in use, preventing physical damage and contamination."
+}

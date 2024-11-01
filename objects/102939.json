@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, cylindrical, black pen with blue accents.",
+    "part_description": "The pen has a cylindrical body, a blue cap, and a blue tip. The body is long and slender, with the cap positioned at one end and the tip at the other.",
+    "internal_interaction_description": "The cap covers the pen tip to prevent ink from drying. The body houses the ink reservoir, which feeds ink to the tip when pressure is applied during writing. The cap snaps onto the body securely, ensuring the pen is closed tightly.",
+    "external_interaction_description": "The pen is used for writing on paper, interacting with the surface to transfer ink. It is held by hand, and the cap can be removed or replaced as needed. The pen can be carried in a pocket or bag for convenience."
+}

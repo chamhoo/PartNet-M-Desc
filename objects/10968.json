@@ -1,0 +1,6 @@
+{
+    "base_description": "Small metal scissors with sharp blades and loops.",
+    "part_description": "Two metal blades intersect at a pivot, forming sharp tips. Two oval loops serve as handles, positioned opposite the blades. The blades are silver, and the handles are metallic, providing a sleek appearance.",
+    "internal_interaction_description": "The scissors' blades pivot around a central screw, allowing them to open and close smoothly. The sharp edges of the blades slide against each other, creating a cutting action. The handles provide leverage, enabling the user to exert force on the blades efficiently.",
+    "external_interaction_description": "Scissors are used to cut various materials such as paper, fabric, or hair. The user places fingers in the loops and applies pressure to bring the blades together, slicing through the material. Proper handling ensures precise cuts and safety during use."
+}

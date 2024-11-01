@@ -1,0 +1,6 @@
+{
+    "base_description": "Red laptop with a sleek design.",
+    "part_description": "Includes a screen, keyboard, touchpad, and base. Screen is rectangular, hinged to the base. Keyboard is centered, with touchpad below it.",
+    "internal_interaction_description": "The screen is connected to the base via hinges, allowing it to open and close. The keyboard is integrated into the base, providing input functionality. The touchpad is positioned below the keyboard for navigation.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input. It connects to external networks and devices via ports and wireless technology. The screen displays visual output for user interaction."
+}

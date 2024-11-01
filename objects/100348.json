@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, cylindrical, blue lighter with gray top.",
+    "part_description": "Consists of a blue cylindrical body, gray top with ignition wheel, and red button. The top houses the ignition mechanism and flame outlet.",
+    "internal_interaction_description": "The ignition wheel is rotated to create a spark, which ignites the gas released by pressing the red button. The flame outlet directs the flame upwards. The internal gas reservoir supplies fuel to the ignition system when activated.",
+    "external_interaction_description": "The lighter is held in hand, with the thumb typically used to rotate the wheel and press the button. It interacts with external elements like cigarettes or candles, providing a flame for ignition. It should be kept away from flammable materials when not in use."
+}

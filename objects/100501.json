@@ -1,0 +1,6 @@
+{
+    "base_description": "Wooden pushcart with red wheels and handle.",
+    "part_description": "Rectangular wooden base, four red wheels, vertical handlebar. Wheels are attached at each corner, and handlebar is positioned at the back.",
+    "internal_interaction_description": "The wheels are connected to the base allowing for movement. The handlebar is attached to the base, providing a grip for pushing. The structure is stable, with the wheels evenly distributing the weight and supporting the rectangular base.",
+    "external_interaction_description": "The pushcart can be pushed by a person, allowing it to move smoothly across flat surfaces. It's designed for carrying small items or for use as a child's toy, interacting with the environment by transporting objects or aiding in walking practice."
+}

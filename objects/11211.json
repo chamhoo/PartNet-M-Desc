@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray refrigerator with a modern style.",
+    "part_description": "The refrigerator has a single door with a handle on the left side, a large main compartment, and a bottom drawer. The door is vertically oriented and covers the main storage area.",
+    "internal_interaction_description": "The door swings open to reveal the main compartment, which is used for storing food and beverages. The bottom drawer slides out for additional storage, typically used for items requiring different temperature settings. The handle facilitates easy opening and closing of the door.",
+    "external_interaction_description": "The refrigerator interacts with users by providing a storage solution for perishable items. It requires an electrical connection to operate and maintain internal temperatures. Users open the door to access stored items and adjust settings for optimal cooling efficiency."
+}

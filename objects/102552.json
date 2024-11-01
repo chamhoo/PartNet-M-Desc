@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue and white rectangular shopping cart with wheels.",
+    "part_description": "The cart has a rectangular basket, four wheels, and a handle. The basket is blue with white panels, mounted on a metal frame. The wheels are positioned at the corners, and the handle is attached to the back.",
+    "internal_interaction_description": "The basket is securely attached to the metal frame, providing stability. The wheels are connected to the frame, allowing smooth movement. The handle is connected to the frame, enabling easy pushing or pulling of the cart. The structure ensures balance and ease of use.",
+    "external_interaction_description": "The cart interacts with external elements by carrying items within the basket. It is designed to be pushed or pulled by a person using the handle. The wheels facilitate movement across various surfaces, and the cart can be maneuvered in shopping aisles or storage areas."
+}

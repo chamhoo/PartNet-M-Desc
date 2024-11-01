@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver oven with two doors and stovetop.",
+    "part_description": "Includes a stovetop with four burners, two oven doors, and a control panel. The stovetop is flat and located on top, while the oven doors are stacked vertically below it.",
+    "internal_interaction_description": "The stovetop burners heat independently, allowing for simultaneous cooking. The control panel manages oven temperature and burner settings. Heat from the burners transfers to cookware, while the oven compartments heat food evenly inside.",
+    "external_interaction_description": "Used by placing cookware on burners or food inside ovens. Users interact through the control panel to adjust settings. Requires connection to a power source for operation. Can be placed in kitchens, interacting with surrounding cabinetry and countertops."
+}

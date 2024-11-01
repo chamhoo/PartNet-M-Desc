@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray table with wheels.",
+    "part_description": "The table has a flat rectangular top, four legs, and four wheels. The legs are positioned at each corner, and the wheels are attached to the bottom of the legs.",
+    "internal_interaction_description": "The tabletop is supported by the four legs, which are evenly distributed at each corner for stability. The wheels allow for mobility, enabling the table to be moved easily. The legs are connected by crossbars, providing additional support and rigidity.",
+    "external_interaction_description": "The table can be moved smoothly across flat surfaces due to its wheels. It can be used in various settings, such as offices or homes, for holding items or providing a workspace. The height and size make it suitable for standing or sitting activities."
+}

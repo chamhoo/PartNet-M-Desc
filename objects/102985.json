@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window with white frame.",
+    "part_description": "Two glass panels within a white rectangular frame, horizontally arranged. Each panel has a handle for sliding, positioned centrally on the vertical edges.",
+    "internal_interaction_description": "The two glass panels slide horizontally within the frame, allowing one panel to overlap with the other. This sliding mechanism is facilitated by tracks at the top and bottom of the frame, enabling smooth movement.",
+    "external_interaction_description": "The window allows light and air to pass through when opened. It can be locked or unlocked using the handles, providing security and ventilation control. The window interacts with external weather conditions, offering insulation when closed."
+}

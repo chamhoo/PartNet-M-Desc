@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, white USB flash drive.",
+    "part_description": "Comprises a main body with a USB connector and a removable cap. The main body is rectangular with a small red dot on top. The USB connector is positioned at one end, with the cap fitting over it.",
+    "internal_interaction_description": "The USB connector is securely housed within the main body, allowing it to be protected when the cap is in place. The cap fits snugly over the connector, preventing dust or damage. The red dot may indicate activity or status when connected to a device.",
+    "external_interaction_description": "The USB flash drive connects to computers or other devices via its USB connector, facilitating data transfer. The cap protects the connector when not in use, ensuring longevity. Users handle the device by removing the cap to access the connector and inserting it into a USB port."
+}

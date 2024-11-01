@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet with blue sliding doors.",
+    "part_description": "Two blue sliding doors in front, rectangular shape, grey frame, handles on each door, positioned horizontally with a flat top surface.",
+    "internal_interaction_description": "The sliding doors move horizontally along tracks within the grey frame, allowing access to the cabinet's interior. The doors overlap slightly in the center when closed, ensuring a secure closure. The handles provide grip for sliding the doors open and closed smoothly.",
+    "external_interaction_description": "The cabinet can be placed on a floor or mounted on a wall. It interacts with users through its sliding doors, providing storage space for various items. The flat top can hold objects, and its design allows it to fit into modern or minimalist interiors."
+}

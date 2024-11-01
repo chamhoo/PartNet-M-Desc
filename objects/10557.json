@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver, metal scissors with round handles.",
+    "part_description": "Two metal blades, sharp and pointed, joined by a pivot. Two round handles for finger placement, positioned at the opposite end of the blades.",
+    "internal_interaction_description": "The two blades are connected by a central pivot, allowing them to open and close smoothly. The handles provide leverage, enabling the user to apply force to the blades for cutting. The alignment of the blades ensures precise cutting action.",
+    "external_interaction_description": "The scissors are used to cut various materials like paper or fabric. Users insert fingers into the handles to operate them, applying pressure to cut. The sharp blades interact with the material, slicing through with precision when pressure is applied."
+}

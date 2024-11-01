@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with modern design.",
+    "part_description": "Consists of a tank, bowl, seat, and lid. The tank is rectangular and positioned above the bowl, which is oval-shaped. The seat and lid are attached to the bowl's rim.",
+    "internal_interaction_description": "The tank holds water, which is released into the bowl when flushed. The seat and lid can be lifted or closed. The bowl connects to plumbing for waste removal.",
+    "external_interaction_description": "Interacts with users for sanitation purposes. Connects to plumbing systems for water supply and waste disposal. Compatible with various bathroom accessories like toilet paper holders."
+}

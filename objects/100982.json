@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with three glass panels, gray frame.",
+    "part_description": "Three rectangular glass panels, evenly arranged, within a gray frame. The panels are of equal size, positioned side by side horizontally.",
+    "internal_interaction_description": "The three glass panels are held together by the gray frame, which provides structural support and maintains the alignment of the panels. The frame's vertical and horizontal dividers separate the panels, allowing them to function as individual units while forming a cohesive window structure.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external elements like wind and rain. It can be opened or closed to regulate airflow and temperature inside a building, interacting with the environment and occupants by offering visibility and ventilation control."
+}

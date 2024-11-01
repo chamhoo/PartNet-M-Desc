@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular remote with buttons and indicators.",
+    "part_description": "Features a directional pad, several buttons, speaker, and LED indicators. Buttons are arranged on the front, with a speaker below them, and LED lights at the bottom.",
+    "internal_interaction_description": "The buttons interact with internal circuits to send signals when pressed. The directional pad provides multi-directional input. The speaker emits sound signals, while the LED indicators display connectivity or status information.",
+    "external_interaction_description": "Connects wirelessly to a gaming console, allowing user input through button presses. It detects motion and orientation to interact with games, providing feedback via sound and vibration. The LEDs indicate connectivity status with the console."
+}

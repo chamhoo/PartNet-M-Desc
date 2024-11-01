@@ -1,0 +1,6 @@
+{
+    "base_description": "Metal pliers with green handles, medium size.",
+    "part_description": "Two metal jaws with serrated edges, connected by a pivot. Green plastic handles attached to each jaw, providing grip and leverage.",
+    "internal_interaction_description": "The jaws open and close around the pivot point, allowing for gripping or cutting. The serrated edges on the jaws enhance grip on objects. The handles provide leverage, making it easier to exert force on the jaws.",
+    "external_interaction_description": "The pliers are used to grip, twist, or cut objects like wires. The user applies pressure to the handles, which translates into force at the jaws. The green handles provide comfort and prevent slipping during use."
+}

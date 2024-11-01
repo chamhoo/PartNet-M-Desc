@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with drawer and door.",
+    "part_description": "Includes one top drawer and one bottom door. The drawer is positioned above the door, both with metal handles. The cabinet is rectangular and stands vertically.",
+    "internal_interaction_description": "The drawer slides in and out horizontally on metal tracks, allowing access to its contents. The door swings open on hinges, providing access to the storage space inside. Both parts are secured with handles, facilitating easy opening and closing.",
+    "external_interaction_description": "The cabinet interacts with users who open the drawer and door to store or retrieve items. It can be placed against a wall or integrated into a kitchen or office setup, interacting with surrounding furniture for spatial organization."
+}

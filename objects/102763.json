@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, brown teapot with a lid.",
+    "part_description": "Includes a round body, a lid with a knob, a spout, and a handle. The body is spherical, the lid fits on top, the spout protrudes from the side, and the handle is opposite the spout.",
+    "internal_interaction_description": "The lid sits snugly on the teapot's opening, preventing spills and maintaining heat. The handle is attached to the body, providing a secure grip, while the spout allows liquid to pour out smoothly from the body when tilted.",
+    "external_interaction_description": "The teapot is used to serve hot beverages, interacting with cups or mugs. It is held by the handle and tilted to pour liquid through the spout. The lid can be removed to refill with liquid or clean the interior."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular drawer with a handle.",
+    "part_description": "Single drawer with a front handle, rectangular shape, medium size, positioned centrally on the front face.",
+    "internal_interaction_description": "The handle is attached to the front of the drawer, allowing it to be pulled open. The drawer slides in and out of a housing, guided by rails or grooves on its sides, ensuring smooth movement and alignment.",
+    "external_interaction_description": "The drawer interacts with users who pull the handle to access its contents. It can be integrated into furniture like desks or cabinets, requiring a compatible housing for proper function and stability."
+}

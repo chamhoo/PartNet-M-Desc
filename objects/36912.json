@@ -1,0 +1,6 @@
+{
+    "base_description": "Office chair with black and gray colors.",
+    "part_description": "The chair has a gray backrest, black armrests, a gray seat, and a black five-star base with wheels. The backrest is tall and slightly curved. The armrests are positioned on each side of the seat. The base has five legs extending outward.",
+    "internal_interaction_description": "The backrest connects to the seat, providing support. The armrests are attached to the sides of the seat, offering arm support. The seat connects to the base, enabling height adjustment. The five-star base supports the chair, with wheels allowing mobility. The components work together to provide ergonomic seating.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, allowing movement. It accommodates a person sitting, providing ergonomic support with adjustable height and armrests. It can be placed near desks or tables, facilitating work or study. The chair's design allows it to fit in office or home environments."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray platform with four black wheels.",
+    "part_description": "One flat, rectangular platform with four wheels at corners. Platform is smooth and gray, wheels are round and black, evenly spaced at each corner beneath the platform.",
+    "internal_interaction_description": "The wheels are attached to the underside of the platform, allowing it to roll smoothly. Each wheel is mounted on an axle that permits rotation, providing mobility. The even placement of the wheels ensures balance and stability of the platform during movement.",
+    "external_interaction_description": "The object can be pushed or pulled by a person to transport items placed on the platform. It interacts with the ground through its wheels, which enable it to move across various surfaces. Its flat top allows for easy loading and unloading of objects."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray keyboard with flat keys.",
+    "part_description": "Consists of numerous rectangular keys arranged in rows and columns, evenly spaced on a flat surface.",
+    "internal_interaction_description": "Each key is individually placed and slightly raised above the base, allowing for depression when pressed. The keys are aligned in a grid pattern, facilitating easy access and efficient typing by providing tactile feedback.",
+    "external_interaction_description": "Designed for use with computers or tablets, it connects via USB or Bluetooth. Users interact with it by pressing keys to input data, enabling communication with digital devices. The keyboard remains stationary on a flat surface for optimal usability."
+}

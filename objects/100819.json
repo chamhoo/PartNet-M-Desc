@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote control with buttons.",
+    "part_description": "Contains numerous small, round buttons arranged in rows on the front. Includes a larger button at the top and a rectangular panel at the bottom.",
+    "internal_interaction_description": "The buttons interact with internal circuits to send signals. Pressing a button closes a circuit, allowing the remote to transmit a specific signal corresponding to the button pressed.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or stereos by sending infrared signals. Users press buttons to control device functions such as power, volume, and channel selection."
+}

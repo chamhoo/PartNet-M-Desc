@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue utility knife with retractable silver blade.",
+    "part_description": "Consists of a blue plastic handle, a retractable silver blade, and a black slider. The handle is elongated and ergonomic, the blade is flat and sharp, and the slider is positioned on top.",
+    "internal_interaction_description": "The slider on the handle controls the movement of the blade, allowing it to extend or retract. The blade is held securely within the handle, ensuring stability during use. The internal mechanism locks the blade in place when extended for safe cutting.",
+    "external_interaction_description": "Used for cutting various materials like paper, cardboard, and plastic. The user grips the handle and uses the slider to extend the blade. The sharp blade interacts with external surfaces to perform cutting tasks, requiring careful handling to avoid injury."
+}

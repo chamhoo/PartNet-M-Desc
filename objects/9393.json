@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular door with simple design.",
+    "part_description": "Consists of a main rectangular panel, a small round handle, and hinges on one side. The panel is tall and flat, the handle is centrally located on the right side, and hinges are aligned vertically on the opposite side.",
+    "internal_interaction_description": "The door panel is attached to the frame via hinges, allowing it to pivot open and closed. The handle is connected to a latch mechanism inside the door, enabling the door to be securely closed or opened when the handle is turned.",
+    "external_interaction_description": "The door can be opened or closed by a person using the handle, providing access or restricting entry to a space. It fits within a door frame, sealing off a room when closed and aligning with the frame to minimize gaps."
+}

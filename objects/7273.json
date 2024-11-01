@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray microwave with digital controls.",
+    "part_description": "Front panel with door, digital display, and control knobs. Interior cooking space with turntable. Ventilation openings on sides and back.",
+    "internal_interaction_description": "The control knobs and digital display allow users to set cooking time and power level, which activates the microwave's internal components. The turntable rotates to ensure even cooking of food. The door opens to provide access to the cooking space, while the ventilation prevents overheating.",
+    "external_interaction_description": "The microwave interacts with users through its control panel, enabling them to input cooking settings. It requires an electrical outlet for power. The door must be securely closed before operation, and it emits beeps to signal completion of cooking. External surfaces may become warm during use."
+}

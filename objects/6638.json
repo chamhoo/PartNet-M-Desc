@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern clock with red spheres and silver spokes.",
+    "part_description": "Twelve red spheres arranged in a circle, connected by silver rods to a central hub with black and red hands.",
+    "internal_interaction_description": "The central hub anchors the clock hands, which rotate to indicate time. The silver rods connect each red sphere to the hub, providing structural balance and aesthetic symmetry. The hands move independently around the hub, with the longer hand indicating minutes and the shorter denoting hours.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, interacting with its environment as a functional timepiece and decorative element. It captures attention with its distinctive design, potentially complementing modern or minimalist decor. Users interact by reading time or adjusting settings on the back."
+}

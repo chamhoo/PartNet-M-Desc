@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, curved, silver scissors with a sleek design.",
+    "part_description": "Two metal blades, one curved; two oval handles; blades meet at a pivot point, handles opposite the blades.",
+    "internal_interaction_description": "The two blades are connected at a pivot point, allowing them to move in a scissor-like motion. The handles are squeezed together, causing the blades to close and cut materials. The curved blade enhances precision and control during cutting.",
+    "external_interaction_description": "Used by people to cut small, precise items like nails or threads. The user holds the handles, applying pressure to close the blades. The curved design aids in cutting curved surfaces or intricate shapes. Typically interacts with soft materials."
+}

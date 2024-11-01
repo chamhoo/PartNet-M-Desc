@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, square, gray cooling fan with blades.",
+    "part_description": "Includes a square frame, central hub, and multiple curved blades. The frame is thin with ribbed edges, and the blades are symmetrically arranged around the hub.",
+    "internal_interaction_description": "The blades are attached to the central hub, allowing them to rotate around it. The symmetrical arrangement of the blades ensures balanced airflow when the fan operates. The frame supports the structure and maintains the position of the hub and blades.",
+    "external_interaction_description": "The fan can be mounted in electronic devices for cooling purposes. It draws air from one side and expels it from the other, aiding in heat dissipation. It can be connected to power sources for operation and may interact with temperature sensors to regulate speed."
+}

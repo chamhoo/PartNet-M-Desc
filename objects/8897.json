@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray door with a modern design.",
+    "part_description": "The door has a flat rectangular panel, a handle on the right side, and subtle horizontal lines. The handle is positioned centrally on the right edge.",
+    "internal_interaction_description": "The door's handle is attached to the panel, allowing it to pivot for opening and closing. The horizontal lines add a visual texture, breaking the monotony of the flat surface.",
+    "external_interaction_description": "The door interacts with its frame to open and close, providing access between spaces. It can be operated by turning the handle, allowing people to pass through or secure a room."
+}

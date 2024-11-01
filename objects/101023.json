@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray remote control with buttons.",
+    "part_description": "Contains multiple buttons arranged centrally, with directional arrows, numbers, and function keys. The buttons vary in size and shape, positioned on the front surface.",
+    "internal_interaction_description": "Buttons are pressed to complete circuits inside, sending signals to control devices. The directional pad allows navigation through menus, while other buttons activate specific functions. The layout supports easy access and operation.",
+    "external_interaction_description": "Used to control electronic devices like TVs or stereos remotely. Interacts via infrared or Bluetooth signals. Users press buttons to adjust settings, change channels, or manage volume, enhancing user convenience and accessibility."
+}

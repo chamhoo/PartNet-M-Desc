@@ -1,0 +1,6 @@
+{
+    "base_description": "Round wall clock with large numbers, gray color.",
+    "part_description": "Includes a circular face, three hands, and four large numbers at 12, 3, 6, and 9 positions. The hands are centrally positioned on the clock face.",
+    "internal_interaction_description": "The clock hands rotate around the central axis. The hour, minute, and second hands move at different speeds to indicate time. The large numbers are fixed in place to mark key positions on the clock face.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, interacting with its environment by displaying the time. Users can read the time from a distance due to the large, clear numbers. The clock may require battery changes for continued operation."
+}

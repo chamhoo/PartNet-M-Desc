@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray storage cabinet.",
+    "part_description": "Includes a door, multiple shelves, and a bottom drawer. Shelves are evenly spaced and the door covers the top half. The bottom drawer is positioned beneath the shelves.",
+    "internal_interaction_description": "The door swings open to reveal the shelves inside, allowing access to stored items. The shelves are fixed and provide stable support for items. The bottom drawer slides out smoothly for additional storage space.",
+    "external_interaction_description": "The cabinet can be placed against a wall for stability. It interacts with users by providing storage space, with the door and drawer facilitating access. Suitable for home or office use, it can store books, files, or other items, keeping them organized and accessible."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white pump bottle.",
+    "part_description": "Consists of a cylindrical body, a pump mechanism at the top, and a nozzle. The pump is centrally positioned, with the nozzle extending outward.",
+    "internal_interaction_description": "The pump mechanism is designed to create suction when pressed, drawing liquid from the bottle through an internal tube. The liquid travels up the tube and is dispensed through the nozzle. The pump's spring returns it to its original position after dispensing.",
+    "external_interaction_description": "The bottle is typically used to dispense liquids like soap or lotion. Users press the pump to release the contents. It can be refilled by unscrewing the pump mechanism. The bottle can be placed on various surfaces and is portable."
+}

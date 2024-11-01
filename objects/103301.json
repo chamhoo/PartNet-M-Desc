@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue stapler, medium size, rectangular shape.",
+    "part_description": "Consists of a top cover, base, hinge, and metal tray. The top is rectangular and smooth, the base is flat and elongated. The hinge connects the top and base, while the metal tray holds staples inside.",
+    "internal_interaction_description": "The top cover and base are connected by a hinge, allowing the top to pivot. The metal tray inside the base holds staples, which are pushed down by the top cover when pressed. The hinge ensures alignment, enabling staples to be driven through paper.",
+    "external_interaction_description": "The stapler interacts with paper by pressing down to insert staples, binding sheets together. It requires hand pressure to operate, making it a manual tool. The base rests on flat surfaces, providing stability during use."
+}

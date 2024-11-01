@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white plastic bottle with pump.",
+    "part_description": "Includes a cylindrical body, a pump mechanism, and a nozzle. The pump is positioned at the top, with a lever for dispensing.",
+    "internal_interaction_description": "The pump mechanism interacts with the liquid inside, drawing it up through a tube when the lever is pressed. The nozzle directs the liquid outward in a controlled manner.",
+    "external_interaction_description": "The bottle is operated by pressing the pump, allowing it to dispense liquid onto hands or other surfaces. It can be refilled by unscrewing the pump from the bottle."
+}

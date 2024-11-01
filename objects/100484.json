@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray bucket with a round shape and handle.",
+    "part_description": "Consists of a cylindrical body and a semi-circular handle attached to the top. The body is smooth and tapers slightly towards the base.",
+    "internal_interaction_description": "The handle is affixed to the bucket's upper rim, allowing it to pivot for carrying or resting against the bucket's side. The bucket's shape facilitates even distribution of contents.",
+    "external_interaction_description": "The bucket can be filled with liquids or solids and carried using the handle. It interacts with external elements by containing and transporting materials, making it useful for cleaning, gardening, or storage."
+}

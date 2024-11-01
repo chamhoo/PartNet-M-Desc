@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver washing machine with front door.",
+    "part_description": "Features a circular front door, two control knobs, and multiple buttons on the top panel. The door is centrally located, knobs and buttons are on the upper right.",
+    "internal_interaction_description": "The control knobs and buttons adjust settings, regulating the washing cycles. The door allows access to the drum, where clothes are placed. The drum rotates to agitate clothes during washing.",
+    "external_interaction_description": "Designed for home use, it connects to water supply and electrical outlet. Users interact by loading clothes, selecting settings, and starting cycles. The machine drains water externally after washing."
+}

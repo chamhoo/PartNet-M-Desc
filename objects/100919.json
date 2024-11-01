@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray power outlet with three sockets.",
+    "part_description": "Contains three rectangular sockets arranged in a triangular pattern, each socket having a vertical and two diagonal slots.",
+    "internal_interaction_description": "The three sockets are connected internally to allow the flow of electricity. Each socket's slots are designed to accommodate specific plug prongs, ensuring secure and efficient electrical connectivity.",
+    "external_interaction_description": "The outlet interfaces with electrical plugs, providing power to connected devices. It is typically mounted on walls, allowing users to plug in appliances for electricity. The design ensures compatibility with standard plug types."
+}

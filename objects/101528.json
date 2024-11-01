@@ -1,0 +1,6 @@
+{
+    "base_description": "Round white bottle with pump dispenser.",
+    "part_description": "Consists of a cylindrical body and a pump top. The pump includes a nozzle and a push-down mechanism positioned centrally on the lid.",
+    "internal_interaction_description": "The pump mechanism connects to a tube inside the bottle, allowing liquid to be drawn up and dispensed when the top is pressed. The nozzle directs the flow outward.",
+    "external_interaction_description": "When pressed, the pump dispenses liquid onto hands or another surface. The bottle can be refilled by unscrewing the pump top. It is placed on flat surfaces for stability."
+}

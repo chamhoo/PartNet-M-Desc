@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray table with wheels, modern style.",
+    "part_description": "The table has a flat rectangular top, four legs, a lower shelf, and four caster wheels. The legs are positioned at each corner supporting the top, with the shelf between them.",
+    "internal_interaction_description": "The tabletop is supported by four sturdy legs, which are connected to a lower shelf for additional structural stability. The caster wheels are attached to the bottom of each leg, allowing for smooth movement and rotation.",
+    "external_interaction_description": "The table can be easily moved across surfaces due to its wheels, making it ideal for dynamic environments. It can hold various items on its top and shelf, interacting with people who need a portable workspace or storage solution."
+}

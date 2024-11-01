@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square cooling fan with circular blades.",
+    "part_description": "The fan has a square frame with four mounting holes at each corner and a central circular hub with multiple blades radiating outward.",
+    "internal_interaction_description": "The blades are attached to the central hub, which rotates within the square frame. This rotation is facilitated by a motor inside the hub, allowing the blades to move air efficiently through the fan. The mounting holes ensure the fan can be securely attached to a surface.",
+    "external_interaction_description": "The fan is designed to be mounted on electronic devices or enclosures, where it draws cooler air into the system or expels warm air out, maintaining optimal operating temperatures. It requires an external power source to operate, typically connected via wires or a plug."
+}

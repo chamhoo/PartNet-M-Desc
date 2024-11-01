@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with a black handle.",
+    "part_description": "Contains a single drawer with a black front panel and a white handle, positioned centrally on the cabinet's front.",
+    "internal_interaction_description": "The drawer slides in and out of the cabinet smoothly, guided by side rails. The handle is securely attached to the drawer front, allowing for easy opening and closing.",
+    "external_interaction_description": "The cabinet can be placed on flat surfaces and interacts with users through the handle for opening the drawer. It can store items, providing organized storage in a home or office environment."
+}

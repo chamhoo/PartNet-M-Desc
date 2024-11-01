@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular table, light color, four legs, two drawers.",
+    "part_description": "The table has a flat rectangular top, four cylindrical legs positioned at each corner, and two drawers aligned horizontally beneath the tabletop.",
+    "internal_interaction_description": "The tabletop is supported by four legs, providing stability. The drawers are integrated beneath the tabletop and slide in and out, allowing for storage. The legs are evenly spaced to ensure balance, and the drawers are aligned side by side for easy access.",
+    "external_interaction_description": "The table can support various objects on its surface, such as books or decor. It can be placed in different environments, such as a living room or office, and interacted with by people using the drawers for storage or the tabletop for work or dining."
+}

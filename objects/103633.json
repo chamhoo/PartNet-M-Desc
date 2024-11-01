@@ -1,0 +1,6 @@
+{
+    "base_description": "Small cylindrical gray trash can with pedal.",
+    "part_description": "The trash can has a cylindrical body, a flat lid on top, and a pedal at the bottom front. The lid fits snugly, and the pedal is rectangular, positioned centrally at the base.",
+    "internal_interaction_description": "Pressing the pedal causes a mechanism to lift the lid, allowing access to the interior. The lid is connected to a hinge system that is activated by the pedal, ensuring smooth and coordinated movement between the parts.",
+    "external_interaction_description": "The trash can interacts with users who press the pedal to open the lid, allowing them to dispose of waste. Its compact size makes it suitable for small spaces, and it can be easily moved or placed under counters or desks."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with three doors.",
+    "part_description": "Three vertically stacked doors with handles on the left side.",
+    "internal_interaction_description": "Each door opens to reveal separate compartments, allowing for organized storage within the cabinet. The doors are hinged on the right, enabling smooth opening and closing, while the handles provide easy access.",
+    "external_interaction_description": "The cabinet can be placed against a wall, used in kitchens or offices for storage. Users interact by opening the doors to store or retrieve items, utilizing the handles for access."
+}

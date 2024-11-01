@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular safe with electronic keypad.",
+    "part_description": "Features a door with a keypad, handle, and hinge. Keypad is centrally positioned, handle is vertical on the right, and hinge is on the left.",
+    "internal_interaction_description": "The door is secured by a locking mechanism activated via the keypad. The handle allows manual opening once unlocked, while the hinge facilitates smooth door movement.",
+    "external_interaction_description": "The safe interacts with users through the keypad for secure access. It can be placed in various locations, providing protection against unauthorized access and external elements."
+}

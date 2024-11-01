@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray light switch cover.",
+    "part_description": "Two screw holes on either side of a central switch slot.",
+    "internal_interaction_description": "The switch slot allows a toggle switch to pass through and be secured by screws through the holes, holding the cover in place.",
+    "external_interaction_description": "The cover protects the switch and wiring from dust and accidental contact, providing a clean finish on the wall."
+}

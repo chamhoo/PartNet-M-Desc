@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, silver and black coffee machine.",
+    "part_description": "Features include a front panel with buttons, a spout, a drip tray, a water tank at the back, and a steam wand on the side.",
+    "internal_interaction_description": "The machine's internal components work together to brew coffee by heating water in the tank, pumping it through coffee grounds, and dispensing the brewed coffee through the spout. The steam wand froths milk by releasing steam, controlled by the front panel buttons.",
+    "external_interaction_description": "The machine interacts with users by allowing them to select coffee options via buttons. It requires water and coffee beans or grounds to function. The drip tray collects excess liquid, and the steam wand is used to froth milk, enhancing the coffee experience."
+}

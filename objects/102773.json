@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, brown teapot with a lid and handle.",
+    "part_description": "Includes a round body, a lid with a small knob, a spout, and a handle. The body is wide and squat, the lid fits snugly on top, and the handle is attached to the side.",
+    "internal_interaction_description": "The lid sits securely on the teapot's opening, preventing spillage and retaining heat. The handle provides a grip for pouring, while the spout directs the liquid flow. The knob on the lid allows for easy removal.",
+    "external_interaction_description": "Used to serve hot beverages, the teapot interacts with cups and mugs. It is handled by people for pouring, and is placed on surfaces like tables or trays. It may be used with a tea infuser or strainer."
+}

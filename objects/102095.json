@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with circular blades.",
+    "part_description": "The fan has seven curved blades arranged in a circle, enclosed within a square frame with four mounting holes at the corners.",
+    "internal_interaction_description": "The blades are attached to a central hub, which rotates to create airflow. The circular arrangement allows for even distribution of air movement. The frame supports the blades and provides stability during operation.",
+    "external_interaction_description": "The fan can be mounted onto a surface using the four corner holes, allowing it to circulate air in a specific area. It requires an external power source to operate and can be connected to various devices for cooling purposes."
+}

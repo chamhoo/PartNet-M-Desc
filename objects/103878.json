@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular printer with a modern design.",
+    "part_description": "Features a top lid, front control panel, paper tray, and output slot. Control panel includes buttons and a small screen. Paper tray is at the bottom front.",
+    "internal_interaction_description": "The control panel allows users to select functions, sending commands to internal mechanisms. The paper tray holds sheets, which are fed into the printer for processing. Internal rollers and ink cartridges work together to print onto the paper, which exits through the output slot.",
+    "external_interaction_description": "The printer connects to computers or networks via USB or wireless, receiving print commands. Users interact through the control panel for direct printing. It requires regular paper and ink refills and can be positioned on a desk or shelf for accessibility."
+}

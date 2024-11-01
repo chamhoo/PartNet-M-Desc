@@ -1,0 +1,6 @@
+{
+    "base_description": "Square white box fan with handle.",
+    "part_description": "The fan has four blades, a square frame, a front and back grille, and a carrying handle on top. The blades are centrally positioned within the frame.",
+    "internal_interaction_description": "The fan blades are connected to a central motor, which rotates them to create airflow. The grilles on the front and back protect the blades while allowing air to pass through. The handle is attached to the top of the frame for easy carrying.",
+    "external_interaction_description": "The fan is placed on a flat surface and plugged into an electrical outlet. It interacts with the surrounding air, circulating it to provide ventilation and cooling. Users can adjust its position or move it using the handle."
+}

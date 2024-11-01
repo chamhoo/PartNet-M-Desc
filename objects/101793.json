@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, cylindrical pen with blue and gray colors.",
+    "part_description": "Comprises a gray barrel, blue cap, and blue tip. The barrel is long and cylindrical, with the cap fitting snugly at one end and the tip at the opposite end.",
+    "internal_interaction_description": "The cap covers the tip to prevent ink drying. The barrel houses the ink reservoir, allowing ink flow to the tip when pressure is applied. The cap clicks onto the barrel, securing the pen when not in use.",
+    "external_interaction_description": "The pen is held by a person for writing or drawing. It interacts with paper or similar surfaces, transferring ink to create marks. The cap can be removed and reattached, and the pen can be stored in pockets or pencil cases."
+}

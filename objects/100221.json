@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray storage chest with hinged lid.",
+    "part_description": "The chest has a rectangular base, four side panels, and a hinged top lid. It features reinforcing corner brackets and a latch mechanism on the front. Handles are located on the sides for carrying.",
+    "internal_interaction_description": "The lid is connected to the base via hinges at the back, allowing it to open and close. The latch mechanism on the front secures the lid when closed. The side handles are attached to the side panels, enabling easy lifting and transport.",
+    "external_interaction_description": "The chest can store various items inside, providing protection and organization. It can be carried by people using the side handles. The lid can be opened to access the contents and closed to secure them. It may be placed on various surfaces or stacked with similar objects."
+}

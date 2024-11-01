@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver cylindrical trash can with a foot pedal.",
+    "part_description": "Includes a cylindrical body, a lid, and a foot pedal. The lid is attached at the top, and the pedal is at the bottom front. The body is tall and smooth.",
+    "internal_interaction_description": "The foot pedal connects to a mechanism that lifts the lid when pressed. The lid is hinged, allowing it to open upwards smoothly. The cylindrical body serves as the main container for holding trash.",
+    "external_interaction_description": "The trash can is operated by pressing the foot pedal, allowing hands-free access. It interacts with users by providing a hygienic way to dispose of waste, and its sleek design fits well in kitchens or bathrooms."
+}

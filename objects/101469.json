@@ -1,0 +1,6 @@
+{
+    "base_description": "White circular table fan with protective grille.",
+    "part_description": "Consists of three main blades, circular grille, and round base. Blades are centrally positioned, surrounded by grille. Base is flat, supporting the fan upright.",
+    "internal_interaction_description": "The fan blades rotate around a central axis, driven by an internal motor. The protective grille encases the blades, ensuring safety while allowing air to pass through. The base stabilizes the fan, preventing it from tipping over during operation.",
+    "external_interaction_description": "The fan circulates air in its vicinity, providing cooling to nearby individuals or objects. It can be placed on flat surfaces like tables or desks. Users interact with the fan through control buttons or switches, adjusting speed and oscillation settings."
+}

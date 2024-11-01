@@ -1,0 +1,6 @@
+{
+    "base_description": "Round wall clock, black frame, gray face.",
+    "part_description": "Circular frame, twelve hour markers, two black hands, center pivot.",
+    "internal_interaction_description": "The clock hands rotate around the central pivot. The hour hand moves slowly, completing one full rotation every twelve hours, while the minute hand moves faster, completing a full rotation every hour. The hour markers provide reference points for time reading.",
+    "external_interaction_description": "The clock is typically mounted on a wall, visible to people for time-telling. It interacts with external light, which illuminates the face for easier reading. Users may adjust the time using a mechanism at the back, aligning it with accurate time standards."
+}

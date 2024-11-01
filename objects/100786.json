@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical object with a wireframe stand.",
+    "part_description": "Sphere with grid lines, metal wire loop, and base stand.",
+    "internal_interaction_description": "The sphere is held by the metal wire loop, which is connected to the base stand, allowing it to rotate or pivot slightly within the frame.",
+    "external_interaction_description": "The object can be manually rotated by a person, typically used as a decorative item or educational tool, interacting with its environment by providing visual interest or information."
+}

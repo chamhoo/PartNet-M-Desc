@@ -1,0 +1,6 @@
+{
+    "base_description": "Green wheelbarrow with orange handles and one wheel.",
+    "part_description": "The wheelbarrow has one large front wheel, two orange handles, and a deep green basin. The handles are parallel and extend from the back of the basin, while the wheel is centrally positioned at the front.",
+    "internal_interaction_description": "The handles provide leverage for lifting and maneuvering, connected to the basin for support. The single wheel at the front allows for smooth movement and balance, distributing weight evenly. The basin holds materials securely, supported by the handles and wheel structure.",
+    "external_interaction_description": "The wheelbarrow interacts with external elements by being pushed or pulled by a person, transporting materials like soil or tools. Its wheel allows it to roll on various surfaces, while the handles enable control and direction. It can be loaded or unloaded easily by tilting."
+}

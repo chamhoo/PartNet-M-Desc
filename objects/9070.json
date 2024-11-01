@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown arched doorframe with white door, medium size.",
+    "part_description": "Includes a rectangular base, vertical side panels, an arched top panel, and a hinged door. The door is white, positioned centrally, with a vertical handle. The arch is above the door, fitting within the frame.",
+    "internal_interaction_description": "The door is attached to the frame via hinges on one side, allowing it to pivot open or closed. The arch connects the vertical side panels, providing structural stability. The base supports the entire structure, ensuring the frame remains upright.",
+    "external_interaction_description": "The door interacts with people by allowing passage when opened. It can be locked or secured to restrict entry. The frame may be installed in a wall, serving as an entry or exit point between spaces."
+}

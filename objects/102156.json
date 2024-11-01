@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow rectangular bin with a black lid.",
+    "part_description": "The bin has a rectangular body, two wheels at the back, and a hinged black lid on top. The wheels are circular and positioned at the bottom rear. The lid covers the top fully and is attached at the back.",
+    "internal_interaction_description": "The hinged lid allows for easy opening and closing, providing access to the bin's interior. The wheels are connected to the lower rear part of the bin, enabling mobility. The bin's rectangular shape maximizes storage capacity, and its smooth surfaces facilitate the movement of waste inside.",
+    "external_interaction_description": "The bin can be easily moved by tilting it onto its wheels and pulling or pushing it. It interacts with the environment by serving as a receptacle for waste disposal. The lid helps contain odors and waste, preventing exposure to external elements such as rain or pests."
+}

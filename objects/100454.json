@@ -1,0 +1,6 @@
+{
+    "base_description": "Small blue bucket with a brown handle.",
+    "part_description": "Consists of one blue conical body and one brown curved handle attached at the top. The handle is positioned symmetrically on opposite sides of the bucket's rim.",
+    "internal_interaction_description": "The handle is attached to the bucket's rim, allowing it to pivot for easy carrying. The handle's curvature provides a comfortable grip and ensures stability when the bucket is lifted. The bucket's conical shape allows for efficient storage and easy pouring of contents.",
+    "external_interaction_description": "The bucket can hold various materials like water or sand, interacting with external objects by containing or transporting them. It can be carried by a person using the handle, facilitating movement from one location to another. The bucket's shape allows it to be stacked with similar objects for storage."
+}

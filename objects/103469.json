@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray toaster with two slots.",
+    "part_description": "Includes two slots on top, a lever on the side, and a control knob. The slots are parallel, and the lever and knob are positioned on the shorter side.",
+    "internal_interaction_description": "The lever, when pressed down, lowers bread into the slots. The control knob adjusts the toasting level, which controls the heating elements inside the slots. The heating elements are activated to toast the bread evenly.",
+    "external_interaction_description": "The toaster interacts with bread, toasting it when inserted into the slots. Users control the toasting process via the lever and knob. The toaster requires an electrical outlet for power to function."
+}

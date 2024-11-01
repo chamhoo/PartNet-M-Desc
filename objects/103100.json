@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular stapler with a sleek design.",
+    "part_description": "Consists of a top handle, metal plate, and base. The top handle is black and curved, the metal plate is silver and flat, and the base is rectangular and black.",
+    "internal_interaction_description": "The top handle is pressed down, pushing a staple through the metal plate. The staple then bends as it hits the anvil on the base, securing papers together. The spring mechanism inside the handle allows it to return to its original position after use.",
+    "external_interaction_description": "The stapler is used to bind sheets of paper by pressing the handle. It requires staples to function and interacts with paper by piercing and bending staples to hold the sheets together. It is commonly used in office or school settings."
+}

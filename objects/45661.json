@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with drawers.",
+    "part_description": "Two horizontal drawers on top, one vertical door below; handles on each part.",
+    "internal_interaction_description": "The drawers slide open and closed, supported by internal tracks. The door swings on hinges, allowing access to the interior space. Each part operates independently, providing separate storage compartments within the cabinet structure.",
+    "external_interaction_description": "The cabinet interacts with users who open drawers and doors to store or retrieve items. It can be placed against walls or in corners, integrating into room layouts. The handles facilitate easy access, while the flat top can support additional objects or decorations."
+}

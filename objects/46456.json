@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with modern style.",
+    "part_description": "Contains two doors, three shelves inside, vertical arrangement. Doors are on the front, shelves are evenly spaced inside.",
+    "internal_interaction_description": "The cabinet's doors open outward, allowing access to the shelves. The shelves are fixed in position, providing stable support for stored items. The doors have handles for easy opening and closing, and they align with the cabinet's frame to ensure a clean closure.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner. It interacts with users by providing storage space for items like books or clothes. The handles allow users to open the doors easily, and its tall design maximizes vertical storage in compact spaces."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular vending machine with dual dispensers.",
+    "part_description": "Two white dispensers on the front, arranged vertically. Each dispenser has a slot beneath, positioned symmetrically. The machine is primarily red, with a rectangular shape and a flat top.",
+    "internal_interaction_description": "The internal mechanism likely involves a refrigeration system to cool items and a dispensing system that releases products when a selection is made. Each dispenser is connected to a separate compartment, allowing for different products to be stored and selected independently.",
+    "external_interaction_description": "Users interact with the machine by selecting a product, typically using buttons or a touchscreen interface. The machine dispenses the chosen item through one of the dispensers. It requires power to operate and may need regular restocking and maintenance by service personnel."
+}

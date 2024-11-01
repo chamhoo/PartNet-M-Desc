@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular double light switch.",
+    "part_description": "Two rectangular switches, side by side, on a square base.",
+    "internal_interaction_description": "Each switch operates independently, allowing for separate control of connected circuits. They are aligned parallel and are mounted on a shared base which houses the internal electrical components necessary for operation.",
+    "external_interaction_description": "The light switch is typically mounted on a wall and interacts with external electrical circuits to control lighting. Users press the switches to turn lights on or off, providing a tactile interface for managing room illumination."
+}

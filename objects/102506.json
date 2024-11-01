@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, compact camera with a cylindrical lens.",
+    "part_description": "Features one cylindrical lens, a rectangular body, and a small viewfinder on top.",
+    "internal_interaction_description": "The cylindrical lens is attached to the front of the rectangular body, focusing light onto the internal sensor. The viewfinder on top aligns with the lens, allowing the user to frame shots accurately.",
+    "external_interaction_description": "The camera can be held by a user for taking photos. The lens protrudes slightly for enhanced focus, while the viewfinder aids in composing images. It interacts with external light to capture photographs."
+}

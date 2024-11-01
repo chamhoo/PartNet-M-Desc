@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern, three-piece gray faucet set.",
+    "part_description": "Includes a curved spout and two cylindrical handles, symmetrically positioned. The spout is central, with handles on either side.",
+    "internal_interaction_description": "The handles control water flow to the spout. Turning the handles adjusts the internal valves, regulating water pressure and temperature through the spout.",
+    "external_interaction_description": "The faucet is installed on a sink, allowing users to control water flow and temperature for washing hands or dishes. It connects to plumbing for water supply."
+}

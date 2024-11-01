@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver microwave with black front panel.",
+    "part_description": "Front panel with digital display and buttons, large door with handle, and rectangular body.",
+    "internal_interaction_description": "The digital display and buttons on the front panel allow users to set cooking times and modes, interacting with the internal mechanisms to control heating elements and turntable rotation.",
+    "external_interaction_description": "The microwave interacts with users through the control panel for cooking settings and the door for placing and removing food. It requires an electrical outlet for power and can be installed in kitchen cabinetry."
+}

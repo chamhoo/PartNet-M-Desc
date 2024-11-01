@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with multiple drawers.",
+    "part_description": "Four horizontal drawers, evenly stacked, with flat handles, occupying front face.",
+    "internal_interaction_description": "Each drawer slides in and out independently within the cabinet frame, supported by internal tracks that ensure smooth movement and alignment, preventing overlap or obstruction among drawers.",
+    "external_interaction_description": "The cabinet interacts with users who pull drawers to access contents. It can be placed against walls or under desks, providing storage in offices or homes. The flat top surface can hold additional items or decorations."
+}

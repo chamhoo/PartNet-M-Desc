@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, square fan with four silver blades.",
+    "part_description": "Four silver blades centrally mounted, encased in red square frame. Blades are evenly spaced and attached to a central hub. Frame has cylindrical supports at corners.",
+    "internal_interaction_description": "The central hub rotates, causing the four blades to spin within the red frame. This rotation creates airflow through the fan. The cylindrical supports provide structural stability, ensuring smooth operation and minimal vibration during blade movement.",
+    "external_interaction_description": "The fan interacts with surrounding air, drawing it in and pushing it out to create circulation. It can be mounted or placed in various settings to cool spaces or ventilate areas, affecting air quality and temperature. Requires power source for operation."
+}

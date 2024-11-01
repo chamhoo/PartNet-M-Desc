@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular door with glass panel, brown frame.",
+    "part_description": "One large glass panel centered within a rectangular wooden frame. The frame is brown with a handle on the left side. Hinges are on the right, allowing the door to swing open. The door is tall and narrow.",
+    "internal_interaction_description": "The glass panel is securely fitted within the wooden frame, providing transparency while maintaining structural integrity. The handle is attached to the frame, allowing for easy operation. Hinges connect the door to a wall or frame, enabling smooth opening and closing motion.",
+    "external_interaction_description": "The door serves as a barrier and entry point, interacting with people by allowing passage when opened. It can be locked or unlocked for security. It may also interact with other architectural elements like walls and floors, fitting into a doorway to divide spaces."
+}

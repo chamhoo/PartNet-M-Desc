@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white-framed window with grid pattern.",
+    "part_description": "Two large glass panes divided into four sections each, encased in a white frame. The panes are arranged side by side, forming a symmetrical grid pattern.",
+    "internal_interaction_description": "The two large glass panes are set within the white frame, allowing them to slide past each other horizontally. The grid pattern is created by muntins that divide each pane into smaller sections, providing structural support and aesthetic appeal.",
+    "external_interaction_description": "The window allows light and air to pass through when open, providing ventilation and visibility. It can be opened or closed by sliding the panes, interacting with external elements like weather, and offering a barrier against environmental factors."
+}

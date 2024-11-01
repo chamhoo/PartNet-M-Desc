@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray folding chair with metal frame.",
+    "part_description": "Consists of four legs, a seat, and a backrest. The legs are arranged in an 'X' shape when open. The seat is rectangular and cushioned, positioned above the crossed legs. The backrest is curved, attached to the top of the frame.",
+    "internal_interaction_description": "The legs of the chair are connected by a hinge mechanism that allows them to fold and unfold. The seat is attached to the frame, providing stability when weight is applied. The backrest is connected to the top of the frame, offering support to the user's back.",
+    "external_interaction_description": "The chair interacts with the ground through its legs, providing a stable seating option. It can be easily folded for storage or transport, making it convenient for use in various settings. When in use, it supports the weight of a person, offering a temporary seating solution."
+}

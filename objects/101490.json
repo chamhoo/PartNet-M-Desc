@@ -1,0 +1,6 @@
+{
+    "base_description": "Pink cylindrical bottle with a blue pump.",
+    "part_description": "The bottle has a cylindrical body and a dome-shaped top. It includes a blue pump with a horizontal lever on top. The pump is centrally positioned on the dome top.",
+    "internal_interaction_description": "The pump mechanism includes a tube extending into the bottle, allowing liquid to be drawn up when the lever is pressed. The lever, when pushed down, activates the pump to dispense the liquid through the nozzle.",
+    "external_interaction_description": "The bottle is designed to dispense liquid when the pump is pressed by a user. It can be refilled by unscrewing the pump. The bottle's base provides stability on flat surfaces, and its size is suitable for hand-held use."
+}

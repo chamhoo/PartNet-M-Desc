@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with four blades.",
+    "part_description": "Four evenly spaced blades attached to a central hub, forming a cross shape. Blades are elongated and slightly curved, positioned horizontally.",
+    "internal_interaction_description": "The central hub houses the motor, which rotates the blades. The blades are symmetrically arranged to ensure balanced rotation, providing efficient airflow. The curvature of the blades aids in optimal air distribution throughout the space.",
+    "external_interaction_description": "The fan is mounted on the ceiling, interacting with the room's air by circulating it to create a cooling effect. It interacts with external controls, such as a switch or remote, to adjust speed and direction, enhancing comfort for occupants."
+}

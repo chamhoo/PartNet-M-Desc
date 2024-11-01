@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, red and black USB flash drive.",
+    "part_description": "Consists of a rectangular red body with a black cap. The USB connector is silver, protruding from one end of the red body. The black cap is curved and fits over the red body.",
+    "internal_interaction_description": "The red body houses the electronic components of the USB drive, while the black cap protects the USB connector. The cap can be easily removed or attached to allow access to the connector. The internal parts work together to store and transfer data when connected to a device.",
+    "external_interaction_description": "The USB flash drive connects to computers and other devices via the USB connector, allowing data transfer and storage. The cap protects the connector from dust and damage when not in use. Users interact with the drive by inserting it into USB ports and managing files through connected devices."
+}

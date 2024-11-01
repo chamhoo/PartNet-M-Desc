@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray block with a small protrusion.",
+    "part_description": "The object has a main rectangular body and a smaller, raised rectangular part on top, positioned near one corner.",
+    "internal_interaction_description": "The smaller raised part is integrated onto the main block, potentially serving as a handle or connector. Its placement suggests it may interact structurally or functionally with the main body, possibly providing stability or serving as a mounting point.",
+    "external_interaction_description": "The object could interact with other mechanical components or serve as a base for additional attachments. Its flat surfaces suggest it can be placed on or attached to other structures, and the protrusion may connect or align with external elements."
+}

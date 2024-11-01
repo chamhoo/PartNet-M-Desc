@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, gray blender with a black lid.",
+    "part_description": "Includes a transparent container, black lid, and gray base with control panel. The container is tall and cylindrical, positioned on top of the base. The control panel has multiple buttons.",
+    "internal_interaction_description": "The container securely fits onto the base, allowing the blades inside to rotate when powered. The lid ensures contents remain inside during operation. Buttons on the control panel adjust blade speed and power settings, enabling various blending functions.",
+    "external_interaction_description": "The blender interacts with external elements by processing ingredients placed inside the container. Users operate it by pressing buttons to blend, chop, or puree food. The power cord connects to an electrical outlet, supplying necessary energy for operation."
+}

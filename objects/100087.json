@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular USB flash drive with detachable cap.",
+    "part_description": "Consists of two parts: a rectangular main body and a detachable cap. The main body is elongated and rectangular, while the cap is semi-circular. The cap fits snugly onto one end of the main body.",
+    "internal_interaction_description": "The cap securely attaches to the main body, protecting the USB connector. When closed, the cap aligns with the main body, forming a seamless exterior. The parts are designed to fit together precisely, preventing dust or damage to the connector inside.",
+    "external_interaction_description": "The USB flash drive connects to computers or other devices via the USB port, facilitating data transfer. The detachable cap helps protect the connector from external elements like dust and moisture when not in use. It is portable and easily fits into pockets or bags."
+}

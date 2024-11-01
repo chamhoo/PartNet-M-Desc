@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular stapler with a compact design.",
+    "part_description": "Consists of a top arm, base, and metal staple holder. The top arm is rectangular, the base is flat, and the staple holder is metallic, positioned inside the arm.",
+    "internal_interaction_description": "The top arm pivots on a hinge at the rear, allowing it to press down onto the base. The metal staple holder inside the arm aligns with an anvil on the base, enabling staples to be driven through paper when pressed.",
+    "external_interaction_description": "The stapler is used to bind sheets of paper together by pressing down on the arm, which forces a staple through the paper and bends the ends to secure it. It requires manual force and can be refilled with staples when empty."
+}

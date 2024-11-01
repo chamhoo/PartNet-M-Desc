@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, metal pliers with black and blue handles.",
+    "part_description": "Two metal jaws, two black handles with blue accents, connected by a pivot. Jaws are pointed and elongated, positioned opposite each other. Handles are curved and ergonomic, attached to the jaws.",
+    "internal_interaction_description": "The two metal jaws are connected at a pivot, allowing them to open and close. The handles, when squeezed together, move the jaws towards each other, enabling the gripping or cutting of objects. The pivot ensures smooth movement and alignment of the jaws.",
+    "external_interaction_description": "The pliers interact with external objects by gripping, bending, or cutting them, depending on the force applied by the user. The ergonomic handles provide a comfortable grip, allowing precise control during use. They are commonly used in tasks involving wires or small components."
+}

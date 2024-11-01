@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue USB flash drive with removable cap.",
+    "part_description": "Comprises a rectangular body, USB connector, and cap. The body is elongated and blue. The USB connector is metallic and protrudes from one end. The cap is detachable, matching the body in color and shape.",
+    "internal_interaction_description": "The USB connector is securely attached to the body, allowing data transfer. When the cap is placed over the connector, it protects the USB from dust and damage. The fit between the cap and body ensures that the cap stays in place during transport.",
+    "external_interaction_description": "The USB flash drive connects to computers and other devices via the USB port, enabling data storage and transfer. It is portable and easily carried in pockets or bags. The cap prevents damage when not in use, ensuring longevity and reliability."
+}

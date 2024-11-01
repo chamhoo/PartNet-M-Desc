@@ -1,0 +1,6 @@
+{
+    "base_description": "Black laptop with gray screen, compact and sleek.",
+    "part_description": "The laptop has a rectangular screen, a full keyboard, a touchpad, and a base. The screen is thin and attached to the base by hinges. The keyboard has standard keys, and the touchpad is centered below it.",
+    "internal_interaction_description": "The screen is connected to the base via hinges, allowing it to open and close. The keyboard and touchpad are integrated into the base, enabling user input. Internal components like the motherboard and battery are housed within the base, facilitating processing and power supply.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard for typing and the touchpad for navigation. It can connect to external devices via USB ports and wireless connections like Wi-Fi and Bluetooth. The screen displays visual output, and speakers provide audio."
+}

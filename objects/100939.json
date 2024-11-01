@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rolling cabinet with four drawers.",
+    "part_description": "Four horizontal drawers stacked vertically, mounted on four wheels. The cabinet is rectangular with rounded edges.",
+    "internal_interaction_description": "The drawers slide in and out smoothly within the cabinet frame, supported by internal tracks. Each drawer is designed to fit snugly, preventing spillage or misalignment when moving.",
+    "external_interaction_description": "The cabinet can be easily moved using its wheels, allowing it to be repositioned in various environments. It interacts with users by providing accessible storage, and the drawers can be opened to retrieve or store items."
+}

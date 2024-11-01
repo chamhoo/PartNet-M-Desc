@@ -1,0 +1,6 @@
+{
+    "base_description": "Small beige suitcase with black handle and wheels.",
+    "part_description": "The suitcase has a retractable handle, two wheels, a zippered closure, and a main compartment. The handle is on top, wheels at the bottom, and the zipper runs along the edges.",
+    "internal_interaction_description": "The retractable handle slides into the suitcase body when not in use. The zipper secures the suitcase's contents by enclosing the main compartment. Wheels are attached to the bottom corners, allowing smooth movement. The handle's retraction mechanism is linked to the suitcase frame for stability.",
+    "external_interaction_description": "The suitcase is pulled by the handle for easy transport, with wheels facilitating movement on flat surfaces. It fits into overhead compartments or car trunks. The zipper allows access to contents, and the durable exterior withstands handling during travel."
+}

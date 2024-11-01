@@ -1,0 +1,6 @@
+{
+    "base_description": "Small gray toy car with a simple design.",
+    "part_description": "Four wheels, a flat roof, two seats, and a steering wheel. Wheels are at corners, roof covers the top, seats are behind the steering wheel.",
+    "internal_interaction_description": "The wheels are connected to the base, allowing rotation. The steering wheel is attached to the front axle for directional control. Seats are fixed to the base providing seating space. The roof is supported by vertical posts attached to the car's base.",
+    "external_interaction_description": "The toy car can be pushed manually, interacting with flat surfaces for movement. It can be used in play by children, simulating driving experiences. The wheels allow it to roll on various surfaces, and it can interact with other toy vehicles in play scenarios."
+}

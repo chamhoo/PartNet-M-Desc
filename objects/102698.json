@@ -1,0 +1,6 @@
+{
+    "base_description": "White wall-mounted urinal with flush valve.",
+    "part_description": "Includes a bowl, flush valve, and inlet pipe. The bowl is oval-shaped, positioned below the flush valve, which is mounted above and slightly to the side. The inlet pipe connects the valve to the water source.",
+    "internal_interaction_description": "The flush valve releases water into the bowl when activated, cleansing the interior surface. The water flows from the inlet pipe through the valve, distributing evenly around the bowl's interior to ensure thorough cleaning and waste removal.",
+    "external_interaction_description": "The urinal is mounted on a wall, interacting with plumbing systems for water supply and drainage. It is designed for use by individuals, facilitating sanitary waste disposal in public or private restrooms. Activation of the flush valve typically involves manual or automatic operation."
+}

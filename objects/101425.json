@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, blue CPU cooler with fan.",
+    "part_description": "Includes a large fan, metal fins, heat pipes, and a base. The fan is mounted on the front, fins are stacked behind, and heat pipes extend from the base upward.",
+    "internal_interaction_description": "The fan circulates air through the metal fins, dissipating heat away from the base. Heat pipes transfer heat from the CPU to the fins, enhancing cooling efficiency. The arrangement ensures optimal airflow and heat distribution.",
+    "external_interaction_description": "The cooler attaches to a CPU, dissipating heat to prevent overheating. It requires power from the motherboard and fits within a computer case. Effective cooling enhances CPU performance and longevity, interacting with other components by maintaining stable temperatures."
+}

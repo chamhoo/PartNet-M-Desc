@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver cabinet with a handle.",
+    "part_description": "Includes a main body, a door with a handle, and internal shelving. The door is front-facing and the handle is horizontally aligned.",
+    "internal_interaction_description": "The door is hinged on one side, allowing it to swing open and closed. Inside, shelves provide storage space, held in place by internal brackets. The handle facilitates opening and closing the door.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a kitchen setup. The handle allows for easy access, and the flat top may support additional items or appliances."
+}

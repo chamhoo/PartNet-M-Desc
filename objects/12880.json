@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular black and gray keyboard.",
+    "part_description": "Contains numerous small black keys arranged in rows, with gray panels on both ends.",
+    "internal_interaction_description": "Keys are spring-loaded, allowing for tactile feedback when pressed. Each key is connected to a circuit underneath, registering input when pressed. The gray panels likely house additional functions or connectivity ports.",
+    "external_interaction_description": "Connects to computers via wireless or wired means for input. Users interact by pressing keys to type or execute commands. May require batteries if wireless, or a USB connection if wired."
+}

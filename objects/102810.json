@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray switch with a red lever.",
+    "part_description": "Consists of a gray rectangular plate with a central red lever. The lever is rectangular and vertically oriented. Two circular screws are positioned at the top and bottom.",
+    "internal_interaction_description": "The red lever pivots within the gray plate, allowing for an up and down motion. This movement is facilitated by an internal mechanism, likely a spring or hinge, that enables the lever to stay in a set position until manually moved.",
+    "external_interaction_description": "The switch is designed to be mounted on a wall, interacting with electrical systems to control power flow. Users manually toggle the red lever to turn connected devices on or off, providing a tactile feedback mechanism."
+}

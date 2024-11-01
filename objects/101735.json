@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue and gray retractable pen, medium size.",
+    "part_description": "Consists of a blue barrel, gray clip, retractable button, and tip. The barrel is cylindrical, the clip is attached near the top, and the button is positioned at the end.",
+    "internal_interaction_description": "Pressing the retractable button pushes the internal mechanism forward, extending the pen tip through the barrel. Releasing the button allows the spring mechanism to retract the tip back inside the barrel, ready for storage.",
+    "external_interaction_description": "The pen is held by the barrel for writing on paper. The clip allows attachment to notebooks or pockets. Pressure on the button extends the tip for writing, while releasing it retracts the tip, preventing ink marks when not in use."
+}

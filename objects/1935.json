@@ -1,0 +1,6 @@
+{
+    "base_description": "White cylindrical dispenser with a horizontal lever.",
+    "part_description": "Consists of a cylindrical body, a flat circular base, and a horizontal lever. The lever extends from the upper side of the cylinder, while the base supports the body vertically.",
+    "internal_interaction_description": "The lever, when pressed, likely activates an internal pump mechanism within the cylindrical body, drawing liquid from a reservoir and dispensing it through the lever's nozzle. The base provides stability, ensuring the dispenser remains upright during use.",
+    "external_interaction_description": "The dispenser is designed for manual operation, requiring a user to press the lever to dispense contents. It can be placed on flat surfaces like countertops and interacts with external containers or hands for dispensing liquids such as soap or lotion."
+}

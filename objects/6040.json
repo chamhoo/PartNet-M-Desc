@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical, grey container with a white lid.",
+    "part_description": "The object consists of a cylindrical body and a flat, circular lid on top. The body is dark grey, and the lid is white, fitting snugly on top.",
+    "internal_interaction_description": "The lid fits securely onto the cylindrical body, likely using a friction fit or threading to prevent contents from spilling. The body provides structural support and containment, while the lid serves as a closure to protect the interior contents.",
+    "external_interaction_description": "The container can be easily handled and opened by people, used for storing various items. Its cylindrical shape allows it to be placed on flat surfaces without rolling, and the lid can be removed for access to the contents."
+}

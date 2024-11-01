@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, black remote control with multiple buttons.",
+    "part_description": "Features numerous buttons arranged in rows, including a circular navigation pad. Buttons vary in size and shape, located centrally on the elongated body.",
+    "internal_interaction_description": "The buttons interact with an internal circuit board, each press sending a specific signal. The navigation pad allows directional input, while other buttons perform distinct functions based on their position and label.",
+    "external_interaction_description": "The remote interacts with electronic devices via infrared signals, allowing users to control functions like volume and channel selection from a distance."
+}

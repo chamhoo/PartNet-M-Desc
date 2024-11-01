@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and gray soap dispenser, cylindrical shape.",
+    "part_description": "Consists of a cylindrical bottle, pump nozzle, and base holder. The bottle is black, with a gray pump on top and a gray circular holder at the bottom.",
+    "internal_interaction_description": "The pump mechanism inside the dispenser draws liquid soap from the bottle when pressed. The nozzle is aligned with the pump to ensure smooth dispensing. The bottle fits snugly into the base holder, providing stability.",
+    "external_interaction_description": "The dispenser is operated by pressing the pump, releasing soap onto hands or other surfaces. It can be placed on a countertop or mounted on a wall, interacting with various bathroom or kitchen environments."
+}

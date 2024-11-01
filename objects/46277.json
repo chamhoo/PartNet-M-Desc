@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with two doors.",
+    "part_description": "Consists of two doors with handles and two drawers on top. Rectangular shape with smooth surface, positioned symmetrically.",
+    "internal_interaction_description": "The doors open outward and are hinged to the sides, allowing access to the interior storage space. The drawers slide horizontally, providing additional storage above the main cabinet area.",
+    "external_interaction_description": "Designed to store items, the cabinet can be placed against a wall, under a countertop, or in a kitchen. It interacts with users through the opening of doors and drawers to access stored items."
+}

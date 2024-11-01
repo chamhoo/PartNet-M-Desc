@@ -1,0 +1,6 @@
+{
+    "base_description": "Dark blue cylindrical bucket with a handle.",
+    "part_description": "The bucket has a cylindrical body, a flat circular lid with two small round protrusions, and an arched handle attached to the sides.",
+    "internal_interaction_description": "The lid fits snugly on top of the bucket, covering the opening. The handle is connected to opposite sides of the bucket, allowing it to pivot upwards for carrying. The two protrusions on the lid may serve as grips or locks to secure the lid in place.",
+    "external_interaction_description": "The bucket can be used to carry liquids or solids. The handle facilitates easy transport by hand. The lid helps prevent spillage and contamination from external elements. It can be placed on various surfaces and used in different environments, such as households or outdoors."
+}

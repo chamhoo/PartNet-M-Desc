@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and white shopping cart with four wheels.",
+    "part_description": "The cart has a rectangular basket, four wheels, a handlebar, and a lower frame. The basket is red with white panels, positioned on top. The handlebar is attached at the back, and the wheels are arranged in pairs at the front and back.",
+    "internal_interaction_description": "The rectangular basket is securely attached to the lower frame, providing stability. The handlebar is connected to the frame, allowing for maneuvering. The wheels are affixed to the frame, enabling smooth movement. The basket's open top facilitates easy loading and unloading of items.",
+    "external_interaction_description": "The shopping cart is designed to be pushed by a person, allowing for the transport of goods. It interacts with the ground through its wheels, providing mobility. The cart can be used in stores or supermarkets to carry items, interacting with shelves and checkout counters."
+}

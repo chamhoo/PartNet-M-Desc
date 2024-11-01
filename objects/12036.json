@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray refrigerator with two doors.",
+    "part_description": "The refrigerator has two doors, one on top and one below, with handles. The top section is smaller, likely a freezer, and the bottom is larger, likely a fridge.",
+    "internal_interaction_description": "The top door opens to reveal a freezer compartment, which interacts with the refrigeration system to maintain low temperatures. The bottom door opens to a larger fridge compartment, which uses shelves and drawers to organize food items while maintaining a cool environment.",
+    "external_interaction_description": "The refrigerator is designed to be placed in a kitchen or similar setting, interacting with users who open the doors to store and retrieve food. It requires an electrical connection to operate and maintains a consistent temperature to preserve perishable items."
+}

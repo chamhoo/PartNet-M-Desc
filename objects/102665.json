@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with a classic design.",
+    "part_description": "Consists of a tank, bowl, and seat. The tank is rectangular, positioned above the bowl. The bowl is oval-shaped with a seat on top.",
+    "internal_interaction_description": "The tank holds water, which releases into the bowl when flushed. The seat covers the bowl, providing a surface for use. The flushing mechanism connects the tank and bowl, ensuring efficient water flow.",
+    "external_interaction_description": "The toilet connects to plumbing for water supply and waste removal. It interacts with users for hygienic purposes, requiring manual flushing. The design accommodates installation in residential and commercial bathrooms."
+}

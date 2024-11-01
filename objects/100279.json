@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular beige typewriter with keys and roller.",
+    "part_description": "Includes keyboard, roller, paper holder, and casing. Keyboard has multiple keys, roller is cylindrical on the right, paper holder is flat and wide, casing is rectangular.",
+    "internal_interaction_description": "The keys interact with the internal mechanisms to imprint characters onto the paper. The roller feeds the paper through the machine as the keys strike. The paper holder keeps the paper aligned and steady during typing.",
+    "external_interaction_description": "Users interact with the typewriter by pressing keys to type text onto paper. The typewriter requires manual insertion of paper and occasional adjustment of the roller to align the paper correctly."
+}

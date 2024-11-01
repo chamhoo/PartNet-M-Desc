@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceramic toilet with a modern design.",
+    "part_description": "Consists of a tank, bowl, and seat. The tank is rectangular, positioned above the bowl, which is oval. The seat is circular, placed on the bowl's rim.",
+    "internal_interaction_description": "The tank holds water, releasing it into the bowl when flushed. The seat provides a surface for sitting. The bowl channels water and waste into the plumbing system through an internal siphon.",
+    "external_interaction_description": "Used by people for sanitation. Connects to plumbing for water supply and waste removal. Requires regular cleaning and maintenance to ensure proper function and hygiene."
+}

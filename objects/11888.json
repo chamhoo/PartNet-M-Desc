@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim laptop with black screen and white keyboard.",
+    "part_description": "Consists of a rectangular screen and a keyboard. The screen is large and black, while the keyboard is white with evenly spaced keys. The screen is hinged to the keyboard.",
+    "internal_interaction_description": "The screen and keyboard are connected via a hinge, allowing the screen to open and close over the keyboard. The keys on the keyboard are arranged in a grid, enabling typing input that is displayed on the screen.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard for input and the screen for output. It can connect to external devices via ports, and the screen can display media or data. It is portable, allowing users to carry it easily."
+}

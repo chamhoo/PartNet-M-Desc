@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular switch with lever and circular top.",
+    "part_description": "Comprises a rectangular body, lever switch, circular top, and small loop. The lever is centered on the front, with the circular top above it.",
+    "internal_interaction_description": "The lever switch is connected to an internal mechanism that toggles between 'on' and 'off' states. The circular top may house a pivot or spring mechanism allowing the lever to move smoothly. The loop could be for mounting or securing the switch.",
+    "external_interaction_description": "The switch is designed to be mounted on a panel, allowing users to toggle electrical circuits on or off. The lever provides tactile feedback, and the loop may facilitate attachment in various environments, ensuring secure placement."
+}

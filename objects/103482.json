@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular toaster with two slots.",
+    "part_description": "Includes two slots on top, a front lever, and a dial. Slots are parallel and rectangular, lever is centered below slots, and dial is on the front panel. The toaster is compact and rectangular.",
+    "internal_interaction_description": "The lever, when pressed, lowers the bread into the slots. The dial adjusts the internal heating elements' intensity and duration. The heating elements are positioned around the slots to evenly toast the bread.",
+    "external_interaction_description": "The toaster interacts with bread slices, accommodating standard sizes. Users adjust the dial for desired toasting level and press the lever to initiate toasting. The toaster requires an electrical outlet for power and sits stably on flat surfaces."
+}

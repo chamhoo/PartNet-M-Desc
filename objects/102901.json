@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver coffee maker with black accents, rectangular shape.",
+    "part_description": "Includes a top lid, control panel with buttons, carafe handle, and drip tray. The panel is centered, buttons are symmetrically arranged. Carafe is cylindrical, positioned below the panel.",
+    "internal_interaction_description": "The control panel buttons activate brewing mechanisms inside. The lid opens to access the filter compartment. The carafe sits on the warming plate, collecting brewed coffee. The drip tray catches excess liquid, ensuring a clean operation.",
+    "external_interaction_description": "The coffee maker requires external power and user input to operate. Users interact with buttons to select brewing options. The carafe is removable for pouring coffee. Compatible with standard coffee filters and grounds, it interacts with external cups for serving."
+}

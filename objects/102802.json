@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with two colored panes.",
+    "part_description": "Two rectangular panes, one blue and one gray, vertically aligned within a white frame.",
+    "internal_interaction_description": "The blue and gray panes are separated by a horizontal divider within the white frame, allowing them to maintain structural integrity and provide distinct sections for potential opening or ventilation.",
+    "external_interaction_description": "The window allows light to pass through and can be opened or closed to regulate airflow, providing visibility and interaction between indoor and outdoor environments."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square fan with multiple blades.",
+    "part_description": "Consists of a circular arrangement of blades within a square frame. The fan has multiple evenly spaced blades attached to a central hub, positioned symmetrically.",
+    "internal_interaction_description": "The blades are connected to a central hub, rotating around the axis to create airflow. The symmetrical arrangement ensures balanced movement, minimizing vibration and noise during operation.",
+    "external_interaction_description": "The fan can be mounted in electronic devices or used in cooling systems to circulate air. It interacts with the environment by moving air efficiently, reducing heat build-up in enclosed spaces."
+}

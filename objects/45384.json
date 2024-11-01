@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet, medium size, gray color, simple style.",
+    "part_description": "The cabinet has one door and one drawer, both rectangular. The door is positioned below the drawer, with a handle on the left side. The structure is boxy with flat surfaces.",
+    "internal_interaction_description": "The drawer slides in and out smoothly above the door compartment. The door opens outward on hinges, revealing internal storage space. The handle facilitates easy opening of both the drawer and door.",
+    "external_interaction_description": "The cabinet can be placed against walls or under countertops. It interacts with users by providing storage space, accessed via the door and drawer. The cabinet can hold various items, keeping them organized and concealed."
+}

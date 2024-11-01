@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with four doors.",
+    "part_description": "Contains four doors: two upper and two lower, each with vertical handles. The cabinet is rectangular with a flat top and sides, and internal shelves visible through gaps.",
+    "internal_interaction_description": "The upper and lower doors open outward to reveal internal shelving. The vertical handles allow for easy opening and closing. The shelves are positioned horizontally and provide storage space, supporting items placed on them. The doors align with the cabinet frame to close securely.",
+    "external_interaction_description": "The cabinet can be placed against a wall, interacting with the room's layout. It provides storage for household items, interacting with users who open the doors to access contents. Its flat top can hold decorative items or additional storage containers."
+}

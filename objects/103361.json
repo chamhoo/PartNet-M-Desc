@@ -1,0 +1,6 @@
+{
+    "base_description": "White front-loading washing machine, rectangular shape.",
+    "part_description": "Includes a circular door, control panel with buttons, knob, and digital display on the top front. The door is centrally positioned, and the panel is above it.",
+    "internal_interaction_description": "The circular door opens to reveal the drum, which rotates during operation. The control panel allows selection of wash cycles, and the knob adjusts settings. The digital display shows cycle status and time remaining.",
+    "external_interaction_description": "Users interact with the machine by loading laundry, selecting cycles, and starting the wash. The machine connects to water and power sources and drains used water externally after washing."
+}

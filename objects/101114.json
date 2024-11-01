@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, multi-tool pocket knife with red handle.",
+    "part_description": "Includes blades, scissors, corkscrew, and screwdriver, all folding. Blades are sharp and metallic, arranged around a central handle. Scissors are small, positioned opposite the main blade. Corkscrew is spiral, attached to one end.",
+    "internal_interaction_description": "The folding tools pivot around central hinges, allowing them to be compactly stored within the handle. Each tool is independently operable, with a locking mechanism to secure them in place during use. The tools fold neatly into designated slots, minimizing space and maximizing functionality.",
+    "external_interaction_description": "Used for cutting, opening bottles, and other tasks, interacting with various materials like paper, wood, and metal. Fits comfortably in a pocket, making it portable for outdoor activities. Users grip the handle to deploy tools, engaging with the environment through manual operation."
+}

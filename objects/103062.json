@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and gray blender with a modern design.",
+    "part_description": "Includes a red base, gray pitcher, red lid, and handle. The base is ribbed and cylindrical, the pitcher is tapered with a spout, and the handle is attached to the pitcher side.",
+    "internal_interaction_description": "The motor in the base powers the blades inside the gray pitcher, which are covered by the red lid. The handle aids in stabilizing the pitcher during use, while the lid prevents spillage and allows for safe operation.",
+    "external_interaction_description": "The blender is placed on a flat surface and plugged into an electrical outlet. Users interact with it by placing ingredients into the pitcher, securing the lid, and using controls on the base to blend contents to desired consistency."
+}

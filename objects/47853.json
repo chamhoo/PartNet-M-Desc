@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, white, rectangular cabinet with three compartments.",
+    "part_description": "The cabinet has three rectangular doors vertically aligned, each covering a separate compartment. Handles are positioned vertically on the left side of each door.",
+    "internal_interaction_description": "Each compartment is isolated by a door, allowing independent access. The vertical alignment of compartments maximizes storage within a compact footprint. The doors are hinged on the right, facilitating easy opening and closing.",
+    "external_interaction_description": "The cabinet can be placed against a wall to save space. Its compartments can store various items, making it useful in offices or homes. The handles allow easy opening, and its height requires users to reach higher for the top compartment."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular grey device with a screen and buttons.",
+    "part_description": "Features a large central screen, circular control pad, and multiple rectangular buttons arranged around the screen.",
+    "internal_interaction_description": "The circular control pad likely interacts with the device's software to navigate menus, while the buttons may perform specific functions or shortcuts. The screen displays visual information and responds to button inputs.",
+    "external_interaction_description": "The device can be held and operated by a person, interacting with other electronic systems via wireless or wired connections to control audio or visual media."
+}

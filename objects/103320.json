@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window with gray glass panels.",
+    "part_description": "Consists of two large rectangular glass panels; one fixed and one sliding, framed by a white border. The sliding panel is positioned on the right, while the fixed panel is on the left.",
+    "internal_interaction_description": "The sliding glass panel moves horizontally within the frame, guided by a track at the bottom. The fixed panel remains stationary, providing stability to the structure. The frame holds both panels securely, allowing smooth movement and maintaining alignment.",
+    "external_interaction_description": "The window serves as a barrier between indoor and outdoor environments, allowing light and visibility while providing weather protection. It can be opened to allow airflow or closed to maintain insulation. Users interact by sliding the movable panel to adjust ventilation."
+}

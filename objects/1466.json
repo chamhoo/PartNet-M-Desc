@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver cylindrical faucet with a minimalist design.",
+    "part_description": "Includes a cylindrical base, a spout, and a lever. The spout extends outward from the base, and the lever is positioned on top. All parts are smooth and metallic.",
+    "internal_interaction_description": "The lever controls the flow of water through internal valves. When moved, it adjusts the water pressure and temperature by opening or closing pathways within the faucet. The spout directs water outward, ensuring smooth flow.",
+    "external_interaction_description": "The faucet interacts with plumbing systems to provide water. Users operate the lever to control water flow and temperature. It is typically mounted on sinks or countertops, where it dispenses water for various tasks like washing hands or dishes."
+}

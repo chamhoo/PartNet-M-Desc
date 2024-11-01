@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular washing machine with front-loading door.",
+    "part_description": "Features include a circular front door, control panel with buttons and knob, and a rectangular body. The door is centrally located, and the panel is on the upper front section.",
+    "internal_interaction_description": "The washing machine's drum rotates within the rectangular body, driven by an internal motor. The control panel allows users to select settings, which adjust the drum's speed and cycle. Water flows into the drum to wash clothes, with a pump system to drain water after cycles.",
+    "external_interaction_description": "The washing machine connects to a water supply and drainage system. Users interact with the control panel to select wash settings. It requires an electrical outlet for power and is typically placed in a laundry room or similar space for operation."
+}

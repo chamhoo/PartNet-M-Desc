@@ -1,0 +1,6 @@
+{
+    "base_description": "Green and white tap with cross handle.",
+    "part_description": "Includes a cross-shaped handle, cylindrical body, and spout. The handle is green, positioned on top, and controls water flow. The body is white, connecting the handle to the spout, which curves downward.",
+    "internal_interaction_description": "The cross-shaped handle rotates to control the internal valve, regulating water flow through the cylindrical body. When turned, the valve opens or closes, allowing water to pass from the inlet to the spout. The interaction between the handle and valve is crucial for operation.",
+    "external_interaction_description": "The tap connects to a water source, allowing users to control water flow by turning the handle. It can be attached to sinks or basins, facilitating water access. Users interact by gripping and rotating the handle, which adjusts the water output through the spout."
+}

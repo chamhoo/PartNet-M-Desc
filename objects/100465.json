@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical bucket with a metal handle.",
+    "part_description": "The bucket has a cylindrical body, a circular open top, and a metal handle attached on opposite sides near the top.",
+    "internal_interaction_description": "The metal handle is designed to pivot at two attachment points on the bucket, allowing it to swing freely for easy carrying. The handle's movement is constrained by its length and the fixed positions of the attachment points, ensuring stability when lifted.",
+    "external_interaction_description": "The bucket can hold liquids or solids, interacting with external elements by containing them. The handle allows for easy transportation by a person, and its design facilitates pouring or emptying contents. It can be placed on various surfaces due to its flat bottom."
+}

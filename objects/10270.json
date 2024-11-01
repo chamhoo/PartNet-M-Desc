@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with a slim, rectangular design.",
+    "part_description": "Consists of a screen and a keyboard base; screen is thin and rectangular, positioned upright; keyboard base is flat and rectangular with keys arranged in rows.",
+    "internal_interaction_description": "The screen is attached to the keyboard base via a hinge mechanism, allowing it to open and close. The keys on the keyboard are integrated into the base, allowing for data input. Internal components like the motherboard, processor, and battery are housed within the base.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input. It can connect to external devices via USB ports, and to networks via Wi-Fi. The screen displays visual output, and the device can be powered externally through an adapter."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and gray soap dispenser.",
+    "part_description": "Consists of a rectangular base and a pump on top. The base is gray on one side, black on others. The pump is black and centered.",
+    "internal_interaction_description": "The pump mechanism connects to a tube inside the rectangular base. When pressed, the pump creates suction, drawing liquid soap up through the tube and out the spout.",
+    "external_interaction_description": "The dispenser is operated by pressing the pump, which dispenses soap onto hands or other surfaces. It can be refilled by unscrewing the pump and pouring soap into the base."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray block with a yellow cap.",
+    "part_description": "The object has a rectangular gray block and a rounded yellow cap. The block is solid and flat, while the cap is curved and fits on one end of the block.",
+    "internal_interaction_description": "The yellow cap is designed to snugly fit over one end of the gray block, possibly serving as a protective cover or closure. The cap's curvature aligns with the block's edge, ensuring stability and secure attachment.",
+    "external_interaction_description": "The object can be handled easily due to its compact shape. The cap may protect the block from external elements like dust or moisture, making it suitable for storage or transport. It can interact with other similar objects by stacking or aligning."
+}

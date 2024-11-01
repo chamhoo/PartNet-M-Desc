@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver lighter with a hinged lid.",
+    "part_description": "Consists of a rectangular body and a hinged lid; the body is the main part, and the lid covers the top. The hinge connects the lid to the body.",
+    "internal_interaction_description": "The lid is connected to the body via a hinge, allowing it to open and close smoothly. When opened, the lid reveals the ignition mechanism inside the body. The hinge ensures the lid stays attached and aligned with the body for proper function.",
+    "external_interaction_description": "The lighter is designed to be held by hand, with the lid flipped open using a thumb. It interacts with external elements like air and fuel to produce a flame. The lighter can be used to ignite cigarettes, candles, or other items requiring a flame."
+}

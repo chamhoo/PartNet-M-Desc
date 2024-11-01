@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic faucet with curved spout and cross handle.",
+    "part_description": "Includes a round base, curved spout, and cross-shaped handle. The spout extends outward, while the handle is positioned on top for control. The base attaches to a wall or surface.",
+    "internal_interaction_description": "The cross-shaped handle rotates to control a valve inside the faucet, regulating water flow through the spout. The internal valve opens or closes based on handle position, allowing precise control of water output.",
+    "external_interaction_description": "The faucet connects to a water supply, dispensing water when the handle is turned. Users interact by rotating the handle to start or stop water flow, often installed on sinks or walls in kitchens and bathrooms."
+}

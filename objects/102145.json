@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black and gray coffee maker, spherical design.",
+    "part_description": "Includes a spherical body, drip tray, and spout. The drip tray is circular and located at the base, while the spout extends from the front of the body.",
+    "internal_interaction_description": "The coffee maker's internal system heats water, which is then forced through a coffee pod holder under pressure. The spout directs the brewed coffee into a cup placed on the drip tray, while the drip tray collects any overflow or drips.",
+    "external_interaction_description": "The coffee maker interacts with users who insert coffee pods and place cups on the tray. It requires an external power source and water input. Users operate it via buttons or switches, and it outputs brewed coffee into a cup."
+}

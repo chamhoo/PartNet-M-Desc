@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray top-loading washing machine, rectangular shape.",
+    "part_description": "Includes a top lid, control panel, and cylindrical drum. The lid is hinged at the back, allowing access to the drum. The control panel is located on the top rear, featuring buttons and dials.",
+    "internal_interaction_description": "The lid opens to reveal the drum, where clothes are placed. The control panel adjusts settings like wash cycle and water temperature, interacting with the drum to start and stop the washing process. The drum spins to agitate clothes during the wash and rinse cycles.",
+    "external_interaction_description": "Operated by a user through the control panel to select wash settings. Water is supplied through external plumbing, and electricity powers the machine. The machine drains water through an external hose after each cycle."
+}

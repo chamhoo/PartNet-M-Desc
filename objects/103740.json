@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact folding knife with metallic blade and handle.",
+    "part_description": "Consists of a silver blade and a brown handle. The blade is straight and sharp, while the handle is elongated with a hole at one end. The blade folds into the handle for storage.",
+    "internal_interaction_description": "The blade pivots at a hinge point, allowing it to fold into the handle. This hinge mechanism is secured by a small pin, enabling smooth opening and closing. The handle provides a stable grip and houses the blade when not in use.",
+    "external_interaction_description": "Used for cutting or slicing tasks, the knife interacts with various materials like rope, paper, or food. Its compact design allows for easy carrying in pockets or bags. Users must exercise caution to avoid accidental cuts while handling or storing the knife."
+}

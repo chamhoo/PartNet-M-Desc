@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, square, gray office chair with black base.",
+    "part_description": "Consists of a square seat and backrest, both gray. Black cylindrical support connects to a five-legged black base with wheels.",
+    "internal_interaction_description": "The seat is connected to the backrest via a vertical support, allowing for slight reclining. The cylindrical support enables height adjustment. The five-legged base provides stability and mobility, with each leg ending in a wheel for easy movement.",
+    "external_interaction_description": "The chair interacts with users by providing seating comfort and mobility. It can be adjusted for height to match various desk levels. The wheels allow for easy movement across different floor surfaces, making it suitable for office environments."
+}

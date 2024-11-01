@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical faucet with purple handle.",
+    "part_description": "Consists of a cylindrical body, a curved spout, and a top-mounted lever handle. The body is vertical, the spout extends horizontally, and the handle is on top.",
+    "internal_interaction_description": "The lever handle rotates to control the flow of water through the spout. Inside, a valve mechanism adjusts to open or close the water passage as the handle is moved. The spout directs the water flow outward, ensuring a smooth stream.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop. Users interact by turning the handle to start or stop water flow. It connects to plumbing for water supply, and its design ensures water is efficiently directed into the basin below."
+}

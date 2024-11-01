@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black camera with a protruding lens.",
+    "part_description": "Features a cylindrical lens, rectangular body, viewfinder, shutter button, and grip. Lens extends from the front; viewfinder and button on top. Grip is on the side.",
+    "internal_interaction_description": "The lens assembly moves in and out for focusing, while the shutter button activates the internal mechanism to capture images. The viewfinder aligns with the lens for accurate framing. The grip provides stability for holding the camera during use.",
+    "external_interaction_description": "The camera interacts with light to capture images, requiring a user to operate the shutter button. It can connect to a computer or other devices for image transfer. The grip and buttons are designed for ergonomic handling and ease of use by a photographer."
+}

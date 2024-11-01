@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular dishwasher with a handle.",
+    "part_description": "Consists of a front door with a handle, four small feet at the base, and a rectangular body. The handle is horizontally positioned near the top of the front door.",
+    "internal_interaction_description": "The front door is hinged, allowing it to open and close, providing access to the interior racks and compartments designed for holding dishes. The handle facilitates the opening and closing of the door. The feet provide stability and support for the dishwasher's weight.",
+    "external_interaction_description": "The dishwasher interacts with external plumbing for water supply and drainage. Users interact with the handle to open and close the door for loading and unloading dishes. It requires an electrical connection to operate, and it fits under a countertop in a kitchen setting."
+}

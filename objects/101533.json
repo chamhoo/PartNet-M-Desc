@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray soap dispenser with pump.",
+    "part_description": "Contains a rectangular base and a pump on top. The base is tall and box-shaped, while the pump is cylindrical with a horizontal lever.",
+    "internal_interaction_description": "The pump mechanism consists of a lever attached to a tube inside the rectangular base. When pressed, the lever activates the pump, drawing liquid from the base through the tube and dispensing it through the nozzle.",
+    "external_interaction_description": "The soap dispenser is typically placed on a countertop. Users press the pump lever to dispense soap onto their hands or a sponge, facilitating handwashing or cleaning tasks."
+}

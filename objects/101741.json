@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue mechanical pencil with a black clip.",
+    "part_description": "Consists of a blue cylindrical body, black eraser cap, and clip. The pencil tip is pointed, and the eraser is concealed under the cap.",
+    "internal_interaction_description": "The pencil's internal mechanism advances the lead when the eraser cap is pressed. The clip is attached near the top for securing the pencil to surfaces. The eraser is replaceable, fitting snugly under the cap.",
+    "external_interaction_description": "The pencil interacts with paper to write or draw, requiring manual pressure. The clip allows attachment to notebooks or clothing. The eraser removes pencil marks from paper surfaces."
+}

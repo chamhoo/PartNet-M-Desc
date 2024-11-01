@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver microwave with black front panel.",
+    "part_description": "Features a large black door, control panel with buttons, and a knob. The door is centrally positioned with the control panel below it.",
+    "internal_interaction_description": "The microwave door opens to reveal an interior cavity where food is placed. The control panel allows users to set time and power levels, interacting with internal heating elements to cook or warm food evenly.",
+    "external_interaction_description": "The microwave interacts with users through its control panel, allowing them to input settings. It requires an electrical outlet for power and can be placed on a kitchen counter or shelf, interacting with surrounding kitchen elements."
+}

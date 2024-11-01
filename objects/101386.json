@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical white fan with a simple design.",
+    "part_description": "The fan has a cylindrical body with a circular front grill, containing several evenly spaced blades. It sits on a rectangular base for stability.",
+    "internal_interaction_description": "The fan blades rotate within the cylindrical body, driven by an internal motor. The circular grill allows air to flow through while protecting the blades. The base supports the fan, keeping it stable during operation.",
+    "external_interaction_description": "The fan circulates air in a room, providing cooling. It can be placed on a flat surface and connected to a power source. Users can interact with it by turning it on or off, adjusting speed settings, and positioning it for optimal airflow."
+}

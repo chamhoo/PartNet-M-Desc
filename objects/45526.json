@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with sliding doors.",
+    "part_description": "Two sliding doors, one large and one small, positioned horizontally. The large door covers most of the front, while the smaller door is on the left. Both doors have vertical handles.",
+    "internal_interaction_description": "The sliding doors move horizontally along tracks, allowing access to the interior compartments. The smaller door overlaps the larger one slightly, providing a seamless closure. The handles facilitate easy sliding motion for opening and closing.",
+    "external_interaction_description": "The cabinet can be placed against a wall, used for storage in homes or offices. Users can slide the doors to access stored items, while the flat top surface may hold decorative items or additional storage."
+}

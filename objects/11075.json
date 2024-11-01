@@ -1,0 +1,6 @@
+{
+    "base_description": "Small black and silver laptop with a sleek design.",
+    "part_description": "Features a screen, keyboard, touchpad, and hinges. Screen is rectangular, positioned above the keyboard. Keyboard has multiple keys, touchpad is centered below it. Hinges connect screen and base.",
+    "internal_interaction_description": "The screen is connected to the base via hinges, allowing it to open and close. The keyboard and touchpad are integrated into the base for user input. Internal components like the motherboard, battery, and storage are housed within the base, facilitating processing and power management.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input. It connects to external networks via Wi-Fi and may interface with other devices through USB ports or Bluetooth. The screen displays output, enabling user interaction with software applications and digital content."
+}

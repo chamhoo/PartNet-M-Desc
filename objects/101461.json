@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with a compact design.",
+    "part_description": "Consists of two square frames, multiple blades, and a central hub. The frames are stacked with blades positioned in the center, attached to the hub.",
+    "internal_interaction_description": "The blades are connected to the central hub, which allows them to rotate within the square frames. The frames provide structural support, ensuring the blades maintain their position and alignment during operation.",
+    "external_interaction_description": "The fan can be mounted onto surfaces using screws through the corner holes. It interacts with air by drawing it in and pushing it out, providing ventilation or cooling when connected to a power source."
+}

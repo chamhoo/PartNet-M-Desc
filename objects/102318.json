@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall black safe with digital lock.",
+    "part_description": "Features a rectangular body, digital keypad, and handle. Keypad and handle are centered on the front. The keypad is above the handle, both are silver.",
+    "internal_interaction_description": "The digital keypad interacts with the locking mechanism to secure the safe. The handle can be turned to open or close the door when the correct code is entered. Internal shelves may organize contents.",
+    "external_interaction_description": "The safe interacts with users who input codes to access contents. It can be placed in secure locations and may interact with security systems. Its sturdy design deters unauthorized access."
+}

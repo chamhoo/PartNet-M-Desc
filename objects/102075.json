@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic pliers with red and yellow handles.",
+    "part_description": "Two red and yellow handles, metallic jaws with adjustable joint, and gripping teeth. The handles are parallel, while the jaws form a V-shape.",
+    "internal_interaction_description": "The handles are connected to the jaws via a pivot joint, allowing the jaws to open and close. The adjustable joint enables the jaws to expand for gripping different sizes. The gripping teeth on the jaws interlock when closed for a secure hold.",
+    "external_interaction_description": "The pliers grip and manipulate objects through manual pressure applied by the user. The handles provide leverage, while the jaws hold or twist objects like wires or pipes. The insulated handles protect against electrical shocks during use."
+}

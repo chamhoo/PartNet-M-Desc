@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular box with a front handle.",
+    "part_description": "Single door with a horizontal handle on the front; box-shaped body with flat top and sides.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to swing open and closed. The handle provides a grip for opening the door, which seals against the body to enclose the interior space.",
+    "external_interaction_description": "The object can be placed on a flat surface, interacting with users through the handle for opening and closing. It may house items inside, keeping them contained and protected from external elements."
+}

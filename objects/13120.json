@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular beige keyboard with blue function keys.",
+    "part_description": "Features 104 keys, including standard QWERTY layout, arrow keys, function keys, and a numeric keypad. Blue keys are positioned at the top right.",
+    "internal_interaction_description": "Keys are arranged in a grid, each with a spring mechanism underneath. Pressing a key completes a circuit, sending a signal to the computer. The blue keys may have additional functions, interacting with the main circuitry to perform specific tasks.",
+    "external_interaction_description": "Connects to computers via a wired or wireless interface. Users interact by pressing keys to input data, execute commands, or control software. The keyboard may also interact with other peripherals through shared software or hardware connections."
+}

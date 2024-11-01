@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray metallic safe.",
+    "part_description": "The safe has a rectangular door with two circular dials and a handle, positioned centrally on the front. The body is a single, solid piece with a flat top and sides.",
+    "internal_interaction_description": "The circular dials interact with internal locking mechanisms, allowing the door to secure tightly when closed. The handle is connected to the internal locking system, enabling the user to open or close the safe by turning it.",
+    "external_interaction_description": "The safe is designed to interact with users who input combinations via the dials and use the handle to access contents. It can be placed in various settings for security purposes, interacting with its environment by providing a secure storage solution."
+}

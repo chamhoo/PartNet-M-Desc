@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, box-shaped coffee machine with modern design.",
+    "part_description": "Includes a central spout, water reservoir, drip tray, and control panel. The spout is centrally located above the drip tray, with a rectangular control panel on the side. The water reservoir is positioned at the back.",
+    "internal_interaction_description": "The water reservoir supplies water to the internal heating element, which heats the water. The heated water is then pumped through the spout to brew coffee. The control panel manages the machine's functions, adjusting water flow and temperature as needed.",
+    "external_interaction_description": "The coffee machine interacts with users who fill the reservoir, place cups on the drip tray, and operate the control panel to brew coffee. It requires an electrical outlet for power and interacts with coffee grounds or pods placed within its brewing chamber."
+}

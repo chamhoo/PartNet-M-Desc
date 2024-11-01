@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact white toilet with a rectangular tank.",
+    "part_description": "Includes a rounded seat, a rectangular tank, and a flush button on top. The tank is positioned behind the seat.",
+    "internal_interaction_description": "The flush button on the tank activates the internal flushing mechanism, releasing water stored in the tank into the bowl to clean and empty it. The seat is attached to the bowl, allowing it to be lifted or lowered as needed.",
+    "external_interaction_description": "The toilet connects to plumbing for water supply and waste management. Users interact by lifting the seat and pressing the flush button. It is typically installed in bathrooms, requiring a stable and level surface for proper function."
+}

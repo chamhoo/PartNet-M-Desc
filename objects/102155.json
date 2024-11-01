@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular bin with orange lid.",
+    "part_description": "Includes a rectangular body, orange lid, and two black wheels at the rear bottom.",
+    "internal_interaction_description": "The lid is attached to the top of the bin, allowing it to open and close for waste disposal. The wheels are connected to the lower back of the bin, providing mobility and ease of movement when tilted.",
+    "external_interaction_description": "The bin is designed for use in waste collection, interacting with users who open the lid to deposit trash. The wheels facilitate movement across surfaces, and the bin can be positioned at collection points for waste disposal services."
+}

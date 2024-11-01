@@ -1,0 +1,6 @@
+{
+    "base_description": "White, rectangular washing machine with a circular door.",
+    "part_description": "Features include a front circular door, control panel with buttons and a knob, and a digital display. The door is centrally positioned on the front panel, and the control panel is located above it.",
+    "internal_interaction_description": "The circular door opens to allow access to the drum inside, where clothes are placed. The control panel interacts with the internal systems, adjusting settings like temperature and cycle duration. The knob and buttons send commands to the machine, which are processed by the internal circuitry.",
+    "external_interaction_description": "The machine connects to water and power sources, receiving water through inlet hoses and draining it after use. Users interact with the control panel to select washing cycles. It operates on electricity and must be positioned on a stable surface to function effectively."
+}

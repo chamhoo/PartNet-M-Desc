@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, green, rectangular refrigerator with retro style.",
+    "part_description": "Two horizontal handles on the front, top and bottom sections, vertical door alignment.",
+    "internal_interaction_description": "The refrigerator consists of a door that opens to reveal separate cooling compartments. The door handles facilitate access to these compartments, which are designed to maintain different temperatures for optimal food storage.",
+    "external_interaction_description": "The refrigerator interacts with external elements by storing food and drinks, maintaining freshness through cooling. Users open the door via handles to access stored items. It requires a power source to function and is typically placed in a kitchen setting."
+}

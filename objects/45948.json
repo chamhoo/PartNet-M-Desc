@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, white cabinet with multiple compartments.",
+    "part_description": "Contains three large compartments with doors and two top drawers, arranged horizontally. Each part is rectangular, with the drawers positioned above the compartments.",
+    "internal_interaction_description": "The top drawers slide horizontally above the main compartments, which open outward with hinged doors. Each compartment can store various items, with the doors providing access to the interior space.",
+    "external_interaction_description": "The cabinet interacts with users by providing storage space, accessible through the drawers and doors. It can be placed against a wall in a kitchen or office, and items can be placed on top for display or use."
+}

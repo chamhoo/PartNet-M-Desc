@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black computer fan with multiple blades.",
+    "part_description": "Consists of a square frame, central hub, and multiple curved blades arranged radially. The frame is sturdy and houses the blades securely.",
+    "internal_interaction_description": "The central hub connects to the motor, driving the blades to rotate. The blades are evenly spaced within the frame, ensuring balanced airflow. The frame provides structural support, maintaining the alignment of the rotating blades.",
+    "external_interaction_description": "Designed to be mounted inside a computer case, the fan facilitates airflow, cooling internal components. It connects to the motherboard or power supply, receiving power to operate. The fan's rotation expels hot air, maintaining optimal temperature for efficient system performance."
+}

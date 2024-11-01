@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, silver and black refrigerator.",
+    "part_description": "Includes a single door with a vertical handle on the front. The door is silver, while the rest of the body is black. The handle is positioned vertically on the left side of the door.",
+    "internal_interaction_description": "The door is hinged on the right, allowing it to swing open for access to the interior storage space. The handle provides a grip for opening and closing the door. Inside, shelves and compartments organize stored items, maintaining them at a cool temperature.",
+    "external_interaction_description": "The refrigerator interacts with its environment by maintaining a stable temperature for food storage. It requires an electrical outlet for power and is typically placed in a kitchen or similar setting. Users interact with it by opening the door to access stored items."
+}

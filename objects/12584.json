@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and gray box, medium size.",
+    "part_description": "The object has six rectangular faces; four vertical, one top, and one bottom. The vertical faces are black and gray, arranged in a rectangular prism shape.",
+    "internal_interaction_description": "The faces of the rectangular prism are connected at the edges, forming a solid structure. The top and bottom faces are parallel and perpendicular to the vertical sides, ensuring stability and uniform shape.",
+    "external_interaction_description": "The object can be placed on flat surfaces, interacting with gravity for stability. Its shape allows stacking or alignment with similar objects, and it can be moved or lifted by people for transport or repositioning."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact folding knife with black handle.",
+    "part_description": "The knife has a sharp, pointed blade and a textured handle. The blade is metallic, and the handle has ergonomic grooves for grip. A hinge connects the blade and handle, allowing folding.",
+    "internal_interaction_description": "The blade folds into the handle via a hinge mechanism. The handle's grooves provide grip, ensuring stability during use. The hinge locks the blade in place when extended, preventing accidental closure.",
+    "external_interaction_description": "The knife can cut or slice various materials. Its portable size allows easy carrying in pockets or bags. The ergonomic handle ensures a secure grip, reducing the risk of slipping during use."
+}

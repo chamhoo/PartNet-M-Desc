@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray platform with wheels, industrial style.",
+    "part_description": "Four wheels attached to a rectangular platform, with open slots underneath. The platform is flat and gray, with a solid central section and hollow sides.",
+    "internal_interaction_description": "The wheels are attached to the corners of the platform, allowing smooth movement. The open slots underneath reduce weight and facilitate easy lifting with forklifts. The solid central section provides stability and support for heavy loads.",
+    "external_interaction_description": "The object can be easily moved by pushing or pulling, thanks to its wheels. It's designed to carry heavy items, making it useful in warehouses or factories. It can interact with forklifts for lifting and stacking, and supports efficient transportation of goods."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, transparent bottle with green cap.",
+    "part_description": "Consists of a cylindrical body and a small, round green cap. The body is transparent, tapering slightly towards the top. The cap is positioned at the top center.",
+    "internal_interaction_description": "The cap screws onto the threaded neck of the bottle, providing a seal to prevent liquid from escaping. The tapering neck fits the cap snugly, ensuring a tight closure. The cylindrical body holds the liquid, supported by the flat base.",
+    "external_interaction_description": "The bottle can be held by hand for pouring or drinking. It interacts with liquids by containing them, and with external surfaces by standing upright on its flat base. The cap can be removed for filling or emptying the bottle."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cylindrical blender with a square base.",
+    "part_description": "The object has a cylindrical container with a lid on top, mounted on a square base featuring several buttons arranged in a row.",
+    "internal_interaction_description": "The cylindrical container is designed to hold ingredients, while the lid secures them inside. The base houses the motor, which powers the blades inside the container when activated by the buttons.",
+    "external_interaction_description": "The blender interacts with users through the buttons, allowing them to control its functions. It processes ingredients placed inside, transforming them through blending, and requires a power source to operate."
+}

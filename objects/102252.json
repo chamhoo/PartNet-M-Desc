@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular cabinet with two drawers.",
+    "part_description": "Two drawers with handles, stacked vertically, on a rectangular cabinet.",
+    "internal_interaction_description": "The drawers slide in and out of the cabinet frame using internal tracks, allowing for smooth opening and closing. The handles are attached to the front of each drawer for easy pulling.",
+    "external_interaction_description": "The cabinet can be placed against walls or under counters, providing storage. Users interact by pulling the handles to access contents. It can be moved or repositioned as needed, typically resting on a flat surface."
+}

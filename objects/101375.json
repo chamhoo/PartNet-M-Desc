@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown ceiling fan with five blades.",
+    "part_description": "The fan has five equally spaced brown blades, attached to a central beige motor housing. It is mounted on a short rod with a canopy at the top.",
+    "internal_interaction_description": "The motor within the central housing rotates, causing the five blades to spin. This rotation is facilitated by the secure attachment of each blade to the motor, ensuring balanced movement and efficient air circulation.",
+    "external_interaction_description": "When powered, the fan circulates air within a room, providing cooling. It is controlled by a switch or remote, allowing users to adjust speed settings. The fan is typically mounted on the ceiling, interacting with surrounding air and ambient temperature."
+}

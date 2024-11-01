@@ -1,0 +1,6 @@
+{
+    "base_description": "Ceiling fan with three beige blades.",
+    "part_description": "The fan has a cylindrical motor housing, three flat blades, and a downrod for ceiling mounting. The blades are evenly spaced around the motor.",
+    "internal_interaction_description": "The motor within the cylindrical housing rotates, transferring motion to the blades. This rotation creates airflow as the blades cut through the air, evenly distributing air across the room. The downrod connects the motor housing to the ceiling, stabilizing the fan's structure.",
+    "external_interaction_description": "When powered, the fan circulates air in a room, providing cooling. It can be controlled by a switch or remote, allowing users to adjust speed and direction. The fan's presence can impact room aesthetics and airflow dynamics, enhancing comfort and energy efficiency."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, dual electrical outlet plate.",
+    "part_description": "Two circular outlets, each with three prong slots, symmetrically positioned on a rectangular plate.",
+    "internal_interaction_description": "The prong slots within each circular outlet are arranged to accommodate standard electrical plugs, ensuring secure contact for electrical transmission. The dual outlets are wired internally to allow simultaneous use without interference, maintaining consistent power flow.",
+    "external_interaction_description": "The outlet plate is mounted on a wall, allowing electrical devices to connect via plugs. It facilitates power transfer to external devices, supporting various electrical appliances. Users interact by inserting plugs into the slots, enabling device operation."
+}

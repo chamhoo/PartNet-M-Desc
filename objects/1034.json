@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern white faucet with a curved spout.",
+    "part_description": "Includes a cylindrical base, curved spout, and single lever. The spout is L-shaped, positioned above the base. The lever is attached to the side of the base.",
+    "internal_interaction_description": "The lever controls water flow through an internal valve system. When the lever is lifted or turned, it adjusts the valve, allowing water to flow through the spout. The spout directs the water downward into a sink or basin.",
+    "external_interaction_description": "The faucet connects to plumbing to deliver water. Users interact by moving the lever to control water temperature and flow. The spout directs water into a sink, and its height and curvature allow for easy filling of containers."
+}

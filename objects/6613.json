@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, circular clock with protruding rods.",
+    "part_description": "Clock face with 12 rods, each ending in a red ball, evenly distributed around the perimeter.",
+    "internal_interaction_description": "The clock hands rotate around the central axis on the clock face, indicating time. The rods and balls serve as hour markers, visually dividing the clock face into equal segments.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, interacting with the surrounding environment by providing a visual time reference. Its bold design may complement modern decor and serve as a focal point in a room."
+}

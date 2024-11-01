@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray window with sliding panels.",
+    "part_description": "Two large rectangular panels, horizontally aligned, set in a frame. The panels are of equal size and shape, positioned side by side, allowing for sliding movement.",
+    "internal_interaction_description": "The two panels are designed to slide horizontally within the frame. One panel overlaps the other when opened, allowing ventilation. The frame provides structural support, ensuring smooth sliding and stability.",
+    "external_interaction_description": "The window allows light and air to pass through, providing visibility and ventilation. It can be opened or closed by a person to control these elements. It may interact with external weather conditions, such as rain or wind, providing protection when closed."
+}

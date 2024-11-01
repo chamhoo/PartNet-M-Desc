@@ -1,0 +1,6 @@
+{
+    "base_description": "White ceiling fan with five blades.",
+    "part_description": "The fan has a central motor housing, five evenly spaced blades, and a mounting bracket. The blades are flat and rectangular, attached to the motor housing, which is circular. The mounting bracket is positioned above the motor.",
+    "internal_interaction_description": "The motor housing contains the motor that powers the rotation of the blades. The blades are directly attached to the motor housing, allowing them to spin when the motor is activated. The mounting bracket secures the fan to the ceiling, providing stability and support during operation.",
+    "external_interaction_description": "The ceiling fan interacts with the surrounding air, creating airflow to cool a room. It is typically controlled by a wall switch or remote, allowing users to adjust speed and direction. The fan's presence can affect room aesthetics and is often positioned centrally for optimal air distribution."
+}

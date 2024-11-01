@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular USB drive, teal and silver.",
+    "part_description": "Consists of a teal plastic body and a silver metallic swivel cover. The USB connector is at one end, with a circular teal button on the swivel cover. The swivel cover rotates around the body.",
+    "internal_interaction_description": "The swivel cover rotates around the body to protect or expose the USB connector. The circular button on the cover helps in rotating the cover. The connector fits snugly into the body, ensuring a secure connection when plugged into a USB port.",
+    "external_interaction_description": "Connects to computers or devices via the USB port for data transfer and storage. The swivel cover protects the connector from dust and damage when not in use. The compact size allows easy portability, fitting in pockets or bags."
+}

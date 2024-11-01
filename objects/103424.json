@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white bottle with black pump.",
+    "part_description": "Consists of a cylindrical body and a pump. The body is smooth, white, and tapers slightly towards the top. The black pump is situated at the top center, with a flat, rectangular nozzle.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle that extends to the bottom. When pressed, the pump creates suction, drawing liquid up the tube and out through the nozzle. The pump's spring mechanism resets it for the next use.",
+    "external_interaction_description": "The bottle is designed to dispense liquids like soap or lotion when the pump is pressed by a hand. It can be refilled by unscrewing the pump. The bottle can be placed on flat surfaces like countertops, and its design allows easy handling and operation."
+}

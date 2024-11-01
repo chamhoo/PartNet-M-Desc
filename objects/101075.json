@@ -1,0 +1,6 @@
+{
+    "base_description": "Wooden cart with large spoked wheels.",
+    "part_description": "Two large spoked wheels on either side of a flat platform with a handle at the front.",
+    "internal_interaction_description": "The wheels are connected to the platform, allowing rotation for movement. The handle at the front is attached to the platform for steering or pulling. The spokes provide structural support to the wheels, ensuring stability and balance during motion.",
+    "external_interaction_description": "The cart can be pulled by a person or animal via the handle. It interacts with the ground through its wheels, which roll smoothly over flat surfaces. It can carry objects on its platform, facilitating transportation of goods or materials."
+}

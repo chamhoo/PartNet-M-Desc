@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, white pump bottle.",
+    "part_description": "Consists of a cylindrical body and a pump top. The body is tall and smooth, with a narrow neck leading to the pump. The pump is positioned at the top center.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, allowing liquid to be drawn up and dispensed when pressure is applied to the pump. The neck secures the pump to the bottle, preventing leaks.",
+    "external_interaction_description": "The bottle is used to dispense liquid when the pump is pressed. It interacts with a user\u2019s hand, which applies pressure to the pump. It can be placed on flat surfaces and is often used in bathrooms or kitchens."
+}

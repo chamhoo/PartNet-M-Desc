@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white toaster with black accents.",
+    "part_description": "Features two slots on top, a control knob, lever, and a power cord with plug.",
+    "internal_interaction_description": "The lever lowers bread into the slots, activating internal heating elements. The control knob adjusts the toasting level, influencing the duration and intensity of heat applied to the bread.",
+    "external_interaction_description": "The toaster connects to a power source via the cord and plug. Users insert bread slices into the slots, adjust settings with the knob, and press the lever to start toasting. The toaster ejects the bread automatically once done."
+}

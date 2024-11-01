@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black remote with colored buttons.",
+    "part_description": "Features multiple buttons in rows, including circular and rectangular shapes, with distinct colors and sizes, centrally positioned.",
+    "internal_interaction_description": "Buttons are arranged for functional grouping, allowing easy access to different controls. The circular buttons are likely for numerical input, while rectangular ones serve as function keys. Central arrow keys facilitate navigation, surrounded by additional function buttons for enhanced control.",
+    "external_interaction_description": "Designed to interact with electronic devices, the remote sends signals to control functions like power, volume, and channel selection. Users press buttons to transmit commands, relying on infrared or radio frequency technology to communicate with compatible devices."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical globe with a stand.",
+    "part_description": "The globe has a spherical body, a semi-circular arm, and a round base. The arm holds the globe and connects to the base.",
+    "internal_interaction_description": "The semi-circular arm supports the spherical globe, allowing it to rotate. The arm is attached to the base, providing stability and enabling the globe to spin on its axis smoothly.",
+    "external_interaction_description": "The globe can be manually rotated by a person to view different areas. It serves as an educational tool for learning geography and can be placed on desks or tables as a decorative item."
+}

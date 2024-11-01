@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver pliers with red handle, medium size.",
+    "part_description": "Two metal jaws, red rubber grip, and pivot point. Jaws are long and tapered, positioned at the front. Handles are curved with one red rubber grip, extending from pivot.",
+    "internal_interaction_description": "The two jaws are connected at a central pivot point, allowing them to open and close. The handles provide leverage, enhancing the force applied at the jaws. The rubber grip ensures a secure hold, preventing slippage during use.",
+    "external_interaction_description": "The pliers interact with various objects by gripping, twisting, or bending them. The user applies pressure to the handles, causing the jaws to close around an object. The rubber grip offers comfort and control, making it suitable for tasks requiring precision and strength."
+}

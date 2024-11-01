@@ -1,0 +1,6 @@
+{
+    "base_description": "Square black fan with four mounting posts.",
+    "part_description": "Consists of a square frame, central hub, and four blades. Four cylindrical mounting posts are at each corner of the frame.",
+    "internal_interaction_description": "The central hub holds the fan blades, allowing them to rotate within the square frame. The blades are evenly spaced around the hub, ensuring balanced rotation and efficient airflow through the frame.",
+    "external_interaction_description": "The fan can be mounted using the four posts, allowing it to be secured to various surfaces. It interacts with external power sources to rotate the blades, providing airflow for cooling or ventilation purposes."
+}

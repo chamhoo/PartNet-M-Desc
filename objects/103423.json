@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray bottle with pump, rectangular shape.",
+    "part_description": "Consists of a rectangular base and a pump top. The base is large, gray, and supports the smaller, white pump mechanism on top.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle. Pressing the pump creates suction that draws liquid up the tube, dispensing it through the nozzle.",
+    "external_interaction_description": "The bottle is designed to be placed on flat surfaces. Users interact by pressing the pump to dispense liquid, such as soap or lotion, onto their hands or other surfaces."
+}

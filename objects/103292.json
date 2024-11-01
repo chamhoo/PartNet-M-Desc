@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige rectangular stapler with metallic components.",
+    "part_description": "Consists of a top arm, base, and metal staple tray. The top arm is long and rectangular, the base is flat, and the tray holds staples in place.",
+    "internal_interaction_description": "The top arm hinges on the base, allowing it to press down. The metal tray holds staples, which are pushed through paper when the arm is pressed, bending the staples against an anvil to secure documents.",
+    "external_interaction_description": "The stapler is used by pressing down on the arm to bind sheets of paper together. It requires manual force and interacts with paper by inserting staples through it, securing multiple sheets efficiently."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and white multifunction printer, rectangular shape.",
+    "part_description": "Includes a paper tray, control panel, scanner lid, and output tray. The control panel has a screen and buttons, arranged on the front. The scanner lid is on top, with the paper tray at the bottom.",
+    "internal_interaction_description": "The scanner lid lifts to reveal the scanning glass where documents are placed. The control panel operates the printer's functions, sending commands to internal components. The paper tray feeds paper into the printer, which is then processed and output through the output tray.",
+    "external_interaction_description": "Interacts with users through the control panel for printing, scanning, and copying tasks. Connects to computers or networks for receiving print jobs. Users place documents on the scanner for duplication or digital conversion."
+}

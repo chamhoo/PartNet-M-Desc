@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray-framed, multi-pane window.",
+    "part_description": "Contains two main rectangular panes with gray frames, each divided into smaller sections. One pane is fixed while the other is hinged, allowing it to open outward.",
+    "internal_interaction_description": "The two main panes are connected by a central hinge mechanism. The hinge allows one pane to pivot open while the other remains stationary. The smaller sections within each pane are separated by horizontal and vertical dividers, maintaining structural integrity.",
+    "external_interaction_description": "The window can be opened to allow airflow and light into a room. It interacts with external elements like weather and temperature, providing insulation when closed. The window's opening mechanism allows for ventilation control, and it can be locked to ensure security against external intrusion."
+}

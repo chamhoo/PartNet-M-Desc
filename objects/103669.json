@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray window with three panels.",
+    "part_description": "Three rectangular panels; one large central, two smaller side panels; framed in gray. Central panel is larger and positioned between two identical side panels.",
+    "internal_interaction_description": "The central panel is flanked by two smaller panels, creating a balanced structure. The panels are likely designed to slide or open for ventilation, with the frame providing structural support. The panels fit snugly within the frame, allowing for secure placement and potential movement.",
+    "external_interaction_description": "The window can be installed in buildings, allowing light and air to enter a room. It may interact with external elements like weather conditions, requiring durability. People can open or close the panels for ventilation or privacy, adjusting according to their needs."
+}

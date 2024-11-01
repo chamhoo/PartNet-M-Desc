@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, black and gray printer.",
+    "part_description": "Includes a paper tray, control panel with buttons, scanner lid, and output slot; all arranged on a rectangular body.",
+    "internal_interaction_description": "The control panel allows users to select functions, sending commands to internal components. The scanner lid lifts to reveal a scanning surface. Paper feeds from the tray through internal rollers to the output slot, where printed documents emerge.",
+    "external_interaction_description": "Connects to computers or networks for printing documents. Users interact with the control panel for operation. Paper and ink must be supplied externally. Outputs printed documents for user retrieval."
+}

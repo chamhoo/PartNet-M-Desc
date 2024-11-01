@@ -1,0 +1,6 @@
+{
+    "base_description": "Small cylindrical blue spray can with red cap.",
+    "part_description": "Contains a cylindrical body, a red spray nozzle on top, and a gray actuator. The body is blue with a yellow label.",
+    "internal_interaction_description": "The actuator, when pressed, releases the spray through the nozzle. The internal pressure propels the liquid outwards, converting it into a fine mist.",
+    "external_interaction_description": "The spray can is used by pressing the actuator, releasing the contents onto surfaces for lubrication, cleaning, or protection. It interacts with various materials, providing a thin protective layer."
+}

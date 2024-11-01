@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, green teapot with white lid.",
+    "part_description": "The teapot has a round green body, a white octagonal lid with a central knob, and a short spout positioned on the side.",
+    "internal_interaction_description": "The lid fits snugly onto the teapot's opening, with the knob allowing easy lifting. The spout is angled for smooth pouring, and the body holds liquid securely, preventing spills.",
+    "external_interaction_description": "The teapot is used to hold and pour hot liquids like tea. The knob and spout facilitate handling and pouring, while the lid helps maintain temperature. It interacts with cups and saucers during serving."
+}

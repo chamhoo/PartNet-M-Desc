@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical jar with a white lid.",
+    "part_description": "The jar consists of a cylindrical body with a flat, circular white lid. The body is uniform in shape and color, and the lid sits securely on top.",
+    "internal_interaction_description": "The lid fits snugly onto the top of the cylindrical body, creating a seal that can be opened or closed by twisting or lifting. This interaction ensures the contents are kept secure within the jar.",
+    "external_interaction_description": "The jar can be held by the cylindrical body, and the lid can be removed to access contents. It can interact with external elements like shelves for storage or tables for placement."
+}

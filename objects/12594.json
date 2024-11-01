@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, silver dishwasher with a control panel.",
+    "part_description": "Features a front control panel with buttons and a knob, a large door, and an interior with racks and compartments for dishes.",
+    "internal_interaction_description": "The control panel allows users to select wash cycles, which are executed internally. Water is dispensed through jets to clean dishes placed on the racks. The door seals tightly to prevent water leakage during operation.",
+    "external_interaction_description": "The dishwasher connects to plumbing for water supply and drainage. Users interact with the control panel to start and stop cycles, and load or unload dishes through the front door."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with buttons.",
+    "part_description": "Features numbered buttons, circular navigation pad, colored buttons, and power button. Arranged vertically on a slim rectangular surface.",
+    "internal_interaction_description": "The buttons interact with the internal circuitry to send specific signals corresponding to each button press. The navigation pad allows directional input by engaging different sections of the circuit. The power button connects to a main switch controlling the device's on/off state.",
+    "external_interaction_description": "Interacts with electronic devices via infrared signals, allowing control of functions like power, volume, and channel selection. Users press buttons to send commands to compatible devices, requiring line-of-sight for effective communication."
+}

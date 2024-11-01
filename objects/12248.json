@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray refrigerator with two doors.",
+    "part_description": "Two doors, vertically aligned; top smaller, bottom larger; rectangular shape; positioned on front side.",
+    "internal_interaction_description": "The top door typically leads to a freezer compartment, while the bottom door opens to a refrigerator section. Shelves and compartments inside each section are arranged to maximize storage and organization, allowing for separation of different food types. The cooling system circulates air to maintain optimal temperatures in both sections.",
+    "external_interaction_description": "The refrigerator interacts with users through door handles for access to stored items. It requires an electrical connection for operation, maintaining internal temperatures. It stands on the floor, often positioned against a wall, and may interact with surrounding kitchen furniture and appliances by fitting into designated spaces."
+}

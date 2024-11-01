@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular coffee machine with digital display.",
+    "part_description": "Includes a digital display, three buttons, a portafilter, drip tray, and cup holder. The display is on the front, buttons are below it, portafilter extends from the side, drip tray is at the bottom, and cup holder is centrally placed.",
+    "internal_interaction_description": "The digital display interfaces with the buttons to control brewing functions. The portafilter holds coffee grounds and attaches to the machine for brewing. The drip tray collects excess liquid, keeping the area clean. The cup holder positions the cup to receive brewed coffee directly from the portafilter.",
+    "external_interaction_description": "The coffee machine interacts with users through its buttons and display for operation. It requires an external power source to function. Users place a cup on the holder and insert coffee grounds into the portafilter. It outputs brewed coffee into the cup, ready for consumption."
+}

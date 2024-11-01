@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black safe with a gray front.",
+    "part_description": "Features a keypad, handle, and lock on the front panel.",
+    "internal_interaction_description": "The keypad is used to input a code, which interacts with the locking mechanism to secure or open the safe door. The handle engages the lock, allowing the door to be pulled open once unlocked.",
+    "external_interaction_description": "The safe interacts with users who input codes and operate the handle to access stored contents. It provides secure storage, protecting items from unauthorized access and external environmental factors."
+}

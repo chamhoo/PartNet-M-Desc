@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, grey storage cabinet with handle.",
+    "part_description": "Includes a main body with a door, handle, and internal shelves. The door is vertically aligned with a horizontal handle at the top. Shelves are evenly spaced inside.",
+    "internal_interaction_description": "The door swings open on hinges, allowing access to the internal shelves. The handle facilitates easy opening and closing. Shelves are fixed inside, providing storage space and structural support.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, interacting with surrounding furniture. Users interact by opening the door via the handle to store or retrieve items."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window with gray and blue panels.",
+    "part_description": "Two rectangular panels, one gray and one blue, are arranged side by side within a white frame. Each panel is similar in size and shape, fitting snugly within the frame.",
+    "internal_interaction_description": "The two panels slide horizontally within the frame, allowing one panel to overlap the other. This sliding mechanism enables the window to open and close, with one panel moving in front of or behind the other along a track within the frame.",
+    "external_interaction_description": "The window can be opened or closed by sliding the panels, allowing for ventilation and light control. It interacts with external elements like air and light, providing insulation and a view when closed, and allowing airflow and access when open."
+}

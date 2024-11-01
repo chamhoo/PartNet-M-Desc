@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical blender with handles, gray color.",
+    "part_description": "Consists of a cylindrical jar with a lid, two side handles, and a square base. The jar is positioned vertically on the base.",
+    "internal_interaction_description": "The lid fits securely on top of the jar to prevent spillage. The handles provide grip for easy removal and placement of the jar. The jar locks into the base, which houses the motor that powers the blades inside the jar for blending.",
+    "external_interaction_description": "The blender is operated by a user, who places ingredients inside the jar. It is commonly used in kitchens for blending food and drinks. The base connects to a power source, and the user controls the blending process via buttons or switches on the base."
+}

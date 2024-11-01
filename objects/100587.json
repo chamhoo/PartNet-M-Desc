@@ -1,0 +1,6 @@
+{
+    "base_description": "White folding chair with slatted design.",
+    "part_description": "Consists of a slatted backrest, seat, and four legs. The backrest and seat have horizontal slats, while the legs are crossed for folding. The seat is supported by two curved braces.",
+    "internal_interaction_description": "The slatted backrest connects to the rear legs, providing support. The seat's slats are parallel and supported by the curved braces. The crossed legs allow the chair to fold, with hinges enabling this movement. The structure is stabilized by the interaction of all parts.",
+    "external_interaction_description": "The chair can be folded for storage or transport. It supports a person sitting, distributing weight across the slats and legs. The chair's material allows for outdoor use, resisting weather elements. It can be placed on flat surfaces for stability."
+}

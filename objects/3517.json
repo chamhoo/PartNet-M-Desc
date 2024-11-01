@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical bottle with a white cap.",
+    "part_description": "The bottle has a cylindrical body and a small, round white cap on top. The body is smooth and uniform in shape, while the cap is positioned at the top center.",
+    "internal_interaction_description": "The cap screws onto the bottle's neck, creating a seal that prevents liquid from spilling. The cylindrical body contains the liquid, and the neck serves as a passage for pouring when the cap is removed.",
+    "external_interaction_description": "The bottle can be held and operated by hand, with the cap being unscrewed to access its contents. It can be placed on flat surfaces due to its stable base, and it interacts with external elements like liquids and air when opened."
+}

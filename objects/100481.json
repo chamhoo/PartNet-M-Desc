@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white basket with brown handles.",
+    "part_description": "The basket has two brown handles attached on opposite sides, a rectangular body, and a flat base. The handles are arched and positioned at the top.",
+    "internal_interaction_description": "The handles are attached to the basket's body with hinges, allowing them to pivot upwards for carrying. The flat base supports the basket's structure, providing stability. The handles' positioning ensures balanced weight distribution when lifted.",
+    "external_interaction_description": "The basket can be carried by a person using the handles, making it portable. It can hold various items inside, interacting with its contents by providing storage and transport. The flat base allows it to be placed on surfaces securely."
+}

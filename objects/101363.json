@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cube-shaped safe with a circular dial.",
+    "part_description": "Cube with a front door, circular dial, and hinges. Dial centered on the door, hinges on the right side.",
+    "internal_interaction_description": "The circular dial interacts with an internal locking mechanism, allowing the door to be securely closed or opened. The hinges facilitate the swinging motion of the door, enabling access to the safe's interior when unlocked.",
+    "external_interaction_description": "The safe can be interacted with by turning the dial to enter a combination, allowing authorized access. It is designed to store valuables securely, preventing unauthorized access and providing protection from external elements."
+}

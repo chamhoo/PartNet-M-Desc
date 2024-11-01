@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cube-shaped safe with a circular lock.",
+    "part_description": "The safe has a cube shape with a circular lock on the front. The lock consists of a central hub and multiple protruding rods arranged symmetrically. The body is smooth with a flat top and sides.",
+    "internal_interaction_description": "The central hub of the lock connects to the protruding rods, which rotate around the hub. This mechanism secures the safe door by engaging or disengaging the locking bolts inside the safe. The rods' symmetrical arrangement ensures even pressure distribution during locking.",
+    "external_interaction_description": "The safe interacts with users who operate the lock to secure or access its contents. It may be placed in various environments, like offices or homes, where it serves to protect valuables from unauthorized access. The sturdy build deters physical tampering."
+}

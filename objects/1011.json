@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, sleek, modern faucet with a single handle.",
+    "part_description": "Contains a spout, handle, and base. The spout is flat and extends forward, the handle is positioned above the spout, and the base is cylindrical.",
+    "internal_interaction_description": "The handle controls the water flow through the faucet. When lifted, it opens the valve inside, allowing water to pass through the spout. The internal mechanism adjusts water temperature and pressure based on handle position.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop. Users interact with it by moving the handle to control water flow and temperature. It connects to plumbing to supply water and is designed to withstand regular use in kitchens or bathrooms."
+}

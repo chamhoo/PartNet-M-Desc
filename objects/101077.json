@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, four-wheeled vehicle with red and beige colors.",
+    "part_description": "Consists of four black wheels, a red and beige body, two beige seats, and a black steering wheel, centrally positioned.",
+    "internal_interaction_description": "The steering wheel connects to the front wheels, allowing directional control. The seats are positioned for two passengers, with the body providing structural support and housing for mechanical components. The wheels are attached to axles, enabling movement.",
+    "external_interaction_description": "Designed for transport, the vehicle interacts with roads and terrain. It accommodates two passengers, providing mobility in small areas like golf courses or campuses. The wheels ensure stability and traction, while the steering wheel facilitates navigation by the driver."
+}

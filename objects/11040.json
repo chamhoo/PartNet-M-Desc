@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized blue-handled metal scissors.",
+    "part_description": "Two metal blades, sharp and pointed, joined at a pivot. Blue plastic handles with ergonomic loops for fingers.",
+    "internal_interaction_description": "The blades pivot around a central point, allowing them to open and close smoothly. The handles provide leverage and control, ensuring the blades move in unison for cutting. The pivot point maintains alignment, ensuring precision.",
+    "external_interaction_description": "Used by people to cut paper, fabric, or other materials. Handles fit comfortably in hand, allowing for controlled cutting. Requires manual force to operate, with precision depending on user's skill. Can interact with various materials, adjusting pressure as needed for effective cutting."
+}

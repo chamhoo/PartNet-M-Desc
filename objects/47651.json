@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with two sections.",
+    "part_description": "Upper section has three vertical panels; lower section is a single large panel. Both sections are rectangular and aligned vertically.",
+    "internal_interaction_description": "The upper section's three panels are positioned side by side, dividing the space into three compartments. The lower section is a single, larger compartment, possibly for storing larger items. Both sections likely have hinges or sliding mechanisms for opening.",
+    "external_interaction_description": "The cabinet can be mounted on a wall or placed on a surface. It interacts with users by allowing storage and organization of items within its compartments. The panels may open outward or slide to provide access."
+}

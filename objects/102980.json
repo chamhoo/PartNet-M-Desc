@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray retractable pen with ergonomic design.",
+    "part_description": "Consists of a cylindrical body, clip, grip, and retractable tip. The clip is on the side, the grip is at the bottom, and the tip retracts inside.",
+    "internal_interaction_description": "The retractable mechanism connects the tip to the top button. Pressing the button extends or retracts the tip. The grip provides comfort, while the clip allows attachment to surfaces.",
+    "external_interaction_description": "Used for writing on paper, the pen is held by hand. The clip attaches to notebooks or pockets, and the retractable tip prevents ink stains."
+}

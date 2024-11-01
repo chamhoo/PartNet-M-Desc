@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray gear-shaped wall clock with minimalist design.",
+    "part_description": "Clock face has 12 gear-like protrusions, numbers 1-12, and two hands positioned centrally. Protrusions are evenly spaced around the circular edge.",
+    "internal_interaction_description": "The clock hands rotate around a central axis, indicating time by pointing to the embossed numbers arranged in a circular pattern. The gear-like edges serve as decorative elements, maintaining symmetry and balance.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, interacting with viewers by providing time information. Its unique shape adds a decorative element to the environment, potentially complementing industrial or modern interior designs."
+}

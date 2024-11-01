@@ -1,0 +1,6 @@
+{
+    "base_description": "Turquoise box fan with four gray blades.",
+    "part_description": "The fan has a rectangular frame, four large gray blades, a central hub, and a small control knob on top. The blades are evenly spaced, positioned within the frame, and attached to the central hub.",
+    "internal_interaction_description": "The central hub holds the four blades, allowing them to rotate simultaneously when powered. The control knob on top adjusts the fan speed, altering the rotation speed of the blades. The frame supports the entire structure, ensuring stability and directing airflow.",
+    "external_interaction_description": "When plugged into a power source, the fan circulates air, cooling the surrounding environment. Users adjust the speed using the control knob. The fan can be placed on flat surfaces, interacting with the room's airflow dynamics to enhance ventilation."
+}

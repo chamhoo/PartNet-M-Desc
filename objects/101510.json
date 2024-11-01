@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, gray table fan with a modern design.",
+    "part_description": "Includes a circular blade, protective grille, sturdy base, and electrical cord. The blade is black and positioned centrally within the grille, which is attached to the base. The base is rectangular with control buttons on top.",
+    "internal_interaction_description": "The fan's motor rotates the central blade, creating airflow. The protective grille surrounds the blade, ensuring safety by preventing contact. The base houses the motor and control mechanism, allowing the user to adjust the fan's speed and oscillation settings.",
+    "external_interaction_description": "The fan plugs into an electrical outlet to operate, and its airflow cools surrounding areas. Users can adjust its position on surfaces and use control buttons to change settings. It interacts with the environment by circulating air, impacting room temperature and comfort."
+}

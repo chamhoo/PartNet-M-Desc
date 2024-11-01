@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wheelbarrow with a simple, classic design.",
+    "part_description": "One large tray, two handles, one wheel, and two legs. The tray is rectangular and positioned above the wheel. The handles extend from the rear of the tray, and the wheel is centrally placed at the front.",
+    "internal_interaction_description": "The wheel supports the front of the tray, allowing movement. The handles provide leverage for lifting and balancing the load. The legs stabilize the wheelbarrow when stationary, preventing tipping.",
+    "external_interaction_description": "The wheelbarrow is pushed or pulled by a person using the handles. It interacts with the ground through the wheel, allowing transport of materials like soil or tools. The tray holds the load securely during movement."
+}

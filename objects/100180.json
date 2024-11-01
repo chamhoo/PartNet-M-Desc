@@ -1,0 +1,6 @@
+{
+    "base_description": "Red-handled pliers with metallic jaws.",
+    "part_description": "Two red handles, metallic jaws, pivot joint. Handles are long, curved, and parallel. Jaws are flat, with a gripping surface, positioned at one end.",
+    "internal_interaction_description": "The handles are connected to the jaws via a pivot joint, allowing them to open and close. When the handles are squeezed together, the jaws close, enabling gripping or cutting. The pivot allows for leverage, maximizing the force applied to the jaws.",
+    "external_interaction_description": "The pliers can grip, twist, or cut objects when manipulated by a person. They interact with wires, bolts, and other small objects, providing mechanical advantage. The insulated handles offer user safety, minimizing electrical conduction and enhancing grip."
+}

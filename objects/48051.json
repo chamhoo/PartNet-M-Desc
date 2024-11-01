@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with five drawers.",
+    "part_description": "Consists of five horizontal drawers, evenly stacked, with smooth handles. Each drawer is rectangular and aligned vertically within the cabinet structure.",
+    "internal_interaction_description": "The drawers slide in and out of the main cabinet structure, guided by internal tracks. Each drawer operates independently, allowing access to individual compartments without affecting others. The handles facilitate easy opening and closing.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a workspace. Users interact by pulling the handles to access contents. It can hold various items, providing organized storage solutions in homes or offices. The flat top surface may also accommodate additional objects."
+}

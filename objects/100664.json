@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray box with a hinged lid.",
+    "part_description": "The box has a main rectangular compartment and a hinged lid, both in gray. The lid is attached to the back of the box and can open upwards.",
+    "internal_interaction_description": "The lid is connected to the main compartment via hinges, allowing it to pivot open and closed. The lid fits snugly over the top, providing a secure closure when shut.",
+    "external_interaction_description": "The box can be used to store items, keeping them organized and protected. It can be opened by lifting the lid and closed by pressing it down, interacting with users for storage purposes."
+}

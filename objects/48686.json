@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with a modern style.",
+    "part_description": "Two main doors, one with a vertical handle, rectangular shape. Left door has a glass panel; right door is solid. Both doors are similar in size and cover the front.",
+    "internal_interaction_description": "The two doors are hinged on opposite sides, allowing them to swing open from the center. The glass panel on the left door allows visibility into the cabinet's interior, while the right door provides a solid cover. The handles facilitate easy opening and closing of the doors.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, interacting with the room's layout. It can store items internally, interacting with users who open the doors to access contents. The glass panel allows users to view items without opening the door."
+}

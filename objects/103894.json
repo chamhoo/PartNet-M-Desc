@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular printer with a touch screen.",
+    "part_description": "Includes a flatbed scanner on top, a front-loading paper tray, and a central touch screen. The scanner lid is rectangular, the paper tray is extendable, and the screen is centered on the front panel.",
+    "internal_interaction_description": "The touch screen interfaces with internal electronics to control scanning and printing functions. The paper tray feeds paper through rollers for printing. The scanner lid lifts to reveal a glass surface for scanning documents, which are processed internally and outputted through the printer.",
+    "external_interaction_description": "Connects to computers and mobile devices via USB or wireless for printing and scanning. Users interact through the touch screen for settings and operations. It outputs printed documents to the front tray and requires external power supply for operation."
+}

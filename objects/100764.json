@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic globe with a grid structure, silver color.",
+    "part_description": "The globe consists of a spherical grid with continents, mounted on a circular base. The grid lines are evenly spaced, and continents are flat, positioned across the grid.",
+    "internal_interaction_description": "The continents are attached to the grid structure, representing landmasses on the globe. The grid lines intersect at right angles, forming a network that supports the continents. The base connects to the grid through a central axis, allowing rotation.",
+    "external_interaction_description": "The globe can be spun on its axis for educational purposes, displaying different continents and oceans. It can be placed on desks or shelves, serving as a decorative piece or a learning tool for geography enthusiasts."
+}

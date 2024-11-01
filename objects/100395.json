@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with buttons and curves.",
+    "part_description": "Features multiple buttons, speaker holes, and a curved top. Large blue button centered, smaller buttons below, and speaker holes arranged vertically.",
+    "internal_interaction_description": "Buttons are mechanically linked to internal circuits, sending signals when pressed. The speaker holes allow sound to emit from an internal speaker, enhancing interaction feedback. The curved design aids ergonomic handling, ensuring comfortable grip and ease of access to controls.",
+    "external_interaction_description": "Interacts with electronic devices via wireless signals. Users press buttons to control connected devices, receiving feedback through sound from the speaker. Ergonomic design facilitates comfortable use during extended periods, enhancing user experience with intuitive button placement and responsive controls."
+}

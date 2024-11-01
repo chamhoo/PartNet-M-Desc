@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe with stand, round and smooth.",
+    "part_description": "Sphere with a vertical axis, mounted on a circular base. The handle is positioned on top, with a single arm connecting the sphere to the base.",
+    "internal_interaction_description": "The sphere rotates around the vertical axis, which is connected to the base. The handle assists in turning the globe smoothly. The arm provides stability, ensuring the sphere remains securely attached to the base.",
+    "external_interaction_description": "The globe can be spun by a person using the handle for educational or decorative purposes. It may be placed on a desk or table, interacting with the surrounding environment as a functional or ornamental object."
+}

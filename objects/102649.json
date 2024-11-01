@@ -1,0 +1,6 @@
+{
+    "base_description": "White squat toilet with attached flush tank.",
+    "part_description": "Consists of a ceramic squat pan with footrests and a rectangular flush tank mounted above, connected by a pipe.",
+    "internal_interaction_description": "The flush tank holds water, released through a pipe to the squat pan when activated. The pan's design directs water flow efficiently to clean waste, aided by the footrests that ensure proper positioning.",
+    "external_interaction_description": "Used by individuals for sanitation, requiring manual activation of the flush mechanism. Installed on the floor, it connects to plumbing for water supply and waste disposal, interacting with water systems and users during operation."
+}

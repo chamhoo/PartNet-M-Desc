@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver rectangular stapler, medium-sized.",
+    "part_description": "Consists of a black top cover, silver base, and internal metal components. The top cover is rectangular and slightly curved. The base is flat and rectangular with a staple exit point.",
+    "internal_interaction_description": "The black top cover is hinged to the silver base, allowing it to open and close. Inside, a spring mechanism pushes staples forward towards the exit point. When pressed, the top cover drives a staple through paper, bending it against the base's anvil to secure sheets together.",
+    "external_interaction_description": "The stapler interacts with paper by fastening sheets together. It requires manual pressure to operate, typically by hand. It can be placed on flat surfaces for stability during use. Staples need to be periodically refilled into the internal magazine for continued functionality."
+}

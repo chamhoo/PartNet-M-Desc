@@ -1,0 +1,6 @@
+{
+    "base_description": "Chrome faucet with cylindrical shape and sleek design.",
+    "part_description": "Contains a cylindrical spout, single lever handle, and base. The spout is slightly curved, positioned at the front. The lever handle is on top, parallel to the spout. The base is circular and supports the structure.",
+    "internal_interaction_description": "The lever handle controls water flow and temperature by adjusting the internal valve. When lifted, it allows water to flow through the spout. The internal mechanism ensures smooth operation between the handle and valve, providing precise control over water output.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop, interacting with plumbing to deliver water. Users operate the lever handle to control water flow and temperature. It interfaces with external water supply lines, providing a functional and aesthetic addition to kitchen or bathroom settings."
+}

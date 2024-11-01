@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with ergonomic design.",
+    "part_description": "Features include a cushioned seat, adjustable armrests, high backrest, and five caster wheels for mobility.",
+    "internal_interaction_description": "The seat is connected to the backrest, allowing for reclining. Armrests are adjustable, moving up and down. The base connects the seat to the wheels, enabling 360-degree rotation and height adjustment via a pneumatic lever.",
+    "external_interaction_description": "The chair interacts with the floor through its wheels, allowing easy movement. It provides ergonomic support for users, enhancing comfort during prolonged sitting. It fits under desks and tables, making it suitable for office environments."
+}

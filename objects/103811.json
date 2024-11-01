@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, white multifunction printer with trays.",
+    "part_description": "Includes a top scanner, control panel, multiple paper trays, and output tray. Arranged vertically with scanner on top, control panel below it, and paper trays stacked at the bottom.",
+    "internal_interaction_description": "The scanner feeds documents to the printer, which processes the data and sends it to the control panel for user interaction. The paper trays supply sheets to the printer, which are then printed on and moved to the output tray for collection.",
+    "external_interaction_description": "Interacts with users through the control panel for printing, scanning, and copying tasks. Connects to computers or networks for receiving print jobs. Requires regular paper and ink replenishment and maintenance for optimal performance."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular keyboard with standard layout.",
+    "part_description": "Contains 104 keys, arranged in rows, with function keys on top, alphanumeric keys in the center, and a numeric keypad on the right.",
+    "internal_interaction_description": "Keys interact with underlying switches to register input. Each key press sends a signal to the keyboard's internal processor, which encodes the input and communicates with connected devices.",
+    "external_interaction_description": "Connects to computers via USB or wireless technology, allowing users to input data and commands. Compatible with various operating systems and often used in conjunction with a mouse for full functionality."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular, white camera with black lens.",
+    "part_description": "Features include a large black circular lens, rectangular body, small button on top, and viewfinder on front. Lens protrudes from center; button is on top edge.",
+    "internal_interaction_description": "The lens adjusts to focus light onto the camera sensor inside the body. The button activates the shutter mechanism, capturing images. The viewfinder aligns with the lens, allowing the user to frame shots accurately.",
+    "external_interaction_description": "The camera interacts with users through its buttons and viewfinder. It connects to external devices via possible ports for data transfer. Users hold it by the body to take photos, while the lens captures the surrounding environment."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern lamp with adjustable arm and conical shade.",
+    "part_description": "Features a conical shade, adjustable arm with two segments, and a base joint. The arm segments are cylindrical, connected by a joint, and end with a spherical counterweight.",
+    "internal_interaction_description": "The lamp's adjustable arm consists of two segments connected by a joint, allowing for flexible positioning of the light. The spherical counterweight at the end maintains balance, while the joint at the base connects the arm to the conical shade, directing light as needed.",
+    "external_interaction_description": "The lamp interacts with its environment by providing adjustable lighting. Users can reposition the arm to focus light on specific areas. The conical shade directs light downward, making it suitable for reading or task lighting on desks or tables."
+}

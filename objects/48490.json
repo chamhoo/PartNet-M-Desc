@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray metal cabinet with a hinged door.",
+    "part_description": "The cabinet has one large hinged door, three smaller rectangular sections on top, and a flat top surface. The door covers the front and swings open, while the top sections are fixed.",
+    "internal_interaction_description": "The hinged door swings open to reveal the interior space for storage, while the top sections provide additional compartmentalized storage. The door is likely secured with a latch or magnetic closure to keep it shut.",
+    "external_interaction_description": "The cabinet interacts with users who open the door to access stored items. It can be placed against a wall or in a workspace, and may be used to store tools, documents, or other materials, depending on the setting."
+}

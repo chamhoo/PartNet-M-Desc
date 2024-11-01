@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a door.",
+    "part_description": "One main door, rectangular shape, centered on the front. Top open section for additional storage or countertop placement.",
+    "internal_interaction_description": "The door is hinged on one side, allowing it to swing open and closed, providing access to the interior storage space. The open top section can accommodate additional storage items or a countertop surface.",
+    "external_interaction_description": "The cabinet can be placed in kitchens or bathrooms for storage. It interacts with users through the door, which can be opened to store or retrieve items. The top can hold objects or support a countertop."
+}

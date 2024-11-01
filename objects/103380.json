@@ -1,0 +1,6 @@
+{
+    "base_description": "White plastic pump bottle, medium size, cylindrical shape.",
+    "part_description": "Includes a cylindrical body and a pump mechanism with a nozzle. The pump is positioned at the top of the bottle, while the body is the main container.",
+    "internal_interaction_description": "The pump mechanism consists of a nozzle, a tube, and a spring. When pressed, the spring compresses, allowing liquid to travel up the tube and out through the nozzle, dispensing the contents.",
+    "external_interaction_description": "The bottle is operated by pressing the pump, which dispenses liquid onto hands or surfaces. It can be refilled by unscrewing the pump from the bottle. The bottle is portable and can be placed on various surfaces."
+}

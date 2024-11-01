@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, hexagonal bucket with a handle.",
+    "part_description": "The bucket has a hexagonal body, a flat base, and a handle. The body is medium-sized, with the handle attached to the top edges.",
+    "internal_interaction_description": "The handle is connected to the top edges of the hexagonal body, allowing it to pivot for carrying. The flat base supports the structure, maintaining balance and stability.",
+    "external_interaction_description": "The bucket is designed to hold and transport materials like water or sand. The handle allows easy carrying by a person, and its flat base enables stable placement on surfaces."
+}

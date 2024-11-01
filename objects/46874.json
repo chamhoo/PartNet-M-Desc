@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with drawers and doors.",
+    "part_description": "Two drawers on top, two doors below, metal handles centered.",
+    "internal_interaction_description": "The drawers slide horizontally within the top section, supported by internal tracks. The doors swing open on hinges, revealing internal storage space. Handles provide grip for opening and closing both drawers and doors efficiently.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a kitchen. Users interact by pulling handles to access storage. It can support a countertop or appliances on top, integrating into various room designs."
+}

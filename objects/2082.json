@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver faucet with dual handles and curved spout.",
+    "part_description": "Two cylindrical handles on either side of a central spout; spout is L-shaped, extending upward and outward. Handles are round and positioned horizontally.",
+    "internal_interaction_description": "The handles control water flow through the spout. Turning the left handle adjusts hot water, while the right handle controls cold water. Both handles are connected to internal valves that regulate water pressure and temperature, directing the mixed water through the spout.",
+    "external_interaction_description": "The faucet is mounted on a sink or wall, interacting with plumbing to provide water. Users turn the handles to adjust flow and temperature, directing water into a basin below. It may also interact with cleaning tools or utensils when in use."
+}

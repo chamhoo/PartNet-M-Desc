@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and white retractable pen with clip.",
+    "part_description": "Pen has a red barrel, white tip, clip, and push button. The clip is attached to the side, and the button is on top.",
+    "internal_interaction_description": "The push button mechanism extends and retracts the pen tip. The internal spring compresses when the button is pressed, allowing the tip to extend. Releasing the button retracts the tip back into the barrel.",
+    "external_interaction_description": "The pen is held by hand for writing. The clip allows attachment to pockets or notebooks. The retractable feature prevents ink marks when stored."
+}

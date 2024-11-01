@@ -1,0 +1,6 @@
+{
+    "base_description": "Black mesh chair with red seat and gray base.",
+    "part_description": "The chair has a black mesh back, red cushioned seat, two gray armrests, and a gray five-star wheeled base.",
+    "internal_interaction_description": "The mesh back is attached to the seat, providing support. The armrests are connected to the back and seat, offering arm support. The seat is mounted on the wheeled base, allowing for mobility and stability.",
+    "external_interaction_description": "The chair is designed for sitting, providing ergonomic support for users. Its wheels allow easy movement on flat surfaces, and the armrests provide comfort during prolonged use. The mesh back promotes airflow, enhancing comfort in various environments."
+}

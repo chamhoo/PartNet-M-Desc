@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray digital camera with a protruding lens.",
+    "part_description": "Consists of a rectangular body, circular lens, buttons, and a viewfinder. The lens is centrally positioned, buttons are on top, and the viewfinder is at the back.",
+    "internal_interaction_description": "The lens extends from the camera body, allowing light to enter and hit the sensor. The buttons control various functions like zoom and shutter, interacting with internal electronics to capture images. The viewfinder aligns with the lens for accurate framing.",
+    "external_interaction_description": "The camera interacts with users through buttons for operation. It captures images of external scenes, storing them digitally. It can connect to computers or other devices for image transfer via USB or wireless technology, and may use a tripod for stability."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, teal metal lighter with flip-top.",
+    "part_description": "Consists of a teal metal body, flip-top lid, and silver ignition mechanism on top. The lid is hinged, covering the ignition area when closed.",
+    "internal_interaction_description": "The flip-top lid is connected to the main body by a hinge, allowing it to open and close over the ignition mechanism. The ignition mechanism includes a flint wheel and wick, which interact to produce a flame when the wheel is struck and the lid is open.",
+    "external_interaction_description": "The lighter interacts with the user by requiring manual operation to open the lid and strike the flint wheel, producing a flame for lighting purposes. It can be refilled with lighter fluid and requires occasional replacement of flints and wicks for continued use."
+}

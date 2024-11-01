@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and white ice cream cart with umbrella.",
+    "part_description": "Includes a striped umbrella, two round lids, a rectangular cart body, and two wheels. The umbrella is above the cart, the lids are on top, and the wheels are at the bottom.",
+    "internal_interaction_description": "The umbrella is attached to the cart, providing shade. The lids cover the storage compartments, maintaining the temperature of the contents inside. The wheels allow for easy movement of the cart.",
+    "external_interaction_description": "The cart is designed to interact with customers, offering ice cream in outdoor settings. The umbrella provides shade to protect the vendor and contents from sunlight. The wheels facilitate mobility across different terrains, making it suitable for parks, beaches, or events."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, narrow, gray cabinet with a handle.",
+    "part_description": "Single door with a handle, rectangular shape, vertical orientation, and enclosed storage space inside.",
+    "internal_interaction_description": "The cabinet door is hinged on one side, allowing it to swing open and closed, providing access to the internal storage area. The handle facilitates easy opening and closing of the door.",
+    "external_interaction_description": "The cabinet can be placed against a wall or integrated into a kitchen or bathroom setup, allowing for storage of various items. The handle allows users to open the door easily, interacting with the cabinet for storage purposes."
+}

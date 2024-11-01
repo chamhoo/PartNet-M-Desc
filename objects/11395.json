@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop, rectangular, slim, modern design.",
+    "part_description": "Includes a screen, keyboard, touchpad, and hinge. Screen is large and rectangular, positioned vertically. Keyboard is flat with evenly spaced keys. Touchpad is centered below the keyboard.",
+    "internal_interaction_description": "The hinge connects the screen to the base, allowing the screen to open and close. The keyboard and touchpad interface with internal components to input data. Power and indicator buttons are integrated for functionality and user interaction.",
+    "external_interaction_description": "The laptop interfaces with users through the keyboard and touchpad for input. The screen displays visual output. Ports on the sides allow connection to other devices, such as USB drives or headphones. The laptop can connect wirelessly to networks and peripherals."
+}

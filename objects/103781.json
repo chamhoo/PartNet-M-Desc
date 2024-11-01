@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white washing machine with control panel.",
+    "part_description": "Includes a top lid, control panel with three knobs, and a circular dial. Lid is flat, knobs are evenly spaced, and dial is on the right.",
+    "internal_interaction_description": "The control panel's knobs adjust settings like water level and temperature. The circular dial selects the wash cycle. The lid covers the drum, which holds clothes and water during operation. Each part works together to facilitate washing, rinsing, and spinning processes.",
+    "external_interaction_description": "The washing machine connects to water and power supplies. Users interact by loading clothes, selecting settings via knobs and dial, and starting the machine. It drains used water externally and requires regular maintenance like cleaning and checking connections for optimal performance."
+}

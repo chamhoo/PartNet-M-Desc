@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray remote control with buttons.",
+    "part_description": "Features six circular buttons arranged vertically, with a rectangular panel on the front. The buttons are evenly spaced and positioned in two columns of three.",
+    "internal_interaction_description": "The buttons on the remote control interact with an internal circuit board. Pressing a button completes an electrical circuit, sending a signal to the device it controls. The internal components are housed within the rectangular casing, protecting them from external damage.",
+    "external_interaction_description": "The remote control interacts with electronic devices such as TVs or fans by sending infrared signals. Users press buttons to transmit commands, altering device settings like power, volume, or mode. The remote must be pointed towards the device for effective signal transmission."
+}

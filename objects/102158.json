@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow rectangular bin with black lid and wheels.",
+    "part_description": "The bin has a rectangular body, a hinged black lid on top, and two black wheels at the back bottom for mobility.",
+    "internal_interaction_description": "The lid is attached to the top of the bin with hinges, allowing it to open and close. The wheels are fixed to the bottom rear, enabling the bin to be tilted and rolled for easy movement.",
+    "external_interaction_description": "The bin interacts with users who open the lid to deposit waste. It can be moved by tilting and rolling on its wheels, facilitating transportation to different locations for waste collection."
+}

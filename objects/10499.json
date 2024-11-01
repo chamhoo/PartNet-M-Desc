@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic scissors with sharp blades and looped handles.",
+    "part_description": "Two metal blades intersecting, each with a sharp edge; two plastic handles, loop-shaped, positioned at the end of each blade.",
+    "internal_interaction_description": "The blades pivot around a central screw, allowing them to open and close. The handles are attached to the blades, providing leverage for cutting. The sharp edges of the blades come together to cut through materials when the handles are squeezed together.",
+    "external_interaction_description": "Scissors are used by gripping the handles and applying pressure to cut various materials like paper, fabric, or hair. They interact with the material by slicing through it as the blades close. Proper handling ensures precise cuts and safety during use."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular desk with teal top and white drawers.",
+    "part_description": "The desk has a flat rectangular top, three drawers on the right side, and two supporting legs. The top is teal, and the drawers and legs are white.",
+    "internal_interaction_description": "The top surface is supported by the two legs and a side panel. The three drawers are stacked vertically on the right, each with a handle for opening. The drawers slide in and out, allowing for storage within the desk structure.",
+    "external_interaction_description": "The desk can be used for writing, working on a computer, or organizing items. The drawers provide storage for office supplies or personal items. It interacts with the user by offering a stable surface and storage options, fitting into various room settings."
+}

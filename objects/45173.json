@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray, modern-style tower.",
+    "part_description": "Includes a front panel, side panels, and a top. The front panel has a button and possible vent. The structure is tall and narrow.",
+    "internal_interaction_description": "The front panel likely houses components such as buttons or vents that interact with internal mechanisms. The side panels enclose and protect the internal components, maintaining structural integrity and providing a surface for potential mounting or airflow management.",
+    "external_interaction_description": "The object interacts with users through the front panel, where buttons may be pressed. It likely connects to other devices or systems, serving as a housing for electronic components. Its design facilitates placement in confined spaces, interacting with surrounding environments for efficient use of space."
+}

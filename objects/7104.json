@@ -1,0 +1,6 @@
+{
+    "base_description": "Round wall clock with abstract design.",
+    "part_description": "Clock face is circular with abstract patterns, featuring three ornate black hands at the center. The clock has a white, textured frame surrounding the face.",
+    "internal_interaction_description": "The three hands\u2014hour, minute, and second\u2014are centrally mounted and rotate around the clock face, each moving at different speeds to indicate time. The ornate design of the hands adds a decorative element, while their contrasting color ensures visibility against the patterned background.",
+    "external_interaction_description": "The clock is designed to be wall-mounted, interacting with its environment by providing timekeeping functionality. Its abstract design can complement various interior styles, and its visibility allows it to be easily read from a distance by people in the room."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular trash bin with wheels.",
+    "part_description": "The bin has a lid, a main container body, and two wheels at the back. The lid is flat and covers the top. The body is rectangular and deep. The wheels are positioned at the lower back corners.",
+    "internal_interaction_description": "The lid hinges at the back, allowing it to open and close over the main container. The wheels are fixed to the back, enabling easy tilting and rolling of the bin. The lid's design helps contain odors within the bin when closed.",
+    "external_interaction_description": "The bin interacts with users who lift the lid to dispose of waste. It can be tilted and rolled to different locations, making it convenient for transport. The wheels allow for movement across various surfaces, and the lid helps prevent spillage when moving."
+}

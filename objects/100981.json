@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray panel with screen and buttons.",
+    "part_description": "Features a central screen and four buttons below it, arranged in a diamond shape on a smooth rectangular panel.",
+    "internal_interaction_description": "The screen displays information controlled by the four buttons. Each button likely corresponds to a specific function, such as navigating menus or adjusting settings, interacting with the screen's display.",
+    "external_interaction_description": "Typically mounted on walls, users interact with the object by pressing buttons to control or adjust settings displayed on the screen, often used in environments like homes or offices."
+}

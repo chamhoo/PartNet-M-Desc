@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, round, dark teapot with a lid.",
+    "part_description": "Includes a spout, handle, lid with knob, and body. The spout is curved and attached to the side, the handle is looped opposite the spout, the lid is circular with a small knob on top, and the body is bulbous.",
+    "internal_interaction_description": "The lid fits snugly on top of the body, ensuring the contents remain secure. The handle is positioned for easy gripping, allowing the user to tilt the pot, directing liquid through the spout. The spout is designed to facilitate smooth pouring without drips.",
+    "external_interaction_description": "The teapot interacts with users who pour liquid into cups. It can be placed on various surfaces and is often used with teacups and saucers. The handle allows for safe handling, while the spout ensures precise pouring. It may also interact with heat sources if it is stovetop-safe."
+}

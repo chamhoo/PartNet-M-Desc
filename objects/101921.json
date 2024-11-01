@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver stove with burners and control knobs.",
+    "part_description": "Includes four burners on top, six control knobs below the burners, and an oven door with a handle beneath the knobs.",
+    "internal_interaction_description": "The control knobs regulate the gas flow to the burners, allowing for temperature adjustment. The burners are positioned to evenly distribute heat. The oven door opens to reveal an internal cooking space, with the knobs also controlling the oven temperature.",
+    "external_interaction_description": "The stove connects to a gas supply for burner operation. Users interact with the knobs to control cooking functions. It is typically placed in a kitchen setting, often near countertops and other kitchen appliances for convenient meal preparation."
+}

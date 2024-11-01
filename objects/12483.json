@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue rectangular wheeled trash bin with lid.",
+    "part_description": "The bin has a rectangular body, two wheels at the rear bottom, a flat lid on top, and a handle at the back. The body is blue with white text, and the wheels are black.",
+    "internal_interaction_description": "The lid sits on top of the rectangular body, providing a covering to keep contents secure. The handle is attached to the rear, allowing the lid to be lifted for access. The wheels are connected at the bottom rear, facilitating movement when tilted.",
+    "external_interaction_description": "The bin can be moved by tilting it back onto its wheels and pushing or pulling via the handle. It interacts with external elements by containing waste materials and can be emptied into larger waste collection systems by sanitation workers."
+}

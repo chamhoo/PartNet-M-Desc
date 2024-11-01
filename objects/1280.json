@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, U-shaped faucet with dual handles.",
+    "part_description": "The faucet has a U-shaped spout, two vertical handles, and a base. The spout is centrally positioned, with handles symmetrically placed on either side.",
+    "internal_interaction_description": "The handles control the flow of water through the spout. Turning the handles adjusts the internal valves, allowing water to pass through the spout from the base. The spout's curve directs water downward into a sink or basin.",
+    "external_interaction_description": "The faucet connects to plumbing to receive water supply. Users interact by turning the handles to adjust water flow and temperature. It is typically installed on a sink or countertop, directing water into a basin for various uses."
+}

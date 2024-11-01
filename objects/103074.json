@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular coffee machine with silver accents.",
+    "part_description": "Includes a front panel, drip tray, spout, steam wand, and control knobs. The drip tray is at the bottom, spout and steam wand are on the front. Control knobs are on the top front panel.",
+    "internal_interaction_description": "The water reservoir feeds water to the heating element. Once heated, water is pushed through the coffee grounds via the spout. The steam wand channels steam for frothing milk, using a separate internal conduit linked to the heating element.",
+    "external_interaction_description": "The machine interacts with users through buttons and knobs for brewing and steaming. It requires external power and uses coffee grounds and water to produce coffee. Users place cups under the spout and can adjust settings for different coffee types."
+}

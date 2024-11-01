@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver and black, modern dishwasher.",
+    "part_description": "Front door with handle, rectangular shape, silver color; body is black, cubic shape; control panel likely on top edge of door.",
+    "internal_interaction_description": "The front door is hinged at the bottom, allowing it to open downward. This provides access to the internal racks and compartments where dishes are placed. The control panel on the top edge of the door interfaces with the internal electronics, managing wash cycles and timing.",
+    "external_interaction_description": "The dishwasher is designed to fit under a kitchen counter, interacting with plumbing and electrical systems for operation. Users interact by opening the door to load dishes, selecting wash settings on the control panel, and closing the door to start the cycle."
+}

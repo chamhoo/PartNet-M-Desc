@@ -1,0 +1,6 @@
+{
+    "base_description": "Orange mechanical pencil, cylindrical shape, compact size.",
+    "part_description": "Includes a retractable tip, body, clip, and eraser. The cylindrical body is orange, with a silver clip and eraser at the top. The tip is metallic and retracts inside the body.",
+    "internal_interaction_description": "The retractable mechanism allows the tip to extend and retract by pressing the top. The eraser is replaceable and sits snugly at the top, while the clip is affixed to the body for secure attachment.",
+    "external_interaction_description": "Used for writing on paper, the pencil's tip interacts with surfaces to leave marks. The clip allows attachment to notebooks or pockets, while the eraser removes pencil marks from paper."
+}

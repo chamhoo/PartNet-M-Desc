@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow cart with wheels and hinged panels.",
+    "part_description": "Includes two large hinged panels, four wheels, and a rectangular base. Panels are positioned on top and side, wheels are evenly spaced at the base.",
+    "internal_interaction_description": "The hinged panels can open and close, allowing access to the interior. The wheels are connected to the base, enabling movement. The positioning of the panels suggests they serve as protective covers or access points for the contents inside the cart.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person due to its wheels. It can transport goods or items, and the panels can be opened for loading or unloading. Its bright color makes it noticeable in various environments."
+}

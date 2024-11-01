@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, flat, gray, modern electrical outlet.",
+    "part_description": "Features two round sockets with three rectangular holes each, symmetrically arranged on a flat panel.",
+    "internal_interaction_description": "The sockets are designed to securely hold plug prongs, ensuring electrical connectivity. The arrangement allows simultaneous connection of multiple devices. The holes are aligned to fit standard plug shapes, maintaining a stable and secure interaction within the outlet.",
+    "external_interaction_description": "The outlet interfaces with electrical plugs from various devices, providing power supply. It is typically mounted on walls, interacting with external wiring systems to distribute electricity safely. Users engage with it by inserting plugs, requiring precise alignment for effective connectivity."
+}

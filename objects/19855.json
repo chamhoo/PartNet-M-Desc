@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular wooden table with four legs.",
+    "part_description": "The table has a flat rectangular top, four turned legs, and a connecting lower frame. The top is smooth and flat, while the legs are cylindrical and ornate. The lower frame is rectangular, connecting all legs near the base.",
+    "internal_interaction_description": "The table's top is supported by four legs at each corner, providing stability. The lower frame connects the legs, enhancing structural integrity. The legs are evenly spaced, distributing weight and ensuring balance. The design allows for even weight distribution across the top surface.",
+    "external_interaction_description": "The table can support various objects on its top, such as books or decorations. It is suitable for use in a living room or study. People can sit around it comfortably, using it for activities like writing or dining. Its sturdy legs prevent tipping when bumped."
+}

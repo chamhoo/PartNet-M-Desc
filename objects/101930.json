@@ -1,0 +1,6 @@
+{
+    "base_description": "White, rectangular stove with four burners and oven.",
+    "part_description": "Four circular burners on top, control knobs on front, single oven with door below burners.",
+    "internal_interaction_description": "Burners are connected to gas lines for heating, controlled by the front knobs. The oven's heating element is regulated through the knobs, allowing for temperature adjustments. The oven door seals to maintain heat during cooking.",
+    "external_interaction_description": "The stove connects to a gas source for burner operation. Users interact via knobs to control heat levels. The oven door opens for placing or removing food. The stove's surface may require cleaning after use to remove spills or residues."
+}

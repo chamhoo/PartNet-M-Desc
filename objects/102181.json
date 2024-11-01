@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular trash bin with pedal.",
+    "part_description": "Consists of a rectangular body, a flat lid on top, and a pedal at the base. The body is tall and box-shaped, the lid fits snugly on top, and the pedal is centered at the bottom front.",
+    "internal_interaction_description": "The pedal mechanism connects to the lid via an internal linkage system. When the pedal is pressed, the linkage lifts the lid, allowing the bin to open. This interaction ensures hands-free operation, maintaining hygiene by minimizing direct contact with the lid.",
+    "external_interaction_description": "The bin is designed for use in kitchens or offices, interacting with users by providing a receptacle for waste. The pedal allows users to open the lid without using their hands, promoting cleanliness. The bin's size accommodates typical waste bags, facilitating easy disposal and replacement."
+}

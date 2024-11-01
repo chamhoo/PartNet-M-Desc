@@ -1,0 +1,6 @@
+{
+    "base_description": "Medium-sized blue bottle with red pump.",
+    "part_description": "The bottle has a cylindrical shape with a narrow neck. It features a red pump on top, consisting of a nozzle and a push-down mechanism. The main body is blue, tapering towards the neck.",
+    "internal_interaction_description": "The pump mechanism includes a spring and tube inside, allowing liquid to be drawn up from the bottle. When the pump is pressed, the spring compresses, forcing liquid through the tube and out the nozzle.",
+    "external_interaction_description": "The pump bottle dispenses liquid when pressed by a user. It can hold various liquids like soap or lotion, interacting with external elements by providing controlled dispensing and minimizing spillage."
+}

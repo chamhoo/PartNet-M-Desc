@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, black, rectangular camera with cylindrical lens.",
+    "part_description": "Includes a rectangular body, cylindrical lens, top buttons, and side panel. The lens protrudes from the front, buttons are on top, and the panel is on the side.",
+    "internal_interaction_description": "The cylindrical lens is attached to the rectangular body, allowing light to enter and be processed. The top buttons likely control functions such as power and settings. The side panel may provide access to internal components like battery or memory card.",
+    "external_interaction_description": "The camera interacts with users through buttons for operation and settings adjustment. It connects to external devices via ports or wireless for data transfer. The lens captures images from the environment, and the body provides grip for handheld use."
+}

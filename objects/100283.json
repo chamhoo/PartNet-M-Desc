@@ -1,0 +1,6 @@
+{
+    "base_description": "White, rectangular washing machine with front-loading door.",
+    "part_description": "Features a circular front door, control panel with buttons and dial, detergent drawer, and digital display. The door is centrally located, control panel above it, and drawer on the left. The machine is approximately two feet wide and three feet tall.",
+    "internal_interaction_description": "The drum inside the washing machine rotates to agitate clothes with water and detergent. The control panel allows selection of wash cycles, which determine the drum's speed and direction. The detergent drawer dispenses soap into the drum during the wash cycle. The digital display shows cycle status and time remaining.",
+    "external_interaction_description": "The washing machine connects to a water supply and drains via hoses. Users interact with the control panel to select wash settings. Clothes are placed inside the drum through the front door, which locks during operation. The machine must be plugged into an electrical outlet to function."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black smartphone with a large screen.",
+    "part_description": "Features a large screen, three buttons at the bottom, and a camera at the top. The buttons are rectangular and evenly spaced. The camera is small and located at the top-left corner.",
+    "internal_interaction_description": "The screen displays visual content, interacting with the buttons which provide input functions. The camera captures images and video, integrating with the screen for display. Buttons may include functions such as home, back, and menu, directly interacting with the software interface.",
+    "external_interaction_description": "The smartphone interacts with users through touch input and visual feedback. It connects to external networks for communication and data. Users can interact with apps, take photos, and make calls. It can also connect to other devices via Bluetooth or Wi-Fi for data transfer."
+}

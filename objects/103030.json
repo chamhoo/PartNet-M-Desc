@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical, gray blender with black accents.",
+    "part_description": "Consists of a lid, jar, handle, base, and control knob. The jar is cylindrical with a handle on the side, sitting atop a rounded base. The lid fits snugly on top, and the control knob is located on the base's front.",
+    "internal_interaction_description": "The jar holds ingredients, while the lid prevents spillage. The control knob adjusts the blending speed, activating the motor inside the base. The motor spins the blades within the jar, blending the contents efficiently. The handle provides stability during use.",
+    "external_interaction_description": "The blender connects to an electrical outlet for power. Users interact by placing ingredients in the jar, securing the lid, and using the control knob to operate. It can blend various food items, transforming them into smoothies, soups, or purees, depending on the selected speed and duration."
+}

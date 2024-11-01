@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with simple design.",
+    "part_description": "Includes one drawer at the top and a cabinet door below. The drawer has a handle, and the door has a knob on the left side.",
+    "internal_interaction_description": "The drawer slides in and out smoothly above the cabinet space, which is enclosed by the door. The door hinges on the left, allowing access to the storage area inside.",
+    "external_interaction_description": "The cabinet can be placed against a wall and used for storage. The drawer and door are operated by pulling the handle and knob, allowing access to contents. It is typically used in kitchens or bathrooms for organizing items."
+}

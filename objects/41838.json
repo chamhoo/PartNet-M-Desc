@@ -1,0 +1,6 @@
+{
+    "base_description": "White office chair with wheels and armrests.",
+    "part_description": "The chair has a ribbed seat and backrest, two armrests, a central support, and five legs with wheels. The seat and backrest are rectangular, and the armrests are curved. The legs extend from the central support and end in wheels.",
+    "internal_interaction_description": "The seat and backrest are connected, providing a continuous surface for sitting. The armrests are attached to the sides of the backrest and seat, offering support. The central support connects the seat to the five-legged base, allowing for stability and rotation. The wheels enable movement across surfaces.",
+    "external_interaction_description": "The chair interacts with users by providing a comfortable seating option. The wheels facilitate mobility, allowing users to move around easily without standing. It can be adjusted for height and used with desks or tables in office environments. The armrests provide additional support for arms while sitting."
+}

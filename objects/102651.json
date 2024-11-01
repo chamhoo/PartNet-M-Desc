@@ -1,0 +1,6 @@
+{
+    "base_description": "White, modern toilet with rectangular tank and seat.",
+    "part_description": "Consists of a tank, seat, and bowl. The tank is rectangular and positioned at the back. The seat is flat and covers the oval bowl beneath it.",
+    "internal_interaction_description": "The tank holds water for flushing, which is released into the bowl when the flush mechanism is activated. The seat covers the bowl, providing a surface for sitting. The bowl directs waste into the plumbing system.",
+    "external_interaction_description": "The toilet is used by people for sanitation. It connects to a water supply for flushing and a drainage system for waste disposal. The seat provides comfort, and the tank's flush mechanism is operated by a button or lever."
+}

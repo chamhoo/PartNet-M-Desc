@@ -1,0 +1,6 @@
+{
+    "base_description": "Large rectangular glass sliding door, white frame.",
+    "part_description": "Consists of six vertical glass panels, two central sliding panels, all framed in white. Panels are evenly arranged and identical in size.",
+    "internal_interaction_description": "The two central panels are designed to slide horizontally along tracks embedded in the frame, allowing them to overlap with adjacent panels. This sliding mechanism facilitates opening and closing, providing access through the door. The remaining panels are fixed, providing structural support and stability.",
+    "external_interaction_description": "The sliding door interacts with external elements by providing a barrier against weather while allowing light and visibility. It can be opened by people to allow passage between spaces. The glass panels offer insulation and soundproofing, contributing to energy efficiency and privacy."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black camera with a protruding lens.",
+    "part_description": "Features a cylindrical lens, rectangular body, viewfinder, and buttons. Lens is at the front, body houses controls, viewfinder on top. Buttons are on the top and back.",
+    "internal_interaction_description": "The lens extends and retracts for focusing, controlled by buttons on the body. The viewfinder aligns with the lens to provide a preview of the captured image. Internal mechanisms adjust settings like aperture and shutter speed based on button inputs.",
+    "external_interaction_description": "Interacts with users through buttons for capturing images. Connects to external devices via ports for data transfer. The lens captures light from the environment to create images. Can be mounted on tripods for stability during photography."
+}

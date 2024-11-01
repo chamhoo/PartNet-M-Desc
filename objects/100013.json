@@ -1,0 +1,6 @@
+{
+    "base_description": "Black remote control with colorful buttons.",
+    "part_description": "Circular top section with directional pad, multiple rows of circular buttons below, varying colors and sizes, aligned vertically.",
+    "internal_interaction_description": "The directional pad allows navigation between options, while the buttons send specific commands. The arrangement facilitates easy access, with larger buttons for frequent functions and smaller ones for less common tasks.",
+    "external_interaction_description": "The remote communicates wirelessly with compatible devices, allowing users to control functions like power, volume, and channel selection from a distance, enhancing convenience and user experience."
+}

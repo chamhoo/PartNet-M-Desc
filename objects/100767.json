@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray suitcase with a handle.",
+    "part_description": "Includes a main body, handle on top, two latches, and reinforced corners. The handle is centered, latches are on the front, and corners are rounded.",
+    "internal_interaction_description": "The handle is attached to the top, allowing for carrying. Latches secure the opening, interacting with the suitcase's edges to keep it closed. The reinforced corners provide structural support, maintaining the suitcase's shape.",
+    "external_interaction_description": "Designed for carrying personal items during travel. The handle allows easy transport by hand. Latches interact with users for opening and closing, while the suitcase can fit into overhead compartments or car trunks."
+}

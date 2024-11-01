@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white washing machine with digital display.",
+    "part_description": "Includes a front-loading door, control panel with buttons and dial, digital display, and a rectangular body. The door is centrally positioned, with the control panel above it.",
+    "internal_interaction_description": "The control panel operates the washing machine's internal mechanisms, controlling water flow, drum rotation, and cycle timing. The door seals tightly to prevent water leakage during operation. The drum inside rotates to wash clothes effectively.",
+    "external_interaction_description": "The washing machine connects to water and electrical supplies, requiring user input for cycle selection and operation. Users load clothes through the front door and retrieve them post-wash. It must be positioned on a stable surface for optimal performance."
+}

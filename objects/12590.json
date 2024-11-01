@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular dishwasher with a front handle.",
+    "part_description": "The dishwasher has a front handle, door, and control panel. The handle is horizontally aligned at the top of the door. The door covers the front side, and the control panel is integrated into the top edge.",
+    "internal_interaction_description": "The door opens to reveal racks and compartments for dish placement. The control panel communicates with internal mechanisms to start and manage washing cycles. The handle allows the user to pull open the door, granting access to the interior for loading and unloading dishes.",
+    "external_interaction_description": "The dishwasher connects to water and electrical systems for operation. Users interact with the control panel to select wash settings. It is typically installed under a countertop, interacting with surrounding cabinetry. The door opens outward, requiring space in front for access."
+}

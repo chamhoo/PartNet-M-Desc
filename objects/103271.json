@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and black stapler, rectangular and compact.",
+    "part_description": "Consists of a top handle, base, and metal hinge; rectangular shape, red and black colors, metal hinge in middle.",
+    "internal_interaction_description": "The stapler's top handle presses down, causing the metal hinge to drive staples through paper. The base supports the paper and bends staple ends inward, securing sheets together.",
+    "external_interaction_description": "Stapler interacts with paper, aligning sheets to staple them together. It requires manual pressure from a user to operate, making it a common office tool for organizing documents."
+}

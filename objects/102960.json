@@ -1,0 +1,6 @@
+{
+    "base_description": "Black fountain pen with gold accents.",
+    "part_description": "Pen consists of a cap, barrel, nib, and clip. The cap is rounded with a gold top and clip. The barrel is cylindrical with gold bands. The nib is pointed and metallic.",
+    "internal_interaction_description": "The cap fits securely over the nib, protecting it when not in use. The barrel houses the ink reservoir, which feeds ink to the nib through a feed system. The clip is attached to the cap, allowing it to be secured to pockets.",
+    "external_interaction_description": "The pen is held by a user to write on paper. The nib transfers ink from the reservoir onto the writing surface. The clip allows attachment to clothing or notebooks for easy access."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wheelbarrow with a single wheel and handles.",
+    "part_description": "Consists of a bucket, one wheel, and two handles. The bucket is rectangular, positioned above the wheel. The handles extend from the back of the bucket.",
+    "internal_interaction_description": "The wheel supports the front of the bucket, allowing for easy movement. The handles provide leverage for lifting and maneuvering the bucket. The bucket is securely attached to the frame, ensuring stability during use.",
+    "external_interaction_description": "Used to transport materials, the wheelbarrow interacts with the ground through its wheel, allowing for movement over various terrains. A person lifts the handles to push or pull the wheelbarrow, using it to carry loads efficiently."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall black refrigerator with a sleek design.",
+    "part_description": "Two vertical doors, digital display panel, and dispenser. Doors are equal in size, positioned side by side. Display is centrally located on the left door.",
+    "internal_interaction_description": "The two doors open to provide access to separate compartments, typically for refrigeration and freezing. The digital display panel allows for temperature adjustments and settings control. The dispenser provides water or ice, connected to the internal water supply system.",
+    "external_interaction_description": "Interacts with users through the door handles and digital display for accessing contents and adjusting settings. The dispenser offers convenience for obtaining ice or water. Requires external power source and plumbing for full functionality."
+}

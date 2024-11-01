@@ -1,0 +1,6 @@
+{
+    "base_description": "Black folding chair with simple design.",
+    "part_description": "Includes a backrest, seat, two front legs, and two rear legs with a folding mechanism.",
+    "internal_interaction_description": "The seat is connected to the backrest, and both are supported by the legs. The folding mechanism allows the legs to pivot, enabling the chair to collapse for storage or expand for use.",
+    "external_interaction_description": "The chair can be easily moved, stored, and used by individuals for seating. It can be placed on various surfaces and is suitable for both indoor and outdoor use."
+}

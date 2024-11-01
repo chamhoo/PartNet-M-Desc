@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, dark green wheeled trash bin.",
+    "part_description": "Includes a lid, body, two wheels, and a handle. Lid is flat and covers the top. Body is rectangular and deep. Wheels are small and positioned at the back bottom. Handle is horizontal, located at the rear.",
+    "internal_interaction_description": "The lid is attached to the top of the body, allowing it to open and close securely. The handle is fixed to the upper rear, providing leverage for tilting. The wheels are connected to the bottom rear, enabling smooth movement when the bin is tilted backward.",
+    "external_interaction_description": "The bin interacts with users by allowing them to deposit waste through the top opening when the lid is lifted. It can be easily moved by tilting it back using the handle and rolling it on the wheels. The bin is designed to withstand outdoor elements, maintaining durability in various weather conditions."
+}

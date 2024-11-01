@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with drawer and door.",
+    "part_description": "One top drawer and one lower door, both rectangular. The drawer is positioned above the door. The cabinet is tall and narrow, with a flat top surface.",
+    "internal_interaction_description": "The top drawer slides horizontally in and out of the cabinet, providing access to its internal storage space. The lower door swings open on hinges, revealing a larger storage area inside. Both parts are aligned vertically, allowing for organized storage within the cabinet.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a countertop in a kitchen or bathroom. The drawer and door can be opened by pulling handles, allowing for storage and retrieval of items. It interacts with its environment by providing functional storage space."
+}

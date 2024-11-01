@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with shelves.",
+    "part_description": "Features two internal shelves, a door, and a handle. The shelves are evenly spaced, and the door covers the entire front. The handle is positioned vertically on the left side.",
+    "internal_interaction_description": "The shelves are fixed within the cabinet, providing stable support for items. The door is hinged on the right side, allowing it to swing open and closed smoothly. The handle facilitates easy opening and closing of the door.",
+    "external_interaction_description": "The cabinet can be placed against a wall to save space. It interacts with users by providing storage space for various items. The door can be opened to access stored items, and the cabinet's height makes it suitable for reaching without bending."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, blue lighter with grey top.",
+    "part_description": "Consists of a blue body, grey ignition mechanism, and black band. The body is rectangular, the ignition is on top, and the band separates them.",
+    "internal_interaction_description": "The ignition mechanism interacts with the fuel inside the blue body. Pressing the ignition causes a spark, igniting the fuel, and producing a flame at the top. The black band provides structural support, ensuring the parts remain securely attached.",
+    "external_interaction_description": "The lighter is handheld, used to ignite cigarettes, candles, or other items. It requires external force to press the ignition. The flame produced interacts with the external object, transferring heat to ignite it."
+}

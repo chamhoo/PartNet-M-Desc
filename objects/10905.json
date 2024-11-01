@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, white refrigerator with open door.",
+    "part_description": "Includes a main body, door with shelves, interior shelves, and control panel. The door is hinged on the left, and shelves are positioned horizontally inside.",
+    "internal_interaction_description": "The door swings open on its hinges to allow access to the interior. Shelves inside the main compartment provide space for storing items, while door shelves offer additional storage. The control panel regulates temperature settings, affecting the cooling mechanism inside.",
+    "external_interaction_description": "Designed to store and preserve food items, it interacts with users who open the door to access contents. It requires a power source to function and should be placed in a well-ventilated area to ensure proper cooling."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver folding knife with a pointed blade.",
+    "part_description": "Consists of a sharp blade and a contoured handle. The blade is long and pointed, while the handle is ergonomic, featuring a grip and a folding mechanism.",
+    "internal_interaction_description": "The blade folds into the handle, secured by a locking mechanism. The handle's design ensures the blade is held firmly when extended, providing stability during use. The folding mechanism allows for compact storage and safe handling.",
+    "external_interaction_description": "Used for cutting or piercing tasks, interacts with materials like rope or fabric. The ergonomic handle allows for a secure grip, reducing the risk of slipping. It can be carried easily due to its compact folding design, making it convenient for outdoor activities."
+}

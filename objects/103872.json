@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray and black rectangular printer with paper tray.",
+    "part_description": "Includes paper input tray, output tray, control panel, and body. The input tray is located at the top, the output tray at the front, and the control panel on the side. The body is rectangular and compact.",
+    "internal_interaction_description": "The printer pulls paper from the input tray and moves it through internal rollers. Ink is applied to the paper as it passes beneath the print head. Finished prints are deposited onto the output tray. The control panel allows for operation and settings adjustments.",
+    "external_interaction_description": "The printer connects to computers or devices via USB or wireless. Users place paper in the input tray and retrieve printed documents from the output tray. It requires power from an electrical outlet and may interact with additional software for printing tasks."
+}

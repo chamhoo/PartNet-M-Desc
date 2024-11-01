@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray window with three panels.",
+    "part_description": "Three vertical rectangular panels, framed in gray, aligned side by side. The central panel is fixed, while the side panels can slide. All panels are of equal size, forming a single large rectangle.",
+    "internal_interaction_description": "The side panels slide horizontally within the frame, allowing them to overlap the central fixed panel. This sliding mechanism is facilitated by tracks within the frame, enabling smooth movement while maintaining alignment. The frame ensures stability and support for each panel.",
+    "external_interaction_description": "The window interacts with external elements by allowing light and air to enter when open. It serves as a barrier against weather and noise when closed. People can slide the panels to adjust ventilation and light levels, integrating the window into architectural spaces."
+}

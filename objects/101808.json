@@ -1,0 +1,6 @@
+{
+    "base_description": "Black modern stove with multiple burners and ovens.",
+    "part_description": "Includes four burners on top, two stacked ovens below, and a control panel with knobs above the ovens.",
+    "internal_interaction_description": "Burners are connected to the control knobs, allowing for heat adjustment. The ovens have doors that open downward, with internal racks for placing cookware. Heat is distributed evenly within each oven chamber.",
+    "external_interaction_description": "The stove interacts with cookware placed on burners and in ovens for cooking. Users adjust knobs to control heat levels. The appliance connects to a power source for operation, and its exterior is designed for easy cleaning and maintenance."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray wall switch, modern style.",
+    "part_description": "Two screws at top and bottom, centered switch plate.",
+    "internal_interaction_description": "The screws secure the switch plate to the wall, ensuring stability. The central switch plate pivots or depresses to complete or break an electrical circuit, allowing for the control of connected devices. The design ensures that the switch remains flush with the wall surface, minimizing protrusion.",
+    "external_interaction_description": "The switch interacts with external elements by being pressed by a user to control lighting or appliances. Its flat surface allows for easy cleaning and maintenance. The screws may require a screwdriver for installation or removal, and the switch is typically connected to electrical wiring within the wall."
+}

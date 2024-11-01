@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical spray can with red cap.",
+    "part_description": "Contains a cylindrical body, red rounded cap, and nozzle on top. The body is metallic, the cap is plastic, and the nozzle is centrally positioned on the cap.",
+    "internal_interaction_description": "The nozzle is connected to an internal tube that reaches the bottom of the can, allowing liquid or gas to be expelled when the nozzle is pressed. The cap protects the nozzle from accidental discharge.",
+    "external_interaction_description": "When pressed, the nozzle releases contents as a spray, interacting with surfaces for painting or coating. The can is handheld, allowing for easy maneuverability and control during use."
+}

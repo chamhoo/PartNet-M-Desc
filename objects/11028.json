@@ -1,0 +1,6 @@
+{
+    "base_description": "Black-handled scissors with silver blades.",
+    "part_description": "Two silver blades joined by a pivot, black plastic handles with oval loops, positioned opposite each other.",
+    "internal_interaction_description": "The two blades are connected at a pivot point, allowing them to open and close in a scissor-like motion. The handles provide leverage, enabling the blades to come together and cut materials placed between them effectively.",
+    "external_interaction_description": "The scissors interact with materials by cutting through them when the handles are squeezed together. They can be used by a person to cut paper, fabric, or other thin materials, requiring manual operation for precise control."
+}

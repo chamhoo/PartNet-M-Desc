@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, white and pink USB drive.",
+    "part_description": "Contains a white casing, pink swivel cover, and USB connector. The casing is rectangular, housing the USB connector at one end. The pink cover rotates around the casing.",
+    "internal_interaction_description": "The pink swivel cover protects the USB connector when rotated over it. The connector is housed within the white casing, which provides structural support and protection to the internal electronic components.",
+    "external_interaction_description": "The USB drive connects to external devices via the USB connector, enabling data transfer. The swivel cover allows easy access while protecting the connector when not in use. Users interact by plugging it into computers or other compatible devices."
+}

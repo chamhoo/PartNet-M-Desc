@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black camera with cylindrical lens.",
+    "part_description": "Features a cylindrical lens on the left, rectangular body, viewfinder, flash, and control buttons on top.",
+    "internal_interaction_description": "The lens focuses light onto the sensor within the camera body. The viewfinder aligns with the lens for accurate framing. Control buttons interact with internal electronics to adjust settings. The flash is connected to the power source to illuminate scenes.",
+    "external_interaction_description": "The camera interacts with users through buttons for settings. The lens captures light from the environment, and the flash provides additional lighting. It connects to computers via USB for data transfer, and mounts on tripods for stability."
+}

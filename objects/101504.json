@@ -1,0 +1,6 @@
+{
+    "base_description": "Black ceiling fan with three blades.",
+    "part_description": "The fan has three elongated blades symmetrically arranged around a central hub, suspended by a rod and ceiling mount.",
+    "internal_interaction_description": "The central hub houses the motor, which rotates the three blades evenly. The blades are securely attached to the hub, ensuring balanced movement and efficient air circulation when powered.",
+    "external_interaction_description": "The fan is mounted on the ceiling, interacting with the surrounding air to provide cooling. It requires electrical power and can be controlled by a switch or remote, impacting the room's airflow and temperature."
+}

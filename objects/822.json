@@ -1,0 +1,6 @@
+{
+    "base_description": "Curved, metallic water pump with vintage design.",
+    "part_description": "Features a curved spout, cylindrical body, and lever. The spout extends outward, the body is vertical, and the lever is on top. The spout is medium length, the body is thick, and the lever is small.",
+    "internal_interaction_description": "The lever on top controls the internal mechanism, which opens and closes the water flow. When the lever is lifted, it activates the internal piston, allowing water to be drawn up through the cylindrical body and out through the curved spout.",
+    "external_interaction_description": "The pump interacts with external water sources, requiring manual operation by a person to lift the lever. It is typically mounted on a surface, allowing water to be dispensed into a container placed below the spout."
+}

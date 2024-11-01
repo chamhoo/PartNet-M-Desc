@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular gray cabinet with a black panel.",
+    "part_description": "Single door with handle, top black panel, rectangular shape, vertical orientation.",
+    "internal_interaction_description": "The cabinet door is attached with hinges, allowing it to swing open and closed. The handle provides a grip for easy access. The black panel on top might house controls or indicators, interacting with internal mechanisms or electronics.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, used for storage. The door handle allows users to open it, while the black panel might display information or controls for user interaction."
+}

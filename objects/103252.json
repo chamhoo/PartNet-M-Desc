@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, blue flip phone with keypad.",
+    "part_description": "Comprises a flip cover with a screen, a main body with a circular speaker, and a numeric keypad with 12 buttons arranged in a grid.",
+    "internal_interaction_description": "The flip cover is hinged, allowing it to open and close over the main body. The screen on the flip cover aligns with the keypad when closed. The speaker is positioned centrally above the keypad, facilitating audio output when in use.",
+    "external_interaction_description": "The phone interacts with users via the keypad for input and the screen for display. It connects to external networks for communication. The flip mechanism provides protection for the screen and keypad, enhancing portability."
+}

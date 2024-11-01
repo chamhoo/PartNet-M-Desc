@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with two doors.",
+    "part_description": "Two rectangular doors with handles, positioned at the front. The top is flat and rectangular, sides are solid. Handles are centered on each door.",
+    "internal_interaction_description": "The doors are hinged to the main body, allowing them to swing open and closed. The handles facilitate manual opening and closing. The interior space is accessible through the doors, providing storage or shelving options.",
+    "external_interaction_description": "Can be placed on floors or mounted, interacting with walls or other furniture. Doors open outward for access, interacting with users who open them to store or retrieve items."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular, wall-mounted mailbox.",
+    "part_description": "Contains a sloped lid, front panel, and three slots on top.",
+    "internal_interaction_description": "The sloped lid covers the main compartment, preventing rain entry. The three slots on top allow for sorting or categorizing mail. The front panel can be opened for mail retrieval, secured by hinges at the bottom.",
+    "external_interaction_description": "Mounts on walls, interacting with screws or brackets. Users insert mail through slots and retrieve it by opening the front panel. Positioned outdoors, it interacts with weather elements, designed to protect contents from rain and wind."
+}

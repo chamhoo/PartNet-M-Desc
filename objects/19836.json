@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular desk with three drawers, gray color.",
+    "part_description": "Includes three drawers vertically aligned on one side, rectangular tabletop, and two side panels. Drawers vary in size, positioned under the tabletop.",
+    "internal_interaction_description": "Drawers slide horizontally in and out of the desk frame, supported by tracks on the side panels. The tabletop is fixed, providing stability to the structure. Each drawer has a handle for easy access.",
+    "external_interaction_description": "Designed for use in offices or homes, the desk can hold items on its surface and store objects inside the drawers. It interacts with users through the opening and closing of drawers and supports work activities on its tabletop."
+}

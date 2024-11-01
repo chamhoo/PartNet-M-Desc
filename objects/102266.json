@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, silver multi-tool with foldable parts.",
+    "part_description": "Includes multiple blades and tools, arranged in a foldable design with a central handle. Tools vary in size and shape, extending from both sides of the handle.",
+    "internal_interaction_description": "The multi-tool's components pivot around central hinges, allowing each tool to fold into the handle for compact storage. Each tool locks into place when extended, providing stability during use. The handle supports the tools symmetrically, balancing the structure.",
+    "external_interaction_description": "Designed for portability and versatility, the multi-tool interacts with various materials, aiding in cutting, screwing, and other tasks. Users can easily carry it in pockets or bags, utilizing it in diverse settings such as camping, repairs, or everyday tasks."
+}

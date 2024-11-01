@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical gray dispenser with a pump top.",
+    "part_description": "Includes a cylindrical body, circular pump top, spout, and ridged base. The pump is centered on top, with the spout extending outward. The base features horizontal ridges.",
+    "internal_interaction_description": "The pump mechanism is connected internally to a tube that extends to the bottom of the cylindrical body. When pressed, the pump creates suction, drawing liquid up through the tube and out the spout.",
+    "external_interaction_description": "The dispenser is designed for use with liquid soap or lotion. Users press the pump to dispense the liquid into their hand or onto a surface. It can be placed on a counter or mounted on a wall using the attached holder."
+}

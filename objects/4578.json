@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray monitor with black stand.",
+    "part_description": "The monitor has a large rectangular screen, a thin bezel, and a rectangular black base. The screen is positioned vertically, supported by the base.",
+    "internal_interaction_description": "The screen is connected to the base through a vertical support, allowing it to remain upright. The bezel frames the screen, providing structural support and housing any internal wiring.",
+    "external_interaction_description": "The monitor can connect to computers or media devices via cables, displaying visual output. It can be placed on desks or mounted on walls, interacting with users who adjust its position or settings for optimal viewing."
+}

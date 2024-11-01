@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop with black screen and keyboard.",
+    "part_description": "Consists of a screen, keyboard, touchpad, and base. The screen is rectangular, positioned vertically. The keyboard is flat and rectangular, below the screen. The touchpad is centered on the base in front of the keyboard.",
+    "internal_interaction_description": "The screen displays visual output, hinged to the base for adjustable angles. The keyboard inputs data through keypresses, connected internally to the system. The touchpad allows cursor movement, integrated with the base. Electrical connections enable communication between components for functionality.",
+    "external_interaction_description": "Interacts with users through keyboard, touchpad, and screen for input and output. Connects to external devices via ports (not visible in image) for data transfer and power. Users can adjust screen angle and transport the laptop for mobile use."
+}

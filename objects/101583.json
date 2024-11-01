@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray metal safe with a digital keypad.",
+    "part_description": "The safe has a rectangular shape with a hinged door. It features a round handle and a digital keypad positioned on the front. The keypad is black with numbered buttons and a small display.",
+    "internal_interaction_description": "The door of the safe is secured with a locking mechanism operated by the digital keypad. When the correct code is entered, the locking bolts retract, allowing the door to be opened using the handle. The keypad communicates with the internal locking system to ensure security.",
+    "external_interaction_description": "The safe is designed to interact with users who input a code via the keypad. It can be placed in various environments, such as homes or offices, and is intended to securely store valuables, protecting them from unauthorized access."
+}

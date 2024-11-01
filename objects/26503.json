@@ -1,0 +1,6 @@
+{
+    "base_description": "Simple gray table with four legs and a drawer.",
+    "part_description": "One rectangular tabletop, one central drawer, four straight legs. The tabletop is flat, the drawer is centered beneath it, and the legs are evenly spaced at each corner.",
+    "internal_interaction_description": "The tabletop is supported by four legs, providing stability. The drawer is integrated beneath the tabletop, allowing it to slide in and out smoothly. The legs are connected to the tabletop at right angles, ensuring a balanced structure.",
+    "external_interaction_description": "The table can support various objects placed on its surface, like books or decor items. The drawer can hold small items, providing storage space. It can be positioned in a room for functional or decorative purposes, interacting with the surrounding furniture and decor."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White spherical object on a wire stand.",
+    "part_description": "Sphere is smooth and white, attached to a looped wire stand. The stand is circular at the base, supporting the sphere above it.",
+    "internal_interaction_description": "The sphere is balanced on the wire stand, with the wire looping around to form a stable base. The connection between the sphere and the wire is at the top, ensuring the sphere remains upright.",
+    "external_interaction_description": "The object can be placed on flat surfaces, serving as a decorative piece. It interacts with light, casting subtle shadows through the wire stand. It can be moved easily due to its lightweight structure."
+}

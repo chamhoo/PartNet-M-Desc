@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray house-shaped object with a triangular roof.",
+    "part_description": "Features a triangular roof, rectangular body, and circular base. The roof is positioned on top, the body in the middle, and the base at the bottom. The body has a rectangular cutout near the top.",
+    "internal_interaction_description": "The triangular roof sits atop the rectangular body, providing structural coverage. The circular base supports the entire structure, ensuring stability. The rectangular cutout within the body may serve as a window or opening, allowing interaction between the interior and exterior environments.",
+    "external_interaction_description": "The object can interact with external elements by sheltering small items or serving as a decorative piece. Its shape suggests it might be placed on flat surfaces, and its openings may allow for light or airflow, affecting its immediate surroundings."
+}

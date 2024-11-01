@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray camera with a circular lens.",
+    "part_description": "One rectangular body, one circular lens at front, one button on top, arranged symmetrically.",
+    "internal_interaction_description": "The lens protrudes from the front of the camera body, likely allowing light to enter for capturing images. The button on top is positioned for easy access, possibly interacting with internal mechanisms to trigger the shutter or power the device.",
+    "external_interaction_description": "The camera interacts with users through the top button, enabling image capture. It may connect to other devices via ports or wireless technology for data transfer, and requires handling for positioning and operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular box with six white switches.",
+    "part_description": "Six white switches numbered 1 to 6 on red box. Each switch is cube-shaped, evenly spaced in a horizontal row on the front face.",
+    "internal_interaction_description": "Each switch can be toggled independently, likely connecting to an internal mechanism that changes the state of the object. The arrangement suggests a sequential or parallel interaction where each switch may control a separate function or part of the whole system.",
+    "external_interaction_description": "The object interacts with users through the switches, allowing them to toggle functions on or off. It may connect to other devices or systems, serving as a control panel for external operations, indicated by the 'ON' label."
+}

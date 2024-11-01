@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cabinet with two doors and a drawer.",
+    "part_description": "One large drawer at the top, two doors below. Drawer spans width, doors are side by side.",
+    "internal_interaction_description": "The drawer slides open and closed, supported by internal tracks. The doors swing on hinges, allowing access to the interior storage space. Each door has a handle for easy opening.",
+    "external_interaction_description": "The cabinet is placed against a wall, providing storage for various items. Users interact by pulling the drawer and opening the doors using the handles. The cabinet can be part of a kitchen or bathroom setup."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, grey wheeled trash bin.",
+    "part_description": "Includes a main body, lid, handle, and two wheels. Lid is hinged on top, handle is on the front, wheels are at the back bottom corners.",
+    "internal_interaction_description": "The lid is hinged, allowing it to open and close over the main body. The handle provides grip for lifting or moving the bin. The wheels facilitate easy transport by rolling, supporting the bottom structure.",
+    "external_interaction_description": "The bin can be moved by pulling the handle, allowing it to be transported to different locations. It interacts with external waste by containing it, and with people who use the handle and lid to dispose of trash."
+}

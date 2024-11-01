@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, wired keyboard with gray keys.",
+    "part_description": "Consists of multiple keys arranged in rows, including function keys, alphanumeric keys, and a numeric keypad; has a central wired connection.",
+    "internal_interaction_description": "Keys are arranged for efficient typing, with function keys at the top, alphanumeric keys in the center, and a numeric keypad on the right. Each key is spring-loaded to return to its original position after being pressed, facilitating smooth typing and data entry.",
+    "external_interaction_description": "Connects to computers via a wired connection for input. Users interact by pressing keys to input data, control functions, and navigate interfaces. Compatible with various operating systems, enhancing user productivity in professional and personal computing environments."
+}

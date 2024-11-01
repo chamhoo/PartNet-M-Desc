@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, white laptop with a sleek design.",
+    "part_description": "Includes a screen, keyboard, and touchpad. Screen is rectangular and hinged to the base. Keyboard has multiple keys arranged in rows. Touchpad is centered below the keyboard.",
+    "internal_interaction_description": "The screen is connected to the keyboard base via a hinge, allowing it to open and close. The keyboard inputs commands to the system, interacting with the screen display. The touchpad allows cursor control, interacting with both the keyboard and screen.",
+    "external_interaction_description": "The laptop interacts with users who type on the keyboard and use the touchpad. It can connect to external devices like USBs or headphones through ports, and wirelessly to networks or other devices via Wi-Fi or Bluetooth."
+}

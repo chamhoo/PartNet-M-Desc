@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray swivel chair with armrests and wheels.",
+    "part_description": "Includes a seat, backrest, two armrests, five wheels, and a central support. The seat and backrest are rectangular. Armrests are curved. The central support connects to the wheels.",
+    "internal_interaction_description": "The seat and backrest are connected, providing support. Armrests are attached to the sides of the seat. The central support allows the seat to swivel and connects to the wheelbase, enabling movement.",
+    "external_interaction_description": "Designed for sitting, it supports the user's weight. The wheels allow for easy movement across surfaces. The swivel function provides flexibility, and the armrests offer additional comfort."
+}

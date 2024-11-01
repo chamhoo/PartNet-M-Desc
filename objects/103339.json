@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window with blue-tinted glass.",
+    "part_description": "Consists of two glass panes in a white frame, each with a handle. The panes are positioned side by side, allowing one to slide over the other.",
+    "internal_interaction_description": "The handles on each glass pane allow users to slide one pane over the other within the frame's track. This mechanism facilitates opening and closing, providing ventilation or sealing the space.",
+    "external_interaction_description": "The window interacts with external elements by providing visibility and light while protecting against weather. It can be opened for ventilation and closed for insulation. Handles enable manual operation, and the frame integrates into walls for structural support."
+}

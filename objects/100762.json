@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue and gray globe on a white stand.",
+    "part_description": "Spherical globe with continents, mounted on a curved axis, attached to a hexagonal base.",
+    "internal_interaction_description": "The globe rotates around the tilted axis, allowing different parts of the Earth to be viewed. The axis is secured to the base, providing stability while enabling smooth rotation.",
+    "external_interaction_description": "The globe can be spun manually to view different regions. It serves as an educational tool, allowing users to explore geographical locations and understand global positioning relative to other objects or spaces."
+}

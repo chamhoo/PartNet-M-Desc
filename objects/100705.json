@@ -1,0 +1,6 @@
+{
+    "base_description": "Red multi-tool with pliers and handles.",
+    "part_description": "Two red handles, silver plier head, four rivets; handles rectangular, pliers tapered, rivets circular; handles parallel, pliers at one end.",
+    "internal_interaction_description": "The plier head is connected to the handles via rivets, allowing the handles to pivot and open or close the pliers. The rivets serve as pivot points, ensuring smooth movement. The handles provide leverage, enabling the user to apply pressure through the plier tips.",
+    "external_interaction_description": "The multi-tool interacts with external objects by gripping, twisting, or cutting materials with the plier head. Users hold the red handles to operate the tool, applying manual force to manipulate objects. Its compact design allows for easy transportation and accessibility in various situations."
+}

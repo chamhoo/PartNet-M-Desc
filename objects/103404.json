@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical grey bottle with a pump top.",
+    "part_description": "Comprises a cylindrical body, a round pump top, and a spout. The pump is centrally positioned, and the spout extends from the top.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, which draws liquid upwards when pressed. The spout allows controlled dispensing of the liquid, ensuring minimal waste.",
+    "external_interaction_description": "The bottle can be operated by pressing the pump, dispensing liquid onto hands or surfaces. It can be refilled by removing the pump top. Suitable for use in kitchens or bathrooms."
+}

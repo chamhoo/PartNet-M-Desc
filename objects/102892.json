@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige, cylindrical camera with a modern design.",
+    "part_description": "Features a large cylindrical lens, a rectangular body, two circular buttons on top, and a viewfinder. The lens is at the front, buttons are on top, and the viewfinder is at the back.",
+    "internal_interaction_description": "The camera lens is aligned with the internal sensor to capture images. The buttons on top interact with the camera's internal electronics to control functions like shutter release and power. The viewfinder aligns optically with the lens for precise image framing.",
+    "external_interaction_description": "The camera interacts with users through the buttons for operation. It connects to external devices via potential ports for data transfer. The lens captures external scenes, converting them into digital images. It may also mount onto tripods or other stabilizing equipment for steady shooting."
+}

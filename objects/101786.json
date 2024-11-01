@@ -1,0 +1,6 @@
+{
+    "base_description": "Red pen with a white clip, cylindrical shape.",
+    "part_description": "The pen has a red cylindrical body with a white clip attached near the top. The clip is flat and rectangular, positioned vertically along the pen's body.",
+    "internal_interaction_description": "The clip attaches securely to the pen's body, allowing it to be clipped onto surfaces. The pen's cap, if present, would fit snugly over the writing tip, protecting it when not in use.",
+    "external_interaction_description": "The pen can be held comfortably in hand for writing. The clip allows attachment to pockets or notebooks, making it portable. It interacts with paper surfaces to create marks when the tip is pressed and moved across."
+}

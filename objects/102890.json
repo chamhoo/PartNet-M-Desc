@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black and white DSLR camera.",
+    "part_description": "Includes lens, body, grip, buttons, and detachable lens cap. Lens extends from body, grip on side, buttons on top and back, lens cap beside camera.",
+    "internal_interaction_description": "The lens is attached to the camera body, allowing for focus and zoom adjustments. Buttons on the body control various settings like aperture and shutter speed. The grip provides stability while holding the camera. The lens cap protects the lens when not in use and can be easily removed.",
+    "external_interaction_description": "The camera interacts with external elements by capturing images. It requires a user to operate the buttons and settings for taking photos. The lens cap must be removed to use the camera effectively. The camera can connect to other devices for transferring images via cables or wireless technology."
+}

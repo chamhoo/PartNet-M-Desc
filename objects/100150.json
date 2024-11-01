@@ -1,0 +1,6 @@
+{
+    "base_description": "Orange-handled pliers with metallic jaws.",
+    "part_description": "Two orange handles, metallic jaws, connected by a pivot; jaws are flat and slightly serrated, handles are curved and ergonomic.",
+    "internal_interaction_description": "The handles are connected to the jaws via a pivot, allowing the jaws to open and close when the handles are squeezed. The pivot ensures smooth movement and alignment of the jaws for precise gripping or cutting.",
+    "external_interaction_description": "The pliers interact with wires, cables, or other materials, gripping or cutting them as needed. Users apply force to the handles, translating into pressure at the jaws. The ergonomic design reduces user fatigue during repetitive tasks."
+}

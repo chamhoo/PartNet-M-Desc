@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, blue mechanical pencil with a clip.",
+    "part_description": "Contains a barrel, clip, grip, eraser, and retractable tip. The barrel is long and slim, with a blue grip at the bottom. The clip is attached near the top, and the eraser is at the end.",
+    "internal_interaction_description": "The retractable tip mechanism engages when the top is pressed, advancing the lead through the barrel. The eraser can be removed to refill lead. The grip provides comfort and control, while the clip secures the pencil to surfaces.",
+    "external_interaction_description": "Used for writing or drawing on paper, the pencil provides precision and ease. The clip allows attachment to notebooks or clothing. It interacts smoothly with erasers to correct mistakes, and the lead size can be adjusted for different writing pressures."
+}

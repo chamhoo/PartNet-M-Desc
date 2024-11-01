@@ -1,0 +1,6 @@
+{
+    "base_description": "White, triangular faucet with two spouts.",
+    "part_description": "Consists of a triangular base, two cylindrical spouts, and a central stand. One spout is angled upwards, the other horizontally. The base is flat and sits atop a circular stand.",
+    "internal_interaction_description": "The two spouts are connected to the central stand, allowing water to flow through each spout. The upward spout is likely for aerated water, while the horizontal spout may control flow or temperature. The triangular base integrates the components structurally.",
+    "external_interaction_description": "The faucet connects to plumbing systems for water supply. Users interact by turning or adjusting the spouts to control water flow and temperature. It is typically mounted on sinks, enabling water delivery for washing or cleaning tasks."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet with three doors, gray color.",
+    "part_description": "Three rectangular doors arranged vertically; two are larger, one smaller. All doors are flat and aligned on the front surface.",
+    "internal_interaction_description": "The smaller door is positioned above the two larger doors, likely sharing internal hinges with the cabinet frame. The doors open outward, possibly supported by internal shelves or compartments for storage.",
+    "external_interaction_description": "The cabinet can be placed against a wall, interacting with a room's layout. Doors open outward, requiring space clearance. Handles or knobs may be used for manual operation, interacting with a person's hand to access stored items."
+}

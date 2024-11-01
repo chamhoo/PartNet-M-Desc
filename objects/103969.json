@@ -1,0 +1,6 @@
+{
+    "base_description": "Small globe with blue stand and white sphere.",
+    "part_description": "Consists of a white spherical globe, blue circular base, and yellow axis with a blue semicircular bracket. The sphere rests atop the stand.",
+    "internal_interaction_description": "The globe rotates around the yellow axis, which is supported by the semicircular bracket. The axis is fixed to the blue base, allowing the sphere to spin freely while maintaining stability.",
+    "external_interaction_description": "The globe can be manually rotated to view different areas. It is used for educational purposes, allowing users to explore geographical information by interacting with the sphere."
+}

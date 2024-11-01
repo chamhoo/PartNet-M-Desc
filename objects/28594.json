@@ -1,0 +1,6 @@
+{
+    "base_description": "Square platform with four black wheels.",
+    "part_description": "The object has a flat, square platform and four wheels. The platform is positioned horizontally, and each wheel is attached at a corner, allowing for movement.",
+    "internal_interaction_description": "The wheels are attached to the underside of the platform, allowing it to roll smoothly. Each wheel can rotate independently, providing maneuverability. The connection between the wheels and platform is secure, supporting stability and weight distribution.",
+    "external_interaction_description": "The object can be pushed or pulled by a person, facilitating easy transport of items placed on the platform. The wheels enable smooth movement over flat surfaces, and the platform supports various objects, making it versatile for different environments."
+}

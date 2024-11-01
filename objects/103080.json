@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, modern coffee maker in gray and brown.",
+    "part_description": "Includes a top lid, water reservoir, brew button, drip tray, and spout. The water reservoir is at the back, the brew button is on the front, and the drip tray is below the spout.",
+    "internal_interaction_description": "The water reservoir feeds water into the heating chamber when activated by the brew button. Heated water is pushed through the spout, dispensing coffee into a cup placed on the drip tray. The lid allows access to the coffee pod compartment above the spout.",
+    "external_interaction_description": "The coffee maker requires a power source and interacts with coffee pods for brewing. Users place a cup under the spout and press the brew button to start the process. It fits on kitchen countertops and complements modern kitchen appliances."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White porcelain toilet with a blue tank panel.",
+    "part_description": "Includes a bowl, tank, seat, and lid. The tank is positioned above the bowl with a blue panel on the front. The seat and lid are atop the bowl.",
+    "internal_interaction_description": "The tank stores water, which is released into the bowl when flushed. The seat and lid can be lifted or lowered. The blue panel may indicate a water-saving feature or aesthetic design, affecting water flow or appearance.",
+    "external_interaction_description": "Used by people for sanitation purposes. It connects to plumbing for water supply and waste removal. The toilet interacts with cleaning products for maintenance and may require manual flushing or automated sensors."
+}

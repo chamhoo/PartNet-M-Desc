@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with drawer and door.",
+    "part_description": "One top drawer with handle, one lower door with handle, rectangular shape, vertically stacked, positioned on the front.",
+    "internal_interaction_description": "The drawer slides in and out smoothly within the top section, supported by internal tracks. The door swings open on side hinges, allowing access to the cabinet's interior. Both parts are secured with handles for easy operation.",
+    "external_interaction_description": "The cabinet is designed to store items and can be placed in kitchens or bathrooms. It interacts with users who open the drawer and door to access stored items. It can be combined with other cabinets to form a cohesive storage system."
+}

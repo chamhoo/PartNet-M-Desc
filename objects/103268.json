@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with a grid design, gray frame.",
+    "part_description": "The window consists of two main sections, each with six rectangular panes arranged in a 2x3 grid. The panes are enclosed within a gray frame, with a beige outer border. The top section is fixed, and the bottom section is movable.",
+    "internal_interaction_description": "The window's two sections are divided by a horizontal frame. The top section remains stationary, while the bottom section can slide vertically. Each section's panes are separated by thin muntins, ensuring structural integrity and aesthetic design. The frame supports the glass panes, allowing for secure installation.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external elements like wind and rain. It can be opened to allow ventilation. The design enables easy integration into walls, offering visibility and interaction with the outside environment. It can be cleaned and maintained from both sides."
+}

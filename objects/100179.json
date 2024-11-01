@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver, metal wire cutters.",
+    "part_description": "Two curved handles, a pivot joint, and sharp jaws.",
+    "internal_interaction_description": "The handles are connected by a pivot, allowing them to move in unison. Squeezing the handles closes the jaws, which are designed to cut through wire with precision. The pivot ensures smooth operation and alignment of the cutting edges.",
+    "external_interaction_description": "Used by gripping the handles to cut wires or small metal objects. The tool requires manual force to operate, making it suitable for electricians or hobbyists working with wiring or jewelry. Its compact design allows for easy handling and precise cutting in tight spaces."
+}

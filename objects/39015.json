@@ -1,0 +1,6 @@
+{
+    "base_description": "Black office chair with wheels and armrests.",
+    "part_description": "The chair has a padded backrest, seat, two armrests, and a five-star wheeled base. The backrest is rectangular, the seat is square, and the armrests are parallel. The base has five spokes with wheels at each end.",
+    "internal_interaction_description": "The backrest connects to the seat, providing support. The armrests are attached to both the backrest and the seat, offering stability and comfort. The seat is mounted on the central post, which is connected to the five-star base, allowing for rotation and mobility.",
+    "external_interaction_description": "The chair interacts with the floor through its wheeled base, allowing for movement. It supports a person sitting, providing comfort through its padded components. The chair can be adjusted in height, interacting with the user's needs for ergonomic positioning and workspace integration."
+}

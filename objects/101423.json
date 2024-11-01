@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, black pedestal fan with circular grille.",
+    "part_description": "Three blades inside a circular grille, mounted on an adjustable pole with a four-legged base.",
+    "internal_interaction_description": "The motor drives the three blades to rotate within the circular grille, generating airflow. The adjustable pole allows height modification, and the stable base supports the structure.",
+    "external_interaction_description": "The fan circulates air in a room, cooling the environment. It can be adjusted in height and angle to direct airflow as needed by users."
+}

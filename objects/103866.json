@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular printer with a front tray.",
+    "part_description": "Includes a front paper tray, vented panels on top, and control buttons on the side. The tray is centrally positioned, with vents arranged in a grid pattern.",
+    "internal_interaction_description": "The paper tray feeds sheets into the printer's internal mechanism, where they pass through rollers and ink cartridges. The vents allow heat dissipation from internal components, ensuring efficient operation. Control buttons send signals to internal circuits for various functions.",
+    "external_interaction_description": "The printer connects to computers via cables or wireless, receiving print commands. It interacts with paper by drawing it into the tray and printing on it. Users interact with the control panel to operate and manage print tasks."
+}

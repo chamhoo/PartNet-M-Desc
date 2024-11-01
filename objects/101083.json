@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, wheeled platform with handle.",
+    "part_description": "Consists of a flat rectangular platform, four wheels at corners, and an upright handle at one end.",
+    "internal_interaction_description": "The wheels are attached to the underside of the platform, allowing movement. The handle is fixed to one end of the platform, providing steering control. The platform supports weight, distributing it evenly across the wheels.",
+    "external_interaction_description": "Used for transporting items, the object interacts with users who push or pull it using the handle. Wheels facilitate movement across various surfaces. It can be loaded with goods, interacting with the weight and shape of items placed on it."
+}

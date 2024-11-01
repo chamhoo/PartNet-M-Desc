@@ -1,0 +1,6 @@
+{
+    "base_description": "Blue futuristic vehicle with large wheels and wings.",
+    "part_description": "Features two large wheels, a streamlined body, a tall rear fin, and overhead wings. The wheels are positioned at the front and back, with the wings extending from the top.",
+    "internal_interaction_description": "The wheels provide mobility, supporting the vehicle's weight and facilitating movement. The wings are connected to the body, likely providing aerodynamic stability. The tall rear fin may assist with steering or balance, interacting with the vehicle's body for structural support.",
+    "external_interaction_description": "This vehicle likely interacts with external elements by moving across surfaces, with the wheels engaging the ground. The wings suggest potential for aerodynamic interaction, possibly enabling flight or enhanced speed. It may interact with users through controls for navigation and speed adjustment."
+}

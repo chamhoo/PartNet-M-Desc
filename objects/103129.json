@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall gray blender with black accents.",
+    "part_description": "The blender has a tall, cylindrical container with a black lid and handle. It sits on a rounded base with a control knob and a button at the front.",
+    "internal_interaction_description": "The container houses blades at the bottom, which rotate when the blender is activated. The lid fits securely to prevent spills. The handle allows for easy pouring and handling. The control knob adjusts speed settings, while the button initiates blending.",
+    "external_interaction_description": "The blender connects to a power source via a cord. Users can adjust settings and initiate blending using the control knob and button. It blends ingredients placed inside the container, transforming them into smoothies, soups, or other mixtures."
+}

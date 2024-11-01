@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray, wall-mounted shelf with two compartments.",
+    "part_description": "The shelf has a rectangular frame with two internal compartments. Each compartment is square-shaped, aligned vertically, and evenly sized. The frame is thick and surrounds the compartments symmetrically.",
+    "internal_interaction_description": "The two compartments are separated by a horizontal divider, providing structural support and organizing space within the shelf. The divider is fixed, ensuring stability and maintaining the shape of each compartment. The frame encloses the compartments, offering additional support and aesthetic consistency.",
+    "external_interaction_description": "The shelf is designed to be mounted on a wall, interacting with it through secure attachment points. It serves as a storage or display unit, interacting with objects placed within its compartments. It can support lightweight items, organizing them efficiently within its defined spaces."
+}

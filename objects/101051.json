@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular grey suitcase with black handle and wheels.",
+    "part_description": "The suitcase has a rectangular body, a black handle on top, and four small wheels at the bottom corners for mobility.",
+    "internal_interaction_description": "The handle is attached to the top of the suitcase, allowing it to be pulled or carried. The wheels are positioned at the bottom corners to provide stability and ease of movement when the suitcase is tilted and rolled.",
+    "external_interaction_description": "The suitcase can be pulled by a person using the handle, and the wheels facilitate smooth movement across surfaces. It can be placed upright or laid flat and interacts with travel environments such as airports, cars, and hotel rooms."
+}

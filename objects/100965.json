@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, blue and gray toggle switch.",
+    "part_description": "Consists of a rectangular base and cylindrical lever. The lever protrudes from the center of the base, which is blue with a gray face. Three metal terminals extend from the opposite side of the lever.",
+    "internal_interaction_description": "The cylindrical lever is connected to an internal mechanism that allows it to pivot, making or breaking an electrical connection. The metal terminals provide connection points for electrical circuits, which are controlled by the lever's position. The internal mechanism ensures precise movement and reliable switching.",
+    "external_interaction_description": "The toggle switch interacts with external electrical circuits by connecting or disconnecting them when the lever is flipped. It requires manual operation, typically by hand, to change positions. It's commonly used in electronic devices, machinery, or control panels to manage electrical flow."
+}

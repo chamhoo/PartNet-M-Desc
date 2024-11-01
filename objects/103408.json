@@ -1,0 +1,6 @@
+{
+    "base_description": "Oval white bottle with a pump top.",
+    "part_description": "Consists of an oval body and a pump dispenser on top. The body is smooth and elongated, while the pump is cylindrical and positioned centrally at the top.",
+    "internal_interaction_description": "The pump mechanism interacts with the liquid inside the bottle. When pressed, the pump creates suction, drawing the liquid upward through a tube and dispensing it out of the nozzle. The internal structure ensures a consistent flow with each press.",
+    "external_interaction_description": "The bottle is typically handled by people, who press the pump to dispense liquid, such as soap or lotion, onto their hands. It interacts with surfaces where it is placed, often in bathrooms or kitchens, and may require occasional cleaning to remove residue."
+}

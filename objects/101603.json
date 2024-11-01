@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular safe with rounded edges.",
+    "part_description": "Features a front door with a combination lock and handle. The door is centrally positioned and occupies most of the front face. The safe is supported by four small legs at each corner.",
+    "internal_interaction_description": "The combination lock mechanism interacts with internal locking bolts, securing the door when locked. The handle, when turned, engages or disengages these bolts, allowing the door to open or close. Internal hinges on one side enable the door to swing open smoothly.",
+    "external_interaction_description": "The safe interacts with users who input a combination to unlock it. It is designed to store valuable items securely, preventing unauthorized access. The sturdy construction provides resistance to physical tampering or environmental damage, ensuring protection of contents."
+}

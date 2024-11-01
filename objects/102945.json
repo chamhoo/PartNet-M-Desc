@@ -1,0 +1,6 @@
+{
+    "base_description": "Black mechanical pencil with a slim design.",
+    "part_description": "Consists of a black barrel, silver clip, eraser at the top, and a pointed tip. The barrel is cylindrical, with a clip attached near the top and an eraser above it.",
+    "internal_interaction_description": "The eraser is held in place by a cap at the top. The clip is attached to the barrel for securing the pencil to surfaces. The internal mechanism advances the lead through the pointed tip when the top is pressed.",
+    "external_interaction_description": "Used for writing or drawing on paper. The clip allows attachment to pockets or notebooks. The eraser is used to remove pencil marks. The pencil interacts with the user's hand for grip and pressure application."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular appliance with digital controls.",
+    "part_description": "Includes a top lid, front control panel with buttons and display, side vents, and a bottom tray. The control panel has two knobs and a central screen.",
+    "internal_interaction_description": "The control panel allows users to adjust settings via knobs and display. The top lid can be lifted for access, and the bottom tray collects excess material. Side vents ensure proper ventilation, maintaining internal temperature and functionality.",
+    "external_interaction_description": "The appliance interfaces with users through the control panel, allowing adjustments for desired operations. The lid provides access to the interior, while the tray facilitates easy cleaning. It's designed for placement on countertops, interacting with surrounding kitchen elements."
+}

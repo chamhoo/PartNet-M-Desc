@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray refrigerator with a glass door.",
+    "part_description": "Features one large glass door, a rectangular body, and a vented panel at the bottom. The door occupies the front, and the vent is positioned at the lower section.",
+    "internal_interaction_description": "The glass door opens to reveal internal shelving that organizes contents efficiently. The vented panel at the bottom facilitates air circulation, maintaining optimal temperature inside.",
+    "external_interaction_description": "The refrigerator interacts with users who open the door to access stored items. It requires an electrical connection to operate and may be placed in kitchens or commercial spaces for food storage."
+}

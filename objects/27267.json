@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular cabinet with open door.",
+    "part_description": "Four legs, one door, multiple internal shelves; rectangular shape.",
+    "internal_interaction_description": "The door swings on hinges to reveal interior shelves, allowing access to stored items. Shelves are fixed, providing stable support for items placed on them. The door can be closed to conceal contents, maintaining a tidy appearance.",
+    "external_interaction_description": "The cabinet stands on four legs, providing stability on flat surfaces. The door can be opened to access stored items, interacting with the user through its handle. It can be placed in various rooms for storage purposes, complementing interior decor."
+}

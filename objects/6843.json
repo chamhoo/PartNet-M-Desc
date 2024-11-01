@@ -1,0 +1,6 @@
+{
+    "base_description": "Red and silver alarm clock with twin bells.",
+    "part_description": "The clock has a round face, two black hands, two silver bells on top, and four red legs. The face is silver, surrounded by a red body.",
+    "internal_interaction_description": "The clock hands rotate around the central pivot to indicate time. The twin bells are connected to a hammer that strikes them when the alarm is set, creating sound. The internal gears facilitate the movement of the hands and the alarm mechanism.",
+    "external_interaction_description": "The clock can be placed on a flat surface using its legs. Users can set the time and alarm manually. When the alarm rings, it interacts with the environment by producing sound, alerting people nearby. It requires manual winding or battery power for operation."
+}

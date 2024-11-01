@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical blender with a gray base.",
+    "part_description": "Includes a transparent jug with a lid, a handle on the side, and a round base with a control knob.",
+    "internal_interaction_description": "The jug sits securely on the base, allowing the blades inside to rotate when powered. The lid prevents contents from spilling, while the handle aids in lifting. The control knob adjusts the speed of the blades, facilitating blending of various ingredients.",
+    "external_interaction_description": "The blender connects to a power source for operation. Users interact via the control knob to select settings. Ingredients are added to the jug, blended, and poured out using the handle. The blender should be placed on a stable surface during use."
+}

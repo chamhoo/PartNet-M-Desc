@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular remote with rounded buttons.",
+    "part_description": "Contains multiple circular and rectangular buttons arranged vertically.",
+    "internal_interaction_description": "Buttons are pressed to send signals internally, activating electronic components that correspond to each button's function.",
+    "external_interaction_description": "Used to control electronic devices remotely, interacting with televisions, stereos, or other compatible systems via infrared signals."
+}

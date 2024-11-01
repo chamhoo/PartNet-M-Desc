@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with a modern design.",
+    "part_description": "The cabinet has one drawer and one door, both rectangular. The drawer is at the top, and the door is below, with a horizontal handle on each. The cabinet is tall and narrow.",
+    "internal_interaction_description": "The drawer slides horizontally in and out of the top section, providing access to its contents. The door swings open outwardly, revealing storage space inside the lower section. The handles facilitate the opening and closing of both parts.",
+    "external_interaction_description": "The cabinet can be placed against a wall or integrated into a kitchen or bathroom setup. Users interact by pulling the handles to access stored items. It can support lightweight objects on top, like small appliances or decor."
+}

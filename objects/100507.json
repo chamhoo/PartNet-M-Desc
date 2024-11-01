@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wheelbarrow with one wheel and two handles.",
+    "part_description": "Includes a large basin, single front wheel, two handles, and two supporting legs. Basin is rectangular and deep, wheel is circular and centered at the front, handles are long and parallel, positioned at the rear.",
+    "internal_interaction_description": "The wheelbarrow's basin is connected to the frame, which supports the wheel at the front. The handles are attached to the frame, allowing leverage for lifting. The supporting legs provide stability when the wheelbarrow is stationary. The wheel rotates on an axle, facilitating movement.",
+    "external_interaction_description": "The wheelbarrow is pushed or pulled by a person using the handles. It carries materials like soil or tools, supporting transport over short distances. The wheel allows it to roll on various surfaces, while the legs stabilize it when loading or unloading. Handles provide control and direction."
+}

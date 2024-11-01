@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray wall-mounted panel with rounded edges.",
+    "part_description": "Consists of a main rectangular panel, four corner screws, and a rounded frame. The panel is centered within the frame, and the screws are evenly distributed at each corner.",
+    "internal_interaction_description": "The rectangular panel is securely held in place by the surrounding frame, which is attached to the wall. The screws at each corner ensure stability and prevent movement, maintaining the panel's position within the frame.",
+    "external_interaction_description": "This panel can be mounted on a wall and may serve as a cover or interface. It interacts with external elements by providing a surface for switches or screens, or as a protective cover for underlying mechanisms."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular briefcase with a handle.",
+    "part_description": "One main compartment, flap cover, handle on top, buckle closure, and side gussets.",
+    "internal_interaction_description": "The flap cover secures the main compartment via the buckle closure. The handle is attached to the top for carrying, and the side gussets allow for expansion and stability, maintaining the briefcase's shape when items are stored inside.",
+    "external_interaction_description": "Designed to be carried by hand or over the shoulder, the briefcase interacts with the user by providing storage for documents and personal items. It can be opened and closed for access and is suitable for professional settings."
+}

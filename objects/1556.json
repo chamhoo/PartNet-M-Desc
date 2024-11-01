@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, modern faucet with sleek design.",
+    "part_description": "Consists of a spout, handle, and base. The spout is curved and extends outward; the handle is flat and positioned on top; the base is rectangular and supports the structure.",
+    "internal_interaction_description": "The handle controls the water flow and temperature by moving the internal valve, which directs water through the spout. The spout channels the water from the internal plumbing to the sink. The base houses the connections and stabilizes the faucet.",
+    "external_interaction_description": "The faucet interacts with water supply systems, allowing users to control water flow and temperature for washing or cleaning tasks. It is mounted on sinks or countertops, facilitating water access in kitchens or bathrooms."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular cart with two black wheels.",
+    "part_description": "The cart has a rectangular body, two round black wheels, and a flat base. The wheels are positioned on opposite sides at the rear end.",
+    "internal_interaction_description": "The wheels are attached to the base of the cart, allowing it to roll. The flat base provides stability and support for carrying items. The rectangular body encloses the base, forming a container for transporting goods.",
+    "external_interaction_description": "The cart can be pushed or pulled by a person, using the open end for loading items. It interacts with surfaces by rolling on its wheels, making it suitable for transporting materials across various terrains."
+}

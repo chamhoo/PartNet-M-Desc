@@ -1,0 +1,6 @@
+{
+    "base_description": "Green stand mixer with metal bowl.",
+    "part_description": "Includes a green base, mixer head, silver mixing bowl, and beater attachment. The head is curved, positioned above the bowl, which is centrally placed on the base.",
+    "internal_interaction_description": "The mixer head houses the motor, which powers the beater attachment. The beater rotates within the bowl, allowing for efficient mixing of ingredients. The head can tilt back for easy bowl access, and the bowl locks onto the base to prevent movement during operation.",
+    "external_interaction_description": "The mixer interacts with ingredients placed in the bowl, mixing them thoroughly. It requires an external power source via a plug. Users can adjust settings using controls on the mixer head, and can add or remove the bowl and attachments as needed for various recipes."
+}

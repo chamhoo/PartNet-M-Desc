@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, oval-shaped device with screen and keyboard.",
+    "part_description": "Consists of a screen, QWERTY keyboard, and control pad. Screen is centrally positioned, keyboard below it with raised keys, and control pad to the right.",
+    "internal_interaction_description": "The screen displays information and interfaces with the keyboard and control pad. The keyboard allows text input, while the control pad navigates on-screen options. Each component is integrated to provide seamless user interaction within the device.",
+    "external_interaction_description": "Interacts with users through the screen, keyboard, and control pad for input and navigation. Can connect to other devices via wireless or wired connections for data transfer and communication."
+}

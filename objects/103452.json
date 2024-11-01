@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver front-loading washing machine with modern design.",
+    "part_description": "Includes a circular door, control panel with buttons and knobs, and a rectangular base. The door is centrally located, the control panel is above it, and the base supports the structure.",
+    "internal_interaction_description": "The door opens to allow access to the drum inside, which rotates to agitate laundry during wash cycles. The control panel sends electrical signals to manage water intake, drum rotation speed, and cycle duration. Internal sensors ensure proper water levels and temperature are maintained.",
+    "external_interaction_description": "The washing machine connects to water and power sources via hoses and cables. Users interact through the control panel to select wash settings. The machine's vibration and noise are minimized by its stable base, ensuring efficient operation without external disturbances."
+}

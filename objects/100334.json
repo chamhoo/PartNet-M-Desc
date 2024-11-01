@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, cylindrical, green and gray lighter.",
+    "part_description": "Comprises a green cylindrical body and gray ignition top.",
+    "internal_interaction_description": "The flint wheel interacts with the flint to create a spark, igniting the gas released from the nozzle when the lever is pressed.",
+    "external_interaction_description": "Used by people to produce a flame for lighting cigarettes or candles, requiring manual operation to ignite."
+}

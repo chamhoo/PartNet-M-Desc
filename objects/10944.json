@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, red rectangular cabinet with a gray door.",
+    "part_description": "The cabinet has a single tall gray door, red sides, and a gray base. The door is centrally positioned with a vertical orientation.",
+    "internal_interaction_description": "The door is hinged on one side, allowing it to open outward. Inside, there may be shelves or compartments for storage, providing organized space for items. The door's position ensures secure closure and easy access to contents.",
+    "external_interaction_description": "The cabinet interacts with users by providing storage space. It can be placed in kitchens or offices, allowing access through the door. The red color adds a visual element, making it a noticeable piece in a room."
+}

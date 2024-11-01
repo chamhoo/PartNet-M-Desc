@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow rectangular lighter with flip-top lid.",
+    "part_description": "Includes a rectangular body and a hinged lid, both yellow. The body is the main part, and the lid is attached at the top, opening upwards.",
+    "internal_interaction_description": "The hinged lid covers the top of the lighter, protecting the ignition mechanism. When opened, it allows access to the ignition and flame. The lid snaps shut to prevent accidental ignition and to protect the internal components.",
+    "external_interaction_description": "The lighter is operated by hand, with the lid flipped open to ignite. It interacts with flammable materials to produce a flame. The external surface may have grip features for easy handling, and its size allows it to fit in a pocket."
+}

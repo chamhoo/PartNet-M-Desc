@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim black wireless keyboard with USB receiver.",
+    "part_description": "Contains 104 keys in a rectangular layout; USB receiver nearby.",
+    "internal_interaction_description": "Keys are arranged in rows with standard spacing, allowing for tactile feedback when pressed. The wireless receiver connects to the keyboard electronically, enabling communication without physical wires.",
+    "external_interaction_description": "The keyboard connects wirelessly to computers via the USB receiver, allowing users to input data. It requires a compatible device with a USB port and may need batteries or charging for power."
+}

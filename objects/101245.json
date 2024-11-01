@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, black multi-tool with metallic blades.",
+    "part_description": "Includes multiple blades and tools, arranged around a central handle. The blades vary in size and shape, positioned symmetrically, with a corkscrew underneath.",
+    "internal_interaction_description": "The blades and tools fold into the central handle for compact storage. Each tool pivots on a central axis, allowing individual selection and locking into place when extended, ensuring stability during use.",
+    "external_interaction_description": "The multi-tool interacts with various materials for cutting, screwing, or opening tasks. It is portable, fitting comfortably in a pocket or hand, making it accessible for outdoor activities or daily tasks."
+}

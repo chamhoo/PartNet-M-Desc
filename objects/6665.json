@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, red wall clock with Roman numerals.",
+    "part_description": "Consists of a circular frame, Roman numerals, two hands, and a central hub. The numerals are evenly spaced around the frame, with the hands positioned at the center.",
+    "internal_interaction_description": "The clock hands rotate around the central hub, pointing to the Roman numerals to indicate time. The minute hand moves continuously, while the hour hand shifts gradually. The parts are fixed onto the circular frame, ensuring stability and accurate timekeeping.",
+    "external_interaction_description": "The clock hangs on a wall, interacting with the environment by displaying time to viewers. It relies on an external power source or battery for operation. The design allows it to be a decorative piece, complementing the room's aesthetic while serving a functional purpose."
+}

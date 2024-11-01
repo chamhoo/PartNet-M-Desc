@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray storage cabinet with handle.",
+    "part_description": "Includes a rectangular door with a handle, hinges on the side, and a flat top. The interior has shelves for storage, and the base is slightly elevated.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to swing open to access the shelves inside. Shelves are fixed within the cabinet, providing multiple levels for organizing items.",
+    "external_interaction_description": "The cabinet can be placed against a wall or within a room for storage purposes. The handle allows users to easily open and close the door to access or store items. It interacts with the floor via its base."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black flat-screen television.",
+    "part_description": "Consists of a large rectangular screen, a thin bezel, and a rectangular base. The screen is flat and widescreen, with the bezel surrounding it. The base is centrally positioned beneath the screen.",
+    "internal_interaction_description": "The screen is mounted securely within the bezel, which provides structural support and houses necessary electronics. The base connects to the lower section of the bezel, offering stability and balance to the television. Internal wiring connects the screen to input ports and power supply units housed within the casing.",
+    "external_interaction_description": "The television interacts with external devices via input ports, allowing connection to media players, gaming consoles, and computers. It is typically placed on a stand or mounted on a wall. Users interact with it through remote controls or buttons on the bezel for power and settings adjustments."
+}

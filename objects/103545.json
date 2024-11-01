@@ -1,0 +1,6 @@
+{
+    "base_description": "White rectangular toaster with two slots.",
+    "part_description": "Two rectangular slots on top, three side buttons, green and red indicator lights, and a curved front panel.",
+    "internal_interaction_description": "The toaster's slots hold bread slices, with internal heating elements surrounding each slot. The buttons control settings like toasting duration and heat level, while the indicator lights show operational status. The curved panel may house additional controls or mechanisms for ejecting toasted items.",
+    "external_interaction_description": "The toaster interacts with users through the buttons for operation and light indicators for status. It requires an external power source and is typically placed on a kitchen counter. Users insert bread into the slots, which are then toasted based on selected settings."
+}

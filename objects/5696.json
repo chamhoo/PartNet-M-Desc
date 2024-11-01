@@ -1,0 +1,6 @@
+{
+    "base_description": "Round wall clock with Roman numerals, metallic style.",
+    "part_description": "Circular frame with Roman numerals, central face, and ornate hands. Roman numerals evenly spaced around the outer edge. Two clock hands positioned centrally.",
+    "internal_interaction_description": "The clock hands rotate around the central axis, indicating time by pointing at the Roman numerals. The ornate design of the hands complements the numerals and the overall metallic aesthetic, ensuring readability and style. The central face provides a backdrop for the hands, enhancing visibility.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, interacting with the environment by providing time at a glance. It serves a functional purpose in homes or offices, allowing people to manage their time efficiently. The metallic finish may complement modern or industrial decor styles."
+}

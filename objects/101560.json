@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown bottle with a yellow pump dispenser.",
+    "part_description": "The bottle has a cylindrical shape with a yellow pump on top. The pump consists of a nozzle and a collar. The body is dark brown with a label.",
+    "internal_interaction_description": "The pump mechanism includes a spring and tube inside the bottle. When pressed, the spring compresses, and liquid is drawn up through the tube and dispensed through the nozzle.",
+    "external_interaction_description": "The bottle is designed to dispense liquid when the pump is pressed by a user. It can be placed on flat surfaces and refilled when empty, interacting with hands and bathroom environments."
+}

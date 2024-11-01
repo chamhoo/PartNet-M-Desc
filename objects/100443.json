@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray bucket with a handle, cylindrical shape.",
+    "part_description": "The bucket has a cylindrical body with a semi-circular handle attached to two opposite sides near the top. It includes a base, sides, and a handle, all in gray. The handle is thin and curves over the top.",
+    "internal_interaction_description": "The handle is connected to the bucket's top edges, allowing it to pivot for carrying. The cylindrical body holds contents securely, with the flat base providing stability. The handle's attachment points are reinforced to support weight when the bucket is lifted.",
+    "external_interaction_description": "The bucket can be used to carry liquids or solids, interacting with external elements by containing them. It can be lifted and transported by the handle, and placed on various surfaces due to its stable base. Users can pour contents out smoothly via the open top."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a modern style.",
+    "part_description": "The cabinet has four doors, two on the top and two on the bottom, each with a vertical handle. The doors are arranged in two rows and two columns, forming a symmetrical shape.",
+    "internal_interaction_description": "Each pair of doors opens outward, providing access to separate compartments. The top and bottom sections are likely divided by an internal shelf, allowing for organized storage. The handles facilitate easy opening and closing of the doors.",
+    "external_interaction_description": "The cabinet is designed to stand against a wall, providing storage for various items. It interacts with users through the opening and closing of its doors, which can be accessed via the handles. It may also interact with other furniture in a room setting."
+}

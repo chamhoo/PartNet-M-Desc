@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, grey cabinet with simple design.",
+    "part_description": "One main compartment with a front door, rectangular shape, vertical orientation, and a handle on the side.",
+    "internal_interaction_description": "The cabinet's door is hinged on one side, allowing it to swing open and closed. The interior compartment is a single, open space that can accommodate shelves or storage items. The door's handle facilitates easy opening and closing, ensuring secure storage of contents inside.",
+    "external_interaction_description": "The cabinet interacts with external elements by providing storage space for various items. It can be placed in different environments such as kitchens or offices. Users interact with it by opening and closing the door via the handle, accessing the stored contents within."
+}

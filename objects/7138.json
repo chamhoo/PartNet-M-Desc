@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, silver and black kitchen appliance.",
+    "part_description": "Features a main body, a front door with handle, and a control panel. The door is centrally located on the front, with a transparent window. The handle is positioned horizontally across the door.",
+    "internal_interaction_description": "The front door opens to reveal the cooking chamber inside. The handle is used to pull the door open, while the control panel allows for setting cooking parameters. The transparent window allows visibility into the chamber while the appliance is in operation.",
+    "external_interaction_description": "The appliance is designed to sit on a countertop or be built into cabinetry. Users interact with the control panel to operate it, and the door is opened to place or remove food items. It requires an electrical connection to function."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Flat-screen television, rectangular, black frame.",
+    "part_description": "Consists of a large rectangular screen, thin black bezel, and a flat rectangular base stand.",
+    "internal_interaction_description": "The screen displays images powered by internal electronics, connected to the base for stability. The bezel houses the screen securely, ensuring proper alignment and protection. Internal circuits process input signals to generate visuals.",
+    "external_interaction_description": "Connects to external devices via ports for input. Operated by remote control or buttons for power and settings. Positioned on a table or mounted on a wall, interacting with viewers through visual and audio output."
+}

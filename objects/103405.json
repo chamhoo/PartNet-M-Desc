@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray spray bottle with red trigger, medium size.",
+    "part_description": "Consists of a cylindrical body, a red trigger mechanism on top, and a nozzle. The body is smooth and gray, while the trigger and nozzle are red, positioned at the top.",
+    "internal_interaction_description": "The trigger mechanism, when pressed, activates an internal pump that draws liquid from the bottle through a tube. The liquid is then forced out through the nozzle in a spray form. The nozzle can often be adjusted to alter the spray pattern.",
+    "external_interaction_description": "The spray bottle is typically held by the cylindrical body, allowing the user to aim and spray liquids onto surfaces or objects. It can be used for cleaning, gardening, or other applications requiring liquid dispersal. The trigger requires manual pressure to operate."
+}

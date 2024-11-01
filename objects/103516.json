@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver lighter with flip-top lid.",
+    "part_description": "Includes a rectangular body, hinged lid, and ignition wheel. The lid is on top, covering the ignition mechanism, with a small wheel and flint inside.",
+    "internal_interaction_description": "The hinged lid opens to reveal the ignition wheel and flint. When the wheel is spun, it strikes the flint, producing a spark to ignite fuel from the wick inside the lighter's body.",
+    "external_interaction_description": "The lighter interacts with external elements by providing a flame when ignited, used for lighting cigarettes, candles, or other items. It requires manual operation to open the lid and spin the wheel, with fuel needing periodic refilling."
+}

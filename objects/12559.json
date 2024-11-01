@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray dishwasher with control panel.",
+    "part_description": "Includes a front door, control panel with buttons, and handle. The door is large and rectangular, covering most of the front. The control panel is above the door, with multiple colored buttons. The handle is horizontal, centered on the door.",
+    "internal_interaction_description": "The control panel buttons interact with the internal mechanisms to start, stop, and select washing cycles. The door, when opened, provides access to the internal racks and sprayers. The handle facilitates opening and closing, triggering internal locks and seals for watertight operation.",
+    "external_interaction_description": "The dishwasher connects to plumbing and electrical systems for functionality. Users interact with the control panel to operate it, and load dishes through the door. It fits under countertops, integrating into kitchen cabinetry, and its exterior design complements kitchen aesthetics."
+}

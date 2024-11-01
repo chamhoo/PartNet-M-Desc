@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white wall-mounted dispenser.",
+    "part_description": "Consists of a main rectangular body and a protruding lever at the bottom center. The body is smooth and compact, with rounded edges.",
+    "internal_interaction_description": "The internal mechanism likely involves a pump system activated by the lever. Pressing the lever compresses an internal spring or pushes a piston, drawing liquid from a reservoir and dispensing it through the bottom opening.",
+    "external_interaction_description": "Designed to be mounted on walls, it interacts with users who press the lever to dispense liquid soap or sanitizer. It can be refilled through a top opening, interacting with maintenance personnel during refill or cleaning."
+}

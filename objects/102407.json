@@ -1,0 +1,6 @@
+{
+    "base_description": "Box-shaped camera, brown with beige accents.",
+    "part_description": "Features a central lens, beige top knob, side handle, and front panel. Lens is circular, knob is cylindrical, handle is rectangular, and panel is flat. Lens centered, knob on top, handle on right, panel at front.",
+    "internal_interaction_description": "The central lens captures images, controlled by the top knob which adjusts settings. The side handle provides stability during use. The front panel houses the lens and may contain other controls or indicators, facilitating the overall functionality of the camera. Each part works together to ensure proper image capture.",
+    "external_interaction_description": "The camera interacts with users through manual controls like the knob and handle, allowing for adjustments and stability. It interfaces with film or digital storage to capture images. The design is user-friendly, enabling easy handling and operation during photography sessions."
+}

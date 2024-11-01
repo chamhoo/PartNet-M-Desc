@@ -1,0 +1,6 @@
+{
+    "base_description": "Brown, rectangular, open cardboard box.",
+    "part_description": "Four sides and a bottom, all rectangular, arranged perpendicularly. The top is open, and the sides are of equal height.",
+    "internal_interaction_description": "The sides of the box are connected at right angles to the base, forming a stable structure. The edges of the sides meet at the corners, providing support and maintaining the box's shape.",
+    "external_interaction_description": "The box can hold various items, providing containment and protection. It can be easily carried, stacked, or stored, interacting with other boxes or objects in storage or transport settings."
+}

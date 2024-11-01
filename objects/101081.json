@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray metal shopping cart with red accents.",
+    "part_description": "The cart has a metal basket, four wheels, a handlebar, and a folding seat. The basket is rectangular with a mesh design, the wheels are red and positioned at each corner, and the handlebar is red and located at the top rear.",
+    "internal_interaction_description": "The basket connects to the frame, which supports the wheels, allowing mobility. The handlebar is attached to the frame for steering. The folding seat can be lifted for additional space. The wheels rotate independently, providing smooth movement and stability.",
+    "external_interaction_description": "The shopping cart interacts with users by providing a space to place items during shopping. It can be pushed and steered using the handlebar. The wheels allow it to move smoothly on various surfaces. It can be nested with other carts for storage."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, red lighter with metallic top.",
+    "part_description": "Consists of a red plastic body, metallic top with ignition wheel, and fuel valve. The body is elongated and rectangular, with the top housing the ignition mechanism.",
+    "internal_interaction_description": "The ignition wheel, when rotated, strikes a flint, creating a spark. This ignites the fuel released from the valve, producing a flame. The metallic top holds the ignition components securely, directing the flame upwards.",
+    "external_interaction_description": "The lighter is handheld, used to ignite materials like candles or cigarettes. Its compact size allows for easy portability in pockets or bags. Users interact by pressing the ignition wheel and controlling the flame's exposure to external elements."
+}

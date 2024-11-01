@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular cabinet with a single door.",
+    "part_description": "One main body, single front door with handle, flat top, and enclosed sides.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to open and close smoothly. The handle facilitates easy opening of the door, which swings outward. The enclosed sides and back provide structural support, maintaining the cabinet's shape and stability.",
+    "external_interaction_description": "The cabinet can be placed on flat surfaces, interacting with floors or countertops. The door allows access to the interior, where items can be stored. It can be positioned alongside other furniture or appliances, serving as a storage unit in kitchens or offices."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray cabinet with two doors.",
+    "part_description": "Two rectangular doors at the front, a horizontal drawer above, and a flat top surface.",
+    "internal_interaction_description": "The drawer slides horizontally above the cabinet space, which is enclosed by the two doors. The doors open outward from the center, providing access to the interior storage area.",
+    "external_interaction_description": "The cabinet can be positioned against a wall, used for storing items, and interacted with by opening the doors or drawer. It can support objects on its top surface, serving as additional storage or display space."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop with black screen frame.",
+    "part_description": "Consists of a screen, keyboard, touchpad, and base. The screen is attached to the base with a hinge. The keyboard is centered on the base, with a touchpad below it.",
+    "internal_interaction_description": "The screen is connected to the base via a hinge, allowing it to open and close. The keyboard is integrated into the base, enabling input. The touchpad is positioned below the keyboard for navigation, interacting with the internal hardware to control the cursor.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input. It can connect to external devices via ports, and the screen displays visual output. It can be powered by an external charger and may connect to networks wirelessly."
+}

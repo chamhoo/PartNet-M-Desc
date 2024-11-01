@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular sliding window, gray frame, modern style.",
+    "part_description": "Two large rectangular glass panels, framed in gray. One panel is fixed, and the other slides horizontally. Frame surrounds the panels with a bottom track for sliding.",
+    "internal_interaction_description": "The sliding panel moves horizontally along the bottom track, allowing it to overlap with the fixed panel. The frame holds both panels securely, ensuring smooth sliding motion. The interaction between the frame and panels allows for opening and closing to control ventilation and light.",
+    "external_interaction_description": "The window interfaces with walls to provide views and light. It can be opened or closed by people to regulate air flow and temperature. The glass panels offer insulation and soundproofing, while the frame ensures stability against external weather conditions."
+}

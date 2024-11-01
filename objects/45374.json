@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white chest of drawers.",
+    "part_description": "Four drawers stacked vertically, each with two handles. Rectangular shape, uniform size. Top drawer is slightly smaller. Positioned centrally on a solid base.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly within the frame. The handles are attached securely, allowing easy grip for opening and closing. The drawers are aligned with internal tracks that guide their movement and prevent them from falling out.",
+    "external_interaction_description": "The chest of drawers interacts with the environment by providing storage space for clothing or other items. It requires a flat surface to stand on and space in front to open drawers. Users can interact by pulling handles to access contents."
+}

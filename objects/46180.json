@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cabinet with two drawers, rectangular shape.",
+    "part_description": "Two drawers with handles, stacked vertically, rectangular shape, top drawer smaller, positioned centrally on the front face.",
+    "internal_interaction_description": "The drawers slide in and out within the cabinet frame, guided by tracks on the sides. The top drawer is smaller and occupies the upper section, while the larger bottom drawer fills the lower space. Both drawers are equipped with handles for easy pulling.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a countertop. The drawers are accessed by pulling the handles, allowing storage of various items. It interacts with the environment by providing organization and storage solutions in spaces like kitchens or offices."
+}

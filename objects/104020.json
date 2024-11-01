@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular printer with a paper tray.",
+    "part_description": "Features include a top cover, paper tray, control panel, and output slot. The paper tray is at the front, while the control panel is on the top. The output slot is below the control panel.",
+    "internal_interaction_description": "The printer's internal mechanism pulls paper from the tray, passes it through the inkjet system under the top cover, and finally outputs it through the slot. The control panel interfaces with the internal electronics to manage print commands and settings.",
+    "external_interaction_description": "The printer connects to computers or devices via USB or wireless for printing tasks. It interacts with users through the control panel for settings and status updates. Paper is manually loaded into the tray, and printed documents are collected from the output slot."
+}

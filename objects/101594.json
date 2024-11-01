@@ -1,0 +1,6 @@
+{
+    "base_description": "Black cube safe with brown door, compact size.",
+    "part_description": "The safe has a black cubic body and a brown door with a handle. The door is attached with hinges on one side. The handle is centrally positioned on the door.",
+    "internal_interaction_description": "The door is connected to the main body through hinges, allowing it to swing open or closed. The handle provides a grip for opening the door, while the internal locking mechanism secures the door when closed.",
+    "external_interaction_description": "The safe interacts with external elements by providing secure storage. People can open or close the door using the handle. The safe can be placed on a flat surface, and its weight and shape ensure stability."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, adjustable silver desk lamp with round base.",
+    "part_description": "Consists of a circular base, adjustable arm, and lamp head. The base is round, supporting a vertical pole connected to an angled arm with a round lamp head at the end.",
+    "internal_interaction_description": "The lamp's adjustable arm is connected to the base via a hinge, allowing vertical movement. The arm and lamp head are linked by another hinge, enabling directional adjustment. The base provides stability, while the arm facilitates height and angle customization for the lamp head.",
+    "external_interaction_description": "The lamp illuminates workspaces, interacting with external objects by casting light. It can be positioned on desks or tables, adjusted to focus light on specific areas. Users can tilt and extend the arm for optimal lighting, enhancing visibility for tasks like reading or writing."
+}

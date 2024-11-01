@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray panel with three beige switches.",
+    "part_description": "Three identical beige switches aligned horizontally, each with a small red marking, centered on a gray rectangular panel.",
+    "internal_interaction_description": "The three switches are fixed onto the panel, each capable of independent movement. The red markings likely indicate the switch position or function. The alignment ensures uniformity and ease of access, allowing sequential or individual operation.",
+    "external_interaction_description": "The panel can be mounted on a wall, interacting with electrical systems to control lighting or devices. Users can manually toggle the switches to operate connected circuits, providing control over electrical functions in a room or building."
+}

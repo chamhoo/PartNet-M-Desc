@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray box with six compartments.",
+    "part_description": "The box has six equal rectangular compartments inside, arranged in two rows of three. It has a hinged lid and a round knob on the front.",
+    "internal_interaction_description": "The compartments are separated by fixed dividers, maintaining their shape and position. The hinged lid allows access to the compartments, and the knob facilitates opening the box.",
+    "external_interaction_description": "The box can be opened by lifting the lid using the knob. It can store small items in its compartments, keeping them organized and accessible."
+}

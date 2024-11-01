@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white cabinet with two doors.",
+    "part_description": "Features two vertical doors with handles, a flat top, and a base. The doors are positioned at the front, with handles on the outer edges. The interior is hollow, designed for storage.",
+    "internal_interaction_description": "The two doors are mounted on hinges allowing them to swing open and closed. The handles provide a grip for easy opening. The flat top serves as a surface for placing items, while the internal space is accessible via the doors.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a countertop. It interacts with users who open the doors to store or retrieve items. The flat top can hold decorative items or small appliances. It requires a flat surface for stable placement."
+}

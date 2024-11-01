@@ -1,0 +1,6 @@
+{
+    "base_description": "Beige cylindrical bottle with pump dispenser.",
+    "part_description": "Consists of a cylindrical body and a pump. The body is beige with a white label, and the pump is black, positioned on top of the cylinder.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, allowing liquid to be drawn up and dispensed when the pump is pressed. The airtight seal ensures the liquid is preserved and dispensed efficiently.",
+    "external_interaction_description": "Designed for easy handling and dispensing of liquid products, the pump can be pressed by hand. Suitable for use in bathrooms or kitchens, interacting with users to provide soap, lotion, or other liquids."
+}

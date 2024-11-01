@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular silver microwave with digital control panel.",
+    "part_description": "Features a door with a glass window, digital display, control buttons, and a turntable inside, all arranged on a rectangular body.",
+    "internal_interaction_description": "The control panel allows the user to set time and power levels, activating the microwave generator. The turntable rotates to evenly distribute heat to the food inside, while the glass window lets users monitor the cooking process.",
+    "external_interaction_description": "The microwave interacts with external elements by heating food placed inside. Users operate it through the control panel, and it requires an electrical power source. The door must be closed for operation, ensuring safety and efficiency."
+}

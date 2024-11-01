@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black and white coffee machine.",
+    "part_description": "Features a main body, drip tray, spout, and water reservoir. The body is rectangular with a curved top, the drip tray is flat and extends outward, the spout is centered above the tray, and the reservoir is cylindrical at the back.",
+    "internal_interaction_description": "The water reservoir feeds water into the main body, where it is heated. The heated water is then forced through the spout to brew coffee. The drip tray collects any excess liquid or drips from the spout, ensuring a clean surface.",
+    "external_interaction_description": "The machine interacts with users through buttons on top for operation. It requires an electrical outlet for power and coffee pods or grounds for brewing. Users place cups under the spout, and the drip tray can be removed for cleaning or to accommodate larger cups."
+}

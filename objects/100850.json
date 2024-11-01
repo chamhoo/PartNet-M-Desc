@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray light switch with two toggles.",
+    "part_description": "Two rectangular toggle switches centered on a square plate, with black accents on either side. The plate has rounded edges and a smooth surface.",
+    "internal_interaction_description": "The toggles interact with an internal mechanism that completes or breaks an electrical circuit when flipped. Each toggle is independently operable, allowing separate control of connected electrical devices.",
+    "external_interaction_description": "The switch is designed to be mounted on a wall, allowing users to control electrical devices like lights. It requires manual operation to toggle the switches, and it interfaces with the building's electrical system to function."
+}

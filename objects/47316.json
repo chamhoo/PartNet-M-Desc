@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cubic object with a simple design.",
+    "part_description": "The object has six equal square faces, arranged symmetrically. Each face is flat and smooth, forming a perfect cube.",
+    "internal_interaction_description": "The faces of the cube are connected at right angles, creating a uniform, stable structure. Each edge of the cube joins two faces, maintaining the overall geometric integrity.",
+    "external_interaction_description": "The cube can be placed on flat surfaces, interacting with gravity to remain stable. It may serve as a storage unit, seat, or decorative element, depending on its material and context."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wheelbarrow with single wheel and handles.",
+    "part_description": "Includes one large wheel, two handles, a rectangular tray, and supporting legs.",
+    "internal_interaction_description": "The wheel is centrally attached to an axle, allowing rotation and movement. The handles are connected to the tray, providing leverage for lifting. Supporting legs stabilize the wheelbarrow when stationary.",
+    "external_interaction_description": "The wheelbarrow is pushed by a person using the handles, allowing it to transport materials. The wheel facilitates movement over various terrains while the tray holds the load securely."
+}

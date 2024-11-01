@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black camera with round lens.",
+    "part_description": "Features a large round lens at the front, two circular buttons on top, and a rectangular viewfinder on the back.",
+    "internal_interaction_description": "The lens is centrally positioned on the front, allowing light to enter and focus on the sensor inside. The top buttons likely control functions such as power and shutter. The viewfinder aligns with the lens to provide a visual guide for framing shots.",
+    "external_interaction_description": "The camera is handheld, interacting with the user through buttons for operation. It captures images of external scenes through the lens, which are then viewed through the viewfinder or stored digitally."
+}

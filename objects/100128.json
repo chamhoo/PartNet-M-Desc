@@ -1,0 +1,6 @@
+{
+    "base_description": "Three stacked gray rectangular boxes with labels.",
+    "part_description": "Three rectangular boxes of varying sizes stacked horizontally. The largest box is at the top, medium in the middle, and smallest at the bottom. Each box has a label on its surface.",
+    "internal_interaction_description": "The three boxes are stacked in a descending size order, with the largest providing a stable base for the medium and smallest boxes. The labels on each box face outward, ensuring visibility from the front. The arrangement suggests a modular or collapsible design for easy stacking and storage.",
+    "external_interaction_description": "The object can be easily interacted with by people, allowing for stacking or unstacking. The labels provide clear identification or instructions, facilitating organization or categorization. Its modular design suggests potential compatibility with similar objects for expanded storage or display solutions."
+}

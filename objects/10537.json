@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, metal scissors with orange handles.",
+    "part_description": "Two metal blades intersect at a pivot point, forming a V-shape. Each blade is attached to an orange plastic handle with an oval opening for fingers. The blades are sharp and slightly curved, while the handles are smooth and rounded.",
+    "internal_interaction_description": "The two blades pivot around a central point, allowing them to open and close. As the handles are squeezed together, the blades slide past each other in a shearing motion, enabling cutting. The pivot point ensures smooth movement and alignment of the blades during operation.",
+    "external_interaction_description": "The scissors are designed to be held by a person, with fingers inserted into the handle loops. They are used to cut various materials such as paper, fabric, or thin plastic by applying pressure to the handles. The sharp blades interact with the material to create clean cuts."
+}

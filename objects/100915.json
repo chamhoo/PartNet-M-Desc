@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray wall socket with three prongs.",
+    "part_description": "The socket has three prong slots arranged in a triangular pattern on a rectangular faceplate. The faceplate is smooth and flat, with slightly rounded edges.",
+    "internal_interaction_description": "The prong slots are internally connected to wiring that conducts electricity. When a plug is inserted, the prongs align with the slots, allowing electrical current to flow through the plug and into the connected device.",
+    "external_interaction_description": "The socket interfaces with electrical plugs, allowing devices to be powered. It is typically mounted on walls, providing a stable connection point for appliances, electronics, and other electrical equipment."
+}

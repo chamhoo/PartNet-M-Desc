@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, silver USB flash drive.",
+    "part_description": "Consists of a rectangular body and a removable cap. The body has a USB connector on one end and is metallic silver. The cap is similarly shaped and fits over the USB connector.",
+    "internal_interaction_description": "The USB connector is housed within the rectangular body, which protects the internal memory chip. The cap securely fits over the USB connector, preventing dust and damage when not in use.",
+    "external_interaction_description": "The USB flash drive connects to computers and other devices via the USB port, allowing data transfer and storage. The cap can be removed and reattached, providing protection when not in use. It is portable and can be carried easily."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, rectangular remote control with buttons.",
+    "part_description": "Features numerous buttons arranged in rows, including numeric, power, and function keys, with a circular button at the top.",
+    "internal_interaction_description": "The buttons interact with internal circuits when pressed, sending signals to the device it controls. Each button corresponds to specific functions, such as power, volume, and channel selection, enabling complex operations through simple presses.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or audio systems via infrared signals. Users press buttons to change settings, channels, or power. Requires line of sight to function effectively, and may need batteries for power."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray door with white frame.",
+    "part_description": "Consists of a single gray panel, a white frame, and a small round handle on the left side.",
+    "internal_interaction_description": "The door panel is securely fitted within the white frame, allowing it to swing open or closed. The handle is attached to the panel, enabling manual operation to open or close the door.",
+    "external_interaction_description": "The door serves as a barrier or entry point, interacting with people by opening for passage. It can be installed in a wall opening, providing access between spaces. The handle facilitates easy grip and operation."
+}

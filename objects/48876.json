@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, white, three-drawer cabinet.",
+    "part_description": "Three equally-sized drawers with horizontal handles, vertically stacked.",
+    "internal_interaction_description": "The drawers slide in and out on tracks within the cabinet, allowing access to the storage space inside each drawer. The handles provide a grip for pulling the drawers open or pushing them closed.",
+    "external_interaction_description": "The cabinet can be placed against a wall or in a corner, interacting with the surrounding space. Users pull the handles to access contents, and the top surface can hold items like decorations or small appliances."
+}

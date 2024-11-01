@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black lighter with gray top.",
+    "part_description": "Features a black rectangular body and a gray top with a metal wheel and ignition button.",
+    "internal_interaction_description": "The metal wheel strikes against a flint, creating a spark. This ignites the gas released by pressing the ignition button, producing a flame at the top.",
+    "external_interaction_description": "Used to produce a flame for lighting cigarettes, candles, or other objects. Requires manual operation by pressing the ignition button and may interact with wind, affecting flame stability."
+}

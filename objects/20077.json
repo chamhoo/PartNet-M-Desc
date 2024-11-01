@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular platform with red cushions and wheels.",
+    "part_description": "Two red cylindrical cushions on sides, grey flat surface in center, four wheels underneath at corners.",
+    "internal_interaction_description": "The red cylindrical cushions are attached to the sides of the grey flat surface, providing support and possibly comfort. The wheels are affixed underneath the grey platform, allowing movement in multiple directions. The arrangement ensures stability and mobility, with each part contributing to the overall structure.",
+    "external_interaction_description": "The object can be moved smoothly across surfaces due to its wheels, making it useful for transporting items or serving as a mobile platform. The cushioned sides might provide comfort or protection for objects placed on top. It interacts with users by offering a movable and stable surface."
+}

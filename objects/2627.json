@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray office chair with five wheels.",
+    "part_description": "Features a cushioned seat and backrest, five-spoke base with wheels, and adjustable height mechanism.",
+    "internal_interaction_description": "The seat is connected to the base via an adjustable height mechanism, allowing the user to raise or lower the chair. The five-spoke base provides stability and supports the wheels, enabling smooth movement. The backrest is attached to the seat, offering ergonomic support.",
+    "external_interaction_description": "The chair interacts with users by providing seating comfort and mobility. The wheels allow easy movement across floors, while the adjustable height accommodates different desk heights. Its design supports the user's back and posture during prolonged sitting."
+}

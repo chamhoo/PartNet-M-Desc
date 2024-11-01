@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cylindrical, medium-sized container with a slot.",
+    "part_description": "Features a cylindrical body with a coin slot on top. The body is smooth and tapers slightly towards the top, with no visible seams or additional parts.",
+    "internal_interaction_description": "The cylindrical body serves as the main storage area, allowing coins to drop through the slot into the hollow interior. The tapered design aids in guiding coins into the center of the container, ensuring they accumulate at the base.",
+    "external_interaction_description": "Designed for use as a coin bank, it interacts with users by collecting coins inserted through the slot. The smooth exterior allows for easy handling, and its size makes it suitable for placement on desks or shelves."
+}

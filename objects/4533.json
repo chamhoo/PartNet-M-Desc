@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, gray monitor with a black screen.",
+    "part_description": "Large rectangular screen with thin bezels, supported by a sturdy, curved stand at the bottom center.",
+    "internal_interaction_description": "The screen is attached to the stand, allowing it to remain upright. The bezels house internal components like sensors and power circuits, supporting the screen's display functions.",
+    "external_interaction_description": "The monitor connects to computers via cables, displaying visual output. It is viewed by users, who interact with connected devices to control the displayed content."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, spherical, white globe on black stand.",
+    "part_description": "The globe consists of a white sphere mounted on a black circular base with a curved black support arm connecting them.",
+    "internal_interaction_description": "The sphere is held securely by the curved support arm, allowing it to rotate smoothly around its axis. The base provides stability, ensuring the globe remains upright. The support arm is attached at two points, enabling balanced rotation without obstruction.",
+    "external_interaction_description": "The globe can be spun manually by a user to view different areas. It interacts with light, casting shadows on the surface. The base allows it to rest on flat surfaces, making it suitable for desks or shelves."
+}

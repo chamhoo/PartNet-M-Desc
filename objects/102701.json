@@ -1,0 +1,6 @@
+{
+    "base_description": "White, oval toilet with a rectangular tank.",
+    "part_description": "Consists of a seat, bowl, and tank. The oval seat is positioned on top of the bowl, which is connected to the rectangular tank at the back.",
+    "internal_interaction_description": "The tank holds water and releases it into the bowl when flushed. The seat covers the bowl, providing a surface for sitting. The bowl directs waste into the plumbing system.",
+    "external_interaction_description": "The toilet is used by people to dispose of waste. It connects to plumbing for water supply and waste removal. The flush mechanism is activated by a handle or button, interacting with the user."
+}

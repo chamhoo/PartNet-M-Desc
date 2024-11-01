@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver metal bucket with a handle.",
+    "part_description": "Consists of a cylindrical body and a curved metal handle attached at two opposite points near the top rim.",
+    "internal_interaction_description": "The handle is attached to the bucket's top rim through two small loops, allowing it to pivot up and down. This design enables easy carrying and pouring while maintaining balance. The bucket's cylindrical shape ensures uniform distribution of contents inside.",
+    "external_interaction_description": "The bucket can be filled with liquids or solids and carried by the handle. It interacts with various environments, such as a garden or construction site, serving as a container for transport or storage. Its metal construction makes it durable against external elements."
+}

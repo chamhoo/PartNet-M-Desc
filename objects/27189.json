@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, square, white wooden table with drawer.",
+    "part_description": "Features a flat top, single drawer with knob, four legs, and a lower shelf. Drawer centered below tabletop, legs at corners, shelf between legs.",
+    "internal_interaction_description": "The drawer slides within the table frame, supported by tracks, allowing smooth opening and closing. The legs provide stability, supporting both the tabletop and the lower shelf, which is fixed between them, ensuring structural integrity.",
+    "external_interaction_description": "The table serves as a surface for placing items like lamps or books. The drawer stores small objects, while the lower shelf holds larger items. It can be positioned beside a bed or sofa for convenient access and aesthetic enhancement."
+}

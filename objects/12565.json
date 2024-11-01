@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray appliance with curved front.",
+    "part_description": "Includes a main body, door, handle, and control panel. The door is positioned at the front with a handle on the upper section. The control panel is above the door.",
+    "internal_interaction_description": "The door is hinged to the main body, allowing it to open and close for access to the interior. The handle facilitates the opening of the door, while the control panel interacts with internal mechanisms to operate the appliance's functions.",
+    "external_interaction_description": "The appliance interacts with users through the control panel for operation. It connects to power and water sources externally, and the door allows for loading and unloading of items. The appliance may be placed in kitchens or laundry rooms, interacting with surrounding cabinetry."
+}

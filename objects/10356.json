@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray laptop, rectangular, slim design.",
+    "part_description": "Includes a screen and keyboard. Screen is rectangular, thin, and positioned vertically. Keyboard is flat, rectangular, and contains multiple keys arranged in rows.",
+    "internal_interaction_description": "The screen is hinged to the keyboard, allowing it to open and close. Keys on the keyboard are interactive, each corresponding to a specific function or character input. The screen displays visual output from the computer's processing unit.",
+    "external_interaction_description": "The laptop can connect to external devices via ports or wirelessly. It interacts with users through input devices like the keyboard and touchpad, and output is displayed on the screen. It can also connect to the internet for communication and data exchange."
+}

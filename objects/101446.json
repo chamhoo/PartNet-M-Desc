@@ -1,0 +1,6 @@
+{
+    "base_description": "Square teal fan with circular blades.",
+    "part_description": "The fan has a square teal frame, circular grill, and five grey blades. A pull cord is attached to the bottom left corner.",
+    "internal_interaction_description": "The fan blades rotate within the circular grill, driven by a motor housed in the center. The grill ensures safety while allowing airflow. The pull cord controls the fan\u2019s speed or power, interacting with an internal switch mechanism.",
+    "external_interaction_description": "The fan circulates air in a room when mounted on a wall. It can be operated via the pull cord by a person, adjusting airflow direction and speed to maintain a comfortable environment."
+}

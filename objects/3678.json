@@ -1,0 +1,6 @@
+{
+    "base_description": "White bottle with blue cap, labeled 'MILK'.",
+    "part_description": "The bottle has a cylindrical body, a tapered neck, and a flat blue cap. The label is centered on the body, with the word 'MILK'.",
+    "internal_interaction_description": "The cap screws onto the neck, sealing the contents inside. The label is adhered to the bottle's surface, providing identification.",
+    "external_interaction_description": "The bottle is designed to be held by hand, opened by unscrewing the cap. It can be stored in a refrigerator and poured when needed."
+}

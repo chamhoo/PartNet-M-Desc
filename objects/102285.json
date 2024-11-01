@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic adjustable pliers with a silver finish.",
+    "part_description": "Two handles, a pivot point, and serrated jaws. Handles are long and straight, pivot is central, jaws are at one end.",
+    "internal_interaction_description": "The handles are connected by a pivot, allowing them to open and close. This motion adjusts the jaws' grip size. The serrated jaws interlock to grip objects securely when the handles are squeezed together.",
+    "external_interaction_description": "The pliers grip, twist, or turn objects like nuts and bolts. They are operated by hand, applying force through the handles to manipulate the jaws for various tasks."
+}

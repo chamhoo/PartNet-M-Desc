@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, angular folding knife with a modern design.",
+    "part_description": "Consists of a sharp blade, handle, and pivot joint. Blade is triangular, handle is rectangular with ergonomic grip, pivot connects blade and handle.",
+    "internal_interaction_description": "The blade pivots around the joint, folding into the handle for safety. The handle provides a secure grip, while the pivot allows smooth opening and closing. The locking mechanism ensures the blade stays in position when extended.",
+    "external_interaction_description": "Used for cutting tasks, interacting with various materials like rope or cardboard. The ergonomic handle ensures comfortable use, while the folding design allows safe storage in pockets or toolkits. Suitable for outdoor activities and everyday carry."
+}

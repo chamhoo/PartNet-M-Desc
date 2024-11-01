@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, blue rectangular bin with a red lid.",
+    "part_description": "The bin has a blue rectangular body and a red lid. The lid is flat, rectangular, and slightly slanted. The body is tall and tapers slightly towards the bottom.",
+    "internal_interaction_description": "The red lid sits atop the blue body, covering the opening. The lid can be lifted to access the inside of the bin. Its slanted design allows for easy opening and closing, ensuring that contents remain secure inside the blue body.",
+    "external_interaction_description": "The bin is designed for waste collection, interacting with users who lift the lid to deposit trash. Its bright colors make it easily noticeable, encouraging proper waste disposal in public or private spaces."
+}

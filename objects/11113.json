@@ -1,0 +1,6 @@
+{
+    "base_description": "Small green-handled scissors with metal blades.",
+    "part_description": "Two metal blades, one green plastic handle, and a pivot. The blades are straight and sharp, connected at the pivot. The handle is oval-shaped with two loops for fingers.",
+    "internal_interaction_description": "The two blades are connected at the pivot, allowing them to open and close. The handle loops provide grip and leverage, enabling the user to apply force to the blades. The pivot ensures smooth movement and alignment of the blades for effective cutting.",
+    "external_interaction_description": "The scissors interact with materials like paper, fabric, or string, cutting through them when the blades are closed. The handle fits comfortably in a user's hand, allowing control and precision. They are often used in crafting, office work, or household tasks, requiring manual operation."
+}

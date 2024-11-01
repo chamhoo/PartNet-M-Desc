@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow and red pliers with a metallic jaw.",
+    "part_description": "Two red handles, yellow pivot joint, silver jaws; handles are curved and positioned opposite each other, jaws are elongated and flat.",
+    "internal_interaction_description": "The two handles are connected at a pivot joint, allowing them to move in opposition. When the handles are squeezed together, the jaws close tightly, enabling gripping or cutting actions. The pivot joint ensures smooth operation, distributing force from the handles to the jaws efficiently.",
+    "external_interaction_description": "The pliers are designed to interact with various materials, such as wires, by gripping, bending, or cutting them. The ergonomic handles provide a comfortable grip for users, enhancing precision and control. The metallic jaws can withstand pressure, allowing effective manipulation of objects in tasks like electrical work or crafting."
+}

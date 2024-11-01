@@ -1,0 +1,6 @@
+{
+    "base_description": "Black square computer fan with blades.",
+    "part_description": "The fan has a square frame with four corners and multiple curved blades positioned centrally. The blades are evenly spaced and enclosed within the frame.",
+    "internal_interaction_description": "The blades are attached to a central hub and rotate around it. As they spin, they create airflow through the frame. The frame supports the structure, ensuring stability and alignment of the rotating blades.",
+    "external_interaction_description": "The fan can be mounted in a computer case to cool components. It draws air from one side and expels it through the other, helping maintain optimal temperatures for electronic devices."
+}

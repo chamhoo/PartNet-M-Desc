@@ -1,0 +1,6 @@
+{
+    "base_description": "Black folding chair, rectangular seat and backrest.",
+    "part_description": "Includes a rectangular seat, backrest, and four legs. The seat and backrest are flat and connected by two side hinges. The legs are angled and foldable, positioned at each corner beneath the seat.",
+    "internal_interaction_description": "The backrest is connected to the seat via hinges, allowing it to fold flat against the seat. The legs are attached to the underside of the seat with pivot points, which enable them to fold inward for compact storage. The hinges and pivots work together to facilitate folding and unfolding.",
+    "external_interaction_description": "Designed for seating, the chair supports a person's weight when unfolded. It can be easily carried and stored due to its foldable nature. The chair's flat surfaces allow stacking with other similar chairs, optimizing space in storage or transport. Suitable for use in various settings like events or gatherings."
+}

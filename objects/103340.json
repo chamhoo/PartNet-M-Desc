@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular window with four blue glass panels.",
+    "part_description": "Four vertical blue glass panels framed in white, arranged side by side within a rectangular frame.",
+    "internal_interaction_description": "The four glass panels are fixed within the white frame, separated by vertical dividers that provide structural support and maintain spacing between each panel, ensuring stability and uniformity.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external elements. It can be opened or closed to regulate airflow and temperature, interacting with the environment and occupants of a building."
+}

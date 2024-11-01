@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular black USB flash drive with cap.",
+    "part_description": "Consists of a rectangular black body, a gray rotating cap, and a USB connector. The cap is circular with a hole and rotates around the middle. The USB connector protrudes from one end.",
+    "internal_interaction_description": "The rotating cap covers and protects the USB connector when not in use. The cap pivots around a central point, allowing it to swing open or closed. The USB connector is fixed to the body, ensuring stable electrical connections when plugged into a device.",
+    "external_interaction_description": "The USB flash drive connects to computers or compatible devices via the USB connector for data transfer. The rotating cap protects the connector from dust and damage. It is portable and can be easily attached to keychains or lanyards through the hole in the cap."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "White, cylindrical handle with a round base.",
+    "part_description": "One cylindrical handle attached to a round, gear-like base. The handle is horizontally positioned, while the base is flat and circular with ridged edges.",
+    "internal_interaction_description": "The cylindrical handle is securely attached to the round base, allowing for rotational movement around the central axis of the base. The ridged edges of the base provide grip, facilitating the handle's turning motion.",
+    "external_interaction_description": "The object can be turned by hand, often used to control flow in a valve system. The handle's rotation affects the mechanism it is connected to, enabling or restricting flow through a connected pipe or system."
+}

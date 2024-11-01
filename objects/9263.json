@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray door with minimalist design.",
+    "part_description": "The door consists of a large rectangular panel and a small round handle located on the right side, positioned centrally along the vertical axis.",
+    "internal_interaction_description": "The handle is attached to the door panel, allowing rotational movement to facilitate opening and closing. The handle's placement ensures ergonomic access while maintaining the door's structural integrity. The panel functions as the main barrier, supported by hinges (not visible) for pivoting action.",
+    "external_interaction_description": "The door interacts with surrounding walls and a frame, providing access control to a room. It can be opened or closed by a person using the handle, serving as a barrier for privacy, security, or environmental control. The door's surface may also interact with paint or decorations."
+}

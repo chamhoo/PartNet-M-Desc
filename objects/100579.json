@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray folding chair with a simple design.",
+    "part_description": "Includes a backrest, seat, two front legs, two back legs, and connecting bars. The backrest and seat are dark gray, while the frame is light gray.",
+    "internal_interaction_description": "The seat is connected to the frame, allowing it to fold. The backrest is attached to the top of the frame, providing support. The connecting bars stabilize the legs and frame, ensuring balance and strength when unfolded.",
+    "external_interaction_description": "The chair interacts with the ground for stability and can support a seated person. It can be easily folded for storage or transport, making it versatile for various environments, such as homes or events."
+}

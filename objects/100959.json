@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray wall switch with a black border.",
+    "part_description": "The switch has two rectangular buttons, centered within a black rectangular frame on a larger gray rectangular base.",
+    "internal_interaction_description": "The two buttons are designed to be pressed independently, each controlling a separate electrical circuit. They are mounted on a shared frame, allowing for simultaneous or individual operation, depending on the user's needs.",
+    "external_interaction_description": "The switch is mounted on a wall and interacts with users through manual pressing of the buttons to control electrical devices, such as lights or fans. It connects to the building's electrical system to complete or break circuits."
+}

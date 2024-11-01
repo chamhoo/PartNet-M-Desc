@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic faucet with curved spout and single handle.",
+    "part_description": "Curved spout, cylindrical base, single lever handle. Spout arcs from base, ending in nozzle. Handle attached to side of base.",
+    "internal_interaction_description": "The lever handle controls the flow of water through the internal valve, which directs water up through the base and out of the curved spout. The spout's design ensures a smooth flow, while the handle's position allows for easy adjustment of water temperature and pressure.",
+    "external_interaction_description": "The faucet is installed on sinks, allowing users to direct water flow for washing or rinsing. The handle's ergonomic design enables smooth operation, while the spout's height accommodates various container sizes. It interacts with plumbing systems to deliver water efficiently, maintaining hygiene and convenience in kitchens or bathrooms."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular smartphone with black frame and screen.",
+    "part_description": "Features a large screen, circular button, and two rectangular buttons at the bottom. The screen occupies the upper portion, while the buttons are arranged horizontally below it.",
+    "internal_interaction_description": "The screen displays visual content and responds to touch input. The circular button likely serves as a home or navigation button, interacting with the device's software to return to the main screen or access specific functions. The two rectangular buttons may control volume or power, interacting with the device's circuitry to perform these functions.",
+    "external_interaction_description": "The smartphone interacts with users through touch input on the screen and buttons, allowing navigation and operation of apps. It can connect to other devices via wireless technologies like Bluetooth or Wi-Fi, enabling data transfer and communication. It also interacts with charging devices through a power port."
+}

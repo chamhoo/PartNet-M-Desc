@@ -1,0 +1,6 @@
+{
+    "base_description": "Red stapler, medium-sized, rectangular shape.",
+    "part_description": "Consists of a red base and top, silver metal parts inside. The base is flat and rectangular, while the top is curved and attached via a hinge. Contains a staple holder and a staple ejector.",
+    "internal_interaction_description": "The top part hinges upward to allow loading of staples. When pressed down, the metal staple ejector pushes a staple through paper, while the anvil on the base bends the staple ends inward to secure sheets together.",
+    "external_interaction_description": "The stapler interacts with paper by binding sheets together. It requires manual pressure to operate and is typically used on desks or flat surfaces. It can hold a limited number of staples, necessitating periodic reloading."
+}

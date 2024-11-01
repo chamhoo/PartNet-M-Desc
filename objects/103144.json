@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver coffee machine, modern design.",
+    "part_description": "Features two cylindrical containers on top, a central control panel with buttons and a screen, a drip tray at the bottom, and a coffee spout in the center.",
+    "internal_interaction_description": "The cylindrical containers likely store coffee beans and water, which are processed internally. The control panel interacts with the internal mechanisms to brew coffee, directing water through the system to the spout. The drip tray collects excess liquid.",
+    "external_interaction_description": "The machine interacts with users through the control panel, allowing them to select brewing options. It requires external inputs of water and coffee beans and outputs brewed coffee. Users place cups on the drip tray to collect coffee from the spout."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray desk with modern design.",
+    "part_description": "Contains a tabletop, four legs, a drawer, and a shelf. The tabletop is rectangular, the legs are vertical and cylindrical, the drawer is under the tabletop, and the shelf is on the right side.",
+    "internal_interaction_description": "The tabletop is supported by four legs at each corner, providing stability. The drawer is integrated beneath the tabletop, allowing it to slide in and out smoothly. The shelf is attached to the right side of the desk, supported by two of the legs, offering additional storage space.",
+    "external_interaction_description": "The desk provides a flat surface for writing or placing items such as a computer or books. The drawer offers storage for small items like stationery. The shelf can hold additional items, keeping the workspace organized. It can be placed in an office or study room for functional use."
+}

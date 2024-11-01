@@ -1,0 +1,6 @@
+{
+    "base_description": "Small black rectangular USB flash drive.",
+    "part_description": "Consists of a rectangular black body and a removable cap. The cap covers the USB connector, which is metallic and protrudes from the body.",
+    "internal_interaction_description": "The removable cap protects the USB connector from physical damage and dust. The USB connector is securely attached to the main body, ensuring stable data transfer and power supply when connected to a device.",
+    "external_interaction_description": "The USB flash drive connects to computers and other devices via the USB port for data storage and transfer. It is portable and can be easily carried in a pocket or bag, providing convenient access to digital files."
+}

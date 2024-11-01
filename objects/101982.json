@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, red USB flash drive.",
+    "part_description": "Comprises a red plastic body and a metallic USB connector. The body is elongated and slightly tapered, enclosing internal components. The USB connector is positioned at one end.",
+    "internal_interaction_description": "The USB connector is attached to the internal circuit board, which is housed within the plastic body. The circuit board contains the memory chip and controller, facilitating data storage and retrieval. The plastic body protects these components and provides structural support.",
+    "external_interaction_description": "The USB connector interacts with computer ports for data transfer. It can be inserted into compatible devices for reading or writing data. The plastic body allows for easy handling and portability, protecting internal components from physical damage during use."
+}

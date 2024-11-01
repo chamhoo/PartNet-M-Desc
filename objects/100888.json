@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular electrical outlet cover.",
+    "part_description": "Three socket openings arranged horizontally with switch cutouts above.",
+    "internal_interaction_description": "The socket openings are aligned to accommodate electrical plugs, while the switch cutouts allow toggling of connected circuits. The parts are integrated into a single cover plate, ensuring a compact and functional design for electrical safety and convenience.",
+    "external_interaction_description": "The outlet cover interfaces with electrical plugs and switches, providing a safe barrier to prevent accidental contact with live wires. It is typically mounted on a wall, allowing users to connect devices and control electrical flow through the switches."
+}

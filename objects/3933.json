@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, cylindrical bottle with a narrow neck.",
+    "part_description": "The bottle has a cylindrical body, narrow neck, and a round cap. The body is larger in diameter, tapering to a smaller neck, with the cap on top.",
+    "internal_interaction_description": "The cap securely fits onto the narrow neck, sealing the contents inside. The neck connects to the wider body, allowing liquid to flow smoothly when poured. The bottle's shape ensures stability when placed upright.",
+    "external_interaction_description": "The bottle can be gripped and opened by hand, allowing access to its contents. It can be placed in various holders or storage spaces, and interacts with bottle openers for cap removal."
+}

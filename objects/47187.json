@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a modern style.",
+    "part_description": "The cabinet has a single door, rectangular shape, and smooth surface. It includes a top, bottom, and four sides, with the door located at the front. The interior is hollow for storage.",
+    "internal_interaction_description": "The door is hinged on one side, allowing it to swing open and closed, providing access to the interior storage space. The structure supports the door's movement while maintaining the cabinet's stability and shape.",
+    "external_interaction_description": "The cabinet interacts with external elements by providing storage space for various items. It can be placed against a wall or in a corner, making it suitable for homes or offices. Its door allows users to access stored items easily."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black remote with red and gray buttons.",
+    "part_description": "Features multiple rectangular buttons arranged in rows, a circular button at the top center, and small red buttons along the edges.",
+    "internal_interaction_description": "Buttons are pressed to send signals through internal circuits, activating specific functions. The central circular button likely controls directional navigation, while rectangular buttons manage various settings. Red buttons may serve as power or special function keys.",
+    "external_interaction_description": "The remote interacts with electronic devices by sending infrared signals when buttons are pressed, allowing users to control functions like volume, channel, and power from a distance."
+}

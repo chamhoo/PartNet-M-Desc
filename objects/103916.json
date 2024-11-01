@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and gray mobile phone.",
+    "part_description": "Features a large screen, buttons below, and a circular navigation pad. The screen occupies most of the front, with buttons arranged beneath it.",
+    "internal_interaction_description": "The screen displays information while the buttons and navigation pad allow user input and control. The internal circuitry processes inputs from the buttons and pad to perform functions displayed on the screen.",
+    "external_interaction_description": "The phone interacts with users through touch and button presses, and connects to cellular networks for communication. It can pair with external devices via Bluetooth or Wi-Fi and fits comfortably in a hand or pocket."
+}

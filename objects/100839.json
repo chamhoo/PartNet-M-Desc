@@ -1,0 +1,6 @@
+{
+    "base_description": "Pink, rectangular suitcase with wheels and handle.",
+    "part_description": "The suitcase has four wheels, a retractable handle, and two main compartments. The wheels are positioned at the bottom corners, and the handle is on top. The compartments are side-by-side, with zippers for closure.",
+    "internal_interaction_description": "The retractable handle slides into a slot within the suitcase when not in use. The two compartments are separated by a divider, which helps organize contents. The zippers on each compartment allow for secure closure, ensuring items inside are protected and organized.",
+    "external_interaction_description": "The suitcase can be rolled on its wheels, making it easy to transport. The handle provides a comfortable grip for pulling or pushing. It interacts with luggage carousels, overhead compartments, and can be stacked with other luggage, making it suitable for travel."
+}

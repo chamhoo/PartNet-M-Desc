@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular safe with a hinged door.",
+    "part_description": "The safe has a main body, a hinged door with a handle, and three protruding locking bolts. Inside, there are two shelves, dividing the interior space.",
+    "internal_interaction_description": "The door is attached to the main body with hinges, allowing it to open and close. The locking bolts slide into corresponding holes in the frame, securing the door. The shelves are fixed inside, providing space for organizing contents.",
+    "external_interaction_description": "The safe interacts with users who open and close the door using the handle. The locking mechanism engages when the bolts are turned, requiring a key or combination to unlock. It is designed to secure valuables from unauthorized access."
+}

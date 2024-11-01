@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular dishwasher with open door.",
+    "part_description": "Includes a main compartment, a hinged door, a rack, and a control panel. The door is at the front, the rack inside, and the panel on top.",
+    "internal_interaction_description": "The rack inside the dishwasher holds dishes securely. When the door is closed, the control panel activates the washing cycle. The water sprays from internal jets, cleaning items on the rack. The door seals tightly to prevent water leakage.",
+    "external_interaction_description": "The dishwasher connects to water and power supplies. Users load dishes onto the rack, close the door, and use the control panel to start the wash cycle. After cleaning, the door opens for unloading. It requires space for door clearance when open."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, gray lamp with a conical shade.",
+    "part_description": "The lamp has a cylindrical base and a conical shade. The base is elongated and supports the wider, tapered shade positioned on top.",
+    "internal_interaction_description": "The cylindrical base provides stability and supports the electrical components leading to the bulb inside the conical shade. The shade directs light downward and diffuses it, softening the illumination.",
+    "external_interaction_description": "The lamp interacts with its environment by providing light to a room when connected to a power source. It can be placed on surfaces like tables or desks and adjusted to illuminate specific areas."
+}

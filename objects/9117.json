@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular door with a frame and handle.",
+    "part_description": "Includes one rectangular door, a frame, and a handle. The door is attached to the frame on one side, with the handle positioned mid-height on the opposite side.",
+    "internal_interaction_description": "The door is hinged to the frame, allowing it to swing open and closed. The handle facilitates the opening and closing mechanism by providing a grip for users to exert force.",
+    "external_interaction_description": "The door serves as a barrier or entryway, interacting with people by allowing passage when opened. It can be locked or unlocked to control access, and its surface may interact with external elements like paint or decorations."
+}

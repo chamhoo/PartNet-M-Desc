@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular keyboard with standard layout.",
+    "part_description": "Contains multiple rows of keys, including letters, numbers, and function keys. Numeric keypad on the right side. Indicator lights located above the numeric keypad.",
+    "internal_interaction_description": "Keys are spring-loaded, returning to position after being pressed. Pressing a key sends an electronic signal through the internal circuitry to communicate with the connected device. Indicator lights illuminate to show status of functions like Caps Lock and Num Lock.",
+    "external_interaction_description": "Connects to a computer via USB or wireless connection. Users interact by pressing keys to input data or commands, which the computer processes. Can be used for typing, gaming, or controlling software applications."
+}

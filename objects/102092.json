@@ -1,0 +1,6 @@
+{
+    "base_description": "Red square fan with circular blades.",
+    "part_description": "Consists of a square frame, central hub, and multiple blades. The frame has four corners with mounting holes, and the blades are evenly spaced around the hub.",
+    "internal_interaction_description": "The blades are attached to the central hub and rotate around it when powered. The square frame supports the hub and blades, providing stability and structure. The mounting holes allow for secure attachment within a system.",
+    "external_interaction_description": "The fan is designed to move air when powered, typically used for cooling electronic components. It can be mounted inside computer cases or other electronic devices, interacting with the surrounding air and components to dissipate heat."
+}

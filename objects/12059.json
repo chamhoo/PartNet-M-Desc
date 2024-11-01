@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, silver refrigerator with two doors.",
+    "part_description": "Two doors vertically aligned, top smaller than bottom. Handles on the left side of each door. Smooth, metallic surface with a rectangular shape.",
+    "internal_interaction_description": "The top door opens to a freezer compartment, while the bottom door reveals a larger refrigerator section. Both sections are insulated to maintain temperature. The doors seal tightly to keep cold air inside, with shelves and compartments inside for organization.",
+    "external_interaction_description": "The refrigerator interacts with users by providing storage for perishable items. It requires an electrical outlet for power. The doors open outward, needing space in front for access. Handles offer a grip for easy opening and closing."
+}

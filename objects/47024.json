@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with modern style.",
+    "part_description": "Contains a drawer at the top and a cabinet door below, each with metallic handles, arranged vertically.",
+    "internal_interaction_description": "The drawer slides in and out on runners, providing access to its contents. The cabinet door swings open on hinges, allowing access to the storage space inside. Both parts have handles for easy operation.",
+    "external_interaction_description": "The cabinet can be placed in kitchens or bathrooms for storage, interacting with users who open the drawer and door to store or retrieve items. It may be positioned alongside other cabinets or appliances."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, cylindrical, blue retractable pen with clip.",
+    "part_description": "Consists of a cylindrical barrel, click mechanism, clip, and tip. The barrel is blue, the clip is attached to the side, and the tip is pointed. The click mechanism is at the top, allowing for retraction.",
+    "internal_interaction_description": "The click mechanism at the top activates the internal spring, pushing the ink cartridge forward and retracting it when clicked again. The clip is attached to the barrel, providing stability and ease of attachment to surfaces.",
+    "external_interaction_description": "The pen writes on paper by transferring ink from the tip when pressure is applied. The clip allows attachment to pockets or notebooks for easy access. The retractable mechanism prevents ink drying and accidental marks when not in use."
+}

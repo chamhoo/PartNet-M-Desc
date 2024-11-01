@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, beige microwave with a digital display.",
+    "part_description": "Includes a front door with a handle, digital keypad, and display screen on the right side.",
+    "internal_interaction_description": "The door opens to reveal the interior where food is placed. The keypad allows input of time and settings, which are shown on the digital display. The microwave emits microwaves to heat the food evenly.",
+    "external_interaction_description": "The microwave is placed on a countertop and plugged into an electrical outlet. Users interact through the keypad to set cooking times and power levels. The display provides feedback on the cooking process."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small blue and white globe on a stand.",
+    "part_description": "A spherical globe with a blue ocean and white continents, mounted on a gray semi-circular axis connected to a hexagonal base.",
+    "internal_interaction_description": "The globe rotates around the semi-circular axis, simulating the Earth's rotation. The axis is fixed to the base, allowing the globe to spin while remaining stable. The axis is slightly tilted to mimic the Earth's axial tilt.",
+    "external_interaction_description": "The globe can be spun by hand for educational purposes, allowing users to view different regions. It interacts with light to show various shadows and highlights on its surface, enhancing visual learning. It serves as a decorative and informative tool in educational settings."
+}

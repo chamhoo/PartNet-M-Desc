@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray wheelbarrow with a single black wheel.",
+    "part_description": "Includes a metal tray, single wheel, and two handles. The tray is rectangular and positioned above the wheel. The handles extend from the back of the tray.",
+    "internal_interaction_description": "The tray is mounted above the wheel, allowing balance and support for carrying loads. The handles are attached to the rear of the tray, providing leverage for lifting and maneuvering the wheelbarrow. The wheel is centrally positioned to ensure stability and ease of movement.",
+    "external_interaction_description": "Designed for transporting materials, the wheelbarrow interacts with the ground through its wheel, allowing it to be pushed or pulled. The handles enable a person to lift and steer the wheelbarrow, making it suitable for construction, gardening, or other manual tasks requiring the movement of heavy or bulky items."
+}

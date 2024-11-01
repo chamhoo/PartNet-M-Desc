@@ -1,0 +1,6 @@
+{
+    "base_description": "Orange cylindrical bucket with a metal handle.",
+    "part_description": "The bucket has a cylindrical body, a round open top, and a metal handle with a plastic grip. The handle is attached to opposite sides near the top.",
+    "internal_interaction_description": "The handle pivots on metal loops attached to the bucket's sides, allowing it to swing upward for carrying or downward to rest against the bucket. The plastic grip provides comfort and stability when held.",
+    "external_interaction_description": "The bucket can be used to carry liquids or solids, interacting with various environments. Its handle allows easy transportation by hand, and it can be placed on flat surfaces for stability."
+}

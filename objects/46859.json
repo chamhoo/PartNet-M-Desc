@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with a door.",
+    "part_description": "Features one large door, a drawer above, and handles. The door is centrally positioned with a handle on the side. The drawer is on top with a horizontal handle.",
+    "internal_interaction_description": "The drawer slides in and out above the main compartment, which is accessed by opening the large door. The handles facilitate the opening and closing of both the drawer and the door. The internal space is likely divided for storage purposes.",
+    "external_interaction_description": "The cabinet can be placed against a wall or integrated into a kitchen setup. It interacts with users who open the door and drawer to store or retrieve items. Its handles are designed for easy gripping and maneuvering."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with two sections.",
+    "part_description": "Two compartments, each with a door; handles on the side. Upper and lower sections are equal in size. Vertical alignment.",
+    "internal_interaction_description": "The cabinet's two compartments are separated by an internal shelf, allowing for organized storage. Each compartment has a door that swings open, providing access to the interior. The handles facilitate easy opening and closing of the doors.",
+    "external_interaction_description": "The cabinet can be placed against a wall, used for storing items like books, dishes, or clothes. It interacts with users through the handles for opening and closing doors. Its flat top may hold decorative objects or additional storage."
+}

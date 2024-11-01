@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, red USB flash drive.",
+    "part_description": "Consists of a rectangular red body and a silver USB connector. The body houses internal storage components, and the connector is at one end. The brand name is printed on the surface.",
+    "internal_interaction_description": "The USB connector interfaces with the internal storage components to transfer data. The internal circuitry manages data read/write operations, while the outer casing protects these components.",
+    "external_interaction_description": "Connects to computers or devices via the USB port for data transfer. It can be easily carried or stored due to its compact size, allowing for convenient data portability and sharing between different systems."
+}

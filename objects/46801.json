@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white cabinet with two doors.",
+    "part_description": "The cabinet has two rectangular doors, each with a knob, symmetrically placed. It features a flat top and sides with a hollow interior.",
+    "internal_interaction_description": "The doors are attached with hinges, allowing them to swing open and close. The knobs provide grip for opening the doors. The hollow interior offers storage space.",
+    "external_interaction_description": "The cabinet interacts with users by providing storage space. It can be placed against walls or under countertops, and the doors open outward to allow access to the interior."
+}

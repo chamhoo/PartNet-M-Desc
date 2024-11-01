@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, brown and gray camera.",
+    "part_description": "Features lens, viewfinder, buttons, and flash; lens protrudes from front, viewfinder on top, buttons and flash on top surface.",
+    "internal_interaction_description": "The lens focuses light onto the sensor inside the camera body. Buttons control various functions like shutter speed and aperture. The viewfinder allows the user to frame the shot, while the flash provides additional lighting when needed.",
+    "external_interaction_description": "The camera captures images of scenes or subjects when operated by a user. It connects to other devices via ports for data transfer. The flash interacts with ambient light to enhance image quality in low-light conditions."
+}

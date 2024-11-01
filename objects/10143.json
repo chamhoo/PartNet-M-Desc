@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular, two-door refrigerator.",
+    "part_description": "Two doors, top smaller than bottom, vertical handles, compact shape.",
+    "internal_interaction_description": "The top door opens to a freezer compartment, while the bottom door opens to a larger refrigeration space. Shelves and compartments inside both sections allow for organized storage of food and beverages.",
+    "external_interaction_description": "The refrigerator is designed to keep food and drinks cold and fresh. It requires an electrical connection to operate and is typically placed in kitchens, interacting with users who open and close the doors to store or retrieve items."
+}

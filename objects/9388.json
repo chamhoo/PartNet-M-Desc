@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray metal detector frame.",
+    "part_description": "Consists of two vertical pillars and a horizontal top bar, forming a rectangular frame.",
+    "internal_interaction_description": "The vertical pillars support the horizontal top bar, forming a stable frame. Sensors are likely embedded within the pillars to detect metal objects passing through the frame.",
+    "external_interaction_description": "Designed for people to walk through, detecting metal objects. Commonly used at security checkpoints in airports, schools, or events to ensure safety by identifying concealed metal items."
+}

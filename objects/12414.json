@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black and gray electronic device.",
+    "part_description": "Consists of a black top panel with buttons and a transparent gray body. The top panel has multiple square buttons arranged horizontally. The body is rectangular and hollow.",
+    "internal_interaction_description": "The black top panel houses the control buttons, which likely connect to internal circuits that manage the device's functions. The transparent body may serve as a container or housing for internal components, allowing visibility of any contents or mechanisms inside.",
+    "external_interaction_description": "The device can be operated through the buttons on the top panel, interacting with users to perform its functions. It may connect to other devices or systems via potential ports or interfaces, facilitating data or power transfer."
+}

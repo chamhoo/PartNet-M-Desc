@@ -1,0 +1,6 @@
+{
+    "base_description": "Black-handled scissors with silver blades.",
+    "part_description": "Two sharp metal blades, black plastic handles with loops, joined by a pivot screw.",
+    "internal_interaction_description": "The pivot screw connects the two metal blades, allowing them to move in a scissor motion. The handles are shaped into loops for finger placement, providing leverage to close the blades together for cutting.",
+    "external_interaction_description": "Scissors are used by placing fingers in the handle loops to cut paper, fabric, or other thin materials. The sharp blades shear material when the handles are squeezed together, making them effective for crafting or office tasks."
+}

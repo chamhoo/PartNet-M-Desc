@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, silver scissors with blue handles.",
+    "part_description": "Two metal blades, each attached to a blue handle; blades intersect at a pivot point.",
+    "internal_interaction_description": "The two blades are connected at a pivot, allowing them to rotate and move past each other. This motion enables cutting when the handles are pressed together, bringing the blades' sharp edges into contact to shear materials placed between them.",
+    "external_interaction_description": "The scissors interact with external elements by cutting through materials like paper or fabric. Users apply pressure to the handles, causing the blades to close and slice through the material. The ergonomic handles provide a comfortable grip for efficient manual operation."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, curved faucet with a cylindrical knob.",
+    "part_description": "Contains a curved spout and a separate cylindrical knob. The spout is tall and slender, positioned vertically on a circular base. The knob is smaller, round, and placed beside the spout on its own base.",
+    "internal_interaction_description": "The knob controls water flow through the spout. Turning the knob adjusts the internal valve, allowing water to travel up through the spout and out the opening. The spout's curvature directs the water downwards into a sink or basin.",
+    "external_interaction_description": "The faucet is installed on a sink or countertop. Users interact by turning the knob to regulate water flow and temperature. The spout dispenses water into a basin for washing hands, dishes, or other tasks. It connects to plumbing for water supply and drainage."
+}

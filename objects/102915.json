@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, gray pen with a retractable mechanism.",
+    "part_description": "Composed of a cylindrical barrel, clip, and retractable tip. The barrel is long and thin with a clip attached near the top. The retractable tip is located at the bottom end, controlled by a push button on top.",
+    "internal_interaction_description": "The pen's retractable mechanism involves an internal spring connected to the push button. Pressing the button compresses the spring, allowing the tip to extend or retract. The clip is fixed to the barrel, providing a stationary point for attachment to surfaces.",
+    "external_interaction_description": "The pen interacts with paper by transferring ink to create marks. The clip allows attachment to pockets or notebooks for easy carrying. Its retractable design prevents ink stains when not in use, enhancing portability and convenience for users."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall black rectangular door with blue glass.",
+    "part_description": "The door has a black frame, blue glass panel, and a silver handle. The frame is rectangular, surrounding the glass panel centrally. The handle is positioned on the right side.",
+    "internal_interaction_description": "The black frame securely holds the blue glass panel in place, providing structural support. The handle is attached to the frame, allowing it to rotate and operate the door's opening mechanism.",
+    "external_interaction_description": "The door can be opened and closed by turning the handle, allowing passage for people. It can be installed in a wall opening to separate spaces, providing privacy and sound insulation."
+}

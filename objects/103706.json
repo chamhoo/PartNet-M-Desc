@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular yellow utility knife with a blue slider.",
+    "part_description": "Comprises a retractable metal blade, yellow plastic body, and blue sliding mechanism. Blade is small and sharp, housed within the body. Slider is positioned on top for easy access.",
+    "internal_interaction_description": "The blade retracts and extends through a sliding mechanism. The blue slider engages with a track on the yellow body, allowing the user to control the blade's position. The blade locks in place to ensure stability during use, preventing accidental movement.",
+    "external_interaction_description": "Used for cutting materials like paper or cardboard. The user holds the yellow body, using the blue slider to extend the blade. The sharp blade interacts with the surface to make precise cuts. Safety is ensured by retracting the blade when not in use."
+}

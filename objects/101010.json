@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black remote control with colorful buttons.",
+    "part_description": "Contains numerous buttons in various shapes and colors, arranged vertically. Includes circular, rectangular, and square buttons positioned centrally and towards the top.",
+    "internal_interaction_description": "Buttons are grouped by function, with power and input buttons at the top, navigation buttons in the middle, and numeric buttons at the bottom. Each button press sends a specific signal to the internal circuit board, which translates it into an infrared signal for device control.",
+    "external_interaction_description": "Interacts with electronic devices like TVs, sending infrared signals to control power, volume, and channel settings. Requires line of sight to function effectively and is operated by pressing the appropriate buttons to execute commands."
+}

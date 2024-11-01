@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray object with two circular elements.",
+    "part_description": "Two circular gray parts are aligned vertically on a rectangular base, evenly spaced and centered on the surface.",
+    "internal_interaction_description": "The circular elements are embedded or mounted onto the rectangular surface, maintaining a fixed position. They are likely designed to interact with each other through alignment and spacing, contributing to the object's overall function or aesthetic.",
+    "external_interaction_description": "The object can be mounted onto a flat surface, interacting with external elements by providing a contact point or interface. It may serve as a cover or housing for switches, buttons, or other mechanisms accessible to users."
+}

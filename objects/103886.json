@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black visor with a dark screen.",
+    "part_description": "Consists of a rectangular screen and an attached visor. The screen is flat and dark, positioned below the visor which is slightly curved. The visor extends over the screen, providing shade.",
+    "internal_interaction_description": "The visor is connected at the top edge of the screen, allowing it to provide shade directly over the screen. This arrangement helps reduce glare on the screen, enhancing visibility.",
+    "external_interaction_description": "The object can be attached to a vehicle's interior, typically above the windshield. It interacts with sunlight, blocking direct rays to improve driver visibility. It may also be adjusted manually to optimize shading based on the sun's position."
+}

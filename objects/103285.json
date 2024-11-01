@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, black, rectangular, classic mobile phone.",
+    "part_description": "Consists of a screen, keypad with 12 buttons, and speaker. The screen is above the keypad, and the speaker is at the top. The keypad buttons are circular and arranged in a grid pattern.",
+    "internal_interaction_description": "The screen displays information and interacts with the keypad to input data. The speaker outputs sound for calls and notifications. The keypad allows user interaction, sending commands to the phone's internal system to perform functions such as dialing numbers or navigating menus.",
+    "external_interaction_description": "The phone interacts with users through the keypad and screen, enabling communication via calls and texts. It connects to cellular networks for signal reception and transmission. The speaker and microphone facilitate audio communication, while the phone's size and shape allow it to be easily handheld."
+}

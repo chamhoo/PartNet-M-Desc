@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray water dispenser.",
+    "part_description": "Two main sections: upper water tank and lower dispensing area. The upper section is larger, with a slot for water bottles. The lower section has a tap and drip tray.",
+    "internal_interaction_description": "The upper section holds a water bottle, allowing gravity to feed water down to the dispensing mechanism. The tap controls the flow of water from the tank to the user. The drip tray collects excess water, preventing spills.",
+    "external_interaction_description": "Users place a water bottle on top, and dispense water by pressing the tap. The dispenser can be placed in kitchens or offices, providing easy access to drinking water. It requires periodic refilling and cleaning."
+}

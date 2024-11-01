@@ -1,0 +1,6 @@
+{
+    "base_description": "A gray, cylindrical plastic bucket with handle.",
+    "part_description": "The bucket has a circular base, vertical cylindrical body, and a curved handle attached at two points near the rim.",
+    "internal_interaction_description": "The handle pivots at its attachment points, allowing it to move up and down for easy carrying. The cylindrical shape ensures even distribution of contents, maintaining balance. The rim provides structural integrity, preventing deformation under weight.",
+    "external_interaction_description": "The bucket can hold liquids or solids, interacting with its environment by containing and transporting materials. The handle facilitates carrying by a person, and the flat base allows stable placement on surfaces."
+}

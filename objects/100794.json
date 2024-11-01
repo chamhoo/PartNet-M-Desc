@@ -1,0 +1,6 @@
+{
+    "base_description": "White round table with a dome cover.",
+    "part_description": "Includes a circular tabletop, four legs, a lower shelf, and a dome cover positioned above the table.",
+    "internal_interaction_description": "The dome cover is hinged to the tabletop, allowing it to open and close over the circular surface. The four legs support the table and connect to the lower shelf, providing stability and an additional storage area.",
+    "external_interaction_description": "The table can hold items on its surface and under the dome cover, protecting them. It interacts with the environment by serving as a functional piece of furniture for storage or display, and can be moved by people as needed."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, oval-shaped, teal remote control.",
+    "part_description": "Features a screen, circular buttons, and a round top section. The screen is centrally located, with buttons arranged below it in a grid pattern. The round top section has a single circular indentation.",
+    "internal_interaction_description": "The screen displays information controlled by the buttons. Each button corresponds to a specific function, sending signals to the internal circuitry to perform actions. The circular indentation may house a sensor or additional control feature.",
+    "external_interaction_description": "The remote interacts with electronic devices by sending signals when buttons are pressed. It requires a line of sight to the device it controls, typically using infrared or Bluetooth technology. Users hold it in hand, aiming it towards the target device."
+}

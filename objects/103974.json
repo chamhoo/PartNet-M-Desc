@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular black printer with gray accents.",
+    "part_description": "Features include a top lid, front paper tray, and control panel. The lid is flat and covers the internal components. The paper tray extends from the front, and the control panel is on the front right corner.",
+    "internal_interaction_description": "The top lid opens to reveal the ink cartridges and paper feed mechanism. The paper tray holds sheets, feeding them through the printer for printing. The control panel allows users to manage print jobs and settings, interacting with internal electronics to process tasks.",
+    "external_interaction_description": "Connects to computers or networks via USB or wireless for receiving print commands. Users interact with the control panel for direct operations. The paper tray is used for loading paper, and printed documents are collected from the output slot."
+}

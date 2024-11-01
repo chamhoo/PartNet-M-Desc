@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cabinet, gray, with two doors.",
+    "part_description": "Two rectangular doors with handles, top surface, enclosed space inside.",
+    "internal_interaction_description": "The two doors swing open on hinges, allowing access to the interior storage space. Handles on the doors provide grip for opening and closing. The enclosed space can store various items, organized as needed.",
+    "external_interaction_description": "The cabinet can be placed against a wall or under a counter. It interacts with users who open the doors to access stored items. It can also support lightweight objects on its top surface."
+}

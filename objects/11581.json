@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop with black keys and screen.",
+    "part_description": "Consists of a screen, keyboard, trackpad, and hinge. The screen is rectangular and positioned upright. The keyboard has multiple black keys arranged in rows. The trackpad is centered below the keyboard. A hinge connects the screen and keyboard base.",
+    "internal_interaction_description": "The hinge allows the screen to open and close relative to the keyboard base, enabling various viewing angles. The keyboard and trackpad provide input to the laptop's internal components, facilitating user interaction with software. The screen displays visual output, while the keys and trackpad offer tactile feedback.",
+    "external_interaction_description": "The laptop interacts with users through input devices like the keyboard and trackpad. It connects to external networks via Wi-Fi or Ethernet and can attach peripherals through USB ports. It displays information on the screen, allowing users to engage with software applications and access digital content."
+}

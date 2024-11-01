@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray switch plate with rounded edges.",
+    "part_description": "Includes two screws symmetrically placed on either side and a central switch cutout.",
+    "internal_interaction_description": "The screws secure the plate to the wall, aligning with the central switch cutout to accommodate a toggle or rocker switch mechanism.",
+    "external_interaction_description": "The switch plate covers electrical switches, protecting users from wiring while allowing switch operation. It interacts with walls and electrical systems, ensuring safety and aesthetic integration in various environments."
+}

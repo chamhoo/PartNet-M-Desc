@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray box with a hinged lid.",
+    "part_description": "Includes a main body, hinged lid, and internal dividers. The lid is positioned on top, with dividers inside the box, arranged parallel to each other.",
+    "internal_interaction_description": "The hinged lid allows opening and closing, providing access to the internal compartments. The dividers create separate sections within the box, organizing contents efficiently and preventing items from mixing.",
+    "external_interaction_description": "The box can be opened by lifting the lid. It can store and organize various items, making it useful for personal or office use. Its sturdy design allows it to be placed on shelves or desks, interacting with surrounding objects by providing storage space."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray power supply unit with fan.",
+    "part_description": "Features a fan, power switch, power socket, and indicator light on one side.",
+    "internal_interaction_description": "The fan circulates air to cool internal components, preventing overheating. The power switch controls the electrical flow, while the power socket connects to an external power source. The indicator light shows operational status.",
+    "external_interaction_description": "Connects to a computer case to supply electricity to internal components. The fan expels hot air, maintaining optimal temperature. Users can toggle the power switch to turn the unit on or off. The unit must be connected to an electrical outlet."
+}

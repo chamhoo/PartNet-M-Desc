@@ -1,0 +1,6 @@
+{
+    "base_description": "Round gray wall clock with black hands.",
+    "part_description": "The clock has a circular face, two black hands, and a smooth gray surface. The hour and minute hands are centrally positioned and extend towards the clock's edge.",
+    "internal_interaction_description": "The clock's hands rotate around a central pivot point, with the minute hand moving faster than the hour hand. This movement is typically driven by an internal mechanism, such as a quartz or mechanical system, ensuring accurate timekeeping as each hand moves incrementally over the clock face.",
+    "external_interaction_description": "The clock is designed to be mounted on a wall, where it can be easily viewed for timekeeping. It requires an external power source, such as a battery, to operate its internal mechanism. Users interact with the clock by observing the time or adjusting the hands for setting purposes."
+}

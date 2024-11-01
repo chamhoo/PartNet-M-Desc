@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray keyboard with standard layout.",
+    "part_description": "Contains numerous rectangular keys arranged in rows, including function keys, alphanumeric keys, and a numeric keypad on the right.",
+    "internal_interaction_description": "Keys are mounted on a base, allowing for individual depression and spring-back. Each key press completes an electrical circuit, sending signals to a connected device. The layout facilitates efficient typing by grouping keys based on function and frequency of use.",
+    "external_interaction_description": "Connects to computers via USB or wireless technology, allowing users to input data and commands. It interacts with users through tactile feedback when keys are pressed and can be used with various software applications for typing, gaming, or data entry."
+}

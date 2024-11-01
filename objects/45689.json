@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cabinet with drawer and door, rectangular shape.",
+    "part_description": "Includes one drawer on top left, one door below, and an open space on the right. The drawer and door have handles, and the open space is rectangular.",
+    "internal_interaction_description": "The drawer slides in and out of its compartment, while the door swings open and closed on hinges. The open space on the right is designed to accommodate additional components or storage items.",
+    "external_interaction_description": "The cabinet interacts with users through the handles for opening the drawer and door. It can be placed against a wall or under a countertop, providing storage and organization in kitchens or bathrooms."
+}

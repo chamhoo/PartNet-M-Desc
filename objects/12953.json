@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular keyboard with standard layout.",
+    "part_description": "Features numerous keys arranged in rows, including alphanumeric, function, and control keys. The keys are rectangular, uniformly sized, and positioned across the keyboard surface.",
+    "internal_interaction_description": "Keys are spring-loaded and interact with the underlying circuit board to register keystrokes. The arrangement allows for efficient typing, with function keys providing additional shortcuts and controls.",
+    "external_interaction_description": "Connects to a computer via USB or wireless technology, allowing users to input data and commands. It requires user interaction through pressing keys to perform tasks on the connected device."
+}

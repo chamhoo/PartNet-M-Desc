@@ -1,0 +1,6 @@
+{
+    "base_description": "Flat, rectangular, gray monitor with a stand.",
+    "part_description": "Includes a large rectangular screen and a V-shaped stand attached at the bottom center.",
+    "internal_interaction_description": "The screen is supported by the stand, which balances the monitor upright. The stand is securely attached to the screen's back, allowing it to maintain stability and proper viewing angle.",
+    "external_interaction_description": "The monitor connects to computers via cables for display output. Users adjust the screen's position for optimal viewing. It interacts with external devices like keyboards and mice for user input."
+}

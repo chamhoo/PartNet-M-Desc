@@ -1,0 +1,6 @@
+{
+    "base_description": "Red rectangular cabinet with multiple compartments.",
+    "part_description": "Three main sections: top, middle with doors, and bottom drawers. Each section has distinct rectangular shapes, with the middle part featuring two vertical doors and the bottom part consisting of three horizontal drawers.",
+    "internal_interaction_description": "The middle section's doors open outward, revealing internal storage space. The bottom drawers slide out horizontally, allowing access to stored items. Each part is designed to maximize storage efficiency within its allocated space, ensuring smooth operation between doors and drawers.",
+    "external_interaction_description": "The cabinet stands against a wall or surface, providing storage for various items. Users interact by opening doors and drawers to access contents. Its sturdy design supports placement of objects on top, while its aesthetic complements room decor."
+}

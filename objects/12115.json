@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver laptop with a large screen and keyboard.",
+    "part_description": "Includes a screen, keyboard, touchpad, and base. Screen is large, rectangular, and positioned vertically. Keyboard is flat, rectangular, and located below the screen. Touchpad is centered below the keyboard on the base.",
+    "internal_interaction_description": "The screen displays visual output from the computer's internal components, while the keyboard and touchpad provide input. The keyboard allows for typing, and the touchpad enables cursor movement. All parts are connected internally to facilitate seamless interaction and operation of the laptop.",
+    "external_interaction_description": "The laptop interacts with users through visual display and input devices. It connects to external networks via Wi-Fi or Ethernet and can connect to other devices through USB ports, Bluetooth, or HDMI. It serves as a portable computing device for work, communication, and entertainment."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver rectangular stapler, medium size.",
+    "part_description": "Consists of a top lever, base, staple compartment, and anvil. The top lever is silver, the base is black, and the staple compartment is silver, positioned centrally.",
+    "internal_interaction_description": "The top lever presses down to push staples from the compartment through paper, bending them against the anvil. The spring mechanism inside the lever returns it to its original position after use.",
+    "external_interaction_description": "The stapler is used to bind sheets of paper together. When pressed down, it punches staples through the paper, securing them. It requires manual force and can be refilled with staple strips when empty."
+}

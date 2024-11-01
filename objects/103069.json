@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical blender, gray with maroon lid.",
+    "part_description": "The blender has a tall cylindrical container with a handle, a flat maroon lid, and a rectangular base with control buttons. The container is gray and sits atop a white base.",
+    "internal_interaction_description": "The blender's motor in the base rotates the blades inside the container when activated. The container securely attaches to the base, ensuring stability. The lid fits snugly to prevent spillage during operation. The handle allows easy lifting and pouring.",
+    "external_interaction_description": "The blender requires a power source to operate, typically plugged into an electrical outlet. Users interact with the control buttons to adjust settings. It processes ingredients placed inside, turning them into a blended mixture. The handle aids in pouring contents into other containers."
+}

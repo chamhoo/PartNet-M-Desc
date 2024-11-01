@@ -1,0 +1,6 @@
+{
+    "base_description": "Green-handled pliers with a metallic jaw.",
+    "part_description": "Two green handles, metallic jaws, pivot joint; jaws are sharp and pointed, handles are straight and elongated.",
+    "internal_interaction_description": "The handles are connected by a pivot joint, allowing them to move in opposite directions. When the handles are squeezed together, the jaws close, enabling the pliers to grip or cut objects. The pivot point ensures smooth operation and even pressure distribution across the jaws.",
+    "external_interaction_description": "The pliers are used to grip, twist, or cut materials such as wires or small metal objects. The user applies force to the handles, which translates into a gripping or cutting action at the jaws. The pointed jaws allow precision work in confined spaces."
+}

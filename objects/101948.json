@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular USB drive, green and gray.",
+    "part_description": "Features a rectangular green body, gray swivel cover, USB connector with gold contacts, and 'MariSoft' text on the cover.",
+    "internal_interaction_description": "The swivel cover rotates around the body, protecting the USB connector when not in use. The USB connector includes metal contacts for data transfer and power supply. Internally, the drive contains a flash memory chip for data storage and a controller chip for managing data access.",
+    "external_interaction_description": "Connects to computers and devices via the USB port for data transfer and storage. The swivel cover protects the connector from dust and damage when not in use. Compatible with various operating systems, allowing users to store and retrieve files easily."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver, rectangular drawer with a handle.",
+    "part_description": "One main rectangular body with a front handle. Handle is horizontally aligned and centered on the front panel.",
+    "internal_interaction_description": "The handle is attached to the front panel, allowing the drawer to be pulled open. The interior space is accessible when the drawer is extended, providing storage within the rectangular enclosure.",
+    "external_interaction_description": "The drawer interacts with users by providing storage space. It opens and closes smoothly when the handle is pulled or pushed. It is typically integrated into kitchen or office furniture, aligning with other drawers or cabinets."
+}

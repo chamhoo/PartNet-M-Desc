@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, silver remote with black top.",
+    "part_description": "Two circular buttons on front, larger above smaller, centrally aligned.",
+    "internal_interaction_description": "The buttons press inward to activate internal mechanisms, sending signals to control external devices. The larger button likely performs a primary function, while the smaller button serves secondary operations. The housing encases electronic components, ensuring functionality and durability.",
+    "external_interaction_description": "The remote interacts with devices via infrared or wireless signals, allowing users to control electronics like TVs or stereos from a distance. It requires direct line of sight for optimal performance, and its ergonomic design fits comfortably in hand for easy use."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Aqua blue stand mixer with a grey bowl.",
+    "part_description": "Includes a motor housing, mixing arm, and removable bowl. The motor housing is aqua blue, with a control knob on the side. The mixing arm extends over the bowl, which is grey and detachable. The bowl sits on a stable base.",
+    "internal_interaction_description": "The motor housing powers the mixing arm, which rotates to mix ingredients in the bowl. The control knob adjusts speed settings, allowing the user to control the intensity of mixing. The bowl is securely held in place by the base, ensuring stability during operation.",
+    "external_interaction_description": "The mixer is used on countertops, interacting with various ingredients placed in the bowl. Users operate the control knob to adjust settings. The detachable bowl allows for easy addition of ingredients and cleaning. The mixer can be moved and stored conveniently due to its compact size."
+}

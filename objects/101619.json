@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular safe with a hinged door.",
+    "part_description": "The safe has a rectangular body, a hinged door with a circular lock, and a handle. The door covers the front side and opens outward.",
+    "internal_interaction_description": "The door is attached to the main body of the safe with hinges, allowing it to swing open and closed. The lock mechanism is embedded in the door, interacting with the body to secure the safe when closed. The handle is positioned below the lock for manual opening.",
+    "external_interaction_description": "The safe interacts with users who open and close it using the handle and lock. It can store valuable items securely, protecting them from unauthorized access. The safe can be placed in various locations, such as offices or homes, providing security for personal belongings."
+}

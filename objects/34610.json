@@ -1,0 +1,6 @@
+{
+    "base_description": "Wooden table with drawers, rectangular and brown.",
+    "part_description": "Four legs support a rectangular top with six drawers. The drawers are arranged in two rows of three, each with a small round handle. The legs are slender and positioned at each corner.",
+    "internal_interaction_description": "The drawers slide in and out of the table frame, guided by built-in tracks. The handles facilitate easy opening and closing. The table's legs are attached to the frame, providing stability and support for the top and drawers.",
+    "external_interaction_description": "The table can be used for storage and organization, interacting with items placed inside the drawers. It serves as a workspace or surface for other objects. Its height and stability allow it to support various activities, such as writing or dining, when interacted with by people."
+}

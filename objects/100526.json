@@ -1,0 +1,6 @@
+{
+    "base_description": "Folding chair, metal frame, white seat, minimal design.",
+    "part_description": "Includes a metal frame, white plastic seat, and backrest. The frame forms a triangular shape for stability, with a rectangular backrest and square seat positioned centrally.",
+    "internal_interaction_description": "The seat is supported by a metal frame that folds, allowing compact storage. The backrest is connected to the frame's upper part, providing support. The frame's triangular structure ensures stability, while hinges enable folding.",
+    "external_interaction_description": "The chair can be unfolded for seating and folded for storage. It interacts with the ground for stability and supports a person's weight when in use. Lightweight design allows easy transportation and repositioning."
+}

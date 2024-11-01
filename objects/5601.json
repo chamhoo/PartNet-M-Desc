@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, cylindrical vase with wireframe design.",
+    "part_description": "Contains a solid top and bottom connected by a crisscross wireframe. The top and bottom are circular, with the wireframe forming a mesh pattern in between.",
+    "internal_interaction_description": "The solid top and bottom provide structural support, while the wireframe connects them, maintaining the vase's shape. The wireframe allows for visibility through the vase, creating an aesthetic contrast with the solid parts.",
+    "external_interaction_description": "The vase can hold flowers or decorative items, interacting with its surroundings by enhancing visual appeal. Its open wireframe allows light to pass through, casting intricate shadows and adding to the ambiance of a space."
+}

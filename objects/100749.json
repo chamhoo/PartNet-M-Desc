@@ -1,0 +1,6 @@
+{
+    "base_description": "White globe with a stand, spherical shape.",
+    "part_description": "Consists of a spherical globe and a circular base. The globe is mounted on top of the base, which is flat and round, providing stability.",
+    "internal_interaction_description": "The globe is attached to the base via a small axis allowing it to rotate. This axis is secured to the base, enabling smooth movement of the globe around its axis while supported by the base.",
+    "external_interaction_description": "The globe can be spun manually to view different areas. It serves as an educational tool or decorative item, often interacted with by students or individuals seeking geographical information."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and silver dishwasher with open door.",
+    "part_description": "Includes a black door, silver body, and two wire racks. The top rack holds dishes, while the bottom rack holds larger items. A blue detergent compartment is visible inside.",
+    "internal_interaction_description": "The door opens downward, allowing access to the two wire racks. The top rack is positioned above the bottom rack, both designed to hold dishes securely. The blue detergent compartment releases detergent during the wash cycle, interacting with water jets to clean dishes.",
+    "external_interaction_description": "The dishwasher door opens to allow loading and unloading of dishes. It connects to water and power supplies for operation. Users interact with the control panel to select wash cycles. The appliance integrates into kitchen cabinetry, aligning with standard counter height."
+}

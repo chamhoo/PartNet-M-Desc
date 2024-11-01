@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray bottle with black pump.",
+    "part_description": "Includes a rectangular bottle and a black pump top. The bottle is tall and gray, while the pump is on top, centrally positioned.",
+    "internal_interaction_description": "The pump mechanism is attached to a tube inside the bottle. When pressed, the pump creates suction, drawing liquid up through the tube and dispensing it through the nozzle.",
+    "external_interaction_description": "The object is designed for dispensing liquid soap or lotion. Users press the pump to release contents, making it suitable for bathrooms or kitchens. It can be refilled by unscrewing the pump top."
+}

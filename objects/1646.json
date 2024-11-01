@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical faucet with a minimalist design.",
+    "part_description": "Consists of a main cylindrical body, a horizontal spout, and a lever handle on top. The spout extends forward, and the handle is positioned horizontally at the top rear.",
+    "internal_interaction_description": "The lever handle controls the water flow through internal valves, which are connected to the spout. Turning the handle adjusts the valve, allowing water to flow from the main body through the spout. The cylindrical design facilitates a smooth flow of water.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop, interacting with plumbing connections to deliver water. Users operate the lever to control water temperature and flow, making it suitable for handwashing or filling containers."
+}

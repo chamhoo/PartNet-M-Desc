@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, silver-framed sliding glass door.",
+    "part_description": "Three vertical glass panels in silver frames, evenly arranged. Each panel has a handle on one side, with a bottom section featuring a solid panel. The panels are positioned within a larger rectangular frame.",
+    "internal_interaction_description": "The three glass panels are mounted within the main frame, allowing them to slide horizontally along tracks. Each panel can move independently, overlapping with adjacent panels or aligning to create an open space. The handles facilitate sliding, while the bottom panels provide structural support and stability.",
+    "external_interaction_description": "The sliding glass door interfaces with walls or openings in buildings, allowing passage or view. It can be manually operated by individuals to open or close. The glass panels provide visibility and light transmission, while the frame ensures secure installation and weather resistance."
+}

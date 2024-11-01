@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular gray camera with rounded edges.",
+    "part_description": "Features include a circular lens, flash, shutter button, and viewfinder. The lens is centrally located on the front, the flash is to the right, and the shutter button is on top. The viewfinder is positioned above the lens.",
+    "internal_interaction_description": "The lens captures images by focusing light onto a sensor. The shutter button triggers the mechanism to open the shutter, allowing light to enter. The flash provides additional light in low-light conditions, while the viewfinder allows the user to frame the shot.",
+    "external_interaction_description": "The camera interacts with external objects by capturing images of them. Users interact with it by pressing buttons to take photos and adjust settings. It can connect to other devices via ports or wireless connections for image transfer."
+}

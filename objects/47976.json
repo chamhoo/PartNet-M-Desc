@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray cabinet with four doors.",
+    "part_description": "Consists of four doors, two on top and two below, with vertical handles. The cabinet is rectangular and stands upright, with a flat top and smooth surfaces.",
+    "internal_interaction_description": "The doors are hinged on the sides, allowing them to swing open and close. The vertical handles facilitate easy gripping for opening the doors. Inside, shelves provide storage space, interacting with the doors to enclose items securely when closed.",
+    "external_interaction_description": "The cabinet interacts with users by providing storage space, accessible through the doors. It can be placed against walls or in corners, interacting with room layouts. The flat top may also serve as a surface for additional items or decorations."
+}

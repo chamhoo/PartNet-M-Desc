@@ -1,0 +1,6 @@
+{
+    "base_description": "Red, multi-tool pocket knife with various attachments.",
+    "part_description": "Includes blades, scissors, corkscrew, and screwdriver, arranged compactly. The tools fold into the red handle, with each tool varying in size and shape, positioned for easy accessibility.",
+    "internal_interaction_description": "The tools are connected to a central pivot, allowing them to fold out individually. Each tool is designed to lock into place when extended, ensuring stability during use. The compact design allows for multiple tools to coexist without interference, utilizing the shared pivot mechanism.",
+    "external_interaction_description": "The pocket knife interacts with external objects by providing various tools for cutting, opening, and screwing. It is designed for handheld use, fitting comfortably in a pocket for portability. Users can extend or retract tools as needed, making it versatile for outdoor or everyday tasks."
+}

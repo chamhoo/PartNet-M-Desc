@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular white-framed window with two glass panes.",
+    "part_description": "The window has two rectangular glass panes, each framed in white. The frames are vertically aligned, with handles on the inner sides for sliding. The outer frame encompasses both panes, providing structural support.",
+    "internal_interaction_description": "The two glass panes are designed to slide horizontally within the outer frame. Each pane can move independently, allowing one to overlap the other. The handles facilitate this sliding action, enabling easy opening and closing. The frame ensures the panes remain aligned and secure during movement.",
+    "external_interaction_description": "The window interacts with external elements by allowing light and air to pass when open. It acts as a barrier against weather and noise when closed. Users can open or close the panes using the handles, adjusting the amount of ventilation and light entering a room."
+}

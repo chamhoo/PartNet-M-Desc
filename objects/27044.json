@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular, gray wooden table with drawer.",
+    "part_description": "Includes a top surface, a drawer, four legs, and a lower shelf. The drawer is centered below the top surface, the legs are at each corner, and the shelf is positioned between the legs.",
+    "internal_interaction_description": "The drawer slides in and out from the front, supported by rails attached to the inner sides of the table. The lower shelf is fixed and provides stability by connecting the legs, which support the top surface.",
+    "external_interaction_description": "The table can support objects on its top surface and inside the drawer. It can be moved by lifting or sliding, and the drawer is accessed by pulling the handle. The lower shelf can hold additional items, interacting with the environment by providing storage space."
+}

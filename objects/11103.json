@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic scissors with black handles, medium-sized.",
+    "part_description": "Two metal blades, two black circular handles, one screw joint.",
+    "internal_interaction_description": "The two blades are connected at the screw joint, allowing them to pivot and create a cutting action. The handles provide grip and control, enabling the user to apply pressure and guide the blades as they open and close.",
+    "external_interaction_description": "Scissors interact with materials like paper, fabric, or hair by cutting through them when pressure is applied. The user holds the handles, manipulating the blades to achieve precise cuts. Proper alignment and sharpness of the blades are crucial for effective external interactions."
+}

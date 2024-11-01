@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, white cabinet with shelves.",
+    "part_description": "Contains three main shelves and a lower cabinet door. Shelves are evenly spaced, rectangular, and positioned vertically. The lower section has a door with a handle.",
+    "internal_interaction_description": "The shelves are fixed within the cabinet, providing stable support for items placed on them. The lower door opens outward, allowing access to the bottom storage area. The handle facilitates easy opening and closing of the door.",
+    "external_interaction_description": "The cabinet can store various items such as books, dishes, or decorative objects. Its vertical design makes it suitable for placing against walls, saving space. The handle allows users to easily access the lower compartment, making it user-friendly for organizing and retrieving stored items."
+}

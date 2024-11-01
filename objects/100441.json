@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray metal bucket with a blue liquid inside.",
+    "part_description": "The bucket has a cylindrical shape with a wide opening, featuring two metal handles attached on opposite sides. It contains a visible blue liquid occupying part of its interior space.",
+    "internal_interaction_description": "The handles are affixed to the bucket's sides, allowing for easy carrying. The blue liquid inside the bucket remains contained by the bucket's walls and base, ensuring it does not spill out unless tilted or disturbed.",
+    "external_interaction_description": "The bucket can be carried by its handles and used to transport liquids. It interacts with users who fill it, pour from it, or move it. The bucket's material and shape allow it to be placed on flat surfaces without tipping over easily."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Black rectangular device with keypad and handle.",
+    "part_description": "Features include a keypad on top, handle beside it, indicator lights on the front, and a curved top surface.",
+    "internal_interaction_description": "The keypad allows input to control the device, potentially interacting with internal circuitry to execute functions. The handle provides a means for manual handling or operation. Indicator lights reflect the device's status or mode, connected to internal sensors or controls.",
+    "external_interaction_description": "The device interacts with users through the keypad for input and the handle for carrying. The indicator lights provide visual feedback to users. It may connect to other devices or systems depending on its function, likely requiring proximity or direct interaction."
+}

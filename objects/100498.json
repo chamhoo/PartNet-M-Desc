@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular cart with wheels, white and brown.",
+    "part_description": "The cart has a rectangular container, four wheels, and a metal frame. The container is white with brown edges, positioned centrally on the frame. The wheels are small and black, two on each side, supporting the frame.",
+    "internal_interaction_description": "The rectangular container is securely attached to the metal frame, providing stability. The frame supports the container and connects to the wheels, allowing smooth movement. The handle is integrated into the frame, positioned at the back for easy pushing or pulling.",
+    "external_interaction_description": "The cart is designed for manual operation, allowing a person to push or pull it using the handle. It can carry various items within the container. The wheels facilitate movement over flat surfaces, making it suitable for use in stores or warehouses."
+}

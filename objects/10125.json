@@ -1,0 +1,6 @@
+{
+    "base_description": "Black laptop with a large screen and keyboard.",
+    "part_description": "The laptop has a rectangular screen, a flat keyboard, a touchpad, and a hinge. The screen is large and thin, positioned above the base. The keyboard is wide, with keys arranged in rows. The touchpad is centered below the keyboard.",
+    "internal_interaction_description": "The hinge connects the screen to the base, allowing the screen to open and close. The keyboard inputs data to the system, while the touchpad controls the cursor on the screen. The internal components, like the processor and memory, work together to process user commands and run applications.",
+    "external_interaction_description": "The laptop interacts with external devices through ports for USB, HDMI, and power. It connects to networks via Wi-Fi or Ethernet. Users interact with it through the keyboard and touchpad. It can also connect to external monitors, printers, and other peripherals for extended functionality."
+}

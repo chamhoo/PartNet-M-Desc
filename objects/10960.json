@@ -1,0 +1,6 @@
+{
+    "base_description": "Metallic scissors with black handles, medium-sized.",
+    "part_description": "Two metal blades with sharp edges, joined at a pivot. Two black plastic handles, oval-shaped, attached to blade ends.",
+    "internal_interaction_description": "The blades are connected at a central pivot point, allowing them to open and close in a scissor-like motion. The handles provide leverage for the user to apply force, causing the blades to meet and cut materials placed between them.",
+    "external_interaction_description": "Scissors are used by gripping the handles and applying pressure to cut paper, fabric, or other materials. The sharp blades interact with the material, slicing through it with precision. The object is commonly used in crafting, office tasks, and household activities."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact gray coffee machine with modern design.",
+    "part_description": "Features a front panel with buttons, two nozzles, a drip tray, and a top lid. The buttons are centrally arranged, the nozzles are positioned below the panel, and the drip tray is at the base.",
+    "internal_interaction_description": "The machine's water reservoir feeds into an internal heating element, which heats the water before it passes through the coffee grounds. The brewed coffee is then dispensed through the nozzles. The drip tray collects any excess liquid, ensuring a clean operation.",
+    "external_interaction_description": "The coffee machine interacts with users through its control panel for selecting coffee types. It requires external inputs like water and coffee beans. The machine dispenses coffee into cups placed under the nozzles, and the drip tray can be removed for cleaning."
+}

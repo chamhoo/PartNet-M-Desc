@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray fan grill with circular pattern.",
+    "part_description": "Consists of a flat square panel with concentric circular grill pattern and four screw holes at corners.",
+    "internal_interaction_description": "The grill's concentric circles are supported by radial spokes, providing structure and allowing airflow while preventing large objects from passing through. The screw holes at each corner enable secure attachment to surfaces or devices, maintaining stability and alignment of the grill.",
+    "external_interaction_description": "Designed to attach to electronic devices or ventilation systems, allowing air to flow while protecting internal components from debris. It interacts with screws or fasteners for secure installation and can be cleaned or replaced as needed to maintain airflow efficiency."
+}

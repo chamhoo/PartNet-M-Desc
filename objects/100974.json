@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular beige box with three black switches.",
+    "part_description": "The object has three black switches arranged horizontally on a beige rectangular base. Each switch is identical in size and shape, evenly spaced across the front panel.",
+    "internal_interaction_description": "The three switches are mounted on the front of the rectangular box. Each switch is likely connected internally to a mechanism that allows it to toggle on and off, possibly controlling an electronic function or circuit within the box.",
+    "external_interaction_description": "The object interacts externally by allowing a user to manually toggle the switches. This action likely affects connected devices or systems, turning them on or off or adjusting settings. The box can be mounted on a wall or panel for easy access."
+}

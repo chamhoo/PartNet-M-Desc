@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, rectangular black mini fridge with glass door.",
+    "part_description": "Features a transparent glass door with a horizontal handle on the front, a solid black body with a cuboid shape, and internal shelving for storage. The door is hinged on the right side.",
+    "internal_interaction_description": "The glass door opens to reveal internal shelving, allowing for organized storage of items. The shelves are likely adjustable to accommodate different sizes of items. The door's seal ensures temperature maintenance inside the fridge.",
+    "external_interaction_description": "The fridge interacts with external elements by maintaining a cool temperature for stored items. It requires an electrical connection to function. The transparent door allows users to view contents without opening, reducing energy loss."
+}

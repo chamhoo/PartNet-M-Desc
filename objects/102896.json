@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray double doors with glass panels.",
+    "part_description": "Two rectangular doors with multiple glass panels, set in a wooden frame. Each door has a handle on the outer edge, and the panels are arranged in a grid pattern.",
+    "internal_interaction_description": "The two doors are hinged on opposite sides, allowing them to swing open or closed. The glass panels are fixed within each door, providing a transparent view while maintaining separation. The handles facilitate opening and closing, and the frame provides structural support.",
+    "external_interaction_description": "These doors can be opened by people to allow passage between spaces. The glass panels enable visibility and light transfer between rooms. The doors can be locked or secured to control access, and the frame allows for secure installation within a wall opening."
+}

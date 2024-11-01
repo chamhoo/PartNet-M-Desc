@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with wheels.",
+    "part_description": "The cabinet has four wheels at the bottom, a rectangular body, and a flat top surface. The wheels are evenly spaced at each corner for stability.",
+    "internal_interaction_description": "The wheels are attached to the bottom corners of the cabinet, allowing for smooth movement. The flat top surface is supported by the rectangular body, providing structural integrity and balance.",
+    "external_interaction_description": "The cabinet can be easily moved due to its wheels, allowing interaction with various spaces. It can be used to store items, interact with other furniture by fitting under desks or tables, and its flat top can hold objects."
+}

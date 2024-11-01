@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact, white espresso machine with modern design.",
+    "part_description": "Includes a portafilter, steam wand, drip tray, control knobs, and water reservoir. The portafilter is on the left, steam wand on the right. Control knobs are on top, drip tray is at the base, and reservoir is at the back.",
+    "internal_interaction_description": "The portafilter holds coffee grounds and attaches to the machine, allowing water to pass through under pressure. The steam wand froths milk by releasing steam. Control knobs regulate water flow and steam pressure. The drip tray collects excess liquid, while the reservoir supplies water to the system.",
+    "external_interaction_description": "The machine interacts with users through its control knobs for brewing and steaming. Users insert the portafilter with coffee grounds and position a cup under the spout. The steam wand is used with a milk pitcher for frothing. The drip tray is removable for cleaning, and the reservoir is refilled as needed."
+}

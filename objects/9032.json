@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray door with simple design.",
+    "part_description": "Consists of a door panel, frame, and hinges. The panel is rectangular with a smooth surface, framed by the door frame. Hinges are positioned vertically along one side.",
+    "internal_interaction_description": "The door panel is attached to the frame by hinges, allowing it to pivot open or closed. The hinges are evenly spaced along the vertical edge of the door, ensuring stability and smooth operation. The frame supports the door panel, maintaining its alignment.",
+    "external_interaction_description": "The door interacts with a wall or doorway, fitting snugly within the frame. It can be opened or closed by a person, providing access or privacy. The door may also interact with locks or handles, facilitating secure closure."
+}

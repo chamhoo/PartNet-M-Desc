@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical bottle with black pump top.",
+    "part_description": "Includes a cylindrical body and a pump with a nozzle. The pump sits atop the bottle, centrally positioned. The body is large and smooth, while the pump is smaller and more intricate.",
+    "internal_interaction_description": "The pump mechanism draws liquid from the bottle's interior when pressed. The nozzle directs the liquid outward, ensuring controlled dispensing. The pump is securely attached to the bottle, preventing leaks.",
+    "external_interaction_description": "The bottle is operated by pressing the pump, dispensing liquid onto hands or other surfaces. It is typically placed on flat surfaces, like sinks or counters, and interacts with users who need to access its contents."
+}

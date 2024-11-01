@@ -1,0 +1,6 @@
+{
+    "base_description": "Silver rectangular coffee machine with black accents.",
+    "part_description": "Includes a display, buttons, spout, cup platform, and drip tray. The display is centered above the spout, with buttons on either side. The spout is positioned centrally above the cup platform, and the drip tray is below the platform.",
+    "internal_interaction_description": "The buttons interact with the internal mechanisms to control brewing functions. The display shows settings and status. The spout dispenses coffee into a cup placed on the platform, while excess liquid is caught by the drip tray below.",
+    "external_interaction_description": "Users interact with the machine by pressing buttons to select brewing options. A cup is placed on the platform for coffee dispensing. The machine requires a power source to operate and can be cleaned by removing the drip tray."
+}

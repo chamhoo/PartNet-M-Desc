@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray ergonomic chair with wheels and armrests.",
+    "part_description": "Includes a cushioned seat, backrest, two armrests, and five-wheeled base. The seat and backrest are connected, with armrests on either side. The base has five legs, each with a wheel.",
+    "internal_interaction_description": "The seat is attached to the backrest for support. Armrests are fixed to the sides of the seat, providing arm support. The wheeled base allows for smooth movement, with each wheel attached to a leg of the base, ensuring stability and mobility.",
+    "external_interaction_description": "The chair allows users to sit comfortably, providing back and arm support. Its wheels enable easy movement across floors, and the ergonomic design helps maintain proper posture. It can be adjusted to fit various desk heights, making it suitable for office environments."
+}

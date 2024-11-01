@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular microwave with a modern style.",
+    "part_description": "Features a front door with a handle, two round dials on the side, and a transparent window. The door is centered, and the dials are vertically aligned on the right.",
+    "internal_interaction_description": "The door opens to reveal the cooking chamber, allowing access to place food inside. The dials control the microwave's power settings and timer, interacting with internal circuits to adjust heating levels and cooking duration.",
+    "external_interaction_description": "The microwave connects to a power outlet to function. Users interact with the dials to set cooking parameters and open the door to insert or remove food. The transparent window allows users to monitor the cooking process."
+}

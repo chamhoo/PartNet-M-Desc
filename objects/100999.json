@@ -1,0 +1,6 @@
+{
+    "base_description": "Black remote control, elongated and curved.",
+    "part_description": "Features buttons arranged in rows, including numbers and symbols, centrally located.",
+    "internal_interaction_description": "Buttons are pressed to send signals through an internal circuit, activating specific functions based on the button pressed. The central arrangement allows easy access and organization, ensuring efficient operation.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or set-top boxes, transmitting infrared signals to control functions such as power, volume, and channel selection. Users hold and press buttons to operate the connected device."
+}

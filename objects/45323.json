@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray microwave with a digital display.",
+    "part_description": "The microwave has a door with a handle, a digital display panel, and a keypad. The door is on the front, the panel is on the right side, and the keypad is below the display.",
+    "internal_interaction_description": "The door opens to reveal the cooking chamber. The digital display shows time and settings, while the keypad allows input for cooking modes and times. The microwave's internal components generate microwaves to heat food placed inside the chamber.",
+    "external_interaction_description": "The microwave interacts with users through the keypad and display. Users can input cooking instructions, which the microwave executes. It requires an external power source and can be placed on a kitchen counter or mounted above a stove."
+}

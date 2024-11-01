@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular cabinet with drawers and doors.",
+    "part_description": "Two upper drawers, two lower doors, rectangular shape, handles on each part, positioned symmetrically.",
+    "internal_interaction_description": "The drawers slide in and out of the top section, providing storage space. The doors open outward from the center, revealing interior shelving. Handles facilitate the movement of both drawers and doors, ensuring easy access to contents.",
+    "external_interaction_description": "The cabinet can be placed against a wall, serving as a storage unit in kitchens or bathrooms. Users interact with it by pulling handles to open drawers and doors, accessing stored items. It can support objects on its top surface, like appliances or decor."
+}

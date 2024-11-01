@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, rectangular USB drive with swivel cover.",
+    "part_description": "Comprises a rectangular black body and a silver swivel cover. The body houses the USB connector, while the cover rotates around a central pivot point.",
+    "internal_interaction_description": "The silver swivel cover rotates around the central pivot, allowing it to either expose or protect the USB connector. The rotation is smooth and can be adjusted to various angles, providing easy access to the connector while offering protection when not in use.",
+    "external_interaction_description": "The USB drive connects to computers or other compatible devices via its USB connector. The swivel cover provides protection against dust and damage, enhancing durability. It is portable and easily fits into pockets or bags, making it convenient for data transfer and storage on the go."
+}

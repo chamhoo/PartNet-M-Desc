@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray toaster with three slots.",
+    "part_description": "Three rectangular slots on top, two levers on front, two dials below levers.",
+    "internal_interaction_description": "The levers control the heating elements inside each slot, allowing bread to be lowered for toasting. The dials adjust the time and temperature settings, affecting the intensity and duration of the toasting process.",
+    "external_interaction_description": "The toaster interacts with bread slices inserted into the slots, toasting them to the desired level. Users adjust settings using the levers and dials, and retrieve the toasted bread once the cycle completes."
+}

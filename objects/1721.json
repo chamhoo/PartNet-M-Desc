@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, silver faucet with a curved spout.",
+    "part_description": "Features a tall, curved spout, a single handle, and a base. The spout is long and slender, positioned above the base. The handle is vertically aligned with the spout and attached to the base.",
+    "internal_interaction_description": "The handle controls the flow of water through the spout. When the handle is lifted, it opens a valve inside the base, allowing water to flow up through the spout. The curved design of the spout directs water downward into a sink or basin.",
+    "external_interaction_description": "The faucet is typically mounted on a sink or countertop. Users manipulate the handle to start or stop the water flow, adjusting the temperature and pressure. It interacts with plumbing systems to deliver water for various tasks such as washing hands or dishes."
+}

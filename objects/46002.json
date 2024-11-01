@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with four doors.",
+    "part_description": "The cabinet has four doors, two on top and two below, each with a vertical handle. The doors are evenly sized and arranged symmetrically.",
+    "internal_interaction_description": "The doors are hinged to the main body, allowing them to open outward. Inside, shelves may be present to support storage. The handles facilitate easy opening and closing of the doors.",
+    "external_interaction_description": "The cabinet can store various items and is typically placed against a wall. It interacts with users through the opening and closing of doors, providing access to stored contents. It may also interact with other furniture in a room setting."
+}

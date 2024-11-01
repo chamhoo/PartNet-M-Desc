@@ -1,0 +1,6 @@
+{
+    "base_description": "Yellow and black retractable utility knife.",
+    "part_description": "Includes a yellow handle, black slider, and retractable blade. The handle is elongated with a curved end, the slider is centrally positioned, and the blade extends from the front.",
+    "internal_interaction_description": "The black slider moves along a track on the yellow handle, allowing the blade to extend or retract. The blade is housed within the handle and is secured by the slider mechanism, ensuring stability during use. The handle's design accommodates the slider\u2019s movement smoothly.",
+    "external_interaction_description": "The utility knife is used for cutting materials like cardboard or plastic. Its ergonomic handle provides a comfortable grip, while the retractable blade ensures safety when not in use. The slider allows users to adjust the blade length for precision cutting, making it versatile for various tasks."
+}

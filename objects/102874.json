@@ -1,0 +1,6 @@
+{
+    "base_description": "Black DSLR camera with a large lens.",
+    "part_description": "Includes a body, lens, viewfinder, buttons, and dials. The lens is cylindrical and protrudes from the front. The body is rectangular with a grip on the right side. The viewfinder is on top, and buttons are scattered around the body.",
+    "internal_interaction_description": "The camera body houses the sensor and electronic components, which interact with the lens to capture images. The lens can be adjusted for focus and zoom, controlled by rings on its exterior. Buttons and dials on the body allow for changing settings like aperture, shutter speed, and ISO.",
+    "external_interaction_description": "The camera interacts with external elements by capturing light through the lens to take photographs. It connects to tripods via a mount on the bottom and can link with computers or other devices through ports for data transfer. Users operate it manually to adjust settings and capture images."
+}

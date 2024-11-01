@@ -1,0 +1,6 @@
+{
+    "base_description": "Black, cubic cabinet with two drawers.",
+    "part_description": "Two horizontal drawers with metallic handles, evenly stacked.",
+    "internal_interaction_description": "Each drawer slides in and out smoothly on tracks within the cabinet frame, allowing for storage and retrieval of items. The handles are securely attached to the drawer fronts, providing a grip for pulling.",
+    "external_interaction_description": "The cabinet can be placed on the floor and used for storage of various items. Users interact by pulling handles to open drawers. It can be positioned against walls or under desks, interacting with surrounding furniture."
+}

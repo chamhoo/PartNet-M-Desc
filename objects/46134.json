@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with two doors.",
+    "part_description": "Two hinged doors with handles, rectangular shape, symmetrical, front-facing.",
+    "internal_interaction_description": "The doors swing open on hinges, allowing access to the interior. Handles provide grip for opening and closing. The symmetrical design ensures balanced movement and stability.",
+    "external_interaction_description": "The cabinet can store items, interacting with users who open the doors using the handles. It can be placed against walls or within kitchen setups, interacting with surrounding furniture and appliances."
+}

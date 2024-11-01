@@ -1,0 +1,6 @@
+{
+    "base_description": "Modern faucet set with two handles, silver color.",
+    "part_description": "One tall curved spout centered, two cylindrical handles flanking it. Handles have horizontal levers on top, positioned symmetrically.",
+    "internal_interaction_description": "The faucet's handles control the flow of water through the spout. Turning the handles adjusts internal valves, regulating water pressure and temperature. The spout directs water flow downward into a sink. Each handle is connected to separate water lines for hot and cold water, allowing mixed water output.",
+    "external_interaction_description": "The faucet set is installed on a countertop or sink, interacting with plumbing to provide water. Users operate the handles to start or stop water flow. The spout directs water into a basin, while the handles allow for temperature adjustment. It interfaces with surrounding decor, contributing to bathroom or kitchen aesthetics."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray cylindrical bottle with a pump dispenser.",
+    "part_description": "The bottle has a cylindrical body, a round pump head, and a nozzle. The pump sits atop the bottle, centrally positioned, with the nozzle extending outward.",
+    "internal_interaction_description": "The pump mechanism interacts with the liquid inside, drawing it up through a tube when pressed. The spring inside the pump returns it to its original position, ready for the next use.",
+    "external_interaction_description": "The bottle is designed for dispensing liquid soap or lotion when the pump is pressed by hand. It can be refilled by unscrewing the pump from the bottle."
+}

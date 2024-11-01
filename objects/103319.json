@@ -1,0 +1,6 @@
+{
+    "base_description": "Large, rectangular, gray sliding window with three panels.",
+    "part_description": "Three vertical glass panels, equally sized, in a metal frame. Each panel has a handle on the side, allowing it to slide horizontally within the frame. The panels are positioned side by side, with the frame enclosing the entire structure.",
+    "internal_interaction_description": "The glass panels slide horizontally within the metal frame, allowing for opening and closing. Each panel has a dedicated track in the frame, ensuring smooth movement. The handles on the panels facilitate easy sliding, and the frame maintains structural integrity while supporting the panels.",
+    "external_interaction_description": "The window can be opened or closed by sliding the panels, allowing for ventilation or insulation as needed. It provides a view or access to the outside environment and can interact with curtains or blinds for privacy. The window also acts as a barrier against weather elements."
+}

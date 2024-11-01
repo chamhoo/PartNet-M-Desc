@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray window with two glass panes.",
+    "part_description": "Two vertical rectangular glass panes set in a gray frame. The frame is sturdy, with visible edges and a central vertical divider separating the panes. Each pane is of equal size and occupies half of the frame.",
+    "internal_interaction_description": "The two glass panes are held securely within the frame, divided by a central vertical bar. The frame provides structural support and ensures the panes remain aligned and stable. The panes are likely fixed or can slide past each other within the frame's tracks.",
+    "external_interaction_description": "The window allows light to pass through while providing a barrier against external weather conditions. It can be opened to allow ventilation or closed for insulation. People can look through the panes to see outside, and the frame may be mounted into a wall opening."
+}

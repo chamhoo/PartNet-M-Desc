@@ -1,0 +1,6 @@
+{
+    "base_description": "Red utility knife with retractable blade.",
+    "part_description": "Comprises a red plastic handle and a silver metal blade. The handle is ergonomically curved, with a black slider on top to extend or retract the blade. The blade is flat and rectangular, extending from the handle's front.",
+    "internal_interaction_description": "The black slider on the handle moves along a track to extend or retract the blade. The blade is housed within the handle when not in use, secured by the slider mechanism. The handle's design ensures the blade remains stable during use.",
+    "external_interaction_description": "The utility knife is used for cutting various materials like cardboard or plastic. The user holds the handle and uses the slider to adjust the blade length. The knife's sharp blade interacts with external materials, enabling precise cutting tasks."
+}

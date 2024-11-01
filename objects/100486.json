@@ -1,0 +1,6 @@
+{
+    "base_description": "White cylindrical bucket with a black handle.",
+    "part_description": "The bucket has a cylindrical body, a round lid, and a black handle attached on opposite sides. The lid is slightly domed, fitting snugly on top.",
+    "internal_interaction_description": "The lid fits securely onto the cylindrical body, preventing spillage and maintaining the contents' integrity. The handle is attached to the bucket's sides, allowing it to pivot for easy carrying and lifting.",
+    "external_interaction_description": "The bucket can be used to carry liquids or solids, interacting with the user through the handle for transport. It can be placed on various surfaces and stacked with other similar buckets for storage."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Tall, rectangular, gray dresser with five drawers.",
+    "part_description": "Five horizontal drawers stacked vertically, each with a handle; rectangular frame enclosing drawers, flat top surface.",
+    "internal_interaction_description": "Each drawer slides horizontally within the frame, supported by internal tracks. Handles are attached to the front, allowing easy pulling. The drawers rest on top of each other, with each sliding independently without affecting the others.",
+    "external_interaction_description": "The dresser can store items like clothes or accessories. Users interact by pulling handles to open drawers. It can be placed against a wall or in a corner, and its flat top can hold decorative items or small electronics."
+}

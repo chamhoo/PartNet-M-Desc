@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray cabinet with a front handle.",
+    "part_description": "One main rectangular body with a hinged front panel and a horizontal handle at the bottom center.",
+    "internal_interaction_description": "The hinged front panel allows access to the interior when pulled. The handle facilitates opening and closing, ensuring secure closure. The panel is likely attached to the main body via hinges on one side, enabling smooth movement.",
+    "external_interaction_description": "The cabinet can be mounted on a wall, interacting with surrounding furniture. The handle allows users to open and close the panel, providing access to stored items. It can hold various objects, depending on the interior capacity and shelving."
+}

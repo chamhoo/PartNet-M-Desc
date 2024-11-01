@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, gray liquid dispenser with a pump.",
+    "part_description": "Consists of a rectangular base and a pump nozzle. The base is large and holds liquid, while the pump is centered on top.",
+    "internal_interaction_description": "The pump mechanism draws liquid from the container through a tube. When pressed, the pump creates suction, pulling liquid upwards and dispensing it through the nozzle.",
+    "external_interaction_description": "The dispenser is operated by pressing the pump, releasing liquid onto hands or surfaces. It interacts with users who push the pump and with surfaces where it is placed, typically used in bathrooms or kitchens."
+}

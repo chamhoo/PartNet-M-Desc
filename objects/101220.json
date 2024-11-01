@@ -1,0 +1,6 @@
+{
+    "base_description": "Square, gray exhaust fan with three blades.",
+    "part_description": "The fan has three blades attached to a central hub, enclosed in a square frame. A cylindrical motor is mounted beneath, connected by a rod.",
+    "internal_interaction_description": "The motor drives the central hub, causing the three blades to rotate. This rotation generates airflow, moving air through the square frame. The blades are symmetrically arranged around the hub, ensuring balanced motion and efficient air circulation.",
+    "external_interaction_description": "The fan pulls air from one side and expels it out the other, effectively ventilating a space. It can be mounted on walls or windows, interacting with the surrounding environment by improving air quality and reducing humidity."
+}

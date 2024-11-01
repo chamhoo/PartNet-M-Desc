@@ -1,0 +1,6 @@
+{
+    "base_description": "Purple faucet with a cylindrical base.",
+    "part_description": "Includes a curved spout, cylindrical base, and lever handle. The spout arches outward from the top, the base is vertical, and the handle protrudes from the side.",
+    "internal_interaction_description": "The lever handle controls water flow through the spout. When the handle is turned, it adjusts the internal valve, allowing water to pass from the base into the spout, directing it outward for use.",
+    "external_interaction_description": "The faucet is mounted on a sink or countertop. Users interact with the lever to control water temperature and flow. It connects to water supply lines, dispensing water when activated."
+}

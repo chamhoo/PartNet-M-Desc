@@ -1,0 +1,6 @@
+{
+    "base_description": "Round, two-tier, gray rolling cart with wheels.",
+    "part_description": "Two circular shelves, three vertical supports, two wheels, one stationary leg. Shelves are stacked vertically with supports at edges.",
+    "internal_interaction_description": "The vertical supports connect the two shelves, providing stability. Two supports end in wheels, allowing movement, while the third support acts as a stationary leg for balance. The shelves are evenly spaced, creating a stable structure for carrying items.",
+    "external_interaction_description": "The cart can be pushed or pulled on its wheels, allowing it to transport items across flat surfaces. It interacts with objects by providing storage space on its shelves, and it can be positioned near furniture or workspaces for easy access to its contents."
+}

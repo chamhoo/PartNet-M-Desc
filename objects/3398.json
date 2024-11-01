@@ -1,0 +1,6 @@
+{
+    "base_description": "Cylindrical pink bottle with blue pump.",
+    "part_description": "The object has a cylindrical body and a pump top. The body is pink and smooth, while the pump is blue and protrudes from the top center. The pump is elongated with a spout for dispensing.",
+    "internal_interaction_description": "The pump mechanism is connected to a tube inside the bottle, allowing liquid to be drawn up when the pump is pressed. The internal tube reaches near the bottom of the bottle to maximize liquid extraction. The pump\u2019s spring mechanism returns it to its original position after being pressed.",
+    "external_interaction_description": "The bottle is designed to dispense liquid when the pump is pressed by a user. It can be placed on flat surfaces like counters or sinks. The size and shape make it suitable for use in bathrooms or kitchens, interacting with hands for soap or lotion dispensing."
+}

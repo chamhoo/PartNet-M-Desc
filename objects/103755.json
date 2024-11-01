@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray rectangular briefcase with black handle.",
+    "part_description": "Two rectangular sections, one with a handle, connected by hinges. Latches on the front edge secure the case.",
+    "internal_interaction_description": "The two sections close together, secured by latches, forming a protective enclosure. Hinges allow the sections to open and close smoothly, while the handle provides a grip for carrying.",
+    "external_interaction_description": "The briefcase can be carried by hand using the handle. It interacts with surfaces by resting flat, and can be opened to store or retrieve items, protecting contents from external elements."
+}

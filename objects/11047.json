@@ -1,0 +1,6 @@
+{
+    "base_description": "Small, gray scissors with red handle accents.",
+    "part_description": "Two metal blades, joined at a pivot, with red rubber grips on handles.",
+    "internal_interaction_description": "The blades interact by pivoting around a central point, allowing them to open and close. The handles provide leverage to apply force, causing the blades to shear against each other, cutting material placed between them.",
+    "external_interaction_description": "The scissors are operated by hand, using fingers to grip the handles. They interact with paper, fabric, or other materials, cutting through them when the blades are pressed together. The rubber grips provide comfort and prevent slipping during use."
+}

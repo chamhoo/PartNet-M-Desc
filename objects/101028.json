@@ -1,0 +1,6 @@
+{
+    "base_description": "Slim, rectangular, gray remote control with buttons.",
+    "part_description": "Contains numerous small buttons arranged in rows, a circular navigation pad in the center, and a small display screen at the top.",
+    "internal_interaction_description": "The buttons activate internal circuits when pressed, sending signals to the device. The navigation pad allows directional control, interacting with the internal electronics to change settings or navigate menus.",
+    "external_interaction_description": "Interacts with electronic devices like TVs or stereos via infrared signals. Users press buttons to change settings, channels, or volume, requiring line-of-sight to the device for effective communication."
+}

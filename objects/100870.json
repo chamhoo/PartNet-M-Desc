@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray light switch panel with two switches.",
+    "part_description": "Two rectangular switches centered on a square gray panel, symmetrically aligned. Small screws are positioned at opposite ends of the panel.",
+    "internal_interaction_description": "The switches are mounted on the panel, allowing them to pivot up and down. Each switch is connected to an internal mechanism that controls electrical circuits, enabling or disabling power flow when toggled.",
+    "external_interaction_description": "The panel is designed to be mounted on a wall, allowing users to manually toggle the switches to control lighting or electrical devices. It interfaces with the building's electrical wiring to manage power distribution."
+}

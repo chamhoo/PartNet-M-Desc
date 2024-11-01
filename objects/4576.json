@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular, flat-screen monitor, black and silver.",
+    "part_description": "Consists of a flat screen, thin bezel, stand, and base. Screen is rectangular and large, bezel is narrow and black, stand is silver and cylindrical, and base is circular and sturdy.",
+    "internal_interaction_description": "The screen is mounted on the stand, which is connected to the base, allowing the monitor to stand upright. The bezel frames the screen, providing structural support and housing control buttons. The stand and base enable tilting and stability, ensuring the monitor remains securely positioned.",
+    "external_interaction_description": "The monitor connects to computers or other devices via cables, displaying visual output. It interacts with users through buttons for power and settings adjustments. The screen displays images and videos, serving as an interface for digital content consumption and interaction."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Long, cylindrical pen with a blue cap.",
+    "part_description": "Consists of a cylindrical body and a detachable cap. The body is gray and straight, with the cap being blue and fitting snugly at one end.",
+    "internal_interaction_description": "The cap securely fits over the pen's tip, protecting it from drying out. The cylindrical body houses the ink reservoir, which flows to the tip when in use. The cap can be placed on the opposite end when the pen is in use.",
+    "external_interaction_description": "Used by individuals for writing or drawing on paper. The cap prevents ink leakage and drying, ensuring longevity. Its shape allows it to be easily held in a hand, and it can be stored in pockets or pen holders."
+}

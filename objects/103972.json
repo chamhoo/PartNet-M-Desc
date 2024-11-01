@@ -1,0 +1,6 @@
+{
+    "base_description": "Rectangular gray and black printer with control panel.",
+    "part_description": "Includes paper tray, control panel, scanner lid, and output tray. The paper tray is at the bottom, the control panel on the front, the scanner lid on top, and the output tray extends from the front.",
+    "internal_interaction_description": "The paper tray holds sheets that are fed through the printer mechanism. The control panel allows users to select settings, which are communicated to the printer's internal systems. The scanner lid lifts to reveal the scanning surface, where documents are placed for copying or scanning.",
+    "external_interaction_description": "The printer connects to computers via USB or wireless for printing documents. Users interact with the control panel to initiate printing, scanning, or copying tasks. Paper and ink cartridges are manually loaded and replaced by users as needed."
+}

@@ -1,0 +1,6 @@
+{
+    "base_description": "Green rectangular dumpster with a black lid.",
+    "part_description": "The dumpster has a large rectangular body, a hinged black lid, and warning text on the front. It features side handles for lifting.",
+    "internal_interaction_description": "The lid is attached to the main body with hinges, allowing it to open and close. The handles are fixed to the sides, providing grip points for movement.",
+    "external_interaction_description": "The dumpster interacts with waste collection vehicles through lifting handles. It serves as a receptacle for waste, interacting with people who deposit trash. The warning text advises against climbing, ensuring safety."
+}

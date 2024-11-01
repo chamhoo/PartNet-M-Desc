@@ -1,0 +1,6 @@
+{
+    "base_description": "Compact black coffee machine with silver accents.",
+    "part_description": "Includes a front panel, drip tray, spout, and control knobs. The front panel is central, with a drip tray below. The spout is above the tray, and control knobs are on the side.",
+    "internal_interaction_description": "The water reservoir feeds water to the heating element. Heated water is directed to the spout, passing through coffee grounds. The control knobs adjust settings, influencing water flow and temperature.",
+    "external_interaction_description": "Users interact with the machine via control knobs to brew coffee. The drip tray collects excess liquid, and cups are placed under the spout for filling. Compatible with standard power outlets."
+}

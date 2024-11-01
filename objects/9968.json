@@ -1,0 +1,6 @@
+{
+    "base_description": "Black and gray laptop with a wide screen.",
+    "part_description": "Includes a screen, keyboard, touchpad, and base. The screen is rectangular and positioned above the keyboard. The keyboard has multiple keys arranged in rows. The touchpad is centered below the keyboard.",
+    "internal_interaction_description": "The screen is hinged to the base, allowing it to open and close. The keyboard inputs data which is processed internally, and the touchpad allows cursor movement. The internal components work together to run software and display output on the screen.",
+    "external_interaction_description": "The laptop interacts with users through the keyboard and touchpad for input. It connects to external devices via ports, and can access the internet wirelessly. Users can view content on the screen and use the laptop for various tasks like browsing, writing, and gaming."
+}

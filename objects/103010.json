@@ -1,0 +1,6 @@
+{
+    "base_description": "Gray, rectangular wheeled trash bin with lid.",
+    "part_description": "Includes a rectangular body, two wheels, a hinged lid, and a handle. The wheels are positioned at the back bottom, the lid on top, and the handle near the top rear.",
+    "internal_interaction_description": "The hinged lid opens upwards, allowing access to the interior for waste disposal. The handle is used to tilt and maneuver the bin, with the wheels facilitating movement. The lid fits snugly to contain odors and prevent spillage.",
+    "external_interaction_description": "The bin interacts with users who open the lid to deposit waste. It can be wheeled to different locations for convenient disposal or collection. The lid keeps contents secure from external elements like rain or animals."
+}
